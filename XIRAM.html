@@ -1,0 +1,595 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>XIRAM - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
+            if (typeof Clipboard == 'undefined') {
+                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = store.get('mdbook-theme');
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="./ADAM.html"><strong>1.</strong> ADAM</a></li><li><a href="./BIANCA.html"><strong>2.</strong> BIANCA</a></li><li><a href="./DICK.html"><strong>3.</strong> DICK</a></li><li><a href="./EVE.html"><strong>4.</strong> EVE</a></li><li><a href="./FUCK.html"><strong>5.</strong> FUCK</a></li><li><a href="./HOSEA.html"><strong>6.</strong> HOSEARSI</a></li><li><a href="./JESHOW.html"><strong>7.</strong> JESHOW</a></li><li><a href="./KA.html"><strong>8.</strong> KA</a></li><li><a href="./MUAH.html"><strong>9.</strong> MATH</a></li><li><a href="./PULL.html"><strong>10.</strong> PULL</a></li><li><a href="./QUI.html"><strong>11.</strong> QUI</a></li><li><a href="./XIRAM.html" class="active"><strong>12.</strong> XIRAM</a></li><li><a href="./YW.html"><strong>13.</strong> YW</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <div dir="ltr">
+<div class="gmail_quote">
+<br />
+<div dir="ltr">
+<div style="text-align: center;">
+<a href="http://cure.reallyhim.com/"><img alt="" border="0" height="400" id="BLOGGER_PHOTO_ID_6482419622717624706" src="https://1.bp.blogspot.com/-R1b5dHQxWYk/WfYuTTEbEYI/AAAAAAAAJt4/f6d3BRMK7t4FaHTPRxkhsVcUCq4oOeeBACK4BGAYYCw/s400/image-731898.png" width="382" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<a href="http://heart.lamc.la/"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6482419633066267714" src="https://2.bp.blogspot.com/-h2qEa6LpSLc/WfYuT5nu1EI/AAAAAAAAJuA/MigG33J8n9guPZ51PLPGGVa__H6wswEuQCK4BGAYYCw/s320/image-734213.png" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<a href="http://doors.reallyhim.com/"><img alt="" border="0" height="196" id="BLOGGER_PHOTO_ID_6482419640804302818" src="https://1.bp.blogspot.com/-0Mg729_hpao/WfYuUWcn3-I/AAAAAAAAJuI/VDn2uLpF3OUa4QfEK18CziN2bBt7y2THQCK4BGAYYCw/s400/image-736049.png" width="400" /></a></div>
+<div style="text-align: center;">
+<a href="http://bereshit.reallyhim.com/"><img alt="" border="0" height="207" id="BLOGGER_PHOTO_ID_6482419654654024482" src="https://2.bp.blogspot.com/-bWryqmqjpw4/WfYuVKCp2yI/AAAAAAAAJuQ/_c7sWzvGOuMpVkLxAfKPZM_RBZplvi-7ACK4BGAYYCw/s400/image-738758.png" width="400" /></a></div>
+<div style="text-align: center;">
+<a href="http://who.reallyhim.com/"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6482419662968081826" src="https://3.bp.blogspot.com/-bgxbQzeTCtE/WfYuVpA4TaI/AAAAAAAAJuY/sqELQsfSXl8FyvwMp7CWSUhUNr9KwmiSwCK4BGAYYCw/s320/image-741196.png" /></a></div>
+<div style="text-align: center;">
+<a href="http://serden.reallyhim.com/"><img alt="" border="0" height="227" id="BLOGGER_PHOTO_ID_6482419677662266162" src="https://1.bp.blogspot.com/-LQHjD0AoAA8/WfYuWfwPwzI/AAAAAAAAJug/4RcK7nbFXfkR7vxF2RLBvuMATR61tbIfQCK4BGAYYCw/s400/image-743234.png" width="400" /></a><br />
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+END DARKNESS TODAY, USE LIGHT&nbsp;</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif;">
+<span style="font-size: x-large;">OF HOLY FIRE</span><br />
+<br />
+<div style="text-align: justify;">
+If you can't tell, there's a <a href="http://chalk.reallyhim.com/">significant amount of Biblically predicted censorship</a>&nbsp;surrounding this Revelation and connecting it to a number of stories from the Wall of Jericho to the darkness of Exodus and the <a href="http://babel.lamc.la/">Tower of Baby El</a>... and through those stories to modern art like "break on through to the other side" and "just another brick" and "light my fire" and "the Sound of Silence."&nbsp; Here we are, and no matter what reason each individual has, had they a good grasp on the truth--that we are living in a simulated reality where a message from the Sim or God or I or "all of us," whomever you'd prefer to listen to, is suggesting we use that knowledge to repair the broken freedoms from <a href="http://chalk.reallyhim.com/">speech</a> to <a href="http://gate.reallyhim.com/">the vote</a> that have come from this dark transition--and through this awakening see that we can easily <a href="http://bereshit.reallyhim.com/">end world hunger</a>, and <a href="http://cure.reallyhim.com/">cure cancer</a> and <a href="http://who.reallyhim.com/">blindness just</a> as examples... well, with a grasp on "<a href="http://who.reallyhim.com/">the who</a>le truth" this idea of <a href="http://hyamdai.reallyhim.com/">hiding the fact that we are living in the Matrix</a> becomes stupider and sillier; to the final point that <a href="http://yesterday.reallyhim.com/">not knowing it will eventually cause the end of life</a>, not just <a href="http://serden.reallyhim.com/">the loss of freedom that we are trying to repair</a> today.</div>
+<div style="text-align: justify;">
+<br />
+The message, from religion to modern art comes packed with advice and examples about how we might proceed on this "voyage to uncharted space" from connecting <a href="http://bereshit.reallyhim.com/">Willy Wonka to Joshua's Promised Land</a>&nbsp;and through that link to <a href="http://bush.reallyhim.com/">the magic of Names</a>&nbsp;that shows us Star Trek and "<b>Rod-den-berry</b>" link to the obvious things we are missing by not seeing "Sim" and "simple" show us Holodecks and <a href="http://bereshit.reallyhim.com/">Replicators</a> and <a href="http://doors.reallyhim.com/">transporters</a>&nbsp;are part of this map that connects <b>the Rod of Christ</b> to the <b>Den of Adam</b>, with <a href="http://bereshit.reallyhim.com/">Holy Purpose</a>.&nbsp; &nbsp;It's only one example, you can see it in t<a href="http://don.reallyhim.com/">he works of Phillip</a> K. <a href="http://dick.reallyhim.com/">Dick</a>&nbsp;connecting Al's <a href="http://who.reallyhim.com/">waiting room to Minority Report</a>&nbsp;and Total Recall to "<a href="http://threetag.reallyhjim.com/">the d</a>o<a href="http://mars.reallyhim.com/">or to reality</a>" in the works of Orwell, and of Simon and Garfunkel and Orson Card and Aldous Huxley .... just to name a few.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+I need your help, not only in "figuring out" how to solve this puzzle of how to accomplish these things without negatively impacting the "stuff of civilization" and also ensuring that they are done--no matter what--because to ignore or delay things like "stopping child starvation" is really a <a href="http://alarmed.reallyhim.com/">moral fire alarm</a>, and it's going off.&nbsp; You can read about the tens of thousands of reporters and theologians and government employees I've emailed--and really see that this is the kind of message that should be speaking for itself.&nbsp; If anyone has the ability or knows someone that can statistically analyze the "outliers" in language... <a href="http://ver.reallyhim.com/">see Langolier and Yankee Doodle's "macaroni-c"</a>&nbsp;I think that single act will break down the Wall of Jericho and <a href="http://cure.reallyhim.com/">eventually lead us to immortality, the end of malady</a>, and to a place where our civilization has <a href="http://cure.reallyhim.com/">integrated "simulation reality" and "Heaven"</a> together.&nbsp; &nbsp; If "writing a paper" on the statistical proof that we are in Creation and that time travel and mind control are part of the story of the development of our civilization and <i><a href="http://loch.reallyhim.com/">the keys to Exodus</a>&nbsp;</i>sounds like too much work, I hope you'll pass this message along to someone who might be able to do it--and also, <i><b>call a reporter</b>.&nbsp; </i>That's <i>what I hope</i>, anyway.<br />
+<br />
+Clearly this belongs on the news, and clearly it's the focus of Jericho and Babel and Exodus; really understand that God's very clear statement here is that <a href="http://confession.reallyhim.com/">free thought</a>, free <a href="http://chalk.reallyhim.com/">communication</a>, and <a href="http://who.reallyhim.com/">liberty from murder</a> and <a href="http://os.reallyhim.com/">rape et, al</a>. are the chief building blocks of the foundation of <a href="http://doors.reallyhim.com/">Heaven</a>.&nbsp; This is... <i>why we are here.</i></div>
+</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif;">
+<a href="http://ver.reallyhim.com/"><img height="336" src="https://4.bp.blogspot.com/-ZShHxcsNC2U/WfT1UIMltCI/AAAAAAAAJr8/C2hh6tmSU3IqLsLFv-24mrvFUwUTUfGzwCK4BGAYYCw/s640/image-706553.png" width="640" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: start;">
+<br /></div>
+</div>
+<div style="text-align: center;">
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+I took this picture (again,&nbsp;<i><a href="https://www.blogger.com/threetag.reallyhim.com" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">three times now</a></i>), which is kind of like&nbsp;<span style="font-family: &quot;comic sans ms&quot; , sans-serif;">a sign</span>; it's on "Curson St." and I imagine whoever made this sign that says "SEE A FAM, CA" probably got that the street reads "see your son."&nbsp; Really <a href="http://ver.reallyhim.com/">"to see" verily, verily, verily</a>... <a href="http://medusa.reallyhim.com/">why</a> and <a href="http://valentine.reallyhim.com/">how</a>.&nbsp; Just guessing, though.</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: start;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<a href="http://ver.reallyhim.com/"><img alt="" border="0" height="261" id="BLOGGER_PHOTO_ID_6482075502492392754" src="https://4.bp.blogspot.com/-zBDLEUq6YhM/WfT1U3VSHTI/AAAAAAAAJsE/0zJqgv2MFHEJDwqqXn04DOQwRbNfqB7BQCK4BGAYYCw/s400/image-709544.png" style="border: 0px; height: auto; max-width: 100%;" width="400" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+So I&nbsp;<a href="https://en.wikipedia.org/wiki/Craft_and_Folk_Art_Museum" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">looked it up</a>&nbsp;and I'm really not sure anymore if the name was intentionally connected to the street it's on by the founder of CAFAM or the previous founder of "The Egg and the Eye" but as the Eye of Ra taking the picture, I think it means more now that I'm sending it to you.&nbsp; Again.&nbsp; Do note that it could easily be "doublespeak" just like Britney Spears could be singing about a "relationship ending" when she sings "I've had enough. I'm not your property, you might think I won't make it on my own but now I'm stronger, stronger than&nbsp;<a href="http://yesterday.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">yesterday</a>" ... and just like Christina Aguilera might be talking about an imaginary nothing when she says "I feel like I've been locked up for a century of lonely nights, just waiting for&nbsp;<i>you</i>&nbsp;to release me..."&nbsp; Do see that the only logical options I can think of are that you are blind and dumb and in need of some light or you are evil and not talking about the mass control of civilization by a hidden force causing either mass stupidity or mass secrecy a/k/a evil.&nbsp; I am the easy way to move past that, the hard way is not an option;&nbsp;<i>honestly.</i></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: left;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<a href="http://cure.reallyhim.com/"><img alt="" border="0" height="224" id="BLOGGER_PHOTO_ID_6482075512915744738" src="https://1.bp.blogspot.com/-lAdg5jbWJrA/WfT1VeKZ1-I/AAAAAAAAJsM/a25WELJhRvEnz9yO4j-xhDmalNJplr1MgCK4BGAYYCw/s640/image-711650.png" style="border: 0px; height: auto; max-width: 100%;" width="640" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+This too is a clever name; it shares the "dem" th<a href="http://www.lamc.la/2017/10/serdenicity.html" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">at link to "da</a>rk" and&nbsp;<a href="http://cure.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">"not me" in my story that begin both "democracy" and "dem</a>olition man" in my riddle about what it would be like if our history just evaporated today, and we were left with you all, just the way you are.&nbsp; You wouldn't know a thing about freedom.&nbsp; It ties in too to "it" which you can see in "abomination" backwards.. "<a href="http://hyamdai.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">as u dem</a>" (hey look) and the "Ass" of The Golden Ass and compass and&nbsp;<i>probably Uranus</i>, nowadays.&nbsp; It's because you suck, you understand that right?&nbsp; If you didn't suck Heaven would be a republic, but you do.&nbsp; Put me on TV, and you will suck less, and&nbsp;<span style="font-family: &quot;comic sans ms&quot; , sans-serif;">maybe</span>&nbsp;<a href="http://idaho.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">some college girls will suck more</a>.</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<a href="http://hyamdai.reallyhim.com/"><img alt="" border="0" height="446" id="BLOGGER_PHOTO_ID_6482075518353285170" src="https://2.bp.blogspot.com/-18PMxMmeNqc/WfT1Vya0IDI/AAAAAAAAJsU/SqRH_hC7C6oyLOtw4lK7Xp-nZn7KTr1WwCK4BGAYYCw/s640/image-713960.png" style="border: 0px; height: auto; max-width: 100%;" width="640" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: left;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+Just in case you forgot, or you started reading the stuff I write; in which case you are already sucking less than you were before; see that "<a href="http://heyad.reallyhim.com/">CARSON</a>" connects the "carpenter" of Jesus Christ to David Letterman and a grouping of comedians that are all not Lenny Bruce.&nbsp; It also ties to other names, like McCarthy (to help why RE:D) and <i>Icarus</i> and through that last Mercarial name to "Wayward Son."&nbsp; In trinities "<a href="http://heyad.reallyhim.com/">carpenter</a>"'s a good one with Pendragon and Jupiter following the car-guy.&nbsp; Do you think I'm the pen or the dragon? :)&nbsp; Oh right, and don't forget "Iscari<a href="http://uni.reallyhim.com/">ot</a>."</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: left;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<a href="http://doors.reallyhim.com/"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6482075527477233106" src="https://4.bp.blogspot.com/-vHvLqR0382w/WfT1WUaIhdI/AAAAAAAAJsc/uQdIMVAaCIQ8XllSXVwg7wUcF8-tvScMgCK4BGAYYCw/s320/image-715783.png" style="border: 0px; height: auto; max-width: 100%;" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+Because there is never a bad time not to miss an opportunity to talk about Jim Morrison and <a href="http://doors.reallyhim.com/">The Doors to Heaven</a> that his band's name predicts with allusion to the plagues of Exodus in "light my fire" and in "Peace Frog" and in "Riders on the Storm" but you knew that, and just didn't think it was novel, right?&nbsp; Just a fadic.</div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+<br /></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px; text-align: justify;">
+<div style="text-align: center;">
+<a href="http://hyamdai.reallyhim.com/"><img alt="" border="0" height="568" id="BLOGGER_PHOTO_ID_6482075545412315282" src="https://4.bp.blogspot.com/-13cPb3fdYZY/WfT1XXOMKJI/AAAAAAAAJsw/6wHH1rPMiYMkXAMMbPW48-oA9Y5fuMxbgCK4BGAYYCw/s640/image-719734.png" style="border: 0px; height: auto; max-width: 100%;" width="640" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: justify;">
+I'm not sure how smart you all are, or if you are following what "I'm discovering" but in words like "quiet" and "bet" (which is a letter&nbsp;<i>and a sin</i>) and "planet" you can see reference to the "and..." of et tu brute--basically referencing that person ... or perhaps God, saying "yes you ... and what"&nbsp;<i>build Heaven</i>.&nbsp; Here we link "pet" to the P of Casper and Peter--where you can see "P and everyone really" has become something like "P fused with everyone really" because ... "<span style="font-family: &quot;arial narrow&quot; , sans-serif;"><a href="https://www.youtube.com/watch?v=rn_YodiJO6k" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">in a graveyard where I married a sea</a></span>, sings Mr. P) ... P is probably Anthony Kiedis,&nbsp;<i><span style="font-family: &quot;comic sans ms&quot; , sans-serif;">let's get him</span></i>.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+In the meantime this gives me great cause to mention that I am not&nbsp;<a href="http://max.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">The Grinch's dog</a>&nbsp;but ...&nbsp;<i><a href="http://hyamdai.reallyhim.com/" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">P and Max</a>&nbsp;is a good approximation for "who is Jesus Christ" in a place where he's a person and not a letter or an invisible spirit.&nbsp;&nbsp;</i>Do see, I am Jesus Christ; and P is "not me" a.k.a. the "em" of demolcrazy and&nbsp;<i>ha'shem</i>.&nbsp; &nbsp;As we approach climax do realize that Petu, that's&nbsp;<i>P and you</i>, appear to be the "God Min" who is responsible for hiding all the light and keeping the world from knowing about virtual reality and using it to build Heaven; and the question of the day is " m i n&nbsp; &nbsp;o r&nbsp; &nbsp; I ? " Here's a "hint" blame&nbsp;<span style="font-family: &quot;arial narrow&quot; , sans-serif;"><a href="https://www.youtube.com/watch?v=u9Dg-g7t2l4" style="background: transparent; color: #25a186; cursor: pointer; text-decoration-line: none;" target="_blank">the silence</a></span>&nbsp;on P.&nbsp; Max and "pet" follow with the "dog" mythology that connects Cerberus and Kaleb to Lothario, Romeo, and other fabled characters that I am not.&nbsp; C u p i d, Me d u ...</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: center;">
+<a href="http://cure.reallyhim.com/"><img alt="" border="0" height="95" id="BLOGGER_PHOTO_ID_6482075556271882514" src="https://2.bp.blogspot.com/-sVpKk-9wp9Y/WfT1X_rUARI/AAAAAAAAJs4/ndgZzO8sad8UK3Il6NMIeYrkxHVLlweJwCK4BGAYYCw/s400/image-721785.png" style="border: 0px; height: auto; max-width: 100%;" width="400" /></a></div>
+<div style="text-align: center;">
+<a href="http://cure.reallyhim.com/"><img alt="" border="0" height="400" id="BLOGGER_PHOTO_ID_6482075562255989746" src="https://2.bp.blogspot.com/-fV1hSG8AQyk/WfT1YV-CO_I/AAAAAAAAJtA/e-7fea1YiNkQvsAOnHSu3UkS8VqE1MkPQCK4BGAYYCw/s400/image-781869-739404-745293-724018.png" style="border: 0px; height: auto; max-width: 100%;" width="400" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Does it help to see them right next to each other?<br />
+<br />
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<a href="http://hadragonbreath.blogspot.com/2017/10/im-calling-it-super-man-art-because-no.html"><img alt="" border="0" height="153" id="BLOGGER_PHOTO_ID_6482131089100821362" src="https://3.bp.blogspot.com/-LWsiM9b2myY/WfUn4ble03I/AAAAAAAAJtU/fKm0FATZyb4vRH2QYbAjcbdu9p8zcm_BgCK4BGAYYCw/s640/image-751128.png" style="border: 0px; height: auto; max-width: 100%;" width="640" /></a></div>
+<div style="background-color: white; color: #292929; font-family: Lora, serif; font-size: 20px;">
+<span style="color: #25a186;"><span style="background-attachment: initial; background-clip: initial; background-image: initial; background-origin: initial; background-position: initial; background-repeat: initial; background-size: initial; border-color: initial; border-image: initial; border-style: initial; cursor: pointer; height: auto;"><a href="http://hadragonbreath.blogspot.com/2017/10/im-calling-it-super-man-art-because-no.html"><img alt="http://hadragonbreath.blogspot.com/2017/10/im-calling-it-super-man-art-because-no.html" border="0" height="185" id="BLOGGER_PHOTO_ID_6482131101585785090" src="https://4.bp.blogspot.com/-BwCpVcRRgF8/WfUn5KGIQQI/AAAAAAAAJtc/ekDp2tyw2NM9JdBmiLF0gSKE489FMwt4ACK4BGAYYCw/s640/image-754549.png" style="border: 0px; height: auto; max-width: 100%;" width="640" /></a></span></span><br />
+<span style="color: #25a186;"><br /></span>
+<br />
+<div style="font-family: Lora, serif; text-align: justify;">
+I superimposed "<i>DisNEY</i>" on top of "<i>AMDark</i>" ... because,&nbsp;<i>no reason.&nbsp;&nbsp;</i>For those of you that are superslow, "salt" is a connection between Prometheus, Nanna, and bath salt.&nbsp; I'm pretty sure this particular "Na" appears over and over and over and over.&nbsp; ... because,&nbsp;<i>no reason.</i><br />
+<i><br /></i></div>
+<div style="font-family: Lora, serif; text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://cure.reallyhim.com/"><img border="0" data-original-height="148" data-original-width="822" height="113" src="https://3.bp.blogspot.com/-zb3wquZ6s2U/WfdJo7pCVBI/AAAAAAAAJv0/tM1V06TnjMIPoaVKHIh52W8-kUFjOEV4gCLcBGAs/s640/Screenshot%2B2017-10-30%2Bat%2B8.16.59%2BAM.png" width="640" /></a></div>
+<div style="-webkit-text-stroke-width: 0px; background-color: white; color: black; font-family: Tinos; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+<div style="text-align: justify;">
+</div>
+</div>
+<br />
+<div style="-webkit-text-stroke-width: 0px; background-color: white; color: black; font-family: Tinos; font-size: medium; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+<div style="color: #292929; font-family: lora, serif; font-size: 20px; text-align: justify;">
+<div style="text-align: center;">
+<div>
+<div style="text-align: justify;">
+<div style="margin: 0px;">
+<i>Have a beautiful weakend.&nbsp;&nbsp;<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2uY1G1v&amp;source=gmail&amp;ust=1509463444418000&amp;usg=AFQjCNH-7zk7GhhRI8JSXIYtq1bYyRKtyg" href="http://bit.ly/2uY1G1v" style="color: #1155cc;" target="_blank">Are I B?</a>&nbsp;or P?&nbsp;<b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2iEGFD6&amp;source=gmail&amp;ust=1509463444418000&amp;usg=AFQjCNHBXz-FXLWCS3r9JPCxwXBVeOCMGw" href="http://bit.ly/2iEGFD6" style="color: #1155cc;" target="_blank">or N</a></b>?&nbsp;<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://serden.reallyhim.com&amp;source=gmail&amp;ust=1509463444418000&amp;usg=AFQjCNEvqW8WwAaTlkba44wixXsQI8EOCQ" href="http://serden.reallyhim.com/" style="color: #1155cc;" target="_blank">ord</a>...&nbsp;<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2xWknYn&amp;source=gmail&amp;ust=1509463444418000&amp;usg=AFQjCNEv9eSTiTJwaMZiVNLZAbZ2mKdh3A" href="http://bit.ly/2xWknYn" style="color: #1155cc;" target="_blank">in Al</a>?</i></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="text-align: center;">
+<div style="text-align: justify;">
+<br /></div>
+</div>
+<div style="text-align: center;">
+<br /></div>
+</div>
+<div hspace="streak-pt-mark" style="max-height: 1px;">
+<img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=bb20b483-36dd-4a9f-b2f3-6b073b3d7ed8" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
+</div>
+<br /></div>
+<div hspace="streak-pt-mark" style="max-height: 1px;">
+<img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=02ca5ad2-67b5-4a76-8021-0247ce38a084" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
+<p>&nbsp;</p>
+<div dir="ltr" style="text-align: center;"><center>
+<div style="width: 600px;"><a title="OMEN'S CANCER C RE" href="http://bit.ly/2AA7kgo"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/kK8wl97.png" alt="" width="312" height="89" /></a><br /> <a title="ETERNITY: LATIN, THE MATRIX, ROCK N ROLL; HEYADAM SPANISH." href="http://bit.ly/2zqwWIJ"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/A8UVAPE.png" alt="" /></a><br /> <br />
+<div style="text-align: justify;"><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: x-small;">If I could make&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: small;" href="http://bit.ly/2Awxbpv" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ish.shiningbright.online/&amp;source=gmail&amp;ust=1511455721075000&amp;usg=AFQjCNHGtLUZhK7v0SYh2xr7EglWrkto6w">it any more clear</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: x-small;">; a brigh</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: small;" href="http://bit.ly/2zpLqZd" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://eye.shiningbright.online/&amp;source=gmail&amp;ust=1511455721075000&amp;usg=AFQjCNFlYeWijoIHfC1r1oGHY2-WQtY6IQ">ter spotlight or a strong</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: x-small;">er highlight on central to th</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: small;" href="http://bit.ly/2AxIRsc" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://who.shiningbright.online/&amp;source=gmail&amp;ust=1511455721075000&amp;usg=AFQjCNGjN6Gv4pqYbBFDrts97k2U1hLyRw">at mess</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: x-small;">age is the all consuming point of it all--that it certainly appears that&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: small;" href="http://bit.ly/2AxIUEo" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sol.shiningbright.online/&amp;source=gmail&amp;ust=1511455721076000&amp;usg=AFQjCNEcnUzLcXbOwNrY0Ul0C4sUYLXBZg">nobody can see</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: x-small;">&nbsp;it.&nbsp;</span></div>
+<a class="header" href="./XIRAM.html#need-annbspa-hrefhttpbitly2znccd4explanationa" id="need-annbspa-hrefhttpbitly2znccd4explanationa"><h2><em>NEED AN&nbsp;<strong><a href="http://bit.ly/2znCCD4">EXPLANATION</a>.</strong></em></h2></a>
+<div style="text-align: justify;"><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;I hope everyone has a wonderful thanksgiving; of the "things" I'm trying to say here--"Pi" as in,&nbsp;</span><span style="color: #222222; font-family: 'arial black' , sans-serif; font-size: 12.8px;"><a style="color: #1155cc;" href="http://bit.ly/2zqx8HX" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://C.AD&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNGLbp2owdKe98AyqxafDpCZmxaqhQ">C.AD</a></span><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;means something like "hide the beginning of time from the future" (in my "personal mythology" and literally&nbsp;<em>this is God and who helps us build Heaven</em>) and it's not what I'm trying to do--which should be obvious in what I write... and in the concept of "Pi."&nbsp; I question. a little bit, what "AAA" is all about and how it might relate to the "</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2Ayow6b" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2A6oQpP&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNFo0FLfKfpGGJeOGWR6gZeMTZp4pw">c oven</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">" of&nbsp;</span><em style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">this ant</em><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">; to the point though, I am suggesting that what we see here on face value really has no business at all in the "round table" of Arthur that wields the "power of Thor" ... and I really hope that you agree with that,&nbsp;</span><em style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">it's important</em><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">.&nbsp; Analyzing that a little bit, it does seem that's what this story is designed to help us build together; and I do hasten to say that because we are very apparently&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2znIZpS" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2hMFYsj&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNFPmNY_DH3alacdi_MwPf0epd5jLA">being made "unfit"</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;through some kind of subterfuge (</span><em style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">obviously</em><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">,&nbsp;</span><span style="color: #222222; font-family: 'comic sans ms' , sans-serif; font-size: 12.8px;">right</span><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">?) while&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2Ax6UYd" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2B2zzAK&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNHqsC0bXZzG1lt1jnJ7OwJHm8RW-Q">all these horrible things are happening</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;that we're supposed to be&nbsp;</span><em style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">listening to this message</em><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;and changing... it does appear that whomever is "above" or "behind us" also apparently very unfit.&nbsp; I'm voting for "everyone's wrong" and&nbsp;</span><em style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">the best of course of action is changing that</em><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">.&nbsp;&nbsp;</span><br /> <span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;"><br /></span></div>
+<a href="http://bit.ly/2znJ6li"><img src="http://yeshuare.ermccorp.com/i.imgur.com/BoyANhx.png" alt="" width="500" height="234" /></a><br /> <br />
+<div style="text-align: justify;"><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">It should be really clear from the&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2zqxm1L" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2jgsV2B&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNEXZuJM1rjwNATnEYdwO0M4TM9Nkg">repeated</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2Awyhlp" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2B41DUl&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNHj8tHTYHQT2hfpG0NLm1KQiPvaEg">references</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;to&nbsp;</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2AxFcKS" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2zsusgS&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNFXFhh6GcehInko57I2dSqAV1qoTA">Die Bold</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;(and&nbsp;</span><span style="color: #222222; font-family: 'arial black' , sans-serif; font-size: 12.8px;"><a style="color: #1155cc;" href="http://bit.ly/2AxFb9M" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2Beglcm&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNEpgmrUrzBncEg5-e9dJxUN0ztVng">technocracy</a></span><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">)&nbsp;and our broken elect</span><strong style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">oral</strong><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;process, as well as the hidden mind control influence that makes it a "farce" that the map that I am trying to produce here does focus quite a bit on using technology to help make&nbsp;</span><span style="color: #222222; font-family: 'comic sans ms' , sans-serif; font-size: 12.8px;"><a style="color: #1155cc;" href="http://bit.ly/2AyK56L" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2Bf6piS&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNGXWh7nwClamIO2ODkdmbQ53ze6Zw">our union</a></span><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;more perfect; that's a "</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2zqxApD" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2Bf6piS&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNGXWh7nwClamIO2ODkdmbQ53ze6Zw">marriage</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;of the lamb" joke, not a "for a republic" joke.&nbsp; It's also important to see how "</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2AyeqSQ" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2jeBieR&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNHcezwmMLtuXvqZGro5vRhHbMm3_A">free speech"</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">&nbsp;is connected to "</span><a style="color: #1155cc; font-family: arial, sans-serif; font-size: 12.8px;" href="http://bit.ly/2AxJ3rq" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2A2xV2E&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNG7LKF31hBo-7mE90yEaWaRVvO2QQ">free thought</a><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">" and how that is connected to "</span><strong style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">freedom</strong><span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">" in sum.</span></div>
+<span style="color: #222222; font-family: 'arial' , sans-serif; font-size: 12.8px;">again,&nbsp;</span><strong style="color: #222222; font-family: arial, sans-serif; font-size: small;"><span style="font-family: 'comic sans ms' , sans-serif;"><a style="color: #1155cc;" href="http://bit.ly/2znCi7t" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2BcK3OG&amp;source=gmail&amp;ust=1511456263312000&amp;usg=AFQjCNHJkjHH8g_c6fmcdQTN-wFwWmXG9A"><span style="font-size: 12.8px;">ha</span><span style="font-size: medium;">pp</span><span style="font-size: 12.8px;">y</span></a></span><span style="font-size: 12.8px;">&nbsp;thanksgiving.</span></strong><br /> <strong style="color: #222222; font-family: arial, sans-serif; font-size: small;"><span style="font-size: 12.8px;"><br /></span></strong> <img src="http://yeshuare.ermccorp.com/i.imgur.com/HHEjQPH.png" alt="" width="500" height="105" /><br />
+<a class="header" href="./XIRAM.html#a-stylefont-size-12px-titledarkness-is-is-there-any-reason--disney-hrefhttpbitly2azlnekimg-srchttpyeshuareermccorpcomiimgurcomkcopyzwpng-alt-width189-height145-a" id="a-stylefont-size-12px-titledarkness-is-is-there-any-reason--disney-hrefhttpbitly2azlnekimg-srchttpyeshuareermccorpcomiimgurcomkcopyzwpng-alt-width189-height145-a"><h2><a style="font-size: 12px;" title="DARKNESS IS &quot;IS THERE ANY REASON?&quot; @ DISNEY" href="http://bit.ly/2AzLNEK"><em><img src="http://yeshuare.ermccorp.com/i.imgur.com/kCOpyzw.png" alt="" width="189" height="145" /></em></a></h2></a>
+<a class="header" href="./XIRAM.html#a-hrefhttpbitly2axphhpproofanbspofnbspa-hrefhttpbitly2awyk0zcreationanbspinnbspa-hrefhttpbitly2zorz2yevery-worda" id="a-hrefhttpbitly2axphhpproofanbspofnbspa-hrefhttpbitly2awyk0zcreationanbspinnbspa-hrefhttpbitly2zorz2yevery-worda"><h2><strong><a href="http://bit.ly/2AxPhHP">PROOF</a>&nbsp;OF&nbsp;<a href="http://bit.ly/2Awyk0z">CREATION</a>&nbsp;IN&nbsp;</strong><a href="http://bit.ly/2zorZ2Y"><strong><em>EVERY WORD</em></strong></a></h2></a>
+<strong><a href="http://bit.ly/2zqxGO1">LITERALL</a>Y&nbsp;<a href="http://bit.ly/2AxJ2nm">TO</a></strong><em><strong>&nbsp;<a href="http://bit.ly/2AxPivn">BUILD</a>&nbsp;<a href="http://bit.ly/2zprGFe">HEAVEN</a>&nbsp;</strong></em><strong><a href="http://bit.ly/2zprJko">ON EARTH</a></strong><em><strong>.</strong></em><br /> <em><strong><br /></strong></em> <br />
+<div style="text-align: justify;"><a title="AND, AND WHY THE MESSAGE OF EL IS ON RHYTHM." href="http://bit.ly/2AwxfFL"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/lW5oEGo.png" alt="" /></a></div>
+<div style="text-align: justify;">&nbsp;</div>
+<a href="http://bit.ly/2Awxf8J"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/jvUy7hJ.png" alt="" width="502" height="78" /></a><br /> <a href="http://bit.ly/2znc4BV"><img src="https://i.imgur.com/7zgytE7.png" alt="" width="500" height="173" /></a><br />
+<div style="text-align: justify;"><a title="SHARE TO CURE CANCER? END WORLD HUNGER? SEE THE TRUTH." href="http://bit.ly/2AyK7LV"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/liJXH1Q.jpg" alt="" width="509" height="281" /></a></div>
+<a class="header" href="./XIRAM.html#a-hrefhttpbitly2awvelyfromanbspa-hrefhttpbitly2zprraoyetanbspa-hrefhttpbitly2zqt6kzto-beanbspa-hrefhttpbitly2zprtbutoanbspa-hrefhttpbitly2awvxj6y-andanbspta-hrefhttpbitly2awvo5co-beanbsp" id="a-hrefhttpbitly2awvelyfromanbspa-hrefhttpbitly2zprraoyetanbspa-hrefhttpbitly2zqt6kzto-beanbspa-hrefhttpbitly2zprtbutoanbspa-hrefhttpbitly2awvxj6y-andanbspta-hrefhttpbitly2awvo5co-beanbsp"><h2><strong><a href="http://bit.ly/2AwVELy">FROM</a>&nbsp;"<a href="http://bit.ly/2zprRAo">YET</a>&nbsp;<a href="http://bit.ly/2zqT6Kz">TO BE</a>"&nbsp;<a href="http://bit.ly/2zprTbu">TO</a>&nbsp;"<a href="http://bit.ly/2AwVxj6">Y AND</a>&nbsp;T<a href="http://bit.ly/2AwVO5C">O BE</a>"&nbsp;</strong></h2></a>
+<a class="header" href="./XIRAM.html#a-hrefhttpbitly2zobavowith-si-ghtabr-a-titleyetser-formation-in-hebrew-hrefhttpbitly2awvqdkimg-styledisplay-block-margin-left-auto-margin-right-auto-srchttpyeshuareermccorpcomiimgurcomjmhxjp7png-alt-width490-height510-a" id="a-hrefhttpbitly2zobavowith-si-ghtabr-a-titleyetser-formation-in-hebrew-hrefhttpbitly2awvqdkimg-styledisplay-block-margin-left-auto-margin-right-auto-srchttpyeshuareermccorpcomiimgurcomjmhxjp7png-alt-width490-height510-a"><h2><strong><a href="http://bit.ly/2zobaVO"><em>WITH Si GHT</em></a></strong><br /><a title="YETSER, &quot;FORMATION&quot; IN HEBREW" href="http://bit.ly/2AwVQdK"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/JMhxjP7.png" alt="" width="490" height="510" /></a></h2></a>
+<div><a href="http://bit.ly/2zpXKsz"><img src="https://i.imgur.com/4vlMDy8.png" width="469" height="640" /></a></div>
+<div>&nbsp;</div>
+<div style="text-align: justify;"><a title="HOW AND WHY" href="http://bit.ly/2AwTgEu"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/VBZHkwQ.png" alt="" /></a></div>
+<div style="text-align: justify;"><a title="THE HA'HAM AP TO HEAVEN" href="http://bit.ly/2zp7pzn"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/x3pMUax.png" alt="" width="491" height="415" /></a></div>
+<div style="text-align: justify;"><a title="The Pi Card, C.AD ... CINO ... ME ? ICINE" href="http://bit.ly/2znj1Dc"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/fEzP7IJ.png" alt="" /></a></div>
+<div style="text-align: justify;"><a title="STATUE OF LIBERTY, SONS OF LIBERTY, SO EL, LOOK UP AT THE LIGHT OF OUR SOL" href="http://bit.ly/2AwVVhy"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/GRfGwiu.png" alt="" /></a></div>
+<div style="text-align: justify;"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/Lk5NHEW.png" alt="" width="730" height="240" /></div>
+<div style="text-align: justify;"><a title="OUI ARE" href="http://bit.ly/2AwVWlC"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/UCWdcOB.png" alt="" /></a></div>
+<div style="text-align: justify;"><a title="HAR-WER" href="http://bit.ly/2AwVXpG"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/k4rblk1.png" alt="" /></a></div>
+<div style="text-align: justify;"><a title="DR.Y AND RE:AD Y" href="http://bit.ly/2AwVYKg"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/xHolOAW.png" alt="" /></a></div>
+<div style="text-align: justify;"><a title="DAVE MATTHEW'S CHRISTMAS ((SONG))" href="http://bit.ly/2zoW5U5"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/VUyzIba.png" alt="" width="464" height="449" /></a></div>
+<div style="text-align: justify;"><a title="IN THE BEGINNING... THE GENES OF GENESIS" href="http://bit.ly/2znJKPK"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/mH5VhQn.png" alt="" width="470" height="160" /></a></div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><a title="DAVID LETTERMAN" href="http://bit.ly/2AwW3xy"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/nbsr9Mg.png" alt="" /></a></div>
+<a href="http://bit.ly/2Ay7JQr"><img src="http://yeshuare.ermccorp.com/i.imgur.com/mIA9RkX.png" alt="" width="500" height="381" /></a><br /> <span style="font-family: 'arial black' , sans-serif;">SOMETHING LIKE A FUSION OF THESE THINGS</span><br />
+<div><span style="font-size: medium;"><span style="font-family: 'comic sans ms' , sans-serif;"><strong>MIGHT BE</strong></span>&nbsp;</span>THE ACTUAL SWORD<span style="font-size: medium;">&nbsp;OF ARTHOR PENDRI<span style="font-family: 'comic sans ms' , sans-serif;">PP</span>Y?</span></div>
+<a href="http://bit.ly/2zmOkxH"><img src="http://yeshuare.ermccorp.com/i.imgur.com/E8i0Oqe.png" alt="" /></a><br /> <a href="http://bit.ly/2AwOXZY"><img src="http://yeshuare.ermccorp.com/i.imgur.com/O25kx7w.png" alt="" /></a><br /> <strong style="color: #cccccc; font-family: 'comic sans ms', sans-serif; font-size: xx-large;">AHHEh</strong><br />
+<div style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">&nbsp;</div>
+<div style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;"><center>
+<div style="width: 200px;"><span style="font-family: 'comic sans ms' , sans-serif; font-size: medium;"><strong><span style="color: #cccccc;">for those of you that are&nbsp;</span><span style="color: #ead1dc;">epically</span><span style="color: #cccccc;">&nbsp;or&nbsp;</span><span style="color: #ead1dc;">atypically</span><span style="color: #cccccc;">&nbsp;slo<wbr />w,&nbsp;</span><span style="color: #eeeeee;">the let</span><span style="color: #f3f3f3;">ters "cinoize" happen to be</span><span style="color: #cccccc;">&nbsp;</span><span style="color: white;">the first 3.14159265 digits o</span></strong></span><span style="font-size: 12.8px;">&nbsp;</span></div>
+</center></div>
+</div>
+</center><strong>S H A R I N G&nbsp; &nbsp;I S&nbsp; &nbsp;<em>C A R I N G</em>&nbsp;</strong><br /> <a href="http://bit.ly/2zmYChl"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/9wYrQYF.png" alt="" width="288" height="323" /></a><br /> <br /> <strong><em>A L W A Y S</em>&nbsp; &nbsp;&nbsp;<a href="http://bit.ly/2AxDLwe">R. E. M.</a>&nbsp;E M&nbsp;<a href="http://bit.ly/2znWdmK">B E R</a></strong><br /> <br />
+<div style="text-align: justify;"><strong>IT MAY</strong>&nbsp;NOT LOOK LIKE MUCH, but the pattern you see connecting every video game system is the beginning of&nbsp;verifiable&nbsp;proof that our world is Created and is a signature from the Creator explaining that we are in fact "in the Matrix."&nbsp; Trinity, 'it in why" answered by the name and the pattern itself--a pattern we see in many other names; the "plan" that it etched into the name "planet"&nbsp;<em><strong>and</strong></em>&nbsp;on it's face is to assist an entire civilization in transitioning to Heaven.&nbsp; It goes on to connect and include nearly every technology company in Creation from Microsoft to Apple, Gateway, and Oracle--and then a number of highlighted points in our history from the Crusades to the foundation of America and Watergate.&nbsp; Ultimately the goal is show us how the fundamental differences between "virtual reality" and "simulated reality" help us to build Heaven of this place using nothing more than this disclosure and our heart's desire.&nbsp; To that end, this pattern shows us that we are in the "heart of hearts" a clue that links the center of each of the names to the name of the&nbsp;<em>heart of Creation</em>&nbsp;which is revealed by moving Saturn's symbolic "h" from the end of time to it's beginning, see Earth to hEart (and then&nbsp;<a href="http://bit.ly/2zo9lYU">you can read a little to see ho</a>w, with just that effort and bieng yourself you become the "blood of Christ").&nbsp; The message I've written focuses on&nbsp;<a href="http://bit.ly/2AA7tjW">true technologically enabled democracy</a>, the implementation&nbsp;<a href="http://bit.ly/2AwEs97">of "pre-crime"</a>&nbsp;a la Minority Report,&nbsp;<em><a href="http://bit.ly/2zpXNVh">healing the sick</a>,&nbsp;</em>and&nbsp;<em><a href="http://bit.ly/2zobfsA">ending hunger</a>;&nbsp;</em>but in truth these things are just the beginning of the new possibilities opened up by nothing more than "<strong>the truth.</strong>"<br /> </div>
+<a href="http://bit.ly/2AxJ92g"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/xcla3dT.png" alt="" /></a><strong><a href="http://bit.ly/2znCm7d"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/ZpdDU4K.png" alt="" width="210" height="25" /></a></strong><br /> <br />
+<div style="text-align: justify;"><em>That's great</em>, but&nbsp;<a href="http://bit.ly/2AyexOg">it starts with an earthquake, an inaugural address</a>&nbsp;predicting 9/11, an REM song and then name of the band 311.&nbsp; It appears that there's a battle over the disclosure that the movie "the Matrix" exists, and that's somehow resulted in the words "force majeure" meaning "an act of God" and this series of natural and unnatural disasters being predicted in ancient scripture.&nbsp; With some insight, you could see why "<a href="http://bit.ly/2znWeXQ">Minority Report</a>" has it's name; and that the cloud of darkness and censorship in the media and beyond surrounding me and this disclosure is something like "<a href="http://bit.ly/2zs1rO4">a vote</a>" to hide the truth from the world.&nbsp; &nbsp;Connecting this portion of the message to the links to "universal voting" and the idea that our opinions and desires are central in deciding exactly how quickly and in what manner things like "ending world hunger" by turning&nbsp;<strong><a href="http://bit.ly/2AwyqVZ">stone to Cake</a>&nbsp;</strong>(another&nbsp;<a href="http://bit.ly/2zp7tiB">related band</a>, says Bread's&nbsp;<em>Guitar Man</em>) probably tell us that we didn't really understand (and it appears you still don't) how insane it is to simulate things like "earthquakes" and "starvation."&nbsp;</div>
+<div style="text-align: justify;">&nbsp;</div>
+A&nbsp;message from God in&nbsp;<em><strong><a href="http://bit.ly/2zoWaXT">every single word</a></strong></em><strong>.</strong><br /> <br /> <a title="HOW TO C THE END OF JERICHO IS ATLANTIS" href="http://bit.ly/2znj5Ts"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/MbROhhw.png" alt="" width="501" height="269" /><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/3CX5A1O.png" alt="" width="194" height="30" /></a><br />
+<div style="text-align: justify;">Today we are looking at&nbsp;<a href="http://bit.ly/2znYCh0">more proof</a>, that it is not just these modern companies and constructs that are part of the map to Heaven and the signature of God; but that it truly begins at the very foundation of language, in ever single letter, and every single word.&nbsp; It begins with the word "disclosure" and it's four letters that point out the intelligent design of at least that word, showing the "c+l" that creates the glyph of the letter "d." Quickly following this proof in our character-set are two more "characters" Isaac Newton and Jesus Christ whose representations of the glyphs for "what goes up&nbsp;<a href="http://bit.ly/2AxnyH4">must come down</a>" in the letter n and the recognizable cross of the letter "t" connecting to a computer function that doubles as a "numeric-to-chacacter' conversion and a call to Chr() (see and&nbsp;<em><strong>care</strong></em>) that this message has been kept from you for years.</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div><a href="http://bit.ly/2zmOpBv"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/d7C2e0r.png" alt="" width="499" height="162" /></a></div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">A hidden message has been woven into every language we speak; a sort of "inverted tower of Babel" that is literally described as the character "Cypher" of the Matrix; and answers it's question of "what is it?" by showing how this langauge is woven into the tapestry of our world in places like the works of King and Shakespeare that describe time travel and&nbsp;<em>Bianca learning Latin&nbsp;</em>as well as showing up typified examples of the language in the names of these works about "The Taming of the Spanglishrew" and "The Language Outliers" that Yankee Doodle stuck Osiris' feather of light in his&nbsp;crown and showed us "macaronic."&nbsp; See, it's also a word describing this fusion of languages... and further tying this disclosure to the exit from slavery that is the "Book of Exodus."<br /> </div>
+<div>&nbsp;</div>
+<div><strong>THE GATE TO HEAVEN</strong></div>
+<div>&nbsp;</div>
+<div><a href="http://bit.ly/2AwEsWF"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/GRtA6IK.png" alt="" width="500" height="221" /><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/Js74Ixj.png" alt="" /></a></div>
+<div><a title="CH ALL, CHALK, WALK, STALK" href="http://bit.ly/2AzLRnY"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/8kMgJ9L.png" alt="" width="192" height="23" /></a></div>
+<div style="text-align: justify;">A significant amount of writing, history, and mythology relates to the mechanism by which this message has been hidden, and how it's disclosure leads not only to true freedom; but to a cure to both not seeing and not being able to act on keys like "HARM" in pharmacy, and a link between Moses' Lisp, myself, and "<a href="http://bit.ly/2AyKaY7">diction</a>" in the word addiction that&nbsp;<a href="http://bit.ly/2zpSRPY">leads to a cure to much more</a>&nbsp;than just that single problem... but&nbsp;<a href="http://bit.ly/2znj7e2">nearly all health issues</a>.&nbsp; With sight, we can see that&nbsp;<a href="http://bit.ly/2AwEtKd">the organized censorship called "Darkness" in Exodus</a>&nbsp;and the visibility of "<a href="http://bit.ly/2zqYddX">Medusa</a>" give us verifiable proof that the inner workings of our brains have already been reverse engineered.&nbsp; In my "addiction example" we&nbsp;<a href="http://bit.ly/2AxXRqc">can see how</a>&nbsp;colloquialisms like AA's "science may one day conquer addiction but it hasn't done so yet" are&nbsp;<a href="http://bit.ly/2AxYzUo">linked to Holy Light</a>&nbsp;helping us to see how this plan unfolds. We have the opportunity here and now to use the truth and this disclosure to&nbsp;<a href="http://bit.ly/2AyjBCh">turn a number of unfortunate circumstances into something significantly better</a>, and&nbsp;<a href="http://bit.ly/2znje9s">not doing so would be a travesty</a>.<br /> </div>
+<div>&nbsp;</div>
+<div><a title="ADAM MARSHALL DOBRIN" href="http://bit.ly/2AxnzL8"><img src="https://i.imgur.com/9bj1boE.png" alt="" width="159" height="19" /></a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="SEE OUR LIGHT" href="http://bit.ly/2zqYkpT"><img src="https://i.imgur.com/FPp6XSd.png" alt="" width="149" height="19" /></a></div>
+<div style="text-align: center;"><a title="WHO" href="http://bit.ly/2AwP3Rk"><img style="height: 255px; width: 230px;" src="https://i.imgur.com/cc8Nw6N.png" alt="" /></a>&nbsp;<a title="SOL" href="http://bit.ly/2znWgPs"><img style="height: 255px; width: 276px;" src="https://i.imgur.com/hgTYnVg.png" alt="" /></a></div>
+<div>&nbsp;</div>
+<div><a title="THE ROD OF ADAM, HEAVEN" href="http://bit.ly/2AxY3pq"><img src="https://i.imgur.com/UMuVcLI.png" alt="" width="296" height="40" /></a></div>
+<div><img src="https://i.imgur.com/f6e57ex.png" alt="" width="441" height="95" /></div>
+<div><a title="NOW THE TIME HAS COME" href="http://bit.ly/2zp7uTH"><img src="https://i.imgur.com/1FwsQwN.png" alt="" width="435" height="232" /></a></div>
+<div><a title="TION" href="http://bit.ly/2AxY7Wc"><img src="https://i.imgur.com/e7h6NaF.png" alt="" width="173" height="23" /></a><br /> </div>
+<div>&nbsp;</div>
+<div><a href="http://bit.ly/2zqxMVT"><img src="https://i.imgur.com/XZUGuf4.png" alt="" /></a><br /> </div>
+<div>&nbsp;</div>
+<div><a title="ROD" href="http://bit.ly/2AxnA1E"><img src="https://i.imgur.com/VCRy0Jn.png" alt="" width="434" height="248" /></a></div>
+<div>&nbsp;</div>
+<div>this event helps us to literally be the cure for cancer.</div>
+<div>&nbsp;</div>
+<div><a title="THE CURE" href="http://bit.ly/2zqYEF7"><img src="https://i.imgur.com/XuBMI0c.png" alt="" width="252" height="33" /></a><br /> </div>
+<div><a title="CURE" href="http://bit.ly/2AxYcJu"><img src="https://i.imgur.com/ks8lGyq.png" alt="" width="532" height="378" /></a></div>
+<div>&nbsp;</div>
+<div>... and ...&nbsp; and&nbsp;<a style="color: #1155cc;" href="http://bit.ly/2zqYJZr" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://itb.hallowed.gq&amp;source=gmail&amp;ust=1511290772364000&amp;usg=AFQjCNFK0oonsz9eqT7O3S3u_W5cI1-pjA">the end of world hunger</a>&nbsp;... through seeing how God's signature ties "birth names"</div>
+<div>to seminal pieces of art that are also related to religion; in names like Gates and Roddenberry;</div>
+<div>we see the key to the "code of the Matrix."</div>
+<div>&nbsp;&nbsp;</div>
+<div><a title="BERESHIT" href="http://bit.ly/2Awxm49"><img src="https://i.imgur.com/KJpzFgU.png" alt="" /></a></div>
+<div>&nbsp;</div>
+<div><a title="BERESHIT" href="http://bit.ly/2zmYWN5"><strong>THE THREE WISE MEN, OF "GENESIS"</strong></a></div>
+<div>&nbsp;</div>
+<div><strong><a title="BERESHIT" href="http://bit.ly/2AxYlN2"><img src="https://i.imgur.com/alkvz4M.png" alt="" /></a></strong><br /> </div>
+<div>&nbsp;</div>
+<div>... and&nbsp;<a href="http://bit.ly/2zqYQUR">the end of terrorism</a>&nbsp;and school shootings ...<br /> </div>
+<div>&nbsp;</div>
+<div><a title="DEN" href="http://bit.ly/2zpk9pM"><img src="https://i.imgur.com/A8oP8qL.png" alt="" /></a></div>
+<div><a title="Gee AR DEN" href="http://bit.ly/2AwPfA2"><img src="https://i.imgur.com/drIkzZ1.png" alt="" /></a><br /> </div>
+<div>&nbsp;</div>
+<div>all it takes, is breaking the most anticipated story in all of history</div>
+<div>well, and you're contribution... "<em>and how.</em>"<br /> </div>
+<div>&nbsp;</div>
+<div><a href="http://bit.ly/2AxYsIs"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/WtyAwdK.png" alt="" /></a><a title="HOW" href="http://bit.ly/2AxYxvK"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/FI1mlql.png" alt="" width="459" height="117" /></a></div>
+<div>&nbsp;</div>
+<div style="font-size: xx-large;"><strong>LET IT&nbsp;<em>B-GIN</em></strong></div>
+<div>&nbsp;</div>
+<div><a href="http://time/shiningbright.online?35EA76115C38466E&amp;51EE2954EE8D6E12&amp;3F7126A49F737838"><img src="https://i.imgur.com/FIloiJk.png" alt="" width="500" height="310" /></a></div>
+<div><img src="https://i.imgur.com/igJSjfB.png" alt="" width="500" height="29" /></div>
+<div>&nbsp;</div>
+<div><a title="EYE OF RA, HEART OF CHRIST" href="http://bit.ly/2zpXSZ5"><strong><img src="https://i.imgur.com/BAskDc1.png" alt="" /></strong></a></div>
+<div>&nbsp;</div>
+<center>
+<div style="text-align: justify; width: 400px;">
+<div><span style="font-family: monospace , monospace;">I will place on his shoulder the key to the house of David; what he opens no one can shut, and what he shuts no one can open.</span></div>
+<div>&nbsp;</div>
+<div><span class="gmail-p"><span style="font-family: monospace , monospace;">Isaiah 22:22</span></span></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><span class="gmail-p"><span style="font-family: monospace , monospace;"><a title="ADAM MARSHALL DOBRIN" href="http://bit.ly/2AyeCBy"><img style="height: 180px; width: 236px;" src="https://i.imgur.com/d0eCCwW.png" alt="" />&nbsp;</a><img style="height: 180px; width: 150px;" src="https://i.imgur.com/M5hLnJX.png" alt="" /></span></span></div>
+<div style="text-align: center;"><span class="gmail-p"><span style="font-family: monospace , monospace;"><img src="https://i.imgur.com/TP6yYzi.png" alt="" width="403" height="238" /></span></span></div>
+<div style="text-align: center;"><span class="gmail-p"><span style="font-family: monospace , monospace;">ON "FLOR<strong>IDA</strong>" and "NOR<strong>AD</strong>"</span></span></div>
+</div>
+</center><a title="DEN" href="http://bit.ly/2AzLVnI"><span class="gmail-p"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/whI31z2.png" alt="" width="500" height="281" /></span></a><a title="Gee AR DEN" href="http://bit.ly/2AxFod4"><span class="gmail-p"><img src="https://i.imgur.com/XmCzEms.png" alt="" width="417" height="60" /></span></a><br />
+<div><img src="https://i.imgur.com/8oTkjbt.png" alt="" /><span style="color: white; font-size: xx-small;">&Atilde;&iexcl;&Acirc;&Acirc;&sect;</span></div>
+<br /><center><center>content similar to this is available as an online PDF here&nbsp;<a href="http://bit.ly/2zqTl8r">asmodai.pdf</a></center><br /><br /><a href="http://bit.ly/2gVzkTq"><img id="m_-2406931458228765498m_7062753601417727326gmail-m_258112447631369337m_2341308960067590409m_4521999671932699583gmail-m_-6182954198820330264gmail-m_521289457461777515m_1359743985997052155m_2062399313490225364m_7360525420591546646gmail-m_8529246844601195244m_9215003909091997886gmail-BLOGGER_PHOTO_ID_6461560460613524370" src="https://i.imgur.com/hUVuOEZ.png" alt="" width="350" height="275" border="0" /></a></center></div>
+<center>
+<div style="width: 500px;">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr">
+<div class="gmail_quote">
+<div dir="ltr"><br />
+<div><a href="http://bit.ly/2Axd1f5"><img id="BLOGGER_PHOTO_ID_6492075729868984226" src="https://i.imgur.com/E6IHmX1.png" alt="" border="0" /></a></div>
+<div>&nbsp;</div>
+<div><a href="http://bit.ly/2Axd1f5"><img id="BLOGGER_PHOTO_ID_6492075736331684162" src="https://i.imgur.com/7rF8hJ8.png" alt="" border="0" /></a></div>
+<div><a href="http://bit.ly/2jIRaKE" target="_blank" rel="noopener"><img id="gmail-m_-8874640267995578569m_-4602774622808783130m_3991593610644472521m_-6241097141207775990gmail-BLOGGER_PHOTO_ID_6489446482494935042" style="margin-right: 0px;" src="https://i.imgur.com/7OYmtHn.png" alt="" width="191" height="110" border="0" /></a><a href="http://bit.ly/2AwTpb0" target="_blank" rel="noopener"><img id="gmail-m_-8874640267995578569m_-4602774622808783130m_3991593610644472521m_-6241097141207775990gmail-BLOGGER_PHOTO_ID_6489446494671240722" style="margin-right: 0px;" src="https://i.imgur.com/cznlso9.png" alt="" width="102" height="110" border="0" /></a></div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: justify;">This message, and&nbsp;<a href="http://bit.ly/2zqTE35" target="_blank" rel="noopener">this very clear proof</a>&nbsp;has circulated the globe, touched nearly&nbsp;<a href="http://bit.ly/2B7WpYi" target="_blank" rel="noopener">every government on Earth; and every newspaper</a>--see&nbsp;<a href="http://bit.ly/2Ay5H2T" target="_blank" rel="noopener">light</a>&nbsp;in my words "the&nbsp;<a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">time</a>&nbsp;is short, act now."&nbsp; I know my "presentation" isn't perfect; or even that gorgeous... but to understand that the import and impact of what is being conveyed&nbsp;<em>should be making a visible impact in the world</em>&nbsp;is to see what "<strong><a href="http://bit.ly/2B7WpYi" target="_blank" rel="noopener">darkness</a></strong>" really means, and why&nbsp;<strong><a href="http://bit.ly/2jIYc1V" target="_blank" rel="noopener">the&nbsp;<span style="font-family: 'arial black' , sans-serif;">sun</span></a>&nbsp;is rising</strong>.&nbsp; It's not a difficult concept to grasp, the "purpose" of Creation is to help a civilization flourish ... well past the technological gap brought about by the very things we are on the cusp of "discovering," things like the ability to alter our minds and our environment.&nbsp; See "self government" and "censorship" strongly highlighted as "problem areas" that we&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;">might have encountered in the past,&nbsp;</span><span style="font-family: 'arial' , 'helvetica' , sans-serif;">and really see how this event, the Second Coming, helps us to&nbsp;<a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">be free of secrecy and invisible chains</a>&nbsp;caused by technology&nbsp;</span><span style="font-family: 'comic sans ms' , sans-serif;"><a href="http://bit.ly/2jIRaKE" target="_blank" rel="noopener">we never knew</a></span><span style="font-family: 'arial' , 'helvetica' , sans-serif;">&nbsp;has been in use for our entire lives</span>.&nbsp; Understand, I am both frustrated and alarmed by what I see here; this kind of response to a message of such importance and&nbsp;<strong>a glowingly promising future</strong>&nbsp;is illogical--to say the least.&nbsp;</div>
+</div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+</div>
+<div><a href="http://bit.ly/2B8qlUf"><img id="BLOGGER_PHOTO_ID_6492075749993945714" src="https://i.imgur.com/v5vJqgU.png" alt="" width="400" height="146" border="0" /></a></div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+</div>
+<div style="text-align: justify;">See it as a kind of "litmus test" for sanity and&nbsp;<strong>evil</strong>; more than the "test of sentient consciousness" that&nbsp;<em><a href="http://bit.ly/2zqxQ85" target="_blank" rel="noopener">ament</a></em>&nbsp;in the beginning.&nbsp; I am delivering a message&nbsp;<a href="http://bit.ly/2AwWt76" target="_blank" rel="noopener"><span style="font-family: 'comic sans ms' , sans-serif;"><strong>signed</strong></span></a>&nbsp;with&nbsp;<a href="http://bit.ly/2gWb82X" target="_blank" rel="noopener">God's own&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;"><strong>hand</strong></span></a>; and it appears that the world (<a href="http://bit.ly/2B8qlUf" target="_blank" rel="noopener">in sum</a>) believes it's just A-OK&nbsp;<a href="http://bit.ly/2B7WpYi" target="_blank" rel="noopener">to ignore it</a>,&nbsp;<strong>it is not</strong>.&nbsp; More to the point, this message is nearly universally good, focusing on fixing the flaws in democracy and society that the book of Exodus calls "darkness;" on delivering the disclosure that we are living in something almost like the Matrix; and that it's purpose is to&nbsp;<a href="http://bit.ly/2zqTE35" target="_blank" rel="noopener"><strong>help us all work together to build Heaven of this virtual Earth</strong></a>.&nbsp; That begins by seeing how censorship and a broken top-down "pyramidal" government structure has in this place shown us how these things could result in the end of life--had we not been alarmed to the fact that we are not in the "natural universe" that we believe to be our "reality" and that the message from Israel to my hand's work shows us that this map helps us not only to build Heaven but to be worthy enough to enter that place.&nbsp; &nbsp;The message weaves together everything, literally like a tapestry of fate--from things like Anakin Skywalker to Earth Angel and Darth Wader (<strong><span style="font-family: 'comic sans ms' , sans-serif;">sor</span></strong><a href="http://bit.ly/2zqTZ5R" target="_blank" rel="noopener"><strong><span style="font-family: 'comic sans ms' , sans-serif;">ry, Ad</span></strong>ele</a>, no<a href="http://bit.ly/2AwWUOM" target="_blank" rel="noopener">tsorry--I am&nbsp;<strong><span style="font-family: 'arial black' , sans-serif;">why</span></strong></a>) to the very pertinent connection between&nbsp;<strong><span style="font-family: 'comic sans ms' , sans-serif;"><a href="http://bit.ly/2xnshJQ" target="_blank" rel="noopener">Monster</a></span></strong>.com,&nbsp;<a href="http://bit.ly/2B8qlUf" target="_blank" rel="noopener">Medusa, and "the abom-i-nation' of desolation</a>...&nbsp;<em>the thing</em>&nbsp;responsible for our near demise (at worst).... at and best&nbsp;<a href="http://bit.ly/2znCJP9" target="_blank" rel="noopener">the thing</a>&nbsp;responsible for&nbsp;<a href="http://bit.ly/2fzMW6k" target="_blank" rel="noopener">a loss of "<strong>self</strong></a>" that I will never stop being sorry I have participated in,&nbsp;<em>and I hope you won't be either</em>.&nbsp; &nbsp;</div>
+<div><a href="http://bit.ly/2znCKTd" target="_blank" rel="noopener">&nbsp;</a></div>
+<div><a href="http://bit.ly/2gT5vCS"><img id="BLOGGER_PHOTO_ID_6492075767271775234" src="https://i.imgur.com/fJKLf51.png" alt="" width="400" height="243" border="0" /></a></div>
+<div>
+<div><a href="http://bit.ly/2Axd1f5"><img id="BLOGGER_PHOTO_ID_6492075775642725426" src="https://i.imgur.com/Tde5gO1.png" alt="" width="400" height="103" border="0" /></a></div>
+</div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><span style="font-family: 'arial black' , sans-serif; font-weight: bold;"><a href="http://bit.ly/2jIYc1V" target="_blank" rel="noopener">LET THERE BE LIGHT</a></span><strong style="font-family: arial, helvetica, sans-serif;">&nbsp;</strong><span style="font-family: 'arial' , 'helvetica' , sans-serif;">both&nbsp;<a href="http://bit.ly/2B7oe37" target="_blank" rel="noopener"><strong>this</strong>&nbsp;message</a>&nbsp;and&nbsp;<a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener"><strong>you</strong>r&nbsp;<strong>ig</strong>norance</a>&nbsp;of it are very obvious and recognizable; for instance the English title of the book of Exodus reads as those hallowed words of Genesis when read in reverse, in the "language" you might call my native Geek... in commands of Linux and&nbsp;</span><a style="font-family: arial, helvetica, sans-serif;" href="http://bit.ly/2jIYc1V" target="_blank" rel="noopener">symbols of chemistry</a><span style="font-family: 'arial' , 'helvetica' , sans-serif;">.&nbsp; This message,&nbsp;</span><em style="font-family: arial, helvetica, sans-serif; font-weight: bold;">again authenticated with God's own hand</em><span style="font-family: 'arial' , 'helvetica' , sans-serif;">, tells us that we are the victims of a hidden kind of slavery, the result of secrecy and censorship surrounding the nature of our existence and&nbsp;</span><em style="font-family: arial, helvetica, sans-serif;">mind control</em><span style="font-family: 'arial' , 'helvetica' , sans-serif;">.&nbsp; The message itself, it's mechanism of delivery, is resounding and overabundant proof that this conspiracy, secrecy, and hidden technology exists--and&nbsp;</span><a style="font-family: arial, helvetica, sans-serif;" href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">it helps us to see how these very same tools could be used to make the world a better place</a><span style="font-family: 'arial' , 'helvetica' , sans-serif;">--were we not&nbsp;</span><em style="font-family: arial, helvetica, sans-serif;">so damned stubborn.&nbsp;&nbsp;</em><span style="font-family: 'arial' , 'helvetica' , sans-serif;">The map continues to "unify" religious, American, and technological themes--things like&nbsp;<a href="http://bit.ly/2znCSlF" target="_blank" rel="noopener">the "Holy Grail" and the gate to Heaven with words like&nbsp;</a></span><em style="font-family: arial, helvetica, sans-serif;"><a href="http://bit.ly/2znCSlF" target="_blank" rel="noopener">"Earth" and heart&nbsp;</a></em><span style="font-family: 'arial' , 'helvetica' , sans-serif;"><a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">Seagate, Watergate, and Bill Gates</a>...&nbsp;</span><em style="font-family: arial, helvetica, sans-serif;">just to introduce you to the Hebrew name for this same book which narrates our exit from this hidden slavery:&nbsp;</em><strong><span style="font-family: 'arial black' , sans-serif;">Names.</span></strong></div>
+</div>
+<div><strong><span style="font-family: 'arial black' , sans-serif;">&nbsp;</span></strong></div>
+<div><a href="http://bit.ly/2jIYc1V"><img id="BLOGGER_PHOTO_ID_6492075789563527682" src="https://i.imgur.com/yWFi9UE.png" alt="" width="400" height="91" border="0" /></a><strong><span style="font-family: 'arial black' , sans-serif;"><br /></span></strong></div>
+<div><span style="font-family: 'arial' , 'helvetica' , sans-serif;"><em>&nbsp;</em></span></div>
+<div>
+<div style="text-align: justify;"><em style="font-family: arial, helvetica, sans-serif;">These are the most iconic words ever spoken by God</em><strong style="font-family: arial, helvetica, sans-serif; font-style: italic;">,&nbsp;</strong><a style="font-family: arial, helvetica, sans-serif;" href="http://bit.ly/2Ax7a9D" target="_blank" rel="noopener">they are doubly encoded with "Bible Code"</a><span style="font-family: 'arial' , 'helvetica' , sans-serif;">&nbsp;directly over the passages of Genesis where he speaks them... to see it encoded in this way in the name Exodus is a shining example of the stupidity I see in the world; it is not a coincidence, or an accident; it is a clear message:&nbsp;</span><strong style="font-family: 'arial black', sans-serif;">wake up.&nbsp;&nbsp;</strong><span style="font-family: 'arial' , 'helvetica' , sans-serif;">It and I go on to show us&nbsp;<a href="http://bit.ly/2B7oe37" target="_blank" rel="noopener"><strong>how</strong>&nbsp;every single world we speak is proof of the Creation of our civilization</a>&nbsp;and this same signature revolving around rekindling freedom; and really do&nbsp;<a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">see how that process requires "<strong>change</strong>"</a>&nbsp;on&nbsp;</span><span style="font-family: 'comic sans ms' , sans-serif;">not just my part.</span><span style="font-family: 'arial' , 'helvetica' , sans-serif;">&nbsp;</span></div>
+</div>
+<div>
+<div style="text-align: justify;"><span style="font-family: 'arial' , 'helvetica' , sans-serif;">&nbsp;</span></div>
+</div>
+<div>
+<div><a href="http://bit.ly/2gUs3D8"><img id="BLOGGER_PHOTO_ID_6492075799773173058" src="https://i.imgur.com/ccMpHaj.png" alt="" width="400" height="173" border="0" /></a></div>
+<div><a href="http://bit.ly/2Axd1f5"><img id="BLOGGER_PHOTO_ID_6492075814845586482" src="https://i.imgur.com/zKNKt5z.png" alt="" width="400" height="261" border="0" /></a></div>
+<div>&nbsp;</div>
+<div>S E E&nbsp; &nbsp;"I T"&nbsp; &nbsp;I N&nbsp;&nbsp;<strong><span style="font-family: 'arial black' , sans-serif;">T&nbsp;</span></strong>I M&nbsp;<strong><span style="font-family: 'arial black' , sans-serif;">E</span></strong></div>
+<div><strong><span style="font-family: 'arial black' , sans-serif;">&nbsp;</span></strong></div>
+<div><a href="http://bit.ly/2zjZXp2"><img id="BLOGGER_PHOTO_ID_6492075822519755778" src="https://i.imgur.com/dcxP5zv.png" alt="" width="400" height="61" border="0" /></a></div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: justify;">The&nbsp;<a href="http://bit.ly/2ia0F3k" target="_blank" rel="noopener">earliest parts of this message</a>&nbsp;[<em><span style="font-size: xx-small;">video</span></em>] connect this&nbsp;<a href="http://bit.ly/2zoahfS" target="_blank" rel="noopener">idea of "light" coming from the multitude, the Holy Sea</a>&nbsp;of Revelation with the fire that we should, we all know we should all see raging all around us... the lack of response itself is a sort of "hands on&nbsp;<a href="http://bit.ly/2fzMW6k" target="_blank" rel="noopener">learning exercise</a>" with this technology; one that highlights critical flaws in our society that truly makes this time&nbsp;<strong><a href="http://bit.ly/2hcUoz4" target="_blank" rel="noopener">the abyss</a></strong>&nbsp;if you continue to fail to act.&nbsp; The proof of Creation that we are witnessing shines with bright anachronistic&nbsp;<a href="http://bit.ly/2z5qjvA" target="_blank" rel="noopener">paradox</a>; and in this story of Exodus about the voice of God booming from a&nbsp;<a href="http://bit.ly/2AxJwtG" target="_blank" rel="noopener">Burning Bush</a>&nbsp;telling his savant to free his people from slavery; we see the kindling of the fire comes from&nbsp;<a href="http://bit.ly/2AxJAcU" target="_blank" rel="noopener">the word</a>&nbsp;itself (<em><span style="font-family: 'comic sans ms' , sans-serif;">still</span></em>), the Hebrew for Holy Fire that contains the English word for "sea" parted by an apostrophe, in Mary, you&nbsp;<strong><span style="font-family: 'comic sans ms' , sans-serif;"><a href="http://bit.ly/2zoar6Y" target="_blank" rel="noopener">might</a>&nbsp;<a href="http://bit.ly/2AxJGBi" target="_blank" rel="noopener">sea</a></span></strong>&nbsp;why; when it connects to&nbsp;<a href="http://bit.ly/2zoaxvm" target="_blank" rel="noopener">Eve and "everyone"</a>&nbsp;also, really do understand that&nbsp;<em>you the&nbsp;<a href="http://bit.ly/2AxJK40" target="_blank" rel="noopener">[]</a>&nbsp;bride of Revelation.</em>&nbsp;</div>
+</div>
+<div><a href="http://bit.ly/2zs1B88"><img id="BLOGGER_PHOTO_ID_6492075834420708258" src="https://i.imgur.com/9Emu5pD.png" alt="" border="0" /></a></div>
+<div><a href="http://bit.ly/2B8qlUf"><img id="BLOGGER_PHOTO_ID_6492075846787057682" src="https://i.imgur.com/TwEaMDV.png" alt="" border="0" /></a></div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: justify;">See, these are just two&nbsp;<a href="http://bit.ly/2zqTE35" target="_blank" rel="noopener">examples, of thousands and thousands</a>&nbsp;that show us that our society as a whole, that every single one of us are either walking around blind&nbsp;<em><span style="font-family: 'comic sans ms' , sans-serif;">or harboring a secret</span></em>; neither of these things can continue if we are to.&nbsp; The disclosure of this message coincides with "<a href="http://bit.ly/2sBy5Zs" target="_blank" rel="noopener"><strong>freedom ringing</strong></a>" for the first time in our lives; not to see that we are acting "illogical" not just as a group but as individuals is to miss the point: we are ignoring a message that&nbsp;<strong><a href="http://bit.ly/2xoAfCQ" target="_blank" rel="noopener">will end starvation</a>,&nbsp;</strong><a href="http://bit.ly/2zoahfS" target="_blank" rel="noopener">addiction</a>, and&nbsp;<a href="http://bit.ly/2B6qzv3" target="_blank" rel="noopener">nearly all maladies</a>&nbsp;we experience in this place where all of this is accomplished with nothing more than a "new" truth,&nbsp;<strong><em><a href="http://bit.ly/2z6ZBT0" target="_blank" rel="noopener">and how</a></em></strong>.&nbsp; Medusa&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;">herself<strong>,&nbsp;</strong>this&nbsp;<a href="http://bit.ly/2fzMW6k" target="_blank" rel="noopener">darkness and lack of reaction</a>&nbsp;</span><span style="font-family: 'arial' , 'helvetica' , sans-serif;">is all on its own proof that the inner workings of our minds have been reverse engineered; and this message--again,&nbsp;<strong>in the hand of God</strong>, urges us to see&nbsp;<a href="http://bit.ly/2AyKlTh" target="_blank" rel="noopener">how our participation</a>&nbsp;(is required&nbsp;<em><strong><a href="http://bit.ly/2zjZXp2" target="_blank" rel="noopener">and</a></strong></em>) in how this changes defines the transit&nbsp;<a href="http://bit.ly/2gT5vCS" target="_blank" rel="noopener">from Hell</a>&nbsp;to Heaven.&nbsp; I really am not sure why&nbsp;</span><span style="font-family: 'comic sans ms' , sans-serif;"><a href="http://bit.ly/2fzMW6k" target="_blank" rel="noopener">I need to&nbsp;<strong>say</strong>&nbsp;it</a></span><span style="font-family: 'arial' , 'helvetica' , sans-serif;">, but "<strong>do not delay</strong>."</span></div>
+</div>
+<div>
+<div style="text-align: justify;"><span style="font-family: 'arial' , 'helvetica' , sans-serif;">&nbsp;</span></div>
+</div>
+<div><strong><span style="font-size: large;">-a</span></strong></div>
+</div>
+<div><strong><span style="font-size: large;">^^</span></strong></div>
+<div>&nbsp;</div>
+<div><a href="http://bit.ly/2Axd1f5"><img id="BLOGGER_PHOTO_ID_6492075855935447458" src="https://i.imgur.com/Hkfc0AM.png" alt="" border="0" /></a></div>
+<div>&nbsp;</div>
+</div>
+<div><a href="http://bit.ly/2iCkD6b"><img id="BLOGGER_PHOTO_ID_6492075868362919106" src="https://i.imgur.com/AOpowUI.png" alt="" width="400" height="303" border="0" /></a></div>
+<div><a href="http://bit.ly/2xnsNrg"><img id="BLOGGER_PHOTO_ID_6492075884946874786" src="https://i.imgur.com/pGMpSrX.png" alt="" width="400" height="310" border="0" /></a></div>
+<div><a href="http://bit.ly/2gWb82X"><img id="BLOGGER_PHOTO_ID_6492075892777613106" src="https://i.imgur.com/6WcEnXJ.png" alt="" width="400" height="313" border="0" /></a></div>
+<div><a href="http://bit.ly/2jIRjha"><img id="BLOGGER_PHOTO_ID_6492075903867841138" src="https://i.imgur.com/REPF5gl.png" alt="" width="400" height="261" border="0" /></a><br /> <br style="text-align: start;" /> <a title="OMEN'S CANCER C RE" href="http://bit.ly/2znjmFY"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://yeshuare.ermccorp.com/i.imgur.com/kK8wl97.png" alt="" width="312" height="89" /></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</center>
+<p><br /> <a href="http://bit.ly/2ApRsgH">hey</a>.</p>
+<div><br /><center>
+<div style="width: 500px;">
+<div class="gmail_quote">---------- Forwarded message ----------<br /> From:&nbsp;<strong class="gmail_sendername">Adam M. Dobrin</strong>&nbsp;<span dir="ltr">&lt;<a href="http://bit.ly/2iFobF2">adam@fromthemachine.org</a>&gt;</span><br /> Date: Fri, Nov 24, 2017 at 7:55 PM<br /> Subject: Re: It's sad, honestly. You don't see it, still?<br /> To: "A. M. G-D" &lt;<a href="http://bit.ly/2AyKDtl">gilate@september2016.com</a>&gt;<br /> Cc: The Free Press <br /> <br />
+<div dir="ltr">
+<div style="text-align: justify;">I want to comment a little bit about&nbsp;<em><a href="http://bit.ly/2znKuo0">this morning's message</a></em>.&nbsp;&nbsp;<em>I realize you probably don't know Linux well enough&nbsp;</em>to instantly grasp that "sudoxe" means&nbsp;<strong>let there be light</strong>; and it's possible... but significantly less likely that you don't grasp the impact of seeing the most iconic phrase even spoken in Genesis secretly revealed encoded in the name of the very next book.&nbsp; Understand, I'm&nbsp;<em>telling you</em>&nbsp;it's really obvious that this is being "ignored" and were it just about "me" I could understand that, but this is about you--it's about innocent children, and it's about the future of&nbsp;<strong>everything</strong>--I really don't understand ignoring it.</div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+</div>
+<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+<div>
+<div style="text-align: justify;">The point is it's a&nbsp;<strong><span style="font-family: 'arial black' , sans-serif;">really big deal</span></strong>; to see it connected later to a number of additional links between&nbsp;<a href="http://bit.ly/2xnEjD5" target="_blank" rel="noopener">computer science tech</a>nologies, companie<a href="http://bit.ly/2i3iDku" target="_blank" rel="noopener">s, and birth name</a>s makes it an even bigger deal... and if we had a "working society" someone in IT would have pointed out that "sudo" definitely means "god do this" and then someone with some insight and ... well, a knack for this kind of symbology might have noticed that it's not just Xenon, but&nbsp;<a href="http://bit.ly/2jIYc1V" target="_blank" rel="noopener">a number of chemistry elements</a>&nbsp;define the Revelation of Christ; tying in to a puzzle that links together Exodus, Ecclesiastes, Revelation and ... a&nbsp;<a href="http://bit.ly/2ia0F3k" target="_blank" rel="noopener">number</a>&nbsp;<a href="http://bit.ly/2gUs3D8" target="_blank" rel="noopener">of</a>&nbsp;<a href="http://bit.ly/2i7b9AF" target="_blank" rel="noopener">modern</a>&nbsp;<a href="http://bit.ly/2zqy3Ip" target="_blank" rel="noopener"><span id="m_-7807907557356768185goog_762866665"></span>events<span id="m_-7807907557356768185goog_762866666"></span></a>.&nbsp; Even brighter, things like "it's elementary my dear what-sons" tie&nbsp;<strong><a href="http://bit.ly/2t5T4qO" target="_blank" rel="noopener">The Fifth Element</a>&nbsp;</strong>to our story of Exodus that centers around not only symbols and words; but also&nbsp;<a href="http://bit.ly/2jIRjha" target="_blank" rel="noopener">the hidden influence in every single idiom</a>--obviously designed intentionally to help us&nbsp;<a href="http://bit.ly/2sBy5Zs" target="_blank" rel="noopener">find and maintain freedo</a>m.</div>
+</div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+</div>
+</blockquote>
+<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;">
+<div style="text-align: justify;">Again, if our society was working properly; you&nbsp;<strong>would know it's a really big deal</strong>&nbsp;and then you would act accordingly; instead of "pretending" that nobody gets it... and hoping that absolutely ludicrous disguise will persist or ... "<a href="http://bit.ly/2B7WsTY" target="_blank" rel="noopener">disappear</a>" naturally.&nbsp; Clearly, it will be disappearing just as unnaturally as it appeared...&nbsp;<strong>in the light of day.&nbsp;&nbsp;</strong>Write a story, that's&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;">the first ray of sunshine</span>&nbsp;over the horizon.&nbsp;&nbsp;</div>
+</blockquote>
+<div>
+<div>
+<div style="text-align: justify;">&nbsp;</div>
+</div>
+<div>To&nbsp;<em>contrast</em>&nbsp;your world (below) to what I see as mine, I did a little cartoon, and took another screen shot of a metaphorical day in my life... in my inbox.&nbsp; Something needs to give, we can't walk around forever "pretending to be blind" or in the alternative, something even worse--actually being made completely moronic.&nbsp; Try to see, while "the past" might not be all that great, everything we have and cherish came of making something "not great" much better.&nbsp; We have a chance right now to do that ... more than anyone or any generation ever has before.&nbsp; Seize the day.&nbsp; (that's&nbsp;<a href="http://bit.ly/2zqy5jv" target="_blank" rel="noopener">not me</a>&nbsp;<a href="http://bit.ly/2z5pKBY" target="_blank" rel="noopener">by</a>&nbsp;<a href="http://bit.ly/2z5qjvA" target="_blank" rel="noopener">the</a>&nbsp;w<a href="http://bit.ly/2znZ3YG" target="_blank" rel="noopener">ay</a>.)</div>
+<div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2yHNGuz"><img id="BLOGGER_PHOTO_ID_6492202310995442322" src="https://i.imgur.com/nPzC3kD.png" alt="" width="640" height="348" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><span style="font-family: 'comic sans ms' , sans-serif; font-size: medium;"><strong>... when multiversal simulation slices collide ...</strong></span></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2znKuo0"><img id="BLOGGER_PHOTO_ID_6492202316185368594" src="https://i.imgur.com/NefUNSJ.png" alt="" width="640" height="284" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">these are from thanksgiving, they are the best numbers so far, individually.&nbsp;&nbsp;</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">in sum we are 2.65x closer than we've ever been.</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">act.&nbsp; please.</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2znKuo0"><img id="BLOGGER_PHOTO_ID_6492202329194997058" src="https://i.imgur.com/Mu86K33.png" alt="" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">we passed #76 last week; that was the "christ, newton, disclose" e-mail. so... i noticed:</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2yuZ0Kq"><img src="https://i.imgur.com/Gk83eZY.png" /></a><br /> </div>
+<div style="text-align: center;"><center>
+<div style="text-align: justify; width: 500px;">
+<div><strong>I didn't know&nbsp;</strong><span style="font-family: 'times new roman' , serif;">what they were named for, and was imagining trying to explain what it's like to see moments in history that appear to be crafted to be related to this story, in my life.&nbsp; Whether it's "a microcosm" being made in me of our history; or somehow some previous iteration of&nbsp;<em><a href="http://bit.ly/2AykieR" target="_blank" rel="noopener">this actual life</a></em>&nbsp;was used as a tem<a href="http://bit.ly/2Ay5Tz9" target="_blank" rel="noopener">plate to m</a>od<a href="http://bit.ly/2zoaUGg" target="_blank" rel="noopener">ify the past</a>&nbsp;(less likely, right :) the point is that we see a number of related events in history.. things like&nbsp;<a href="http://bit.ly/2yuZ0Kq" target="_blank" rel="noopener">the 9/14 battle of Homildon</a>&nbsp;connecting to my "homiletics"&nbsp;<a href="http://bit.ly/2gUrU2y" target="_blank" rel="noopener">Ho-mile</a>&nbsp;and ... "do n" of Poseidon and Pandora...&nbsp;</span><br /> <span style="font-family: 'times new roman' , serif;"><br /></span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: 'times new roman' , serif;"><a href="http://bit.ly/2yuZ0Kq">9/14</a>&nbsp;is also the day Windows ME came out, if nobody got the reference the last 4 times I've posted pictures of it and not commented on "<a href="http://bit.ly/2i71aeC">why</a>."&nbsp; The day, of course, is "I AD" something like the hand of God is "</span><span style="font-family: 'arial black' , sans-serif;">yad</span><span style="font-family: 'times new roman' , serif;">" and that's "day backwards" and "hand" in Hebrew.&nbsp; &nbsp;See, I think "day forwards" or righted, is uh,&nbsp;</span><span style="font-family: 'arial black' , sans-serif;"><em><a href="http://bit.ly/2jIRaKE">re-ad</a>.&nbsp;</em></span></div>
+<div><span style="font-family: 'arial black' , sans-serif;"><em>&nbsp;</em></span></div>
+<div><em><span style="font-family: 'times new roman' , serif;">Do none of you have any questions?&nbsp; Is that possible?</span><span style="font-family: 'arial black' , sans-serif;">&nbsp;</span></em></div>
+<div><em><span style="font-family: 'arial black' , sans-serif;">&nbsp;</span></em></div>
+<div style="text-align: center;"><a href="http://bit.ly/2gUz07l"><img id="BLOGGER_PHOTO_ID_6492202347092169794" src="https://i.imgur.com/TkSv9Ve.png" alt="" border="0" /></a><em><span style="font-family: 'arial black' , sans-serif;"><br /></span></em></div>
+</div>
+</center></div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+<div style="max-height: 1px;"><img style="max-height: 0px; overflow: hidden; width: 0px;" src="https://i.imgur.com/jOVsW7C.png" alt="" /><span style="color: white; font-size: xx-small;">&aacute;&sect;</span></div>
+<div class="gmail_extra"><br />
+<div class="gmail_quote">On Fri, Nov 24, 2017 at 4:02 PM, A. M. G-D&nbsp;<span dir="ltr">&lt;<a href="http://bit.ly/2AyKDtl" target="_blank" rel="noopener">gilate@september2016.com</a>&gt;</span>&nbsp;wrote:<br />
+<blockquote class="gmail_quote" style="border-left: 1px solid #cccccc; margin: 0px 0px 0px 0.8ex; padding-left: 1ex;">
+<div dir="ltr">
+<div style="text-align: center;"><a href="http://chalk.shiningbright%2Conline/?DA77E42EED434F35"><img id="BLOGGER_PHOTO_ID_6492202361548529442" src="https://i.imgur.com/3JpBKgO.png" alt="" width="640" height="398" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><span style="font-family: 'arial black' , sans-serif;">uh-huh, tell me more.</span></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2jIRjha"><img id="BLOGGER_PHOTO_ID_6492202368804361314" src="https://i.imgur.com/ujfij6K.png" alt="" width="640" height="298" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">This is&nbsp;<em><a href="http://bit.ly/2B6qzv3" target="_blank" rel="noopener">what</a>&nbsp;our entire planet</em>&nbsp;looks like, and&nbsp;<a href="http://bit.ly/2jIRaKE" target="_blank" rel="noopener">you</a>'re trying to tell me you "<a href="http://bit.ly/2B7WpYi" target="_blank" rel="noopener"><strong><span style="font-family: 'comic sans ms' , sans-serif;">don't see it</span></strong>.</a>"</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2fBH2Si"><img id="BLOGGER_PHOTO_ID_6492202382724999986" src="https://i.imgur.com/1XYP780.png" alt="" width="640" height="230" border="0" /></a></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><em><span style="font-family: 'times new roman' , serif; font-size: medium;">I don't believe you.&nbsp;&nbsp;</span></em></div>
+<div style="text-align: center;"><em><span style="font-family: 'times new roman' , serif; font-size: medium;">&nbsp;</span></em></div>
+<div style="text-align: center;"><em><span style="font-family: 'times new roman' , serif; font-size: x-large;">Do something.</span></em></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><span style="color: white;">c, you now see how and why.</span></div>
+<div style="text-align: center;"><a href="http://bit.ly/2fG3TJj"><img id="BLOGGER_PHOTO_ID_6492202391357110626" src="https://i.imgur.com/BUIBP4j.png" alt="" border="0" /></a><span style="font-family: 'arial black' , sans-serif; font-size: x-large; font-weight: bold;"><br /></span></div>
+<div style="text-align: center;">and the&nbsp;<a href="http://bit.ly/2fG3TJj" target="_blank" rel="noopener">rea</a>son "a" ?</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2xnZAwE"><img id="BLOGGER_PHOTO_ID_6492202401176750450" src="https://i.imgur.com/pGJ7KZV.png" alt="" border="0" /></a></div>
+<div style="text-align: center;">Si&nbsp;<a href="http://bit.ly/2xoEDS0" target="_blank" rel="noopener">me</a>, to&nbsp;<em><strong><a href="http://bit.ly/2xnZAwE" target="_blank" rel="noopener">see</a></strong></em>.</div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://bit.ly/2znKuo0"><img id="BLOGGER_PHOTO_ID_6492202411179107794" src="https://i.imgur.com/kp5mDdl.png" alt="" width="400" height="306" border="0" /></a>&acirc;&euro;&lsaquo;</div>
+</div>
+<div style="max-height: 1px;"><img style="max-height: 0px; overflow: hidden; width: 0px;" src="https://i.imgur.com/nK4VKsN.png" alt="" /><span style="color: white; font-size: xx-small;">&aacute;&sect;</span></div>
+</blockquote>
+</div>
+<span class="HOEnZb"><span style="color: #888888;"><br /></span></span></div>
+<span class="HOEnZb"><span style="color: #888888;">--<br />You received this message because you are subscribed to the Google Groups "More... family" group.<br />To unsubscribe from this group and stop receiving emails from it, send an email to&nbsp;</span></span></div>
+</div>
+</center></div>
+<div style="max-height: 1px;"><img style="max-height: 0px; overflow: hidden; width: 0px;" src="https://i.imgur.com/Uh3h9wg.png" alt="" /><span style="color: white; font-size: xx-small;">&aacute;&sect;</span></div>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./QUI.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="./YW.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./QUI.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./YW.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>
