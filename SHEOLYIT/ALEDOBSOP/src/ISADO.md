@@ -1,0 +1,5540 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>I. J. Good - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"I._J._Good","wgTitle":"I. J. Good","wgCurRevisionId":814781136,"wgRevisionId":814781136,"wgArticleId":404404,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Webarchive template wayback links","EngvarB from April 2015","Use dmy dates from April 2015","Pages to import images to Wikidata","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with DBLP identifiers","1916 births","2009 deaths","20th-century American mathematicians","21st-century American mathematicians","20th-century American philosophers","Alan Turing","Alumni of Jesus College, Cambridge","American people of British-Jewish descent","American people of Polish-Jewish descent","American statisticians","Artificial intelligence researchers","Bayesian statisticians","British cryptographers","British information theorists","British Jews","British people of Polish-Jewish descent","Disease-related deaths in Virginia","English emigrants to the United States","English Jews","English mathematicians","English statisticians","Fellows of the American Statistical Association","Government Communications Headquarters people","Modern cryptographers","People associated with Bletchley Park","People educated at Haberdashers' Aske's Boys' School","People from Hampstead","People from Radford, Virginia","Singularitarianism","Theoretical computer scientists","Amateur chess players","Foreign Office personnel of World War II"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"I._J._Good","wgRelevantArticleId":404404,"wgRequestId":"WjWO1gpAEKkAAE4EvTUAAACN","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q224372","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.12"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b4/I._J._Good.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/I._J._Good"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=I._J._Good&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=I._J._Good&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/I._J._Good"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-I_J_Good rootpage-I_J_Good skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">I. J. Good</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">I. J. Good</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:I._J._Good.jpg" class="image"><img alt="I. J. Good.jpg" src="//upload.wikimedia.org/wikipedia/en/b/b4/I._J._Good.jpg" width="144" height="183" data-file-width="144" data-file-height="183" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">Isadore Jacob Gudak</span><br />
+<span style="display:none">(<span class="bday">1916-12-09</span>)</span>9 December 1916<br />
+<span class="birthplace">London, UK</span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>5 April 2009<span style="display:none">(<span class="dday deathdate">2009-04-05</span>)</span> (aged&#160;92)<br />
+<span class="deathplace"><a href="/wiki/Radford,_Virginia" title="Radford, Virginia">Radford, Virginia</a>, US</span></td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td><a href="/wiki/Jesus_College,_Cambridge" title="Jesus College, Cambridge">Jesus College, Cambridge</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a href="/wiki/Smith%27s_Prize" title="Smith's Prize">Smith's Prize</a> <small>(1940)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Scientific career</b></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">Statistician, <a href="/wiki/Cryptologist" class="mw-redirect" title="Cryptologist">cryptologist</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Trinity_College,_Oxford" title="Trinity College, Oxford">Trinity College, Oxford</a>; <a href="/wiki/Virginia_Tech" title="Virginia Tech">Virginia Tech</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/G._H._Hardy" title="G. H. Hardy">G. H. Hardy</a></td>
+</tr>
+<tr style="display:none">
+<td colspan="2"></td>
+</tr>
+</table>
+<p><b>Irving John</b> ("<b>I. J.</b>"; "<b>Jack</b>") <b>Good</b> (9 December 1916 – 5 April 2009)<sup id="cite_ref-Passings_1-0" class="reference"><a href="#cite_note-Passings-1">[1]</a></sup><sup id="cite_ref-The_Times_2-0" class="reference"><a href="#cite_note-The_Times-2">[2]</a></sup> was a British mathematician who worked as a <a href="/wiki/Cryptologist" class="mw-redirect" title="Cryptologist">cryptologist</a> at <a href="/wiki/Bletchley_Park" title="Bletchley Park">Bletchley Park</a> with <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>. After World War II, Good continued to work with Turing on the design of computers and <a href="/wiki/Bayesian_statistics" title="Bayesian statistics">Bayesian statistics</a> at the <a href="/wiki/University_of_Manchester" title="University of Manchester">University of Manchester</a>. Good moved to the United States where he was professor at <a href="/wiki/Virginia_Tech" title="Virginia Tech">Virginia Tech</a>.</p>
+<p>He was born <b>Isadore Jacob Gudak</b> to a <a href="/wiki/Polish_Jewish" class="mw-redirect" title="Polish Jewish">Polish Jewish</a> family in London. He later anglicised his name to Irving John Good and signed his publications "<b>I. J. Good</b>."</p>
+<p>An originator of the concept now known as "<a href="/wiki/Intelligence_explosion" title="Intelligence explosion">intelligence explosion</a>," Good served as consultant on supercomputers to <a href="/wiki/Stanley_Kubrick" title="Stanley Kubrick">Stanley Kubrick</a>, director of the 1968 film <i><a href="/wiki/2001:_A_Space_Odyssey_(film)" title="2001: A Space Odyssey (film)">2001: A Space Odyssey</a></i>.<sup id="cite_ref-GuardianObit_3-0" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Bletchley_Park"><span class="tocnumber">1.1</span> <span class="toctext">Bletchley Park</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Postwar_work"><span class="tocnumber">1.2</span> <span class="toctext">Postwar work</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#United_States"><span class="tocnumber">1.3</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Research_and_publications"><span class="tocnumber">2</span> <span class="toctext">Research and publications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Personality"><span class="tocnumber">3</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Death"><span class="tocnumber">4</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Books"><span class="tocnumber">5</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Good was born Isadore Jacob Gudak to Polish Jewish parents in London. His father was a watchmaker, who later managed and owned a successful fashionable jewellery shop, and was also a notable Yiddish writer writing under the pen-name of Moshe Oved. Good was educated at <a href="/wiki/The_Haberdashers%27_Aske%27s_Boys%27_School" class="mw-redirect" title="The Haberdashers' Aske's Boys' School">the Haberdashers' Aske's Boys' School</a>, at the time in <a href="/wiki/Hampstead" title="Hampstead">Hampstead</a> in north west London, where, <a href="/wiki/Dan_van_der_Vat" title="Dan van der Vat">Dan van der Vat</a> writes, Good effortlessly outpaced the mathematics curriculum.<sup id="cite_ref-GuardianObit_3-1" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p>Good studied mathematics at <a href="/wiki/Jesus_College,_Cambridge" title="Jesus College, Cambridge">Jesus College, Cambridge</a>, graduating in 1938 and winning the <a href="/wiki/Smith%27s_Prize" title="Smith's Prize">Smith's Prize</a> in 1940.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> He did research under <a href="/wiki/G.H._Hardy" class="mw-redirect" title="G.H. Hardy">G.H. Hardy</a> and <a href="/wiki/Besicovitch" class="mw-redirect" title="Besicovitch">Besicovitch</a> before moving to Bletchley Park in 1941 on completing his doctorate.</p>
+<h3><span class="mw-headline" id="Bletchley_Park">Bletchley Park</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=2" title="Edit section: Bletchley Park">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 27 May 1941, having just obtained his doctorate at Cambridge, Good walked into <a href="/wiki/Hut_8" title="Hut 8">Hut 8</a>, Bletchley's facility for breaking German naval ciphers, for his first shift. This was the day that Britain's <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> destroyed the <a href="/wiki/German_battleship_Bismarck" title="German battleship Bismarck">German battleship&#160;<i>Bismarck</i></a> after it had sunk the Royal Navy's <a href="/wiki/HMS_Hood_(51)" class="mw-redirect" title="HMS Hood (51)">HMS&#160;<i>Hood</i></a>. Bletchley had contributed to <i>Bismarck</i><span class="nowrap" style="padding-left:0.1em;">'</span>s destruction by discovering, through wireless-traffic analysis, that the German flagship was sailing for <a href="/wiki/Brest,_France" title="Brest, France">Brest, France</a>, rather than <a href="/wiki/Wilhelmshaven" title="Wilhelmshaven">Wilhelmshaven</a>, from which she had set out.<sup id="cite_ref-GuardianObit_3-2" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup> Hut 8 had not, however, been able to decrypt on a current basis the 22 German Naval <a href="/wiki/Enigma_machine" title="Enigma machine">Enigma</a> messages that had been sent to <i>Bismarck</i>. The German Navy's Enigma ciphers were considerably more secure than those of the German Army or Air Force, which had been well penetrated by 1940. Naval messages were taking three to seven days to decrypt, which usually made them operationally useless for the British. This was about to change, however, with Good's help.<sup id="cite_ref-GuardianObit_3-3" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<blockquote class="templatequote">
+<p><a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>... had caught Good sleeping on the floor while on duty during his first night shift. At first, Turing thought Good was ill, but he was cross when Good explained that he was just taking a short nap because he was tired. For days afterwards, Turing would not deign to speak to Good, and he left the room if Good walked in. The new recruit only won Turing's respect after he solved the bigram tables problem. During a subsequent night shift, when there was no more work to be done, it dawned on Good that there might be another chink in the German indicating system. The German telegraphists had to add dummy letters to the trigrams which they selected out of the <i>kenngruppenbuch</i>... Good wondered if their choice of dummy letters was random, or whether there was a bias towards particular letters. After inspecting some messages which had been broken, he discovered that there was a tendency to use some letters more than others. That being the case, all the codebreakers had to do, was to work back from the indicators given at the beginning of each message, and apply each bigram table in turn in the same way as <a href="/wiki/Joan_Clarke" title="Joan Clarke">Joan Clarke</a> had done before. The bigram table which produced one of the popular dummy letters was probably the correct one. When Good mentioned his discovery to Alan Turing, Turing was very embarrassed, and said, 'I could have sworn that I tried that.' It quickly became an important part of the <a href="/wiki/Banburismus" title="Banburismus">Banburismus</a> procedure.</p>
+<p>Jack Good's refusal to go on working when tired was vindicated by a subsequent incident. During another long night shift, he had been baffled by his failure to break a doubly enciphered <i>Offizier</i> message. This was one of the messages which was supposed to be enciphered initially with the Enigma set up in accordance with the <i>Offizier</i> settings, and subsequently with the general Enigma settings in place. However, while he was sleeping before returning for another shift, he dreamed that the order had been reversed; the general settings had been applied before the <i>Offizier</i> settings. Next day he found that the message had yet to be read, so he applied the theory which had come to him during the night. It worked; he had broken the code in his sleep.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+</blockquote>
+<p>Good served with Turing for nearly two years.<sup id="cite_ref-GuardianObit_3-4" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p>Subsequently, he worked with <a href="/wiki/Donald_Michie" title="Donald Michie">Donald Michie</a> in <a href="/wiki/Max_Newman" title="Max Newman">Max Newman</a>'s group on the <a href="/wiki/FISH_(cryptography)" class="mw-redirect" title="FISH (cryptography)">Fish</a> <a href="/wiki/Cipher" title="Cipher">ciphers</a>, leading to the development of the <a href="/wiki/Colossus_computer" title="Colossus computer">Colossus computer</a>.</p>
+<p>Good was a member of the Bletchley Chess Club which defeated the <a href="/wiki/Oxford_University_Chess_Club" title="Oxford University Chess Club">Oxford University Chess Club</a> 8–4 in a twelve-board team match held on 2 December 1944. Good played fourth board for Bletchley Park, with <a href="/wiki/C.H.O%27D._Alexander" class="mw-redirect" title="C.H.O'D. Alexander">C.H.O'D. Alexander</a>, <a href="/wiki/Harry_Golombek" title="Harry Golombek">Harry Golombek</a>, and <a href="/wiki/James_Macrae_Aitken" title="James Macrae Aitken">James Macrae Aitken</a> in the top three spots.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> He won his game against <a href="/wiki/Robert_Robinson_(organic_chemist)" title="Robert Robinson (organic chemist)">Sir Robert Robinson</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Postwar_work">Postwar work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=3" title="Edit section: Postwar work">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1947 Newman invited Good to join him and Turing at <a href="/wiki/Manchester_University" class="mw-redirect" title="Manchester University">Manchester University</a>. There for three years Good lectured in mathematics and researched computers, including the <a href="/wiki/Manchester_Mark_1" title="Manchester Mark 1">Manchester Mark 1</a>.<sup id="cite_ref-GuardianObit_3-5" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p>In 1948 Good was recruited by the Government Communications Headquarters (<a href="/wiki/GCHQ" class="mw-redirect" title="GCHQ">GCHQ</a>), successor to <a href="/wiki/Bletchley_Park" title="Bletchley Park">Bletchley Park</a>. He remained there until 1959, while also taking up a brief associate professorship at <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> and a short consultancy with <a href="/wiki/IBM" title="IBM">IBM</a>.<sup id="cite_ref-GuardianObit_3-6" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p>From 1959 until he moved to the US in 1967, Good held government-funded positions and from 1964 a senior research fellowship at <a href="/wiki/Trinity_College,_Oxford" title="Trinity College, Oxford">Trinity College, Oxford</a>, and the <a href="/wiki/Atlas_Computer_Laboratory" title="Atlas Computer Laboratory">Atlas Computer Laboratory</a>, where he continued his interests in computing, statistics and chess.<sup id="cite_ref-The_Times_2-1" class="reference"><a href="#cite_note-The_Times-2">[2]</a></sup> He later left Oxford, declaring it "a little stiff".</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=4" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1967 Good moved to the United States, where he was appointed a research professor of statistics at <a href="/wiki/Virginia_Polytechnic_Institute_and_State_University" class="mw-redirect" title="Virginia Polytechnic Institute and State University">Virginia Polytechnic Institute and State University</a>. In 1969 he was appointed a University Distinguished Professor at Virginia Tech, and in 1994 Emeritus University Distinguished Professor.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In 1973 he was elected as a <a href="/wiki/Fellow_of_the_American_Statistical_Association" class="mw-redirect" title="Fellow of the American Statistical Association">Fellow of the American Statistical Association</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>He later said about his arrival in Virginia (from England) in 1967 to start teaching at VPI, where he taught from 1967 to 1994:</p>
+<blockquote class="templatequote">
+<p>"I arrived in Blacksburg in the seventh hour of the seventh day of the seventh month of the year seven in the seventh decade, and I was put in Apartment 7 of Block 7...all by chance."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Research_and_publications">Research and publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=5" title="Edit section: Research and publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Good's published work ran to over three million words.<sup id="cite_ref-GuardianObit_3-7" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup> He was known for his work on <a href="/wiki/Bayesian_statistics" title="Bayesian statistics">Bayesian statistics</a>. He published a number of books on <a href="/wiki/Probability_theory" title="Probability theory">probability theory</a>. In 1958 he published an early version of what later became known as the <a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">fast Fourier transform</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> but it did not became widely known. He played <a href="/wiki/Chess" title="Chess">chess</a> to county standard and helped popularise <a href="/wiki/Go_(board_game)" class="mw-redirect" title="Go (board game)">Go</a>, an Asian boardgame, through a 1965 article in <i><a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a></i> (he had learned the rules from Alan Turing).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In 1965 he originated the concept now known as "<a href="/wiki/Intelligence_explosion" title="Intelligence explosion">intelligence explosion</a>," which anticipates the eventual advent of <a href="/wiki/Superhuman_intelligence" class="mw-redirect" title="Superhuman intelligence">superhuman intelligence</a>:</p>
+<blockquote class="templatequote">
+<p>Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion,' and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+</blockquote>
+<p>Good's authorship of treatises such as "Speculations Concerning the First Ultraintelligent Machine" and "Logic of Man and Machine" (both 1965) made him the obvious person for <a href="/wiki/Stanley_Kubrick" title="Stanley Kubrick">Stanley Kubrick</a> to consult when filming <i><a href="/wiki/2001:_A_Space_Odyssey_(film)" title="2001: A Space Odyssey (film)">2001: A Space Odyssey</a></i> (1968), one of whose principal characters was the paranoid <a href="/wiki/HAL_9000" title="HAL 9000">HAL 9000</a> <a href="/wiki/Supercomputer" title="Supercomputer">supercomputer</a>.<sup id="cite_ref-GuardianObit_3-8" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup> In 1995 Good was elected a member of the <a href="/wiki/Academy_of_Motion_Picture_Arts_and_Sciences" title="Academy of Motion Picture Arts and Sciences">Academy of Motion Picture Arts and Sciences</a>.<sup id="cite_ref-The_Times_2-2" class="reference"><a href="#cite_note-The_Times-2">[2]</a></sup></p>
+<p>According to his assistant, Leslie Pendleton, in 1998 Good wrote in an unpublished autobiographical statement that he suspected an ultraintelligent machine would lead to <a href="/wiki/Existential_risk_from_advanced_artificial_intelligence" class="mw-redirect" title="Existential risk from advanced artificial intelligence">the extinction of man</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=6" title="Edit section: Personality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The slender, bushy-moustached Good was blessed with a <a href="/wiki/Sense_of_humour" class="mw-redirect" title="Sense of humour">sense of humour</a>. He published a paper under the names IJ Good and "K Caj Doog"—the latter, his own nickname spelled backwards. In a 1988 paper,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> he introduced its subject by saying, "Many people have contributed to this topic but I shall mainly review the writings of I. J. Good because I have read them all carefully." In <a href="/wiki/Virginia" title="Virginia">Virginia</a> he chose, as his <a href="/wiki/Vanity_license_plate" class="mw-redirect" title="Vanity license plate">vanity license plate</a>, "007IJG," in subtle reference to his <a href="/wiki/World_War_II" title="World War II">World War II</a> <a href="/wiki/Intelligence_(information_gathering)" class="mw-redirect" title="Intelligence (information gathering)">intelligence</a> work.<sup id="cite_ref-GuardianObit_3-9" class="reference"><a href="#cite_note-GuardianObit-3">[3]</a></sup></p>
+<p>Good never married.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> After going through ten assistants in his first thirteen years at Virginia, he hired Leslie Pendleton, who proved up to the task of managing his quirks. He wanted to marry her, but she refused. Although there was speculation, they were never more than friends, but she was his assistant, companion, and friend for the rest of his life.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=7" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Good died on 5 April 2009 of <a href="/wiki/Natural_causes" class="mw-redirect" title="Natural causes">natural causes</a> in <a href="/wiki/Radford,_Virginia" title="Radford, Virginia">Radford</a>, Virginia, aged 92.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=8" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFGood1950" class="citation">Good, I.J. (1950), <i>Probability and the Weighing of Evidence</i>, London: Griffin, <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a>&#160;<a rel="nofollow" class="external text" href="//www.amazon.com/dp/B0000CHL1R">B0000CHL1R</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Probability+and+the+Weighing+of+Evidence&amp;rft.place=London&amp;rft.pub=Griffin&amp;rft.date=1950&amp;rft.aulast=Good&amp;rft.aufirst=I.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFGood1965" class="citation">Good, Irving John (1965), <i>The estimation of probabilities: An essay on modern Bayesian methods</i>, Research monograph no. 30, M.I.T. Press, <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a>&#160;<a rel="nofollow" class="external text" href="//www.amazon.com/dp/B0006BMRMM">B0006BMRMM</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+estimation+of+probabilities%3A+An+essay+on+modern+Bayesian+methods&amp;rft.series=Research+monograph+no.+30&amp;rft.pub=M.I.T.+Press&amp;rft.date=1965&amp;rft.aulast=Good&amp;rft.aufirst=Irving+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFGood1965" class="citation">Good, Irving John (1965), <i>The scientist speculates: An anthology of partly-baked ideas</i>, Capricorn Books</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+scientist+speculates%3A+An+anthology+of+partly-baked+ideas&amp;rft.pub=Capricorn+Books&amp;rft.date=1965&amp;rft.aulast=Good&amp;rft.aufirst=Irving+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFOsteyeeGood1974" class="citation">Osteyee, David Bridston; Good, Irving John (1974), <i>Information, Weight of Evidence: The Singularity Between Probability Measures and Signal Detection</i>, Springer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-06726-9" title="Special:BookSources/978-3-540-06726-9">978-3-540-06726-9</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Information%2C+Weight+of+Evidence%3A+The+Singularity+Between+Probability+Measures+and+Signal+Detection&amp;rft.pub=Springer&amp;rft.date=1974&amp;rft.isbn=978-3-540-06726-9&amp;rft.aulast=Osteyee&amp;rft.aufirst=David+Bridston&amp;rft.au=Good%2C+Irving+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFGood2009" class="citation">Good, Irving John (2009) [1983], <i>Good Thinking: The Foundations of Probability and Its Applications</i>, of Minnesota Press (Republished by Dover), <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0486474380" title="Special:BookSources/978-0486474380">978-0486474380</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Good+Thinking%3A+The+Foundations+of+Probability+and+Its+Applications&amp;rft.pub=of+Minnesota+Press+%28Republished+by+Dover%29&amp;rft.date=2009&amp;rft.isbn=978-0486474380&amp;rft.aulast=Good&amp;rft.aufirst=Irving+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Good%E2%80%93Turing_frequency_estimation" title="Good–Turing frequency estimation">Good–Turing frequency estimation</a></li>
+<li><a href="/wiki/Cryptanalysis_of_the_Enigma" title="Cryptanalysis of the Enigma">Cryptanalysis of the Enigma</a></li>
+<li><a href="/wiki/MacMahon_Master_theorem" title="MacMahon Master theorem">MacMahon Master theorem</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Passings-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Passings_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.latimes.com/news/obituaries/la-me-passings13-2009apr13,0,3844936.story">"Passings"</a>. <i><a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. 13 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Passings&amp;rft.date=2009-04-13&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fnews%2Fobituaries%2Fla-me-passings13-2009apr13%2C0%2C3844936.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Times-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Times_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Times_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Times_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">The Times of 16-apr-09, <a rel="nofollow" class="external free" href="http://www.timesonline.co.uk/tol/comment/obituaries/article6100314.ece">http://www.timesonline.co.uk/tol/comment/obituaries/article6100314.ece</a> <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-GuardianObit-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-GuardianObit_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-GuardianObit_3-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFDan_van_der_Vat2009" class="citation">Dan van der Vat (29 April 2009), <a rel="nofollow" class="external text" href="https://www.theguardian.com/science/2009/apr/29/jack-good-codebreaker-obituary"><i>"Jack Good" (obituary)</i></a>, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, p.&#160;32<span class="reference-accessdate">, retrieved <span class="nowrap">9 October</span> 2013</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%22Jack+Good%22+%28obituary%29&amp;rft.pages=32&amp;rft.pub=%27%27The+Guardian%27%27&amp;rft.date=2009-04-29&amp;rft.au=Dan+van+der+Vat&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2009%2Fapr%2F29%2Fjack-good-codebreaker-obituary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/pdf/10.1080/000337999296418">Appendix to Barrow-Green, June. "'A corrective to the spirit of too exclusively pure mathematics': Robert Smith (1689-1768) and his prizes at Cambridge University." Annals of science 56.3 (1999): 271-316.</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Hugh_Sebag-Montefiore" title="Hugh Sebag-Montefiore">Hugh Sebag-Montefiore</a>, <i>Enigma: The Battle for the Code</i>, p. 189.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chesshistory.com/winter/winter16.html#4032._The_Polish_Defence_C.N._4014">Chess Notes 4034. The code-breakers</a> by Edward Winter; based on a report from <a href="/wiki/CHESS_magazine" class="mw-redirect" title="CHESS magazine"><i>CHESS</i></a>, February 1945, p. 73.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=AwsuAQAAIAAJ&amp;dq=%22Robert+Robinson%22+%22I.+J.+Good%22+chess&amp;focus=searchwithinvolume&amp;q=%22Robert+Robinson%22+"><i>British Chess magazine</i>, February 1945, p36</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://www.vtnews.vt.edu/articles/2009/04/2009-276.html">"Good, Irving John"</a>, <i>CV</i>, <a href="/wiki/Virginia_Polytechnic_Institute_and_State_University" class="mw-redirect" title="Virginia Polytechnic Institute and State University">Virginia Polytechnic Institute and State University</a>, 6 April 2009<span class="reference-accessdate">, retrieved <span class="nowrap">9 April</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CV&amp;rft.atitle=Good%2C+Irving+John&amp;rft.date=2009-04-06&amp;rft_id=https%3A%2F%2Fwww.vtnews.vt.edu%2Farticles%2F2009%2F04%2F2009-276.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.amstat.org/awards/fellowslist.cfm">View/Search Fellows of the ASA</a>, accessed 2016-08-20.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFSalsburg2002" class="citation">Salsburg, David (2002), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=VCw_RxBrJc8C&amp;pg=PA222"><i>The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century</i></a>, Macmillan, p.&#160;222, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781466801783" title="Special:BookSources/9781466801783">9781466801783</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Lady+Tasting+Tea%3A+How+Statistics+Revolutionized+Science+in+the+Twentieth+Century&amp;rft.pages=222&amp;rft.pub=Macmillan&amp;rft.date=2002&amp;rft.isbn=9781466801783&amp;rft.aulast=Salsburg&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVCw_RxBrJc8C%26pg%3DPA222&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"The interaction algorithm and practical fourier analysis," <a href="/wiki/Journal_of_the_Royal_Statistical_Society" title="Journal of the Royal Statistical Society">Journal of the Royal Statistical Society</a> Series B, vol. 20, no. 2, pp. 361–372, 1958, addendum: ibid. 22 (2), 373–375 (1960).</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chilton-computing.org.uk/acl/literature/reports/p019.htm">"The mystery of Go"</a>, <i>The New Scientist</i>, January 1965, pp. 172–74.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">I.J. Good, <a rel="nofollow" class="external text" href="http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf">"Speculations Concerning the First Ultraintelligent Machine"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111128085512/http://commonsenseatheism.com/wp-content/uploads/2011/02/Good-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf">Archived</a> 28 November 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. (<a rel="nofollow" class="external text" href="http://www.acceleratingfuture.com/pages/ultraintelligentmachine.html">HTML</a>), <i>Advances in Computers</i>, vol. 6, 1965.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Barrat, James (2013). <i>Our final invention&#160;: artificial intelligence and the end of the human era</i> (First ed.). New York: St. Martin's Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780312622374" title="Special:BookSources/9780312622374">9780312622374</a>. <q>In the bio, playfully written in the third person, Good summarized his life’s milestones, including a probably never before seen account of his work at Bletchley Park with Turing. But here’s what he wrote in 1998 about the first superintelligence, and his late-in-the-game U-turn: [The paper] 'Speculations Concerning the First Ultra-intelligent Machine' (1965) . . . began: 'The survival of man depends on the early construction of an ultra-intelligent machine.' Those were his [Good’s] words during the Cold War, and he now suspects that 'survival' should be replaced by 'extinction.' He thinks that, because of international competition, we cannot prevent the machines from taking over. He thinks we are lemmings. He said also that 'probably Man will construct the deus ex machina in his own image.'</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Our+final+invention+%3A+artificial+intelligence+and+the+end+of+the+human+era&amp;rft.place=New+York&amp;rft.edition=First&amp;rft.pub=St.+Martin%27s+Press&amp;rft.date=2013&amp;rft.isbn=9780312622374&amp;rft.aulast=Barrat&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AI.+J.+Good" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">I.J. Good, <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/2245388">"The Interface Between Statistics and Philosophy of Science,"</a> <i>Statistical Science</i>, vol. 3, no. 4, 1988, pp. 386–97.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.vtnews.vt.edu/story.php?relyear=2009&amp;itemno=276">http://www.vtnews.vt.edu/story.php?relyear=2009&amp;itemno=276</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://io9.com/why-a-superintelligent-machine-may-be-the-last-thing-we-1440091472">http://io9.com/why-a-superintelligent-machine-may-be-the-last-thing-we-1440091472</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vtnews.vt.edu/story.php?relyear=2009&amp;itemno=276">Virginia Tech news release of Good's death.</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Dan van der Vat, "Jack Good" (obituary), <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>, 29 April 2009, p.&#160;32.</li>
+<li><a href="/wiki/Hugh_Sebag-Montefiore" title="Hugh Sebag-Montefiore">Hugh Sebag-Montefiore</a>, <i>Enigma: The Battle for the Code</i>, London, Weidenfeld &amp; Nicolson, 2000, <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-297-84251-4" title="Special:BookSources/978-0-297-84251-4">978-0-297-84251-4</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=I._J._Good&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/I._J._Good" class="extiw" title="q:Special:Search/I. J. Good">I. J. Good</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=72215">I. J. Good</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160605065337/http://www.stat.vt.edu/Good/Good-IJ.html">Good's web page</a> at Virginia Tech</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100626183616/http://www.web-e.stat.vt.edu/holtzman/IJGood/IJGoodsShorterPubList,Aug19,2003.pdf">Bibliography ("Shorter Publications List", running to 2300 items) (PDF)</a></li>
+<li><a rel="nofollow" class="external text" href="http://ei.cs.vt.edu/~history/Good.html">Biography</a> focusing on Good's role in the history of computing</li>
+<li><a rel="nofollow" class="external text" href="http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.ss/1032209661">Project Euclid</a> An interview with Good can be downloaded from here</li>
+<li><a rel="nofollow" class="external text" href="http://imagebase.lib.vt.edu/browse.php?folio_ID=/va/fac/good">VT Image Base</a> Photographs</li>
+<li><a rel="nofollow" class="external text" href="http://www.vtnews.vt.edu/story.php?relyear=2009&amp;itemno=276">Obituary</a>, Virginia Tech, 6 April 2009</li>
+<li><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/obituaries/military-obituaries/special-forces-obituaries/5132599/Professor-Jack-Good.html">Obituary</a>, <i><a href="/wiki/Daily_Telegraph" class="mw-redirect" title="Daily Telegraph">Daily Telegraph</a></i>, 10 April 2009</li>
+<li><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/comment/obituaries/article6100314.ece">Obituary</a>, <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>, 16 April 2009</li>
+<li><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/obituaries/jack-good-cryptographer-whose-work-with-alan-turing-at-bletchley-park-was-crucial-to-the-war-effort-1684506.html">Obituary</a>, <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>, 14 May 2009</li>
+<li><a rel="nofollow" class="external text" href="http://www.math.rutgers.edu/~zeilberg/mamarim/mamarimhtml/jack.html">Eulogy</a> Mathematical eulogy (with <a href="/wiki/Maple_(software)" title="Maple (software)">Maple</a> code) by <a href="/wiki/Doron_Zeilberger" title="Doron Zeilberger">Doron Zeilberger</a>, 2 December 2009</li>
+</ul>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/100970781">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/100970781">100970781</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81149667">n81149667</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109292036">0000 0001 0929 2036</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/139596658">139596658</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/03289290X">03289290X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb123833930">cb123833930</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb123833930">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=72215">72215</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Institute_for_Advanced_Technology_in_the_Humanities" title="Institute for Advanced Technology in the Humanities">IATH</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6cc2w4b">w6cc2w4b</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://dblp.org/pid/86/2878">86/2878</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20171216211937
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.320 seconds
+Real time usage: 0.408 seconds
+Preprocessor visited node count: 2967/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43013/2097152 bytes
+Template argument size: 6141/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 2/500
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  358.464      1 -total
+ 30.28%  108.550      1 Template:Infobox_scientist
+ 28.12%  100.792      1 Template:Infobox_person
+ 22.25%   79.776      8 Template:Citation
+ 22.18%   79.523      2 Template:Infobox
+ 16.11%   57.749      1 Template:Reflist
+  8.08%   28.978      1 Template:Isbn
+  6.82%   24.440      1 Template:Authority_control
+  6.60%   23.657      5 Template:Br_separated_entries
+  6.11%   21.886      1 Template:EngvarB
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:404404-0!canonical and timestamp 20171216211937 and revision id 814781136
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=I._J._Good&amp;oldid=814781136">https://en.wikipedia.org/w/index.php?title=I._J._Good&amp;oldid=814781136</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1916_births" title="Category:1916 births">1916 births</a></li><li><a href="/wiki/Category:2009_deaths" title="Category:2009 deaths">2009 deaths</a></li><li><a href="/wiki/Category:20th-century_American_mathematicians" title="Category:20th-century American mathematicians">20th-century American mathematicians</a></li><li><a href="/wiki/Category:21st-century_American_mathematicians" title="Category:21st-century American mathematicians">21st-century American mathematicians</a></li><li><a href="/wiki/Category:20th-century_American_philosophers" title="Category:20th-century American philosophers">20th-century American philosophers</a></li><li><a href="/wiki/Category:Alan_Turing" title="Category:Alan Turing">Alan Turing</a></li><li><a href="/wiki/Category:Alumni_of_Jesus_College,_Cambridge" title="Category:Alumni of Jesus College, Cambridge">Alumni of Jesus College, Cambridge</a></li><li><a href="/wiki/Category:American_people_of_British-Jewish_descent" title="Category:American people of British-Jewish descent">American people of British-Jewish descent</a></li><li><a href="/wiki/Category:American_people_of_Polish-Jewish_descent" title="Category:American people of Polish-Jewish descent">American people of Polish-Jewish descent</a></li><li><a href="/wiki/Category:American_statisticians" title="Category:American statisticians">American statisticians</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:Bayesian_statisticians" title="Category:Bayesian statisticians">Bayesian statisticians</a></li><li><a href="/wiki/Category:British_cryptographers" title="Category:British cryptographers">British cryptographers</a></li><li><a href="/wiki/Category:British_information_theorists" title="Category:British information theorists">British information theorists</a></li><li><a href="/wiki/Category:British_Jews" title="Category:British Jews">British Jews</a></li><li><a href="/wiki/Category:British_people_of_Polish-Jewish_descent" title="Category:British people of Polish-Jewish descent">British people of Polish-Jewish descent</a></li><li><a href="/wiki/Category:Disease-related_deaths_in_Virginia" title="Category:Disease-related deaths in Virginia">Disease-related deaths in Virginia</a></li><li><a href="/wiki/Category:English_emigrants_to_the_United_States" title="Category:English emigrants to the United States">English emigrants to the United States</a></li><li><a href="/wiki/Category:English_Jews" title="Category:English Jews">English Jews</a></li><li><a href="/wiki/Category:English_mathematicians" title="Category:English mathematicians">English mathematicians</a></li><li><a href="/wiki/Category:English_statisticians" title="Category:English statisticians">English statisticians</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Statistical_Association" title="Category:Fellows of the American Statistical Association">Fellows of the American Statistical Association</a></li><li><a href="/wiki/Category:Government_Communications_Headquarters_people" title="Category:Government Communications Headquarters people">Government Communications Headquarters people</a></li><li><a href="/wiki/Category:Modern_cryptographers" title="Category:Modern cryptographers">Modern cryptographers</a></li><li><a href="/wiki/Category:People_associated_with_Bletchley_Park" title="Category:People associated with Bletchley Park">People associated with Bletchley Park</a></li><li><a href="/wiki/Category:People_educated_at_Haberdashers%27_Aske%27s_Boys%27_School" title="Category:People educated at Haberdashers&#039; Aske&#039;s Boys&#039; School">People educated at Haberdashers' Aske's Boys' School</a></li><li><a href="/wiki/Category:People_from_Hampstead" title="Category:People from Hampstead">People from Hampstead</a></li><li><a href="/wiki/Category:People_from_Radford,_Virginia" title="Category:People from Radford, Virginia">People from Radford, Virginia</a></li><li><a href="/wiki/Category:Singularitarianism" title="Category:Singularitarianism">Singularitarianism</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:Amateur_chess_players" title="Category:Amateur chess players">Amateur chess players</a></li><li><a href="/wiki/Category:Foreign_Office_personnel_of_World_War_II" title="Category:Foreign Office personnel of World War II">Foreign Office personnel of World War II</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:EngvarB_from_April_2015" title="Category:EngvarB from April 2015">EngvarB from April 2015</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2015" title="Category:Use dmy dates from April 2015">Use dmy dates from April 2015</a></li><li><a href="/wiki/Category:Pages_to_import_images_to_Wikidata" title="Category:Pages to import images to Wikidata">Pages to import images to Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=I.+J.+Good" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=I.+J.+Good" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/I._J._Good" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:I._J._Good" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/I._J._Good">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=I._J._Good&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=I._J._Good&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/I._J._Good" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/I._J._Good" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=I._J._Good&amp;oldid=814781136" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=I._J._Good&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224372" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=I._J._Good&amp;id=814781136" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=I.+J.+Good">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=I.+J.+Good&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=I._J._Good&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/I._J._Good" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Irving_Ioannes_Good" title="Irving Ioannes Good – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Irving_J._Good" title="Irving J. Good – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Irving_John_Good" title="Irving John Good – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4,_%D0%98%D1%80%D0%B2%D0%B8%D0%BD%D0%B3_%D0%94%D0%B6%D0%BE%D0%BD" title="Гуд, Ирвинг Джон – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Irvin_John_Good" title="Irvin John Good – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/I._J._Good" title="I. J. Good – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224372#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 December 2017, at 22:20.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=I._J._Good&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.408","ppvisitednodes":{"value":2967,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43013,"limit":2097152},"templateargumentsize":{"value":6141,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  358.464      1 -total"," 30.28%  108.550      1 Template:Infobox_scientist"," 28.12%  100.792      1 Template:Infobox_person"," 22.25%   79.776      8 Template:Citation"," 22.18%   79.523      2 Template:Infobox"," 16.11%   57.749      1 Template:Reflist","  8.08%   28.978      1 Template:Isbn","  6.82%   24.440      1 Template:Authority_control","  6.60%   23.657      5 Template:Br_separated_entries","  6.11%   21.886      1 Template:EngvarB"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":3917377,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20171216211937","ttl":86400,"transientcontent":true}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1214"});});</script>
+	</body>
+</html>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Isaac - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isaac","wgTitle":"Isaac","wgCurRevisionId":815094141,"wgRevisionId":815094141,"wgArticleId":15192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox religious biography with unsupported parameters","Articles containing Arabic-language text","Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Good articles","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Prophets of the Hebrew Bible","Isaac","Biblical patriarchs","Christian saints from the Old Testament","Esau","Prophets of Islam","Vayeira","Abraham"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Isaac","wgRelevantArticleId":15192,"wgRequestId":"WjWzbQpAMCUAAFjvv5oAAABD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q671872","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.12"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4f/Isaac_a_Lover_of_Peace.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Isaac"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Isaac&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Isaac&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Isaac"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isaac rootpage-Isaac skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div id="mw-indicator-good-star" class="mw-indicator"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Follow the link for more information."><img alt="This is a good article. Follow the link for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Isaac</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the given name, see <a href="/wiki/Isaac_(name)" title="Isaac (name)">Isaac (name)</a>. For other people with this name, see <a href="/wiki/Isaac_(disambiguation)" class="mw-disambig" title="Isaac (disambiguation)">Isaac (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn" style="text-align:center;font-size:125%;font-weight:bold;background:; color: #000000;">Isaac</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Isaac_a_Lover_of_Peace.jpg" class="image"><img alt="Isaac a Lover of Peace.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Isaac_a_Lover_of_Peace.jpg/220px-Isaac_a_Lover_of_Peace.jpg" width="220" height="251" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Isaac_a_Lover_of_Peace.jpg/330px-Isaac_a_Lover_of_Peace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Isaac_a_Lover_of_Peace.jpg/440px-Isaac_a_Lover_of_Peace.jpg 2x" data-file-width="767" data-file-height="876" /></a>
+<div><i>Isaac digging for the wells</i>, imagined in a <a href="/wiki/Bible" title="Bible">Bible</a> <a href="/wiki/Illustration" title="Illustration">illustration</a> (c. 1900)</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:; color: #000000;">Personal</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><a href="/wiki/Canaan" title="Canaan">Canaan</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>Canaan</td>
+</tr>
+<tr>
+<th scope="row">Spouse</th>
+<td><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td><a href="/wiki/Esau" title="Esau">Esau</a><br />
+<a href="/wiki/Jacob" title="Jacob">Jacob</a></td>
+</tr>
+</table>
+<p>According to the biblical <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Book of Genesis</a>, <b>Isaac</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="'z' in 'zoom'">z</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'k' in 'kind'">k</span></span>/</a></span></span>; <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span style="white-space:nowrap;" lang="he" dir="rtl"><span class="script-hebrew" style="font-size: 115%; font-family: Alef, 'SBL BibLit', 'SBL Hebrew', 'David CLM', 'Frenk Ruehl CLM', 'Hadasim CLM', Shofar, 'Ezra SIL', 'Ezra SIL SR', Cardo, 'Noto Sans Hebrew', David, FreeSerif, 'Times New Roman', FreeSans, Arial;" dir="rtl">יִצְחָק</span>‎</span>, <small><a href="/wiki/Modern_Hebrew" title="Modern Hebrew">Modern</a></small>&#160;<i><span title="he transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Yiṣḥáq</span></i> <small><a href="/wiki/Tiberian_vocalization" title="Tiberian vocalization">Tiberian</a></small>&#160;<i><span title="Hebrew transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Yiṣḥāq</span></i>; <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl">إسحٰق/إسحاق</span>‎, <span title="DIN 31635 Arabic" class="Unicode" style="white-space:normal; text-decoration: none"><i>Isḥāq</i></span>) was the son of <a href="/wiki/Abraham" title="Abraham">Abraham</a> and <a href="/wiki/Sarah" title="Sarah">Sarah</a> and father of <a href="/wiki/Jacob" title="Jacob">Jacob</a>; his name means "he will laugh", reflecting Sarah's response when told that she would have a child.<sup id="cite_ref-FOOTNOTEdeClaise-Walford2000647_1-0" class="reference"><a href="#cite_note-FOOTNOTEdeClaise-Walford2000647-1">[1]</a></sup> In the Bible, he is one of the three <a href="/wiki/Patriarchs_(Bible)" title="Patriarchs (Bible)">patriarchs</a> of the <a href="/wiki/Israelites" title="Israelites">Israelites</a>, the only one whose name was not changed, and the only one who did not move out of <a href="/wiki/Canaan" title="Canaan">Canaan</a>.<sup id="cite_ref-FOOTNOTEdeClaise-Walford2000647_1-1" class="reference"><a href="#cite_note-FOOTNOTEdeClaise-Walford2000647-1">[1]</a></sup> According to the narrative, he died when he was 180&#160;years old, the longest-lived of the three.<sup id="cite_ref-FOOTNOTEdeClaise-Walford2000647_1-2" class="reference"><a href="#cite_note-FOOTNOTEdeClaise-Walford2000647-1">[1]</a></sup></p>
+<p>The biblical narrative of Isaac has influenced various religious traditions, including Judaism, Christianity and Islam. Modern scholarship doubts the existence of figures from Genesis, including Isaac.<sup id="cite_ref-EvansLohr2012_2-0" class="reference"><a href="#cite_note-EvansLohr2012-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Genesis_narrative"><span class="tocnumber">2</span> <span class="toctext">Genesis narrative</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Birth"><span class="tocnumber">2.1</span> <span class="toctext">Birth</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Binding"><span class="tocnumber">2.2</span> <span class="toctext">Binding</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Family_life"><span class="tocnumber">2.3</span> <span class="toctext">Family life</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Migration"><span class="tocnumber">2.4</span> <span class="toctext">Migration</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Birthright"><span class="tocnumber">2.5</span> <span class="toctext">Birthright</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Family_tree"><span class="tocnumber">2.6</span> <span class="toctext">Family tree</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Burial_site"><span class="tocnumber">3</span> <span class="toctext">Burial site</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Jewish_views"><span class="tocnumber">4</span> <span class="toctext">Jewish views</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Christian_views"><span class="tocnumber">5</span> <span class="toctext">Christian views</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#New_Testament"><span class="tocnumber">5.1</span> <span class="toctext">New Testament</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Islamic_views"><span class="tocnumber">6</span> <span class="toctext">Islamic views</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Quran"><span class="tocnumber">6.1</span> <span class="toctext">Quran</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Academic"><span class="tocnumber">7</span> <span class="toctext">Academic</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Documentary_hypothesis"><span class="tocnumber">7.1</span> <span class="toctext">Documentary hypothesis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#In_art"><span class="tocnumber">8</span> <span class="toctext">In art</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Citations"><span class="tocnumber">10</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Anglicisation" title="Anglicisation">anglicized</a> name Isaac is a transliteration of the Hebrew term <i>Yiṣḥāq</i> which literally means "He laughs/will laugh."<sup id="cite_ref-Strongs_3-0" class="reference"><a href="#cite_note-Strongs-3">[3]</a></sup> <a href="/wiki/Ugaritic_language" class="mw-redirect" title="Ugaritic language">Ugaritic</a> texts dating from the 13th century BCE refer to the benevolent smile of the <a href="/wiki/Canaanite_religion" class="mw-redirect" title="Canaanite religion">Canaanite</a> deity <a href="/wiki/El_(deity)" title="El (deity)">El</a>.<sup id="cite_ref-EoR-Isaac_4-0" class="reference"><a href="#cite_note-EoR-Isaac-4">[4]</a></sup> Genesis, however, ascribes the laughter to Isaac's parents, Abraham and Sarah, rather than El. According to the biblical narrative, Abraham fell on his face and laughed when God (Hebrew, <i><a href="/wiki/Elohim" title="Elohim">Elohim</a></i>) imparted the news of their son's eventual birth. He laughed because Sarah was past the age of childbearing; both she and Abraham were advanced in age. Later, when Sarah overheard three messengers of the Lord renew the promise, she laughed inwardly for the same reason. Sarah denied laughing when God questioned Abraham about it.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Genesis_narrative">Genesis narrative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=2" title="Edit section: Genesis narrative">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Birth">Birth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=3" title="Edit section: Birth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It was prophesied to the patriarch Abraham that he would have a son and that his name should be Isaac. When Abraham became one hundred years old, this son was born to him by his first wife Sarah.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Though this was Abraham's second son<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> it was Sarah's first and only child.</p>
+<p>On the eighth day from his birth, Isaac was <a href="/wiki/Religious_male_circumcision" title="Religious male circumcision">circumcised</a>, as was necessary for all males of Abraham's household, in order to be in compliance with <a href="/wiki/Yahweh" title="Yahweh">Yahweh</a>'s covenant.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>After Isaac had been weaned, Sarah saw <a href="/wiki/Ishmael" title="Ishmael">Ishmael</a> mocking, and urged her husband to cast out <a href="/wiki/Hagar" title="Hagar">Hagar</a> the bondservant and her son, so that Isaac would be Abraham's sole heir. Abraham was hesitant, but at God's order he listened to his wife's request.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Binding">Binding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=4" title="Edit section: Binding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Beit_alfa02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beit_alfa02.jpg/170px-Beit_alfa02.jpg" width="170" height="109" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beit_alfa02.jpg/255px-Beit_alfa02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beit_alfa02.jpg/340px-Beit_alfa02.jpg 2x" data-file-width="600" data-file-height="386" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Beit_alfa02.jpg" class="internal" title="Enlarge"></a></div>
+The <i>Akedah</i>, mosaic on the floor of <a href="/wiki/Beit_Alfa_Synagogue" class="mw-redirect" title="Beit Alfa Synagogue">Beit Alfa Synagogue</a></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Binding_of_Isaac" title="Binding of Isaac">Binding of Isaac</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Abraham#Abraham_and_Isaac" title="Abraham">Abraham and Isaac</a></div>
+<p>At some point in Isaac's youth, his father Abraham brought him to Mount <a href="/wiki/Moriah" title="Moriah">Moriah</a>. At God's command, Abraham was to build a sacrificial altar and sacrifice his son Isaac upon it. After he had bound his son to the altar and drawn his knife to kill him, at the very last moment an <a href="/wiki/Angel" title="Angel">angel</a> of God prevented Abraham from proceeding. Rather, he was directed to sacrifice instead a nearby ram that was stuck in thickets. This event served as a test of Abraham's <a href="/wiki/Faith#Judaism" title="Faith">faith</a> in God, <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> not as an actual human sacrifice.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Esau_and_Jacob_Presented_to_Isaac.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Esau_and_Jacob_Presented_to_Isaac.jpg/170px-Esau_and_Jacob_Presented_to_Isaac.jpg" width="170" height="122" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Esau_and_Jacob_Presented_to_Isaac.jpg/255px-Esau_and_Jacob_Presented_to_Isaac.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Esau_and_Jacob_Presented_to_Isaac.jpg/340px-Esau_and_Jacob_Presented_to_Isaac.jpg 2x" data-file-width="404" data-file-height="291" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Esau_and_Jacob_Presented_to_Isaac.jpg" class="internal" title="Enlarge"></a></div>
+The birth of Esau and Jacob, as painted by <a href="/wiki/Benjamin_West" title="Benjamin West">Benjamin West</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Family_life">Family life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=5" title="Edit section: Family life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When Isaac was 40, Abraham sent <a href="/wiki/Eliezer" title="Eliezer">Eliezer</a>, his steward, into <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a> to find a wife for Isaac, from his nephew <a href="/wiki/Bethuel" title="Bethuel">Bethuel</a>'s family. Eliezer chose the <a href="/wiki/Aramean" class="mw-redirect" title="Aramean">Aramean</a> <a href="/wiki/Rebecca" title="Rebecca">Rebekah</a> for Isaac. After many years of marriage to Isaac, Rebekah had still not given birth to a child and was believed to be barren. Isaac prayed for her and she conceived. Rebekah gave birth to twin boys, <a href="/wiki/Esau" title="Esau">Esau</a> and <a href="/wiki/Jacob" title="Jacob">Jacob</a>. Isaac was 60 years old when his two sons were born.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Isaac favored Esau, and Rebekah favored Jacob.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>Isaac is unique among the patriarchs for remaining faithful to his wife, and for not having concubines.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Migration">Migration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=6" title="Edit section: Migration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the age of 75, Isaac moved to <i><a href="/wiki/Abraham#Abram_and_Hagar" title="Abraham">Beer-lahai-roi</a></i> after his father died.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> When the land experienced famine, he removed to the <a href="/wiki/Philistines" title="Philistines">Philistine</a> land of <a href="/wiki/Gerar" title="Gerar">Gerar</a> where his father once lived. This land was still under the control of <a href="/wiki/Abimelech" title="Abimelech">King Abimelech</a> as it was in the days of Abraham. Like his father, Isaac also deceived <a href="/wiki/Abraham#Abraham_and_Abimelech" title="Abraham">Abimelech</a> about his wife and also got into the well business. He had gone back to all of the wells that his father dug and saw that they were all stopped up with earth. The Philistines did this after Abraham died. So, Isaac unearthed them and began to dig for more wells all the way to <a href="/wiki/Beersheba" title="Beersheba">Beersheba</a>, where he made a pact with Abimelech, just like in the day of his father.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Giotto_di_Bondone_080.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Giotto_di_Bondone_080.jpg/220px-Giotto_di_Bondone_080.jpg" width="220" height="230" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Giotto_di_Bondone_080.jpg/330px-Giotto_di_Bondone_080.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Giotto_di_Bondone_080.jpg/440px-Giotto_di_Bondone_080.jpg 2x" data-file-width="2590" data-file-height="2709" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Giotto_di_Bondone_080.jpg" class="internal" title="Enlarge"></a></div>
+Isaac blessing his son, as painted by <a href="/wiki/Giotto_di_Bondone" class="mw-redirect" title="Giotto di Bondone">Giotto di Bondone</a></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Birthright">Birthright</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=7" title="Edit section: Birthright">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Isaac grew old and became blind. He called his son Esau and directed him to procure some venison for him, in order to receive Isaac's blessing. While Esau was hunting, Jacob, after listening to his mother's advice, deceived his blind father by misrepresenting himself as Esau and thereby obtained his father's blessing, such that Jacob became Isaac's primary heir and Esau was left in an inferior position. According to Genesis 25:29–34, Esau had previously sold his birthright to Jacob for "bread and stew of lentils". Thereafter, Isaac sent Jacob into Mesopotamia to take a wife of his mother's brother's house. After 20 years working for his uncle <a href="/wiki/Laban_(Bible)" title="Laban (Bible)">Laban</a>, Jacob returned home. He reconciled with his twin brother Esau, then he and Esau buried their father, Isaac, in Hebron after he died at the age of 180.<sup id="cite_ref-JewishEncyclopedia_20-0" class="reference"><a href="#cite_note-JewishEncyclopedia-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<h3><span class="mw-headline" id="Family_tree">Family tree</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=8" title="Edit section: Family tree">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="border-spacing: 0px;">
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Terah" title="Terah">Terah</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Sarah" title="Sarah">Sarah</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Abraham" title="Abraham">Abraham</a></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Hagar" title="Hagar">Hagar</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Haran" title="Haran">Haran</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Nahor,_son_of_Terah" title="Nahor, son of Terah">Nahor</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Ishmael" title="Ishmael">Ishmael</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="border-right:1px dashed black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Milcah" title="Milcah">Milcah</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Iscah" title="Iscah">Iscah</a></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><i><a href="/wiki/Ishmaelites" title="Ishmaelites">Ishmaelites</a></i></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">7 sons<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Bethuel" title="Bethuel">Bethuel</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">1st daughter</td>
+<td style="border-right:1px solid black;border-bottom:1px dashed black;height:1em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">2nd daughter</td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a class="mw-selflink selflink">Isaac</a></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Laban_(Bible)" title="Laban (Bible)">Laban</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><i><a href="/wiki/Moab" title="Moab">Moabites</a></i></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><i><a href="/wiki/Ammon" title="Ammon">Ammonites</a></i></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Esau" title="Esau">Esau</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Jacob" title="Jacob">Jacob</a></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px dotted black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dotted black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Rachel" title="Rachel">Rachel</a></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px dashed black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px dotted black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dotted black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Bilhah" title="Bilhah">Bilhah</a></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><i><a href="/wiki/Edomites" class="mw-redirect" title="Edomites">Edomites</a></i></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px dotted black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dotted black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Zilpah" title="Zilpah">Zilpah</a></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="border-right:1px dashed black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Leah" title="Leah">Leah</a></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">1. <a href="/wiki/Reuben_(son_of_Jacob)" title="Reuben (son of Jacob)">Reuben</a><br />
+2. <a href="/wiki/Simeon_(son_of_Jacob)" title="Simeon (son of Jacob)">Simeon</a><br />
+3. <a href="/wiki/Levi" title="Levi">Levi</a><br />
+4. <a href="/wiki/Judah_(son_of_Jacob)" title="Judah (son of Jacob)">Judah</a><br />
+9. <a href="/wiki/Issachar" title="Issachar">Issachar</a><br />
+10. <a href="/wiki/Zebulun" title="Zebulun">Zebulun</a><br />
+<a href="/wiki/Dinah" title="Dinah">Dinah</a>&#160;<small>(daughter)</small></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">7. <a href="/wiki/Gad_(son_of_Jacob)" title="Gad (son of Jacob)">Gad</a><br />
+8. <a href="/wiki/Asher" title="Asher">Asher</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">5. <a href="/wiki/Dan_(son_of_Jacob)" title="Dan (son of Jacob)">Dan</a><br />
+6. <a href="/wiki/Naphtali" title="Naphtali">Naphtali</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em">11. <a href="/wiki/Joseph_(Genesis)" title="Joseph (Genesis)">Joseph</a><br />
+12. <a href="/wiki/Benjamin" title="Benjamin">Benjamin</a></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+</table>
+<p><br /></p>
+<h2><span class="mw-headline" id="Burial_site">Burial site</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=9" title="Edit section: Burial site">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to local tradition, the graves of Isaac and <a href="/wiki/Rebecca" title="Rebecca">Rebekah</a>, along with the graves of Abraham and Sarah and Jacob and <a href="/wiki/Leah" title="Leah">Leah</a>, are in the <a href="/wiki/Cave_of_the_Patriarchs" title="Cave of the Patriarchs">Cave of the Patriarchs</a>.</p>
+<h2><span class="mw-headline" id="Jewish_views">Jewish views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=10" title="Edit section: Jewish views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Rabbinic_literature" title="Rabbinic literature">rabbinical tradition</a>, the age of Isaac at the time of binding is taken to be 37, which contrasts with common portrayals of Isaac as a child.<sup id="cite_ref-New_EoJ_24-0" class="reference"><a href="#cite_note-New_EoJ-24">[24]</a></sup> The <a href="/wiki/Rabbi" title="Rabbi">rabbis</a> also thought that the reason for the death of Sarah was the news of the intended sacrifice of Isaac.<sup id="cite_ref-New_EoJ_24-1" class="reference"><a href="#cite_note-New_EoJ-24">[24]</a></sup> The sacrifice of Isaac is cited in appeals for the <a href="/wiki/Atonement_in_Judaism" title="Atonement in Judaism">mercy of God</a> in later <a href="/wiki/Judaism" title="Judaism">Jewish</a> traditions.<sup id="cite_ref-Britannica-Isaac_25-0" class="reference"><a href="#cite_note-Britannica-Isaac-25">[25]</a></sup> The post-biblical Jewish interpretations often elaborate the role of Isaac beyond the biblical description and primarily focus on Abraham's intended sacrifice of Isaac, called the <i>aqedah</i> ("binding").<sup id="cite_ref-EoR-Isaac_4-1" class="reference"><a href="#cite_note-EoR-Isaac-4">[4]</a></sup> According to a version of these interpretations, Isaac died in the sacrifice and was revived.<sup id="cite_ref-EoR-Isaac_4-2" class="reference"><a href="#cite_note-EoR-Isaac-4">[4]</a></sup> According to many accounts of <a href="/wiki/Aggadah" title="Aggadah">Aggadah</a>, unlike the Bible, it is <a href="/wiki/Satan" title="Satan">Satan</a> who is testing Isaac as an agent of <a href="/wiki/God_in_Judaism" title="God in Judaism">God</a>.<sup id="cite_ref-Brill's_New_Pauly_26-0" class="reference"><a href="#cite_note-Brill's_New_Pauly-26">[26]</a></sup> Isaac's willingness to follow God's command at the cost of his death has been a model for many Jews who preferred <a href="/wiki/Martyr" title="Martyr">martyrdom</a> to violation of the <a href="/wiki/Halakha" title="Halakha">Jewish law</a>.<sup id="cite_ref-New_EoJ_24-2" class="reference"><a href="#cite_note-New_EoJ-24">[24]</a></sup></p>
+<p>According to the Jewish tradition, Isaac instituted the afternoon prayer. This tradition is based on Genesis chapter 24, verse 63<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> ("Isaac went out to meditate in the field at the eventide").<sup id="cite_ref-New_EoJ_24-3" class="reference"><a href="#cite_note-New_EoJ-24">[24]</a></sup></p>
+<p>Isaac was the only <a href="/wiki/Patriarch" title="Patriarch">patriarch</a> who stayed in Canaan during his whole life and though once he tried to leave, God told him not to do so.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Rabbinic tradition gave the explanation that Isaac was almost sacrificed and anything dedicated as a sacrifice may not leave the <a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a>.<sup id="cite_ref-New_EoJ_24-4" class="reference"><a href="#cite_note-New_EoJ-24">[24]</a></sup> Isaac was the oldest of the biblical patriarchs at the time of his death, and the only patriarch whose name was not changed.<sup id="cite_ref-EoR-Isaac_4-3" class="reference"><a href="#cite_note-EoR-Isaac-4">[4]</a></sup><sup id="cite_ref-Easton_29-0" class="reference"><a href="#cite_note-Easton-29">[29]</a></sup></p>
+<p>Rabbinic literature also linked Isaac's blindness in old age, as stated in the Bible, to the sacrificial binding: Isaac's eyes went blind because the tears of angels present at the time of his sacrifice fell on Isaac's eyes.<sup id="cite_ref-Brill's_New_Pauly_26-1" class="reference"><a href="#cite_note-Brill's_New_Pauly-26">[26]</a></sup></p>
+<h2><span class="mw-headline" id="Christian_views">Christian views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=11" title="Edit section: Christian views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:AbrahamIsaac.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AbrahamIsaac.jpg/220px-AbrahamIsaac.jpg" width="220" height="273" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AbrahamIsaac.jpg/330px-AbrahamIsaac.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/AbrahamIsaac.jpg/440px-AbrahamIsaac.jpg 2x" data-file-width="507" data-file-height="629" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AbrahamIsaac.jpg" class="internal" title="Enlarge"></a></div>
+Isaac embraces his father Abraham after the <a href="/wiki/Binding_of_Isaac" title="Binding of Isaac">Binding of Isaac</a>, early 1900s Bible illustration</div>
+</div>
+</div>
+<p>The <a href="/wiki/Early_Christianity" title="Early Christianity">early Christian church</a> continued and developed the New Testament theme of Isaac as a type of Christ and the Church being both "the son of the promise" and the "father of the faithful". <a href="/wiki/Tertullian" title="Tertullian">Tertullian</a> draws a parallel between Isaac's bearing the wood for the sacrificial fire with Christ's carrying his cross.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> and there was a general agreement that, while all the sacrifices of the Old Law were anticipations of that on Calvary, the sacrifice of Isaac was so "in a pre-eminent way".<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>The <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a> and the Roman Catholic Church consider Isaac as a Saint along with other <a href="/wiki/Biblical_patriarchs" class="mw-redirect" title="Biblical patriarchs">biblical patriarchs</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Along with those of other patriarchs and the Old Testament Righteous, his feast day is celebrated in the Eastern Orthodox Church and the Byzantine rite of the Catholic Church on the Second Sunday before Christmas (December 11–17), under the title <i>the Sunday of the Forefathers</i>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h3><span class="mw-headline" id="New_Testament">New Testament</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=12" title="Edit section: New Testament">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/New_Testament" title="New Testament">New Testament</a> states Isaac was "offered up" by his father Abraham, and that Isaac blessed his sons.<sup id="cite_ref-Easton_29-1" class="reference"><a href="#cite_note-Easton-29">[29]</a></sup> Paul contrasted Isaac, symbolizing <a href="/wiki/Adiaphora#Adiaphora_in_Christianity" title="Adiaphora">Christian liberty</a>, with the rejected older son Ishmael, symbolizing slavery;<sup id="cite_ref-EoR-Isaac_4-4" class="reference"><a href="#cite_note-EoR-Isaac-4">[4]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> Hagar is associated with the <a href="/wiki/Sinai_Peninsula" title="Sinai Peninsula">Sinai</a> covenant, while Sarah is associated with the covenant of grace, into which her son Isaac enters. The <a href="/wiki/Epistle_of_James" title="Epistle of James">Epistle of James</a> chapter 2, verses 21–24,<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> states that the sacrifice of Isaac shows that justification (in the Johannine sense) requires both faith and works.<sup id="cite_ref-EoC-Isaac_37-0" class="reference"><a href="#cite_note-EoC-Isaac-37">[37]</a></sup></p>
+<p>In the <a href="/wiki/Epistle_to_the_Hebrews" title="Epistle to the Hebrews">Epistle to the Hebrews</a>, Abraham's willingness to follow God's command to sacrifice Isaac is used as an example of faith as is Isaac's action in blessing Jacob and Esau with reference to the future promised by God to Abraham<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> In verse 19, the author views the release of Isaac from sacrifice as analogous to the <a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">resurrection of Jesus</a>, the idea of the sacrifice of Isaac being a prefigure of the sacrifice of Jesus on the <a href="/wiki/Christian_cross" title="Christian cross">cross</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<h2><span class="mw-headline" id="Islamic_views">Islamic views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=13" title="Edit section: Islamic views">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Isaac in Islam</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Grave_Ishaq.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Grave_Ishaq.JPG/220px-Grave_Ishaq.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Grave_Ishaq.JPG/330px-Grave_Ishaq.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Grave_Ishaq.JPG/440px-Grave_Ishaq.JPG 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Grave_Ishaq.JPG" class="internal" title="Enlarge"></a></div>
+<i><a href="/wiki/Cave_of_the_Patriarchs" title="Cave of the Patriarchs">Cave of the Patriarchs</a></i>, <a href="/wiki/Hebron" title="Hebron">Hebron</a></div>
+</div>
+</div>
+<p><a href="/wiki/Islam" title="Islam">Islam</a> considers Isaac as a <a href="/wiki/Prophets_of_Islam" class="mw-redirect" title="Prophets of Islam">prophet of Islam</a>, and describes him as the father of the <a href="/wiki/Israelites" title="Israelites">Israelites</a> and a righteous <a href="/wiki/Servant_of_God" title="Servant of God">servant of God</a>.</p>
+<p>Isaac, along with <a href="/wiki/Ishmael" title="Ishmael">Ishmael</a>, is highly important for Muslims for continuing to preach the message of <a href="/wiki/Monotheism" title="Monotheism">monotheism</a> after his father <a href="/wiki/Abraham" title="Abraham">Abraham</a>. Among Isaac's children was the follow-up Israelite patriarch <a href="/wiki/Jacob" title="Jacob">Jacob</a>, who too is venerated an Islamic prophet.</p>
+<p>Isaac is mentioned fifteen times by name in the <a href="/wiki/Quran" title="Quran">Quran</a>, often with his father and his son, <a href="/wiki/Jacob" title="Jacob">Jacob</a>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> The Quran states that Abraham received "good tidings of Isaac, a prophet, of the righteous", and that God blessed them both (37: 12). In a fuller description, when <a href="/wiki/Angel" title="Angel">angels</a> came to <a href="/wiki/Abraham" title="Abraham">Abraham</a> to tell him of the future punishment to be imposed on <a href="/wiki/Sodom_and_Gomorrah" title="Sodom and Gomorrah">Sodom and Gomorrah</a>, his wife, <a href="/wiki/Sarah" title="Sarah">Sarah</a>, "laughed, and We gave her good tidings of Isaac, and after Isaac of (a grandson) Jacob" (11: 71–74); and it is further explained that this event will take place despite Abraham and Sarah's old age. Several verses speak of Isaac as a "gift" to Abraham (6: 84; 14: 49–50), and 24: 26–27 adds that <a href="/wiki/God" title="God">God</a> made "prophethood and the Book to be among his offspring", which has been interpreted to refer to Abraham's two prophetic sons, his prophetic grandson <a href="/wiki/Jacob" title="Jacob">Jacob</a>, and his prophetic great-grandson <a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Joseph</a>. In the <a href="/wiki/Qur%27an" class="mw-redirect" title="Qur'an">Qur'an</a>, it later narrates that Abraham also praised <a href="/wiki/God" title="God">God</a> for giving him Ishmael and Isaac in his old age (14: 39–41).</p>
+<p>Elsewhere in the Quran, Isaac is mentioned in lists: Joseph follows the religion of his forefathers Abraham, Isaac and Jacob (12: 38) and speaks of <a href="/wiki/God" title="God">God</a>'s favor to them (12: 6); <a href="/wiki/Jacob" title="Jacob">Jacob</a>'s sons all testify their faith and promise to worship the <a href="/wiki/God" title="God">God</a> that their forefathers, "Abraham, Ishmael and Isaac", worshiped (2: 127); and the Qur'an commands <a href="/wiki/Muslim" title="Muslim">Muslims</a> to believe in the revelations that were given to "Abraham, Ishmael, Isaac, Jacob and the Patriarchs" (2: 136; 3: 84). In the Quran's narrative of Abraham's near-sacrifice of his son (37: 102), the name of the son is not mentioned and debate has continued over the son's identity, though many feel that the identity is the least important element in a story which is given to show the courage that one develops through faith.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup></p>
+<h3><span class="mw-headline" id="Quran">Quran</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=14" title="Edit section: Quran">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Quran mentions Isaac as a prophet and a righteous man of <a href="/wiki/God_in_Islam" title="God in Islam">God</a>. Isaac and Jacob are mentioned as being bestowed upon Abraham as gifts of God, who then worshipped God only and were righteous leaders in the way of God:</p>
+<blockquote class="templatequote">
+<p>And We bestowed on him Isaac and, as an additional gift, (a grandson), Jacob, and We made righteous men of every one (of them).<br />
+And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).</p>
+<div class="templatequotecite">— <cite>Quran, <a href="/wiki/Sura" class="mw-redirect" title="Sura">sura</a> 21 (<a href="/wiki/Al-Anbiya" title="Al-Anbiya">Al-Anbiya</a>), <a href="/wiki/Ayah" title="Ayah">ayah</a> 72–73<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup></cite></div>
+</blockquote>
+<blockquote class="templatequote">
+<p>And WE gave him the glad tidings of Isaac, a Prophet, and one of the righteous.</p>
+<div class="templatequotecite">— <cite>Quran, <a href="/wiki/Sura" class="mw-redirect" title="Sura">sura</a> 37 (<a href="/wiki/As-Saaffat" title="As-Saaffat">As-Saaffat</a>), <a href="/wiki/Ayah" title="Ayah">ayah</a> 112<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup></cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="Academic">Academic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=15" title="Edit section: Academic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some scholars have described Isaac as "a <a href="/wiki/Legend" title="Legend">legendary</a> figure" or "as a figure representing <a href="/wiki/Tribe" title="Tribe">tribal</a> history, or "as a <a href="/wiki/Nomad" title="Nomad">seminomadic</a> leader."<sup id="cite_ref-EoC1-Isaac_44-0" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup> The stories of Isaac, like other patriarchal stories of Genesis, are generally believed to have "their origin in folk memories and oral traditions of the early Hebrew <a href="/wiki/Pastoralism" title="Pastoralism">pastoralist</a> experience."<sup id="cite_ref-EoCol-Isaac_45-0" class="reference"><a href="#cite_note-EoCol-Isaac-45">[45]</a></sup> <i>The Cambridge Companion to the Bible</i> makes the following comment on the biblical stories of the patriarchs:</p>
+<blockquote class="templatequote">
+<p>Yet for all that these stories maintain a distance between their world and that of their time of literary growth and composition, they reflect the political realities of the later periods. Many of the narratives deal with the relationship between the ancestors and peoples who were part of Israel's political world at the time the stories began to be written down (eighth century B.C.E.). Lot is the ancestor of the Transjordanian peoples of Ammon and Moab, and Ishmael personifies the nomadic peoples known to have inhabited north Arabia, although located in the Old Testament in the Negev. Esau personifies Edom (36:1), and Laban represents the Aramean] states to Israel's north. A persistent theme is that of difference between the ancestors and the indigenous Canaanites… In fact, the theme of the differences between Judah and Israel, as personified by the ancestors, and the neighboring peoples of the time of the monarchy is pressed effectively into theological service to articulate the choosing by God of Judah and Israel to bring blessing to all peoples."<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></p>
+</blockquote>
+<p>According to <a href="/wiki/Martin_Noth" title="Martin Noth">Martin Noth</a>, a scholar of the Hebrew Bible, the narratives of Isaac date back to an older cultural stage than that of the West-Jordanian Jacob.<sup id="cite_ref-EoC1-Isaac_44-1" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup> At that era, the <a href="/wiki/Israelite" class="mw-redirect" title="Israelite">Israelite</a> tribes were not yet sedentary. In the course of looking for grazing areas, they had come in contact in southern <a href="/wiki/Philistia" title="Philistia">Philistia</a> with the inhabitants of the settled countryside.<sup id="cite_ref-EoC1-Isaac_44-2" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup> The biblical historian A. Jopsen believes in the connection between the Isaac traditions and the north, and in support of this theory adduces <a href="/wiki/Book_of_Amos" title="Book of Amos">Amos</a> 7:9 ("the high places of Isaac").<sup id="cite_ref-EoC1-Isaac_44-3" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup></p>
+<p><a href="/wiki/Albrecht_Alt" title="Albrecht Alt">Albrecht Alt</a> and Martin Noth hold that, "The figure of Isaac was enhanced when the theme of promise, previously bound to the cults of the 'God the Fathers' was incorporated into the Israelite creed during the southern-Palestinian stage of the growth of the <a href="/wiki/Torah" title="Torah">Pentateuch</a> tradition."<sup id="cite_ref-EoC1-Isaac_44-4" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup> According to Martin Noth, at the Southern Palestinian stage of the growth of the Pentateuch tradition, Isaac became established as one of the biblical patriarchs, but his traditions were receded in the favor of Abraham.<sup id="cite_ref-EoC1-Isaac_44-5" class="reference"><a href="#cite_note-EoC1-Isaac-44">[44]</a></sup></p>
+<h3><span class="mw-headline" id="Documentary_hypothesis">Documentary hypothesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=16" title="Edit section: Documentary hypothesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Documentary_hypothesis" title="Documentary hypothesis">Documentary hypothesis</a></div>
+<p><a href="/wiki/Form_criticism" title="Form criticism">Form critics</a> variously assign passages like Genesis chapter 26, verses 6–11, to the <a href="/wiki/Jahwist" title="Jahwist">Jahwist</a> source, and Genesis chapter 20 verses 1–7, chapter 21, verse 1 to chapter 22, verse 14 and chapter 22, verse 19 to the <a href="/wiki/Elohist" title="Elohist">Elohist</a>. According to the compilation hypothesis, the formulaic use of the word <i>toledoth</i> (generations) indicates that Genesis chapter 11, verse 27 to chapter 25, verse 19 is Isaac's record through Abraham's death (with Ishmael's record appended), and Genesis chapter 25, verse 19 to chapter 37, verse 2 is Jacob's record through Isaac's death (with Esau's records appended).<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></p>
+<h2><span class="mw-headline" id="In_art">In art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=17" title="Edit section: In art">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The earliest Christian portrayal of Isaac is found in the <a href="/wiki/Catacombs_of_Rome" title="Catacombs of Rome">Roman catacomb</a> <a href="/wiki/Fresco" title="Fresco">frescoes</a>.<sup id="cite_ref-Early_Christian_Art_48-0" class="reference"><a href="#cite_note-Early_Christian_Art-48">[48]</a></sup> Excluding the fragments, Alison Moore Smith classifies these artistic works in three categories:</p>
+<blockquote class="templatequote">
+<p>"Abraham leads Isaac towards the altar; or Isaac approaches with the bundle of sticks, Abraham having preceded him to the place of offering .... Abraham is upon a pedestal and Isaac stands near at hand, both figures in orant <a href="/wiki/Attitude_(art)" title="Attitude (art)">attitude</a> .... Abraham is shown about to sacrifice Isaac while the latter stands or kneels on the ground beside the altar. Sometimes Abraham grasps Isaac by the hair. Occasionally the ram is added to the scene and in the later paintings the <a href="/wiki/Hand_of_God_(art)" title="Hand of God (art)">Hand of God</a> emerges from above."<sup id="cite_ref-Early_Christian_Art_48-1" class="reference"><a href="#cite_note-Early_Christian_Art-48">[48]</a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/24px-Star_of_David.svg.png" width="24" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/36px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/48px-Star_of_David.svg.png 2x" data-file-width="260" data-file-height="300" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Judaism" title="Portal:Judaism">Judaism portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:P_christianity.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/31px-P_christianity.svg.png" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/47px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/62px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/27px-Allah-green.svg.png" width="27" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/40px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/54px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Biblical_narratives_and_the_Qur%27an" class="mw-redirect" title="Biblical narratives and the Qur'an">Biblical narratives and the Qur'an</a></li>
+<li><a href="/wiki/Testament_of_Isaac" title="Testament of Isaac">Testament of Isaac</a></li>
+<li><a href="/wiki/Wife%E2%80%93sister_narratives_in_the_Book_of_Genesis" title="Wife–sister narratives in the Book of Genesis">Wife–sister narratives in the Book of Genesis</a> – three such narratives involving Abraham (two) and Isaac (one)</li>
+</ul>
+<h2><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=19" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEdeClaise-Walford2000647-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEdeClaise-Walford2000647_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEdeClaise-Walford2000647_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEdeClaise-Walford2000647_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFdeClaise-Walford2000">deClaise-Walford 2000</a>, p.&#160;647.</span></li>
+<li id="cite_note-EvansLohr2012-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-EvansLohr2012_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Craig A. Evans; Joel N. Lohr; David L. Petersen (20 March 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tB77B7HT23wC&amp;pg=PA64"><i>The Book of Genesis: Composition, Reception, and Interpretation</i></a>. BRILL. p.&#160;64. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-04-22653-2" title="Special:BookSources/90-04-22653-2">90-04-22653-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Genesis%3A+Composition%2C+Reception%2C+and+Interpretation&amp;rft.pages=64&amp;rft.pub=BRILL&amp;rft.date=2012-03-20&amp;rft.isbn=90-04-22653-2&amp;rft.au=Craig+A.+Evans&amp;rft.au=Joel+N.+Lohr&amp;rft.au=David+L.+Petersen&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtB77B7HT23wC%26pg%3DPA64&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Strongs-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Strongs_3-0">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Strong%27s_Concordance" title="Strong's Concordance">Strong's Concordance</a></i>, Strong, James, ed., <i>Isaac</i>, <i>Isaac's</i>, <a rel="nofollow" class="external text" href="http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=H3327&amp;t=KJV">3327 יִצְחָק</a> 3446, <i>2464</i>.</span></li>
+<li id="cite_note-EoR-Isaac-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoR-Isaac_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoR-Isaac_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EoR-Isaac_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EoR-Isaac_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-EoR-Isaac_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><i>Encyclopedia of Religion</i>, <i>Isaac</i>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0117.htm#15">Genesis 17:15–19</a> <a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0118.htm#10">18:10–15</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Isidore_Singer" title="Isidore Singer">Singer, Isidore</a>; <a href="/wiki/Isaac_Broyd%C3%A9" title="Isaac Broydé">Broydé, Isaac</a> (1901–1906). <a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?artid=174&amp;letter=I&amp;search=Isaac">"Isaac"</a>. In <a href="/wiki/Isidore_Singer" title="Isidore Singer">Singer, Isidore</a>; <a href="/wiki/Cyrus_Adler" title="Cyrus Adler">Adler, Cyrus</a>; et al. <i><a href="/wiki/Jewish_Encyclopedia" title="Jewish Encyclopedia">Jewish Encyclopedia</a></i>. New York: Funk &amp; Wagnalls.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Isaac&amp;rft.btitle=Jewish+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Funk+%26+Wagnalls&amp;rft.date=1901%2F1906&amp;rft.aulast=Singer&amp;rft.aufirst=Isidore&amp;rft.au=Broyd%C3%A9%2C+Isaac&amp;rft_id=http%3A%2F%2Fwww.jewishencyclopedia.com%2Fview.jsp%3Fartid%3D174%26letter%3DI%26search%3DIsaac&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Emil_G._Hirsch" title="Emil G. Hirsch">Hirsch, Emil G.</a>; <a href="/wiki/Wilhelm_Bacher" title="Wilhelm Bacher">Bacher, Wilhelm</a>; <a href="/wiki/Jacob_Zallel_Lauterbach" title="Jacob Zallel Lauterbach">Lauterbach, Jacob Zallel</a>; <a href="/wiki/Joseph_Jacobs" title="Joseph Jacobs">Jacobs, Joseph</a>; Montgomery, Mary W. (1901–1906). <a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?artid=245&amp;letter=S&amp;search=sarah">"Sarah (Sarai)"</a>. In <a href="/wiki/Isidore_Singer" title="Isidore Singer">Singer, Isidore</a>; <a href="/wiki/Cyrus_Adler" title="Cyrus Adler">Adler, Cyrus</a>; et al. <i><a href="/wiki/Jewish_Encyclopedia" title="Jewish Encyclopedia">Jewish Encyclopedia</a></i>. New York: Funk &amp; Wagnalls.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Sarah+%28Sarai%29&amp;rft.btitle=Jewish+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Funk+%26+Wagnalls&amp;rft.date=1901%2F1906&amp;rft.aulast=Hirsch&amp;rft.aufirst=Emil+G.&amp;rft.au=Bacher%2C+Wilhelm&amp;rft.au=Lauterbach%2C+Jacob+Zallel&amp;rft.au=Jacobs%2C+Joseph&amp;rft.au=Montgomery%2C+Mary+W.&amp;rft_id=http%3A%2F%2Fwww.jewishencyclopedia.com%2Fview.jsp%3Fartid%3D245%26letter%3DS%26search%3Dsarah&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0118.htm#10">Genesis 18:10–12</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0116.htm#15">Genesis 16:15</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0121.htm#1">Genesis 21:1–5</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0121.htm#8">Genesis 21:8–12</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Hebrews 11:17</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0122.htm#1">Genesis 22</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Genesis 25:26</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0125.htm#20">Genesis 25:20–28</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Title= Encyclopaedia Judaica | Volume 10 pg=34</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Bible_(King_James)/Genesis#35:22" class="extiw" title="s:Bible (King James)/Genesis">Genesis 35:22</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0125.htm#11">Genesis 25:11</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0126.htm#1">Genesis 26</a></span></li>
+<li id="cite_note-JewishEncyclopedia-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-JewishEncyclopedia_20-0">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Jewish_Encyclopedia" title="Jewish Encyclopedia">Jewish Encyclopedia</a></i>, <a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?artid=174&amp;letter=I"><i>Isaac</i></a>.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0135.htm#28">Genesis 35:28–29</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="nourlexpansion nowrap"><a rel="nofollow" class="external text" href="https://www.biblegateway.com/passage/?search=Genesis+20%3A12&amp;version=NIV">Genesis 20:12</a></span>: Sarah was the half–sister of Abraham.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="nourlexpansion nowrap"><a rel="nofollow" class="external text" href="https://www.biblegateway.com/passage/?search=Genesis+22%3A21-22&amp;version=niv">Genesis 22:21-22</a></span>: Uz, Buz, Kemuel, Chesed, Hazo, Pildash, and Jidlaph</span></li>
+<li id="cite_note-New_EoJ-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-New_EoJ_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-New_EoJ_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-New_EoJ_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-New_EoJ_24-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-New_EoJ_24-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><i>The New Encyclopedia of Judaism</i>, <i>Isaac</i>.</span></li>
+<li id="cite_note-Britannica-Isaac-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Britannica-Isaac_25-0">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>, <i>Isaac</i>.</span></li>
+<li id="cite_note-Brill's_New_Pauly-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brill's_New_Pauly_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brill's_New_Pauly_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Brock, Sebastian P., <i>Brill's New Pauly</i>, <i>Isaac</i>.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0124.htm#63">Genesis 24:63</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mechon-mamre.org/p/pt/pt0126.htm#2">Genesis 26:2</a></span></li>
+<li id="cite_note-Easton-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Easton_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Easton_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Easton, M. G., <i>Illustrated Bible Dictionary</i>, 3rd ed., <i>Isaac</i>.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Cross and Livingstone, <i>Oxford Dictionary of the Christian Church</i>, 1974, art <b>Isaac</b></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Kelly, J.N.D. <i>Early Christian Doctrines</i>, A &amp; C Black, 1965. p. 72</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><i>The patriarchs, prophets and certain other Old Testament figures have been and always will be honored as saints in all the Church's liturgical traditions.</i> – Catechism of the Catholic Church 61</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://orthodoxwiki.org/Sunday_of_the_Forefathers">http://orthodoxwiki.org/Sunday_of_the_Forefathers</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metropolitancantorinstitute.org/liturgy/Christmas_Fast.html">Liturgy &gt; Liturgical year &gt;The Christmas Fast</a> – Byzantine Catholic Archeparchy of Pittsburgh</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Bible_(King_James)/Galatians#4:21" class="extiw" title="s:Bible (King James)/Galatians">Galatians 4:21–31</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Bible_(King_James)/James#2:21" class="extiw" title="s:Bible (King James)/James">James 2:21–24</a></span></li>
+<li id="cite_note-EoC-Isaac-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-EoC-Isaac_37-0">^</a></b></span> <span class="reference-text"><i>Encyclopedia of Christianity</i>, Bowden, John, ed., <i>Isaac</i>.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Bible_(American_Standard)/Hebrews#11:17" class="extiw" title="s:Bible (American Standard)/Hebrews">Hebrews 11:17–20</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">see F.F. Bruce, <i>The Epistle to the Hebrews</i> Marshall. Morgan and Scott, 1964 pp. 308–13 for all this paragraph.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><i>Encyclopedia of Islam</i>, W. Montgomery Watt, <i>Isaac</i></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><i>Concise Encyclopedia of Islam</i>, C. Glasse, <i>Isaac</i></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D21%3Averse%3D72">21:72</a></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D37%3Averse%3D112">37:112</a></span></li>
+<li id="cite_note-EoC1-Isaac-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoC1-Isaac_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoC1-Isaac_44-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EoC1-Isaac_44-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EoC1-Isaac_44-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-EoC1-Isaac_44-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-EoC1-Isaac_44-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><i>Eerdmans Encyclopedia of Christianity</i>, <i>Isaac</i>, p. 744.</span></li>
+<li id="cite_note-EoCol-Isaac-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-EoCol-Isaac_45-0">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Columbia_Encyclopedia" title="Columbia Encyclopedia">Columbia Encyclopedia</a></i>, <i>Isaac</i>.</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><i>The Cambridge Companion to the Bible</i>, p. 59.</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Henry_M._Morris" title="Henry M. Morris">Morris, Henry M.</a> (1976). <i>The Genesis Record: A Scientific and Devotional Commentary on the Book of Beginnings</i>. <a href="/wiki/Grand_Rapids,_Michigan" title="Grand Rapids, Michigan">Grand Rapids, Michigan</a>: <a href="/wiki/Baker_Book_House" class="mw-redirect" title="Baker Book House">Baker Book House</a>. pp.&#160;26–30. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8010-6004-4" title="Special:BookSources/0-8010-6004-4">0-8010-6004-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Genesis+Record%3A+A+Scientific+and+Devotional+Commentary+on+the+Book+of+Beginnings&amp;rft.place=Grand+Rapids%2C+Michigan&amp;rft.pages=26-30&amp;rft.pub=Baker+Book+House&amp;rft.date=1976&amp;rft.isbn=0-8010-6004-4&amp;rft.au=Morris%2C+Henry+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Early_Christian_Art-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-Early_Christian_Art_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Early_Christian_Art_48-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Smith, Alison Moore (1922). "The Iconography of the Sacrifice of Isaac in Early Christian Art". <i>American Journal of Archaeology</i>. <b>26</b> (2): 159–73. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F497708">10.2307/497708</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/497708">497708</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Journal+of+Archaeology&amp;rft.atitle=The+Iconography+of+the+Sacrifice+of+Isaac+in+Early+Christian+Art&amp;rft.volume=26&amp;rft.issue=2&amp;rft.pages=159-73&amp;rft.date=1922&amp;rft_id=info%3Adoi%2F10.2307%2F497708&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F497708&amp;rft.au=Smith%2C+Alison+Moore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Browning, W.R.F (1996). <i>A dictionary of the Bible</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-211691-6" title="Special:BookSources/0-19-211691-6">0-19-211691-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+dictionary+of+the+Bible&amp;rft.pub=Oxford+University+Press&amp;rft.date=1996&amp;rft.isbn=0-19-211691-6&amp;rft.aulast=Browning&amp;rft.aufirst=W.R.F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Paul Lagasse; Lora Goldman; Archie Hobson; Susan R. Norton, eds. (2000). <i>The Columbia Encyclopedia</i> (6th ed.). Gale Group. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59339-236-9" title="Special:BookSources/978-1-59339-236-9">978-1-59339-236-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Columbia+Encyclopedia&amp;rft.edition=6th&amp;rft.pub=Gale+Group&amp;rft.date=2000&amp;rft.isbn=978-1-59339-236-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">P.J. Bearman; Th. Bianquis; C.E. Bosworth; E. van Donzel; W.P. Heinrichs (eds.). <i><a href="/wiki/Encyclopaedia_of_Islam" title="Encyclopaedia of Islam">Encyclopaedia of Islam</a> Online</i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.pub=Brill+Academic+Publishers&amp;rft.issn=1573-3912&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Erwin Fahlbusch; William Geoffrey Bromiley, eds. (2001). <i>Encyclopedia of Christianity</i> (1st ed.). Eerdmans Publishing Company, and Brill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8028-2414-5" title="Special:BookSources/0-8028-2414-5">0-8028-2414-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Christianity&amp;rft.edition=1st&amp;rft.pub=Eerdmans+Publishing+Company%2C+and+Brill&amp;rft.date=2001&amp;rft.isbn=0-8028-2414-5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">John Bowden, ed. (2005). <i>Encyclopedia of Christianity</i> (1st ed.). Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-522393-4" title="Special:BookSources/0-19-522393-4">0-19-522393-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Christianity&amp;rft.edition=1st&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005&amp;rft.isbn=0-19-522393-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia"><i>The New Encyclopædia Britannica</i>. Encyclopædia Britannica, Incorporated; Rev Ed edition. 2005. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59339-236-9" title="Special:BookSources/978-1-59339-236-9">978-1-59339-236-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+New+Encyclop%C3%A6dia+Britannica&amp;rft.pub=Encyclop%C3%A6dia+Britannica%2C+Incorporated%3B+Rev+Ed+edition&amp;rft.date=2005&amp;rft.isbn=978-1-59339-236-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Jane Dammen McAuliffe, ed. (2005). <i><a href="/wiki/Encyclopedia_of_the_Qur%27an" class="mw-redirect" title="Encyclopedia of the Qur'an">Encyclopedia of the Qur'an</a></i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-12356-4" title="Special:BookSources/978-90-04-12356-4">978-90-04-12356-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+the+Qur%27an&amp;rft.pub=Brill+Academic+Publishers&amp;rft.date=2005&amp;rft.isbn=978-90-04-12356-4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Geoffrey Wigoder, ed. (2002). <i>The New Encyclopedia of Judaism</i> (2nd ed.). New York University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8147-9388-6" title="Special:BookSources/978-0-8147-9388-6">978-0-8147-9388-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+New+Encyclopedia+of+Judaism&amp;rft.edition=2nd&amp;rft.pub=New+York+University+Press&amp;rft.date=2002&amp;rft.isbn=978-0-8147-9388-6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Lindsay Jones, ed. (2005). <i>Encyclopedia of Religion</i> (2nd ed.). MacMillan Reference Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-02-865733-2" title="Special:BookSources/978-0-02-865733-2">978-0-02-865733-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Religion&amp;rft.edition=2nd&amp;rft.pub=MacMillan+Reference+Books&amp;rft.date=2005&amp;rft.isbn=978-0-02-865733-2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">deClaise-Walford, Nancy (2000). "Isaac". In David Noel Freedman; Allen C. Myers; Astrid B. Beck. <a rel="nofollow" class="external text" href="https://books.google.com/?id=qRtUqxkB7wkC&amp;pg=PA647&amp;dq=%22Eerdmans%22%22the+son+of+Abraham+and+Sarah%22#v=onepage&amp;q=%22Eerdmans%22%22the%20son%20of%20Abraham%20and%20Sarah%22&amp;f=false"><i>Eerdmans Dictionary of the Bible</i></a>. <i>Eerdmans Dictionary of the Bible</i>. Wm. B. Eerdmans. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8028-2400-4" title="Special:BookSources/978-0-8028-2400-4">978-0-8028-2400-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Eerdmans+Dictionary+of+the+Bible&amp;rft.btitle=Eerdmans+Dictionary+of+the+Bible&amp;rft.pub=Wm.+B.+Eerdmans&amp;rft.date=2000&amp;rft.isbn=978-0-8028-2400-4&amp;rft.aulast=deClaise-Walford&amp;rft.aufirst=Nancy&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DqRtUqxkB7wkC%26pg%3DPA647%26dq%3D%2522Eerdmans%2522%2522the%2Bson%2Bof%2BAbraham%2Band%2BSarah%2522%23v%3Donepage%26q%3D%2522Eerdmans%2522%2522the%2520son%2520of%2520Abraham%2520and%2520Sarah%2522%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isaac&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Isaac" class="extiw" title="commons:Category:Isaac">Isaac</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?artid=174&amp;letter=I">Isaac in Jewish Encyclopedia</a></li>
+<li class="mw-empty-elt"></li>
+<li><a rel="nofollow" class="external text" href="http://jss.oxfordjournals.org/cgi/reprint/XXXIV/1/95.pdf">Abraham's son as the intended sacrifice (Al-Dhabih, Qur'an 37:99, Qur'an 37:99–113): Issues in qur'anic exegesis</a>, journal of Semitic Studies XXX1V/ Spring 1989</li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Herbermann, Charles, ed. (1913). "<a href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Isaac" class="extiw" title="wikisource:Catholic Encyclopedia (1913)/Isaac">Isaac</a>". <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Isaac&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton+Company&amp;rft.date=1913&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Isaac" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Isaac">Isaac</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Isaac&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsaac" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Adam_to_David_according_to_the_Bible" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Adam_to_David" title="Template:Adam to David"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Adam_to_David" title="Template talk:Adam to David"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Adam_to_David&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Adam_to_David_according_to_the_Bible" style="font-size:114%;margin:0 4em"><a href="/wiki/Generations_of_Adam" title="Generations of Adam">Adam</a> to <a href="/wiki/David" title="David">David</a> according to the <a href="/wiki/Bible" title="Bible">Bible</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Genesis_creation_narrative" title="Genesis creation narrative">Creation</a> to <a href="/wiki/Genesis_flood_narrative" title="Genesis flood narrative">Flood</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+<li><a href="/wiki/Seth" title="Seth">Seth</a></li>
+<li><a href="/wiki/Enos_(biblical_figure)" title="Enos (biblical figure)">Enos</a></li>
+<li><a href="/wiki/Kenan" title="Kenan">Kenan</a></li>
+<li><a href="/wiki/Mahalalel" title="Mahalalel">Mahalalel</a></li>
+<li><a href="/wiki/Jared_(biblical_figure)" title="Jared (biblical figure)">Jared</a></li>
+<li><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a></li>
+<li><a href="/wiki/Methuselah" title="Methuselah">Methuselah</a></li>
+<li><a href="/wiki/Lamech_(father_of_Noah)" title="Lamech (father of Noah)">Lamech</a></li>
+<li><a href="/wiki/Noah" title="Noah">Noah</a></li>
+<li><a href="/wiki/Shem" title="Shem">Shem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Cain</a> line</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+<li><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Cain</a></li>
+<li><a href="/wiki/Enoch_(son_of_Cain)" title="Enoch (son of Cain)">Enoch</a></li>
+<li><a href="/wiki/Irad_(son_of_Enoch)" class="mw-redirect" title="Irad (son of Enoch)">Irad</a></li>
+<li><a href="/wiki/Mehujael" class="mw-redirect" title="Mehujael">Mehujael</a></li>
+<li><a href="/wiki/Methusael" class="mw-redirect" title="Methusael">Methusael</a></li>
+<li><a href="/wiki/Lamech_(descendant_of_Cain)" title="Lamech (descendant of Cain)">Lamech</a></li>
+<li><a href="/wiki/Tubal-cain" title="Tubal-cain">Tubal-cain</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Patriarchs_(Bible)" title="Patriarchs (Bible)">Patriarchs</a> after <a href="/wiki/Genesis_flood_narrative" title="Genesis flood narrative">Flood</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arpachshad" title="Arpachshad">Arpachshad</a></li>
+<li><i><a href="/wiki/Cainan" title="Cainan">Cainan</a></i></li>
+<li><a href="/wiki/Salah_(biblical_figure)" title="Salah (biblical figure)">Shelah</a></li>
+<li><a href="/wiki/Eber" title="Eber">Eber</a></li>
+<li><a href="/wiki/Peleg" title="Peleg">Peleg</a></li>
+<li><a href="/wiki/Reu" title="Reu">Reu</a></li>
+<li><a href="/wiki/Serug" title="Serug">Serug</a></li>
+<li><a href="/wiki/Nahor,_son_of_Serug" title="Nahor, son of Serug">Nahor</a></li>
+<li><a href="/wiki/Terah" title="Terah">Terah</a></li>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a class="mw-selflink selflink">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tribe_of_Judah" title="Tribe of Judah">Tribe of Judah</a> to <a href="/wiki/Kingdom_of_Israel_(united_monarchy)" title="Kingdom of Israel (united monarchy)">Kingdom</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Judah_(son_of_Jacob)" title="Judah (son of Jacob)">Judah</a></li>
+<li><a href="/wiki/Perez_(son_of_Judah)" title="Perez (son of Judah)">Perez</a></li>
+<li><a href="/wiki/Hezron" title="Hezron">Hezron</a></li>
+<li><a href="/wiki/Ram_(biblical_figure)" title="Ram (biblical figure)">Ram</a></li>
+<li><a href="/wiki/Amminadab" title="Amminadab">Amminadab</a></li>
+<li><a href="/wiki/Nahshon" title="Nahshon">Nahshon</a></li>
+<li><a href="/wiki/Salmon_(biblical_figure)" title="Salmon (biblical figure)">Salmon</a></li>
+<li><a href="/wiki/Boaz" title="Boaz">Boaz</a></li>
+<li><a href="/wiki/Obed_(biblical_figure)" title="Obed (biblical figure)">Obed</a></li>
+<li><a href="/wiki/Jesse" title="Jesse">Jesse</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Names in <i>italics</i> only appear in the Greek <a href="/wiki/Septuagint" title="Septuagint">Septuagint</a> version</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Prophets_in_the_Hebrew_Bible" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prophets_of_the_Tanakh" title="Template:Prophets of the Tanakh"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prophets_of_the_Tanakh" title="Template talk:Prophets of the Tanakh"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prophets_of_the_Tanakh&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prophets_in_the_Hebrew_Bible" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Prophets_of_the_Hebrew_Bible" title="Category:Prophets of the Hebrew Bible">Prophets in the Hebrew Bible</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Pre-Patriarchal</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Abel</a></i></li>
+<li><i><a href="/wiki/Kenan" title="Kenan">Kenan</a></i></li>
+<li><i><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a></i></li>
+<li><i><a href="/wiki/Noah" title="Noah">Noah</a>&#160;<small>(<a href="/wiki/Noah_in_rabbinic_literature" title="Noah in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Patriarchs_(Bible)" title="Patriarchs (Bible)">Patriarchs</a>&#160;/ <a href="/wiki/Matriarchs_(Bible)#Matriarchs" class="mw-redirect" title="Matriarchs (Bible)">Matriarchs</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a class="mw-selflink selflink">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+<li><i><a href="/wiki/Levi" title="Levi">Levi</a></i></li>
+<li><i><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></i></li>
+<li><i><a href="/wiki/Sarah" title="Sarah">Sarah</a></i></li>
+<li><i><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></i></li>
+<li><i><a href="/wiki/Rachel" title="Rachel">Rachel</a></i></li>
+<li><i><a href="/wiki/Leah" title="Leah">Leah</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Israelite prophets<br />
+in the <a href="/wiki/Torah" title="Torah">Torah</a></div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moses" title="Moses">Moses</a>&#160;<small>(<a href="/wiki/Moses_in_rabbinic_literature" title="Moses in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+<li><a href="/wiki/Miriam" title="Miriam">Miriam</a></li>
+<li><a href="/wiki/Eldad_and_Medad" title="Eldad and Medad">Eldad and Medad</a></li>
+<li><a href="/wiki/Phinehas" title="Phinehas">Phinehas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">
+<div style="padding:0.1em 0;line-height:1.2em;">Mentioned in the<br />
+<a href="/wiki/Nevi%27im#Former_Prophets" title="Nevi'im">Former Prophets</a></div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Joshua" title="Joshua">Joshua</a></li>
+<li><a href="/wiki/Deborah" title="Deborah">Deborah</a></li>
+<li><i><a href="/wiki/Gideon" title="Gideon">Gideon</a></i></li>
+<li><i><a href="/wiki/Eli_(biblical_figure)" title="Eli (biblical figure)">Eli</a></i></li>
+<li><i><a href="/wiki/Elkanah" title="Elkanah">Elkanah</a></i></li>
+<li><i><a href="/wiki/Hannah_(biblical_figure)" title="Hannah (biblical figure)">Hannah</a></i></li>
+<li><i><a href="/wiki/Abigail" title="Abigail">Abigail</a></i></li>
+<li><a href="/wiki/Samuel" title="Samuel">Samuel</a></li>
+<li><a href="/wiki/Gad_(prophet)" title="Gad (prophet)">Gad</a></li>
+<li><a href="/wiki/Nathan_(prophet)" title="Nathan (prophet)">Nathan</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+<li><a href="/wiki/Jeduthun" title="Jeduthun">Jeduthun</a></li>
+<li><a href="/wiki/Ahijah_the_Shilonite" title="Ahijah the Shilonite">Ahijah</a></li>
+<li><a href="/wiki/Shemaiah_(prophet)" title="Shemaiah (prophet)">Shemaiah</a></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+<li><a href="/wiki/Elisha" title="Elisha">Elisha</a></li>
+<li><a href="/wiki/Iddo_(prophet)" title="Iddo (prophet)">Iddo</a></li>
+<li><a href="/wiki/Hanani" title="Hanani">Hanani</a></li>
+<li><a href="/wiki/Jehu_(prophet)" title="Jehu (prophet)">Jehu</a></li>
+<li><a href="/wiki/Micaiah" title="Micaiah">Micaiah</a></li>
+<li><a href="/wiki/Jahaziel" title="Jahaziel">Jahaziel</a></li>
+<li><a href="/wiki/Eliezer" title="Eliezer">Eliezer</a></li>
+<li><a href="/wiki/Zechariah_ben_Jehoiada" title="Zechariah ben Jehoiada">Zechariah ben Jehoiada</a></li>
+<li><a href="/wiki/Huldah" title="Huldah">Huldah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Major_prophet" title="Major prophet">Major</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Isaiah" title="Isaiah">Isaiah</a>&#160;<small>(<a href="/wiki/Isaiah_in_rabbinic_literature" title="Isaiah in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a></li>
+<li><a href="/wiki/Daniel_(biblical_figure)" title="Daniel (biblical figure)">Daniel</a>&#160;<small>(<a href="/wiki/Daniel_in_rabbinic_literature" title="Daniel in rabbinic literature">in rabbinic literature</a>)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minor_prophet" class="mw-redirect" title="Minor prophet">Minor</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hosea" title="Hosea">Hosea</a></li>
+<li><a href="/wiki/Joel_(prophet)" title="Joel (prophet)">Joel</a></li>
+<li><a href="/wiki/Amos_(prophet)" title="Amos (prophet)">Amos</a></li>
+<li><a href="/wiki/Obadiah" title="Obadiah">Obadiah</a></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a>&#160;<small>(<a href="/wiki/Jonah_in_rabbinic_literature" title="Jonah in rabbinic literature">in rabbinic literature</a>)</small></li>
+<li><a href="/wiki/Micah_(prophet)" title="Micah (prophet)">Micah</a></li>
+<li><a href="/wiki/Nahum" title="Nahum">Nahum</a></li>
+<li><a href="/wiki/Habakkuk" title="Habakkuk">Habakkuk</a></li>
+<li><a href="/wiki/Zephaniah" title="Zephaniah">Zephaniah</a></li>
+<li><a href="/wiki/Haggai" title="Haggai">Haggai</a></li>
+<li><a href="/wiki/Zechariah_(Hebrew_prophet)" title="Zechariah (Hebrew prophet)">Zechariah</a></li>
+<li><a href="/wiki/Malachi" title="Malachi">Malachi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Noahidism" title="Noahidism">Noahide</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Beor_(biblical_figure)" title="Beor (biblical figure)">Beor</a></i></li>
+<li><a href="/wiki/Balaam" title="Balaam">Balaam</a></li>
+<li><i><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a>&#160;<small>(<a href="/wiki/Job_in_rabbinic_literature" title="Job in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Amoz" title="Amoz">Amoz</a></i></li>
+<li><i><a href="/wiki/Beeri" title="Beeri">Beeri</a></i></li>
+<li><i><a href="/wiki/Baruch_ben_Neriah" title="Baruch ben Neriah">Baruch</a></i></li>
+<li><i><a href="/wiki/Agur" title="Agur">Agur</a></i></li>
+<li><a href="/wiki/Urijah" title="Urijah">Uriah</a></li>
+<li><i><a href="/wiki/Buzi" title="Buzi">Buzi</a></i></li>
+<li><i><a href="/wiki/Mordecai" title="Mordecai">Mordecai</a></i></li>
+<li><i><a href="/wiki/Esther" title="Esther">Esther</a>&#160;<small>(<a href="/wiki/Esther_in_rabbinic_literature" title="Esther in rabbinic literature">in rabbinic literature</a>)</small></i></li>
+<li><a href="/wiki/Oded_(prophet)" title="Oded (prophet)">Oded</a></li>
+<li><a href="/wiki/Azariah_(prophet)" title="Azariah (prophet)">Azariah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>Italics</i> indicate persons whose status as <a href="/wiki/Prophet" title="Prophet">prophets</a> is not universally accepted.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Prophets_in_the_Quran" style="padding:3px">
+<table class="nowraplinks plainlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prophets_in_the_Quran" title="Template:Prophets in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prophets_in_the_Quran" title="Template talk:Prophets in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prophets_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prophets_in_the_Quran" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Quranic_prophets" class="mw-redirect" title="List of Quranic prophets">Prophets in the Quran</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">آدم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إدريس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">نوح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">هود</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">صالح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إبراهيم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">لوط</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إسماعيل</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Adam</a></i></li>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idris</a></i></li>
+<li><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nuh</a></i></li>
+<li><a href="/wiki/Noah" title="Noah">Noah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hud</a></i></li>
+<li><a href="/wiki/Eber" title="Eber">Eber</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Saleh" title="Saleh">Saleh</a></i></li>
+<li><a href="/wiki/Salah_(biblical_figure)" title="Salah (biblical figure)">Salah</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim</a></i></li>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lut</a></i></li>
+<li><a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Ismail</a></i></li>
+<li><a href="/wiki/Ishmael" title="Ishmael">Ishmael</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إسحاق</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">يعقوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">يوسف</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">أيوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">شُعيب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">موسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">هارون</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">ذو الكفل</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">داود</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Is'haq</a></i></li>
+<li><a class="mw-selflink selflink">Isaac</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaqub</a></i></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yusuf</a></i></li>
+<li><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyub</a></i></li>
+<li><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Shuaib" title="Shuaib">Shuayb</a></i></li>
+<li><a href="/wiki/Jethro_(Bible)" title="Jethro (Bible)">Jethro</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Musa</a></i></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Aaron" class="mw-redirect" title="Islamic view of Aaron">Harun</a></i></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl</a></i></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/David_in_Islam" title="David in Islam">Daud</a></i></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">سليمان</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إلياس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">إليسع</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">يونس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">زكريا</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">يحيى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">عيسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar"><span style="font-size:large;">مُحمد</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulaiman</a></i></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Elijah" title="Elijah">Ilyas</a></i></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Elisha" class="mw-redirect" title="Islamic view of Elisha">Al-Yasa</a></i></li>
+<li><a href="/wiki/Elisha" title="Elisha">Elisha</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Jonah" class="mw-redirect" title="Islamic view of Jonah">Yunus</a></i></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Zechariah_(New_Testament_figure)#In_Islam" class="mw-redirect" title="Zechariah (New Testament figure)">Zakaria</a></i></li>
+<li><a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Yahya_ibn_Zakariyya" class="mw-redirect" title="Yahya ibn Zakariyya">Yahya</a></i></li>
+<li><a href="/wiki/John_the_Baptist" title="John the Baptist">John</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">Isa</a></i></li>
+<li><a href="/wiki/Jesus" title="Jesus">Jesus</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></i></li>
+<li><a href="/wiki/Muhammad" title="Muhammad">Muhammad</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: <a href="/wiki/Muslim" title="Muslim">Muslims</a> believe that there were many prophets sent by <a href="/wiki/God_in_Islam" title="God in Islam">God</a> to mankind. The <a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">Islamic prophets</a> above are only the ones mentioned by name in the <a href="/wiki/Quran" title="Quran">Quran</a>.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Saints_of_the_Catholic_Church" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color: gold">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Catholic_saints" title="Template:Catholic saints"><abbr title="View this template" style="background-color: gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Catholic_saints" title="Template talk:Catholic saints"><abbr title="Discuss this template" style="background-color: gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Catholic_saints&amp;action=edit"><abbr title="Edit this template" style="background-color: gold;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Saints_of_the_Catholic_Church" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Catholic_saints" title="List of Catholic saints">Saints</a> of the <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Veneration_of_Mary_in_the_Catholic_Church" title="Veneration of Mary in the Catholic Church">Virgin Mary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Theotokos" title="Theotokos">Mother of God (Theotokos)</a></li>
+<li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a></li>
+<li><a href="/wiki/Perpetual_virginity_of_Mary" title="Perpetual virginity of Mary">Perpetual virginity</a></li>
+<li><a href="/wiki/Assumption_of_Mary" title="Assumption of Mary">Assumption</a></li>
+<li><a href="/wiki/Marian_apparition" title="Marian apparition">Marian apparition</a>
+<ul>
+<li><a href="/wiki/Our_Lady_of_Guadalupe" title="Our Lady of Guadalupe">Guadalupe</a></li>
+<li><a href="/wiki/Our_Lady_of_Laus" title="Our Lady of Laus">Laus</a></li>
+<li><a href="/wiki/Miraculous_Medal" title="Miraculous Medal">Miraculous Medal</a></li>
+<li><a href="/wiki/Our_Lady_of_Lourdes" title="Our Lady of Lourdes">Lourdes</a></li>
+<li><a href="/wiki/Our_Lady_of_F%C3%A1tima" title="Our Lady of Fátima">Fatima</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Titles_of_Mary" title="Titles of Mary">Titles of Mary</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="14" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Kirchenfenster_B%C3%B6ckweiler.jpg" class="image" title="Stained glass of the Four Evangelists in Böckweiler, Germany"><img alt="Stained glass of the Four Evangelists in Bockweiler, Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirchenfenster_B%C3%B6ckweiler.jpg/90px-Kirchenfenster_B%C3%B6ckweiler.jpg" width="90" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirchenfenster_B%C3%B6ckweiler.jpg/135px-Kirchenfenster_B%C3%B6ckweiler.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kirchenfenster_B%C3%B6ckweiler.jpg/180px-Kirchenfenster_B%C3%B6ckweiler.jpg 2x" data-file-width="612" data-file-height="1024" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Apostles" title="Apostles">Apostles</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andrew_the_Apostle" title="Andrew the Apostle">Andrew</a></li>
+<li><a href="/wiki/Barnabas" title="Barnabas">Barnabas</a></li>
+<li><a href="/wiki/Bartholomew_the_Apostle" title="Bartholomew the Apostle">Bartholomew</a></li>
+<li><a href="/wiki/James,_son_of_Alphaeus" title="James, son of Alphaeus">James of Alphaeus</a></li>
+<li><a href="/wiki/James,_son_of_Zebedee" title="James, son of Zebedee">James the Greater</a></li>
+<li><a href="/wiki/John_the_Apostle" title="John the Apostle">John</a></li>
+<li><a href="/wiki/Jude_the_Apostle" title="Jude the Apostle">Jude</a></li>
+<li><a href="/wiki/Matthew_the_Apostle" title="Matthew the Apostle">Matthew</a></li>
+<li><a href="/wiki/Saint_Matthias" title="Saint Matthias">Matthias</a></li>
+<li><a href="/wiki/Paul_the_Apostle" title="Paul the Apostle">Paul</a></li>
+<li><a href="/wiki/Saint_Peter" title="Saint Peter">Peter</a></li>
+<li><a href="/wiki/Philip_the_Apostle" title="Philip the Apostle">Philip</a></li>
+<li><a href="/wiki/Simon_the_Zealot" title="Simon the Zealot">Simon</a></li>
+<li><a href="/wiki/Thomas_the_Apostle" title="Thomas the Apostle">Thomas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Archangel" title="Archangel">Archangels</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gabriel" title="Gabriel">Gabriel</a></li>
+<li><a href="/wiki/Michael_(archangel)" title="Michael (archangel)">Michael</a></li>
+<li><a href="/wiki/Raphael_(archangel)" title="Raphael (archangel)">Raphael</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Confessor_of_the_Faith" title="Confessor of the Faith">Confessors</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anatolius_of_Laodicea" title="Anatolius of Laodicea">Anatolius</a></li>
+<li><a href="/wiki/Chariton_the_Confessor" title="Chariton the Confessor">Chariton the Confessor</a></li>
+<li><a href="/wiki/Edward_the_Confessor" title="Edward the Confessor">Edward the Confessor</a></li>
+<li><a href="/wiki/Maximus_the_Confessor" title="Maximus the Confessor">Maximus the Confessor</a></li>
+<li><a href="/wiki/Michael_of_Synnada" title="Michael of Synnada">Michael of Synnada</a></li>
+<li><a href="/wiki/Paphnutius_of_Thebes" title="Paphnutius of Thebes">Paphnutius the Confessor</a></li>
+<li><a href="/wiki/Paul_I_of_Constantinople" title="Paul I of Constantinople">Paul I of Constantinople</a></li>
+<li><a href="/wiki/Salonius" title="Salonius">Salonius</a></li>
+<li><a href="/wiki/Theophanes_the_Confessor" title="Theophanes the Confessor">Theophanes the Confessor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Disciple_(Christianity)" title="Disciple (Christianity)">Disciples</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apollos" title="Apollos">Apollos</a></li>
+<li><a href="/wiki/Mary_Magdalene" title="Mary Magdalene">Mary Magdalene</a></li>
+<li><a href="/wiki/Priscilla_and_Aquila" title="Priscilla and Aquila">Priscilla and Aquila</a></li>
+<li><a href="/wiki/Silas" title="Silas">Silvanus</a></li>
+<li><a href="/wiki/Saint_Stephen" title="Saint Stephen">Stephen</a></li>
+<li><a href="/wiki/Saint_Timothy" title="Saint Timothy">Timothy</a></li>
+<li><a href="/wiki/Saint_Titus" title="Saint Titus">Titus</a></li>
+<li><a href="/wiki/Seventy_disciples" title="Seventy disciples">Seventy disciples</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Doctor_of_the_Church" title="Doctor of the Church">Doctors</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks hlist navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pope_Gregory_I" title="Pope Gregory I">Gregory the Great</a></li>
+<li><a href="/wiki/Ambrose" title="Ambrose">Ambrose</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/Jerome" title="Jerome">Jerome</a></li>
+<li><a href="/wiki/John_Chrysostom" title="John Chrysostom">John Chrysostom</a></li>
+<li><a href="/wiki/Basil_of_Caesarea" title="Basil of Caesarea">Basil of Caesarea</a></li>
+<li><a href="/wiki/Gregory_of_Nazianzus" title="Gregory of Nazianzus">Gregory of Nazianzus</a></li>
+<li><a href="/wiki/Athanasius_of_Alexandria" title="Athanasius of Alexandria">Athanasius of Alexandria</a></li>
+<li><a href="/wiki/Cyril_of_Alexandria" title="Cyril of Alexandria">Cyril of Alexandria</a></li>
+<li><a href="/wiki/Cyril_of_Jerusalem" title="Cyril of Jerusalem">Cyril of Jerusalem</a></li>
+<li><a href="/wiki/John_of_Damascus" title="John of Damascus">John of Damascus</a></li>
+<li><a href="/wiki/Bede" title="Bede">Bede the Venerable</a></li>
+<li><a href="/wiki/Ephrem_the_Syrian" title="Ephrem the Syrian">Ephrem the Syrian</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Bonaventure" title="Bonaventure">Bonaventure</a></li>
+<li><a href="/wiki/Anselm_of_Canterbury" title="Anselm of Canterbury">Anselm of Canterbury</a></li>
+<li><a href="/wiki/Isidore_of_Seville" title="Isidore of Seville">Isidore of Seville</a></li>
+<li><a href="/wiki/Peter_Chrysologus" title="Peter Chrysologus">Peter Chrysologus</a></li>
+<li><a href="/wiki/Pope_Leo_I" title="Pope Leo I">Leo the Great</a></li>
+<li><a href="/wiki/Peter_Damian" title="Peter Damian">Peter Damian</a></li>
+<li><a href="/wiki/Bernard_of_Clairvaux" title="Bernard of Clairvaux">Bernard of Clairvaux</a></li>
+<li><a href="/wiki/Hilary_of_Poitiers" title="Hilary of Poitiers">Hilary of Poitiers</a></li>
+<li><a href="/wiki/Alphonsus_Liguori" title="Alphonsus Liguori">Alphonsus Liguori</a></li>
+<li><a href="/wiki/Francis_de_Sales" title="Francis de Sales">Francis de Sales</a></li>
+<li><a href="/wiki/Peter_Canisius" title="Peter Canisius">Peter Canisius</a></li>
+<li><a href="/wiki/John_of_the_Cross" title="John of the Cross">John of the Cross</a></li>
+<li><a href="/wiki/Robert_Bellarmine" title="Robert Bellarmine">Robert Bellarmine</a></li>
+<li><a href="/wiki/Albertus_Magnus" title="Albertus Magnus">Albertus Magnus</a></li>
+<li><a href="/wiki/Anthony_of_Padua" title="Anthony of Padua">Anthony of Padua</a></li>
+<li><a href="/wiki/Lawrence_of_Brindisi" title="Lawrence of Brindisi">Lawrence of Brindisi</a></li>
+<li><a href="/wiki/Teresa_of_%C3%81vila" title="Teresa of Ávila">Teresa of Ávila</a></li>
+<li><a href="/wiki/Catherine_of_Siena" title="Catherine of Siena">Catherine of Siena</a></li>
+<li><a href="/wiki/Th%C3%A9r%C3%A8se_of_Lisieux" title="Thérèse of Lisieux">Thérèse of Lisieux</a></li>
+<li><a href="/wiki/John_of_%C3%81vila" title="John of Ávila">John of Ávila</a></li>
+<li><a href="/wiki/Hildegard_of_Bingen" title="Hildegard of Bingen">Hildegard of Bingen</a></li>
+<li><a href="/wiki/Gregory_of_Narek" title="Gregory of Narek">Gregory of Narek</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Four_Evangelists" title="Four Evangelists">Evangelists</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Matthew_the_Apostle" title="Matthew the Apostle">Matthew</a></li>
+<li><a href="/wiki/Mark_the_Evangelist" title="Mark the Evangelist">Mark</a></li>
+<li><a href="/wiki/Luke_the_Evangelist" title="Luke the Evangelist">Luke</a></li>
+<li><a href="/wiki/John_the_Evangelist" title="John the Evangelist">John</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Church_fathers" class="mw-redirect" title="Church fathers">Church<br />
+fathers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pope_Alexander_I_of_Alexandria" title="Pope Alexander I of Alexandria">Alexander of Alexandria</a></li>
+<li><a href="/wiki/Alexander_of_Jerusalem" title="Alexander of Jerusalem">Alexander of Jerusalem</a></li>
+<li><a href="/wiki/Ambrose" title="Ambrose">Ambrose of Milan</a></li>
+<li><a href="/wiki/Anatolius_of_Laodicea" title="Anatolius of Laodicea">Anatolius</a></li>
+<li><a href="/wiki/Athanasius_of_Alexandria" title="Athanasius of Alexandria">Athanasius of Alexandria</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/Caesarius_of_Arles" title="Caesarius of Arles">Caesarius of Arles</a></li>
+<li><a href="/wiki/Caius_(presbyter)" title="Caius (presbyter)">Caius</a></li>
+<li><a href="/wiki/Cappadocian_Fathers" title="Cappadocian Fathers">Cappadocian Fathers</a></li>
+<li><a href="/wiki/Clement_of_Alexandria" title="Clement of Alexandria">Clement of Alexandria</a></li>
+<li><a href="/wiki/Pope_Clement_I" title="Pope Clement I">Clement of Rome</a></li>
+<li><a href="/wiki/Cyprian" title="Cyprian">Cyprian of Carthage</a></li>
+<li><a href="/wiki/Cyril_of_Alexandria" title="Cyril of Alexandria">Cyril of Alexandria</a></li>
+<li><a href="/wiki/Cyril_of_Jerusalem" title="Cyril of Jerusalem">Cyril of Jerusalem</a></li>
+<li><a href="/wiki/Pope_Damasus_I" title="Pope Damasus I">Damasus I</a></li>
+<li><a href="/wiki/Desert_Fathers" title="Desert Fathers">Desert Fathers</a></li>
+<li><a href="/wiki/Desert_Mothers" title="Desert Mothers">Desert Mothers</a></li>
+<li><a href="/wiki/Pope_Dionysius_of_Alexandria" title="Pope Dionysius of Alexandria">Dionysius of Alexandria</a></li>
+<li><a href="/wiki/Dionysius,_Bishop_of_Corinth" title="Dionysius, Bishop of Corinth">Dionysius of Corinth</a></li>
+<li><a href="/wiki/Pope_Dionysius" title="Pope Dionysius">Dionysius</a></li>
+<li><a href="/wiki/Ephrem_the_Syrian" title="Ephrem the Syrian">Ephrem the Syrian</a></li>
+<li><a href="/wiki/Epiphanius_of_Salamis" title="Epiphanius of Salamis">Epiphanius of Salamis</a></li>
+<li><a href="/wiki/Fulgentius_of_Ruspe" title="Fulgentius of Ruspe">Fulgentius of Ruspe</a></li>
+<li><a href="/wiki/Pope_Gregory_I" title="Pope Gregory I">Gregory the Great</a></li>
+<li><a href="/wiki/Gregory_of_Nazianzus" title="Gregory of Nazianzus">Gregory of Nazianzus</a></li>
+<li><a href="/wiki/Gregory_of_Nyssa" title="Gregory of Nyssa">Gregory of Nyssa</a></li>
+<li><a href="/wiki/Hilary_of_Poitiers" title="Hilary of Poitiers">Hilary of Poitiers</a></li>
+<li><a href="/wiki/Hippolytus_of_Rome" title="Hippolytus of Rome">Hippolytus of Rome</a></li>
+<li><a href="/wiki/Ignatius_of_Antioch" title="Ignatius of Antioch">Ignatius of Antioch</a></li>
+<li><a href="/wiki/Irenaeus" title="Irenaeus">Irenaeus of Lyons</a></li>
+<li><a href="/wiki/Isidore_of_Seville" title="Isidore of Seville">Isidore of Seville</a></li>
+<li><a href="/wiki/Jerome" title="Jerome">Jerome of Stridonium</a></li>
+<li><a href="/wiki/John_Chrysostom" title="John Chrysostom">John Chrysostom</a></li>
+<li><a href="/wiki/John_of_Damascus" title="John of Damascus">John of Damascus</a></li>
+<li><a href="/wiki/Maximus_the_Confessor" title="Maximus the Confessor">Maximus the Confessor</a></li>
+<li><a href="/wiki/Melito_of_Sardis" title="Melito of Sardis">Melito of Sardis</a></li>
+<li><a href="/wiki/Quadratus_of_Athens" title="Quadratus of Athens">Quadratus of Athens</a></li>
+<li><a href="/wiki/Papias_of_Hierapolis" title="Papias of Hierapolis">Papias of Hierapolis</a></li>
+<li><a href="/wiki/Peter_Chrysologus" title="Peter Chrysologus">Peter Chrysologus</a></li>
+<li><a href="/wiki/Polycarp" title="Polycarp">Polycarp of Smyrna</a></li>
+<li><a href="/wiki/Theophilus_of_Antioch" title="Theophilus of Antioch">Theophilus of Antioch</a></li>
+<li><a href="/wiki/Victorinus_of_Pettau" title="Victorinus of Pettau">Victorinus of Pettau</a></li>
+<li><a href="/wiki/Vincent_of_L%C3%A9rins" title="Vincent of Lérins">Vincent of Lérins</a></li>
+<li><a href="/wiki/Pope_Zephyrinus" title="Pope Zephyrinus">Zephyrinus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Christian_martyrs" title="Christian martyrs">Martyrs</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canadian_Martyrs" title="Canadian Martyrs">Canadian Martyrs</a></li>
+<li><a href="/wiki/Carthusian_Martyrs" title="Carthusian Martyrs">Carthusian Martyrs</a></li>
+<li><a href="/wiki/Forty_Martyrs_of_England_and_Wales" title="Forty Martyrs of England and Wales">Forty Martyrs of England and Wales</a></li>
+<li><a href="/wiki/Four_Crowned_Martyrs" title="Four Crowned Martyrs">Four Crowned Martyrs</a></li>
+<li><a href="/wiki/Great_martyr" title="Great martyr">Great Martyr</a></li>
+<li><a href="/wiki/Massacre_of_the_Innocents" title="Massacre of the Innocents">The Holy Innocents</a></li>
+<li><a href="/wiki/Irish_Catholic_Martyrs" title="Irish Catholic Martyrs">Irish Martyrs</a></li>
+<li><a href="/wiki/Joan_of_Arc" title="Joan of Arc">Joan of Arc</a></li>
+<li><a href="/wiki/L%C3%BCbeck_martyrs" title="Lübeck martyrs">Lübeck martyrs</a></li>
+<li><a href="/wiki/Korean_Martyrs" title="Korean Martyrs">Korean Martyrs</a></li>
+<li><a href="/wiki/Martyrology" title="Martyrology">Martyrology</a></li>
+<li><a href="/wiki/Martyrs_of_Albania" title="Martyrs of Albania">Martyrs of Albania</a></li>
+<li><a href="/wiki/Martyr_Saints_of_China" title="Martyr Saints of China">Martyrs of China</a></li>
+<li><a href="/wiki/Martyrs_of_Japan" title="Martyrs of Japan">Martyrs of Japan</a></li>
+<li><a href="/wiki/Martyrs_of_Laos" title="Martyrs of Laos">Martyrs of Laos</a></li>
+<li><a href="/wiki/Martyrs_of_Natal" title="Martyrs of Natal">Martyrs of Natal</a></li>
+<li><a href="/wiki/Martyrs_of_Otranto" title="Martyrs of Otranto">Martyrs of Otranto</a></li>
+<li><a href="/wiki/Martyrs_of_the_Spanish_Civil_War" title="Martyrs of the Spanish Civil War">Martyrs of the Spanish Civil War</a></li>
+<li><a href="/wiki/Maximilian_Kolbe" title="Maximilian Kolbe">Maximilian Kolbe</a></li>
+<li><a href="/wiki/Passion_of_Saint_Perpetua,_Saint_Felicitas,_and_their_Companions" title="Passion of Saint Perpetua, Saint Felicitas, and their Companions">Perpetua and Felicity</a></li>
+<li><a href="/wiki/Saints_of_the_Cristero_War" title="Saints of the Cristero War">Saints of the Cristero War</a></li>
+<li><a href="/wiki/Saint_Stephen" title="Saint Stephen">Stephen</a></li>
+<li><a href="/wiki/Three_Martyrs_of_Chimbote" title="Three Martyrs of Chimbote">Three Martyrs of Chimbote</a></li>
+<li><a href="/wiki/Uganda_Martyrs" title="Uganda Martyrs">Uganda Martyrs</a></li>
+<li><a href="/wiki/Vietnamese_Martyrs" title="Vietnamese Martyrs">Vietnamese Martyrs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Patriarch" title="Patriarch">Patriarchs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+<li><a href="/wiki/Cain_and_Abel" title="Cain and Abel">Abel</a></li>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a class="mw-selflink selflink">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+<li><a href="/wiki/Joseph_(Genesis)" title="Joseph (Genesis)">Joseph</a></li>
+<li><a href="/wiki/Saint_Joseph" title="Saint Joseph">Joseph (father of Jesus)</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Noah" title="Noah">Noah</a></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+<li><i><a href="/wiki/Patriarchs_(Bible)#Matriarchs" title="Patriarchs (Bible)">Matriarchs</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Pope" title="Pope">Popes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pope_Adeodatus_I" title="Pope Adeodatus I">Adeodatus I</a></li>
+<li><a href="/wiki/Pope_Adeodatus_II" title="Pope Adeodatus II">Adeodatus II</a></li>
+<li><a href="/wiki/Pope_Adrian_III" title="Pope Adrian III">Adrian III</a></li>
+<li><a href="/wiki/Pope_Agapetus_I" title="Pope Agapetus I">Agapetus I</a></li>
+<li><a href="/wiki/Pope_Agatho" title="Pope Agatho">Agatho</a></li>
+<li><a href="/wiki/Pope_Alexander_I" title="Pope Alexander I">Alexander I</a></li>
+<li><a href="/wiki/Pope_Anacletus" title="Pope Anacletus">Anacletus</a></li>
+<li><a href="/wiki/Pope_Anastasius_I" title="Pope Anastasius I">Anastasius I</a></li>
+<li><a href="/wiki/Pope_Anicetus" title="Pope Anicetus">Anicetus</a></li>
+<li><a href="/wiki/Pope_Anterus" title="Pope Anterus">Anterus</a></li>
+<li><a href="/wiki/Pope_Benedict_II" title="Pope Benedict II">Benedict II</a></li>
+<li><a href="/wiki/Pope_Boniface_I" title="Pope Boniface I">Boniface I</a></li>
+<li><a href="/wiki/Pope_Boniface_IV" title="Pope Boniface IV">Boniface IV</a></li>
+<li><a href="/wiki/Pope_Caius" title="Pope Caius">Caius</a></li>
+<li><a href="/wiki/Pope_Callixtus_I" title="Pope Callixtus I">Callixtus I</a></li>
+<li><a href="/wiki/Pope_Celestine_I" title="Pope Celestine I">Celestine I</a></li>
+<li><a href="/wiki/Pope_Celestine_V" title="Pope Celestine V">Celestine V</a></li>
+<li><a href="/wiki/Pope_Clement_I" title="Pope Clement I">Clement I</a></li>
+<li><a href="/wiki/Pope_Cornelius" title="Pope Cornelius">Cornelius</a></li>
+<li><a href="/wiki/Pope_Damasus_I" title="Pope Damasus I">Damasus I</a></li>
+<li><a href="/wiki/Pope_Dionysius" title="Pope Dionysius">Dionysius</a></li>
+<li><a href="/wiki/Pope_Eleutherius" title="Pope Eleutherius">Eleuterus</a></li>
+<li><a href="/wiki/Pope_Eugene_I" title="Pope Eugene I">Eugene I</a></li>
+<li><a href="/wiki/Pope_Eusebius" title="Pope Eusebius">Eusebius</a></li>
+<li><a href="/wiki/Pope_Eutychian" title="Pope Eutychian">Eutychian</a></li>
+<li><a href="/wiki/Pope_Evaristus" title="Pope Evaristus">Evaristus</a></li>
+<li><a href="/wiki/Pope_Fabian" title="Pope Fabian">Fabian</a></li>
+<li><a href="/wiki/Pope_Felix_I" title="Pope Felix I">Felix I</a></li>
+<li><a href="/wiki/Pope_Felix_III" title="Pope Felix III">Felix III</a></li>
+<li><a href="/wiki/Pope_Felix_IV" title="Pope Felix IV">Felix IV</a></li>
+<li><a href="/wiki/Pope_Gelasius_I" title="Pope Gelasius I">Gelasius I</a></li>
+<li><a href="/wiki/Pope_Gregory_I" title="Pope Gregory I">Gregory I</a></li>
+<li><a href="/wiki/Pope_Gregory_II" title="Pope Gregory II">Gregory II</a></li>
+<li><a href="/wiki/Pope_Gregory_III" title="Pope Gregory III">Gregory III</a></li>
+<li><a href="/wiki/Pope_Gregory_VII" title="Pope Gregory VII">Gregory VII</a></li>
+<li><a href="/wiki/Pope_Hilarius" title="Pope Hilarius">Hilarius</a></li>
+<li><a href="/wiki/Pope_Hormisdas" title="Pope Hormisdas">Hormisdas</a></li>
+<li><a href="/wiki/Pope_Hyginus" title="Pope Hyginus">Hyginus</a></li>
+<li><a href="/wiki/Pope_Innocent_I" title="Pope Innocent I">Innocent I</a></li>
+<li><a href="/wiki/Pope_John_I" title="Pope John I">John I</a></li>
+<li><a href="/wiki/Pope_John_XXIII" title="Pope John XXIII">John XXIII</a></li>
+<li><a href="/wiki/Pope_John_Paul_II" title="Pope John Paul II">John Paul II</a></li>
+<li><a href="/wiki/Pope_Julius_I" title="Pope Julius I">Julius I</a></li>
+<li><a href="/wiki/Pope_Leo_I" title="Pope Leo I">Leo I</a></li>
+<li><a href="/wiki/Pope_Leo_II" title="Pope Leo II">Leo II</a></li>
+<li><a href="/wiki/Pope_Leo_III" title="Pope Leo III">Leo III</a></li>
+<li><a href="/wiki/Pope_Leo_IV" title="Pope Leo IV">Leo IV</a></li>
+<li><a href="/wiki/Pope_Leo_IX" title="Pope Leo IX">Leo IX</a></li>
+<li><a href="/wiki/Pope_Linus" title="Pope Linus">Linus</a></li>
+<li><a href="/wiki/Pope_Lucius_I" title="Pope Lucius I">Lucius I</a></li>
+<li><a href="/wiki/Pope_Marcellinus" title="Pope Marcellinus">Marcellinus</a></li>
+<li><a href="/wiki/Pope_Marcellus_I" title="Pope Marcellus I">Marcellus I</a></li>
+<li><a href="/wiki/Pope_Mark" title="Pope Mark">Mark</a></li>
+<li><a href="/wiki/Pope_Martin_I" title="Pope Martin I">Martin I</a></li>
+<li><a href="/wiki/Pope_Miltiades" title="Pope Miltiades">Miltiades</a></li>
+<li><a href="/wiki/Pope_Nicholas_I" title="Pope Nicholas I">Nicholas I</a></li>
+<li><a href="/wiki/Pope_Paschal_I" title="Pope Paschal I">Paschal I</a></li>
+<li><a href="/wiki/Pope_Paul_I" title="Pope Paul I">Paul I</a></li>
+<li><a href="/wiki/Saint_Peter" title="Saint Peter">Peter</a></li>
+<li><a href="/wiki/Pope_Pius_I" title="Pope Pius I">Pius I</a></li>
+<li><a href="/wiki/Pope_Pius_V" title="Pope Pius V">Pius V</a></li>
+<li><a href="/wiki/Pope_Pius_X" title="Pope Pius X">Pius X</a></li>
+<li><a href="/wiki/Pope_Pontian" title="Pope Pontian">Pontian</a></li>
+<li><a href="/wiki/Pope_Sergius_I" title="Pope Sergius I">Sergius I</a></li>
+<li><a href="/wiki/Pope_Silverius" title="Pope Silverius">Silverius</a></li>
+<li><a href="/wiki/Pope_Simplicius" title="Pope Simplicius">Simplicius</a></li>
+<li><a href="/wiki/Pope_Siricius" title="Pope Siricius">Siricius</a></li>
+<li><a href="/wiki/Pope_Sixtus_I" title="Pope Sixtus I">Sixtus I</a></li>
+<li><a href="/wiki/Pope_Sixtus_II" title="Pope Sixtus II">Sixtus II</a></li>
+<li><a href="/wiki/Pope_Sixtus_III" title="Pope Sixtus III">Sixtus III</a></li>
+<li><a href="/wiki/Pope_Soter" title="Pope Soter">Soter</a></li>
+<li><a href="/wiki/Pope_Stephen_I" title="Pope Stephen I">Stephen I</a></li>
+<li><a href="/wiki/Pope_Stephen_IV" title="Pope Stephen IV">Stephen IV</a></li>
+<li><a href="/wiki/Pope_Sylvester_I" title="Pope Sylvester I">Sylvester I</a></li>
+<li><a href="/wiki/Pope_Symmachus" title="Pope Symmachus">Symmachus</a></li>
+<li><a href="/wiki/Pope_Telesphorus" title="Pope Telesphorus">Telesphorus</a></li>
+<li><a href="/wiki/Pope_Urban_I" title="Pope Urban I">Urban I</a></li>
+<li><a href="/wiki/Pope_Victor_I" title="Pope Victor I">Victor I</a></li>
+<li><a href="/wiki/Pope_Vitalian" title="Pope Vitalian">Vitalian</a></li>
+<li><a href="/wiki/Pope_Zachary" title="Pope Zachary">Zachary</a></li>
+<li><a href="/wiki/Pope_Zephyrinus" title="Pope Zephyrinus">Zephyrinus</a></li>
+<li><a href="/wiki/Pope_Zosimus" title="Pope Zosimus">Zosimus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Prophets_of_Christianity" title="Prophets of Christianity">Prophets</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agabus" title="Agabus">Agabus</a></li>
+<li><a href="/wiki/Amos_(prophet)" title="Amos (prophet)">Amos</a></li>
+<li><a href="/wiki/Anna_the_Prophetess" title="Anna the Prophetess">Anna</a></li>
+<li><a href="/wiki/Baruch_ben_Neriah" title="Baruch ben Neriah">Baruch ben Neriah</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Dalua_of_Tibradden" title="Dalua of Tibradden">Dalua</a></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a></li>
+<li><a href="/wiki/Habakkuk" title="Habakkuk">Habakkuk</a></li>
+<li><a href="/wiki/Haggai" title="Haggai">Haggai</a></li>
+<li><a href="/wiki/Hosea" title="Hosea">Hosea</a></li>
+<li><a href="/wiki/Isaiah" title="Isaiah">Isaiah</a></li>
+<li><a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a></li>
+<li><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a></li>
+<li><a href="/wiki/Joel_(prophet)" title="Joel (prophet)">Joel</a></li>
+<li><a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a></li>
+<li><a href="/wiki/Judas_Barsabbas" title="Judas Barsabbas">Judas Barsabbas</a></li>
+<li><a href="/wiki/Malachi" title="Malachi">Malachi</a></li>
+<li><a href="/wiki/Melchizedek" title="Melchizedek">Melchizedek</a></li>
+<li><a href="/wiki/Micah_(prophet)" title="Micah (prophet)">Micah</a></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+<li><a href="/wiki/Nahum" title="Nahum">Nahum</a></li>
+<li><a href="/wiki/Obadiah" title="Obadiah">Obadiah</a></li>
+<li><a href="/wiki/Samuel" title="Samuel">Samuel</a></li>
+<li><a href="/wiki/Woman_with_seven_sons" title="Woman with seven sons">Seven Maccabees and their mother</a></li>
+<li><a href="/wiki/Simeon_(Gospel_of_Luke)" title="Simeon (Gospel of Luke)">Simeon</a></li>
+<li><a href="/wiki/Zechariah_(Hebrew_prophet)" title="Zechariah (Hebrew prophet)">Zechariah (prophet)</a></li>
+<li><a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah (NT)</a></li>
+<li><a href="/wiki/Zephaniah" title="Zephaniah">Zephaniah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%"><a href="/wiki/Virgin_(title)" title="Virgin (title)">Virgins</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agatha_of_Sicily" title="Agatha of Sicily">Agatha of Sicily</a></li>
+<li><a href="/wiki/Agnes_of_Rome" title="Agnes of Rome">Agnes of Rome</a></li>
+<li><a href="/wiki/Bernadette_Soubirous" title="Bernadette Soubirous">Bernadette Soubirous</a></li>
+<li><a href="/wiki/Brigid_of_Kildare" title="Brigid of Kildare">Brigid of Kildare</a></li>
+<li><a href="/wiki/Saint_Cecilia" title="Saint Cecilia">Cecilia</a></li>
+<li><a href="/wiki/Clare_of_Assisi" title="Clare of Assisi">Clare of Assisi</a></li>
+<li><a href="/wiki/Eulalia_of_M%C3%A9rida" title="Eulalia of Mérida">Eulalia of Mérida</a></li>
+<li><a href="/wiki/Euphemia" title="Euphemia">Euphemia</a></li>
+<li><a href="/wiki/Genevieve" title="Genevieve">Genevieve</a></li>
+<li><a href="/wiki/Kateri_Tekakwitha" title="Kateri Tekakwitha">Kateri Tekakwitha</a></li>
+<li><a href="/wiki/Saint_Lucy" title="Saint Lucy">Lucy of Syracuse</a></li>
+<li><a href="/wiki/Maria_Goretti" title="Maria Goretti">Maria Goretti</a></li>
+<li><a href="/wiki/Mother_Teresa" title="Mother Teresa">Mother Teresa</a></li>
+<li><a href="/wiki/Narcisa_de_Jes%C3%BAs" title="Narcisa de Jesús">Narcisa de Jesús</a></li>
+<li><a href="/wiki/Rose_of_Lima" title="Rose of Lima">Rose of Lima</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: gold;width:1%">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Military_saint" title="Military saint">Military saints</a></li>
+<li><a href="/wiki/Virtuous_pagan" title="Virtuous pagan">Virtuous pagan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background-color: gold">
+<div>
+<ul>
+<li><a href="/wiki/File:046CupolaSPietro.jpg" class="image"><img alt="046CupolaSPietro.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/16px-046CupolaSPietro.jpg" width="16" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/24px-046CupolaSPietro.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/32px-046CupolaSPietro.jpg 2x" data-file-width="800" data-file-height="600" /></a> <a href="/wiki/Portal:Catholicism" title="Portal:Catholicism">Catholicism portal</a></li>
+<li><a href="/wiki/File:Gloriole_blur.svg" class="image"><img alt="Gloriole blur.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gloriole_blur.svg/16px-Gloriole_blur.svg.png" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gloriole_blur.svg/24px-Gloriole_blur.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gloriole_blur.svg/32px-Gloriole_blur.svg.png 2x" data-file-width="32" data-file-height="28" /></a> <a href="/wiki/Portal:Saints" title="Portal:Saints">Saints portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/143826097">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/143826097">143826097</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n82057089">n82057089</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/118555898">118555898</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p>Genesis 35:22</p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20171216234116
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.892 seconds
+Real time usage: 1.076 seconds
+Preprocessor visited node count: 7135/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 351442/2097152 bytes
+Template argument size: 17391/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.440/10.000 seconds
+Lua memory usage: 18.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  884.102      1 -total
+ 20.40%  180.352      1 Template:Reflist
+ 15.49%  136.947      1 Template:Lang-ar
+ 14.89%  131.687      8 Template:Navbox
+ 13.58%  120.072      1 Template:Infobox_religious_biography
+  8.92%   78.823      1 Template:Infobox
+  7.77%   68.675     17 Template:Bibleverse
+  7.29%   64.412      1 Template:Abraham_Family_Tree
+  6.72%   59.368      1 Template:Prophets_in_the_Qur'an
+  6.14%   54.303     11 Template:Cite_encyclopedia
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15192-0!canonical and timestamp 20171216234115 and revision id 815094141
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Isaac&amp;oldid=815094141">https://en.wikipedia.org/w/index.php?title=Isaac&amp;oldid=815094141</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Prophets_of_the_Hebrew_Bible" title="Category:Prophets of the Hebrew Bible">Prophets of the Hebrew Bible</a></li><li><a href="/wiki/Category:Isaac" title="Category:Isaac">Isaac</a></li><li><a href="/wiki/Category:Biblical_patriarchs" title="Category:Biblical patriarchs">Biblical patriarchs</a></li><li><a href="/wiki/Category:Christian_saints_from_the_Old_Testament" title="Category:Christian saints from the Old Testament">Christian saints from the Old Testament</a></li><li><a href="/wiki/Category:Esau" title="Category:Esau">Esau</a></li><li><a href="/wiki/Category:Prophets_of_Islam" title="Category:Prophets of Islam">Prophets of Islam</a></li><li><a href="/wiki/Category:Vayeira" title="Category:Vayeira">Vayeira</a></li><li><a href="/wiki/Category:Abraham" title="Category:Abraham">Abraham</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_religious_biography_with_unsupported_parameters" title="Category:Pages using infobox religious biography with unsupported parameters">Pages using infobox religious biography with unsupported parameters</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Articles_incorporating_a_citation_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Isaac" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Isaac" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Isaac" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Isaac" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Isaac">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Isaac&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Isaac&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Isaac" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Isaac" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Isaac&amp;oldid=815094141" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Isaac&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q671872" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Isaac&amp;id=815094141" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Isaac">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Isaac&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Isaac&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Isaac" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Author:Isaac" hreflang="en">Wikisource</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Ishaq" title="Ishaq – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8B%AD%E1%88%B5%E1%88%90%E1%89%85" title="ይስሐቅ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D8%AD%D8%A7%D9%82" title="إسحاق – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0shaq" title="İshaq – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A6%95" title="ইসহাক – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%86%D1%81%D0%B0%D0%BA_(%D0%BF%D0%B0%D1%82%D1%80%D1%8B%D1%8F%D1%80%D1%85)" title="Ісак (патрыярх) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%86%D1%81%D0%B0%D0%B0%D0%BA" title="Ісаак – Belarusian (Taraškievica orthography)" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%B0%D0%BA" title="Исаак – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A8%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BD%B1%E0%BD%82" title="ཨི་སཱག – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Izaag" title="Izaag – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Isaac" title="Isaac – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Isaac" title="Isaac – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Iz%C3%A1k" title="Izák – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Isaac" title="Isaac – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Isak_(patriark)" title="Isak (patriark) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Isaak" title="Isaak – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Iisak" title="Iisak – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%99%CF%83%CE%B1%CE%AC%CE%BA" title="Ισαάκ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Isaac" title="Isaac – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Isaako" title="Isaako – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Isaak" title="Isaak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-ee"><a href="https://ee.wikipedia.org/wiki/Isak" title="Isak – Ewe" lang="ee" hreflang="ee" class="interlanguage-link-target">Eʋegbe</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AD%D8%A7%D9%82" title="اسحاق – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/%C3%8Dsakur" title="Ísakur – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Isaac" title="Isaac – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Iza%C3%A4k_(aartsfaar)" title="Izaäk (aartsfaar) – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/%C3%8Dos%C3%A1c" title="Íosác – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Isaac" title="Isaac – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%AC%EC%95%85" title="이사악 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Izak" title="Izak – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ishak" title="Ishak – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Isacco" title="Isacco – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%A6%D7%97%D7%A7" title="יצחק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%A1%E1%83%90%E1%83%90%E1%83%99%E1%83%98" title="ისააკი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%98%D1%81%D1%85%D0%B0%D2%9B_%D0%BF%D0%B0%D0%B9%D2%93%D0%B0%D0%BC%D0%B1%D0%B0%D1%80" title="Исхақ пайғамбар – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Isaka" title="Isaka – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Its.hak" title="Its.hak – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%98%D1%81%D1%85%D3%80%D0%B0%D0%BA%D1%8A_%D0%B8%D0%B4%D0%B0%D0%B2%D1%81" title="ИсхӀакъ идавс – Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Isaac" title="Isaac – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/%C4%AAz%C4%81ks" title="Īzāks – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Izaokas" title="Izaokas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Izs%C3%A1k_(%C3%81brah%C3%A1m_fia)" title="Izsák (Ábrahám fia) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Isaka_(Hebreo)" title="Isaka (Hebreo) – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%B8%E0%B5%8D%E0%B4%B9%E0%B4%BE%E0%B4%96%E0%B5%8D_%E0%B4%A8%E0%B4%AC%E0%B4%BF" title="ഇസ്ഹാഖ് നബി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Isaak_(aartsvader)" title="Isaak (aartsvader) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B5%E3%82%AF" title="イサク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%98%D1%81%D1%85%D1%8C%D0%B0%D0%BA%D1%8A" title="Исхьакъ – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Isak" title="Isak – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Patriarken_Isak" title="Patriarken Isak – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Isaac" title="Isaac – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Ishoq" title="Ishoq – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AD%D8%A7%D9%82" title="اسحاق – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Izaak" title="Izaak – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Isaac" title="Isaac – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Isac_(personaj_biblic)" title="Isac (personaj biblic) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Isaac" title="Isaac – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%B0%D0%BA" title="Исаак – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Eesac" title="Eesac – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Isaac" title="Isaac – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Nabi_Isxaaq_C.S." title="Nabi Isxaaq C.S. – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%8C%D8%B3%D8%AD%D8%A7%D9%82" title="ئیسحاق – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D1%81%D0%B0%D0%BA" title="Исак – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Iisak" title="Iisak – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Isak_(Bibeln)" title="Isak (Bibeln) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Isaac" title="Isaac – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%88%E0%AE%9A%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81" title="ஈசாக்கு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Is%E1%B8%A5aq" title="Isḥaq – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%90%E0%B0%9C%E0%B0%BE%E0%B0%95%E0%B1%8D" title="ఐజాక్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%AD%E0%B8%B1%E0%B8%84" title="อิสอัค – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C4%B0shak" title="İshak – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D1%81%D0%B0%D0%B0%D0%BA_(%D1%81%D0%B8%D0%BD_%D0%90%D0%B2%D1%80%D0%B0%D0%B0%D0%BC%D0%B0)" title="Ісаак (син Авраама) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AD%D8%A7%D9%82" title="اسحاق – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%A6%D9%89%D8%B3%DA%BE%D8%A7%D9%82_%D8%A6%DB%95%D9%84%DB%95%D9%8A%DA%BE%D9%89%D8%B3%D8%B3%D8%A7%D9%84%D8%A7%D9%85" title="ئىسھاق ئەلەيھىسسالام – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Isaac" title="Isaac – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Isaac" title="Isaac – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%99%D7%A6%D7%97%D7%A7_%D7%90%D7%91%D7%99%D7%A0%D7%95" title="יצחק אבינו – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/%C4%B0shaq" title="İshaq – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BB%A5%E6%92%92" title="以撒 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q671872#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 December 2017, at 18:57.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Isaac&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.892","walltime":"1.076","ppvisitednodes":{"value":7135,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":351442,"limit":2097152},"templateargumentsize":{"value":17391,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  884.102      1 -total"," 20.40%  180.352      1 Template:Reflist"," 15.49%  136.947      1 Template:Lang-ar"," 14.89%  131.687      8 Template:Navbox"," 13.58%  120.072      1 Template:Infobox_religious_biography","  8.92%   78.823      1 Template:Infobox","  7.77%   68.675     17 Template:Bibleverse","  7.29%   64.412      1 Template:Abraham_Family_Tree","  6.72%   59.368      1 Template:Prophets_in_the_Qur'an","  6.14%   54.303     11 Template:Cite_encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.440","limit":"10.000"},"limitreport-memusage":{"value":19197963,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20171216234116","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1209"});});</script>
+	</body>
+</html>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Jesus in Islam - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jesus_in_Islam","wgTitle":"Jesus in Islam","wgCurRevisionId":815373807,"wgRevisionId":815373807,"wgArticleId":173722,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Arabic-language sources (ar)","Articles containing Arabic-language text","Articles with hCards","All articles with vague or ambiguous time","Vague or ambiguous time from July 2017","All articles with unsourced statements","Articles with unsourced statements from July 2017","Articles with unsourced statements from June 2016","Articles with unsourced statements from April 2013","All pages needing factual verification","Wikipedia articles needing factual verification from July 2017","Articles with unsourced statements from January 2013","Articles with unsourced statements from May 2017","Perspectives on Jesus","Biblical people in Islam","Prophets of Islam"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jesus_in_Islam","wgRelevantArticleId":173722,"wgRequestId":"WjQh4ApAMCUAADWMgo4AAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q51664","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.12"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/19/Jesus_Name_in_Arabic.gif"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Jesus_in_Islam"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jesus_in_Islam&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jesus_in_Islam&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jesus_in_Islam"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Jesus_in_Islam rootpage-Jesus_in_Islam skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Jesus in Islam</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Masih" redirects here. For an overview of the title in Abrahamic religions, see <a href="/wiki/Messiah" title="Messiah">Messiah</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">In Islam, <i>Isa</i> refers to Jesus. For other uses, see <a href="/wiki/Isa_(disambiguation)" class="mw-redirect mw-disambig" title="Isa (disambiguation)">Isa (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Isa_(name)" title="Isa (name)">Isa (name)</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="honorific-prefix" style="font-size: 77%; font-weight: normal;"><span style="font-size:90%;"><a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">Messenger of God</a></span></span><br />
+<span class="fn">ʿĪsā<br />
+<span lang="ar" xml:lang="ar">عيسى</span><br />
+Jesus</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Jesus_Name_in_Arabic.gif" class="image"><img alt="Jesus Name in Arabic.gif" src="//upload.wikimedia.org/wikipedia/commons/1/19/Jesus_Name_in_Arabic.gif" width="214" height="208" data-file-width="214" data-file-height="208" /></a>
+<div>The name <i>Jesus son of Mary</i> written in <a href="/wiki/Islamic_calligraphy" title="Islamic calligraphy">Islamic calligraphy</a> followed by <a href="/wiki/Peace_be_upon_him_(Islam)" class="mw-redirect" title="Peace be upon him (Islam)">Peace be upon him</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Native&#160;name</th>
+<td><span class="nickname"><span class="script-hebrew" style="font-size: 115%; font-family: Alef, 'SBL BibLit', 'SBL Hebrew', 'David CLM', 'Frenk Ruehl CLM', 'Hadasim CLM', Shofar, 'Ezra SIL', 'Ezra SIL SR', Cardo, 'Noto Sans Hebrew', David, FreeSerif, 'Times New Roman', FreeSans, Arial;" dir="rtl">ישוע</span>‎ Yēšūă‘</span></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>c. 7-2 <a href="/wiki/Before_Christ" class="mw-redirect" title="Before Christ">BC</a><br />
+<span class="birthplace"><a href="/wiki/Bethlehem" title="Bethlehem">Bethlehem</a>, <a href="/wiki/Judea_(Roman_province)" title="Judea (Roman province)">Judea</a>, <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a></span></td>
+</tr>
+<tr>
+<th scope="row">Disappeared</th>
+<td>c. 30-33 <a href="/wiki/Anno_Domini" title="Anno Domini">AD</a><br />
+<a href="/wiki/Gethsemane" title="Gethsemane">Gethsemane</a>, <a href="/wiki/Jerusalem_in_Islam" title="Jerusalem in Islam">Jerusalem</a></td>
+</tr>
+<tr>
+<th scope="row">Predecessor</th>
+<td>Yahya (<a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a>)</td>
+</tr>
+<tr>
+<th scope="row">Successor</th>
+<td><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></td>
+</tr>
+<tr>
+<th scope="row">Parent(s)</th>
+<td><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam</a> (Mary) [mother]</td>
+</tr>
+<tr>
+<th scope="row">Relatives</th>
+<td><a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">Yahya</a> (John the Baptist) <a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zakariya</a> (Zechariah)</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Jesus" title="Category:Jesus">a series</a> on</td>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/Jesus" title="Jesus"><img alt="Jesus" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JesusYeshua.svg/200px-JesusYeshua.svg.png" width="200" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JesusYeshua.svg/300px-JesusYeshua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/JesusYeshua.svg/400px-JesusYeshua.svg.png 2x" data-file-width="819" data-file-height="234" /></a></td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a href="/wiki/Jesus_in_Christianity" title="Jesus in Christianity">Jesus in Christianity</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Christ_(title)" title="Christ (title)">Christ</a></li>
+<li><a href="/wiki/Christology" title="Christology">Christology</a></li>
+<li><a href="/wiki/Names_and_titles_of_Jesus_in_the_New_Testament" title="Names and titles of Jesus in the New Testament">Names and titles</a></li>
+<li><a href="/wiki/Life_of_Jesus_in_the_New_Testament" title="Life of Jesus in the New Testament">Life of Jesus</a></li>
+<li><a href="/wiki/Gospel" title="Gospel">Gospels</a></li>
+<li><a href="/wiki/Gospel_harmony" title="Gospel harmony">Gospel harmony</a></li>
+<li><a href="/wiki/New_Testament_places_associated_with_Jesus" title="New Testament places associated with Jesus">Places</a></li>
+<li><a href="/wiki/Virgin_birth_of_Jesus" title="Virgin birth of Jesus">Virgin birth</a></li>
+<li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity</a></li>
+<li><a href="/wiki/Baptism_of_Jesus" title="Baptism of Jesus">Baptism</a></li>
+<li><a href="/wiki/Ministry_of_Jesus" title="Ministry of Jesus">Ministry</a></li>
+<li><a href="/wiki/Miracles_of_Jesus" title="Miracles of Jesus">Miracles</a></li>
+<li><a href="/wiki/Parables_of_Jesus" title="Parables of Jesus">Parables</a></li>
+<li><a href="/wiki/Humiliation_of_Christ" title="Humiliation of Christ">Humiliation</a></li>
+<li><a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">Execution</a></li>
+<li><a href="/wiki/Burial_of_Jesus" title="Burial of Jesus">Burial</a></li>
+<li><a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">Resurrection</a></li>
+<li><a href="/wiki/Ascension_of_Jesus" title="Ascension of Jesus">Ascension</a></li>
+<li><a href="/wiki/Active_obedience_of_Christ" title="Active obedience of Christ">Obedience</a></li>
+<li><a href="/wiki/Session_of_Christ" title="Session of Christ">Heavenly Session</a></li>
+<li><a href="/wiki/Intercession_of_Christ" title="Intercession of Christ">Intercession</a></li>
+<li><a href="/wiki/Second_Coming" title="Second Coming">Second Coming</a></li>
+<li><a href="/wiki/Relics_associated_with_Jesus" title="Relics associated with Jesus">Relics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a class="mw-selflink selflink">Jesus in Islam</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Gospel</a></li>
+<li><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Mary</a></li>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Disciples</a></li>
+<li><a href="/wiki/Islamic_view_of_Jesus%27_death" title="Islamic view of Jesus' death">Death</a></li>
+<li><a href="/wiki/Mahdi" title="Mahdi">Mahdi</a></li>
+<li><a href="/wiki/Islamic_eschatology#Isa" title="Islamic eschatology">End times</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a href="/wiki/Historical_background_of_the_New_Testament" title="Historical background of the New Testament">Background</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Historical_background_of_the_New_Testament" title="Historical background of the New Testament">Background to the New Testament</a></li>
+<li><a href="/wiki/Language_of_Jesus" title="Language of Jesus">Language spoken by Jesus</a></li>
+<li><a href="/wiki/Race_and_appearance_of_Jesus" title="Race and appearance of Jesus">Jesus' race</a>&#160;/ <a href="/wiki/Genealogy_of_Jesus" title="Genealogy of Jesus">genealogy</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a href="/wiki/Historicity_of_Jesus" title="Historicity of Jesus">Jesus in history</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Chronology_of_Jesus" title="Chronology of Jesus">Chronology</a></li>
+<li><a href="/wiki/Historical_Jesus" title="Historical Jesus">Historical Jesus</a></li>
+<li><a href="/wiki/Historicity_of_Jesus" title="Historicity of Jesus">Historicity</a>&#160;(<a href="/wiki/Historical_reliability_of_the_Gospels" title="Historical reliability of the Gospels">Gospels</a>)</li>
+<li><a href="/wiki/Jesus_in_comparative_mythology" title="Jesus in comparative mythology">Mythology</a></li>
+<li><a href="/wiki/Christ_myth_theory" title="Christ myth theory">Christ myth theory</a></li>
+<li><a href="/wiki/Criticism_of_Jesus" title="Criticism of Jesus">Criticism</a></li>
+<li><a href="/wiki/Unknown_years_of_Jesus" title="Unknown years of Jesus">Unknown years</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a href="/wiki/Religious_perspectives_on_Jesus" title="Religious perspectives on Jesus">Perspectives on Jesus</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Life_of_Jesus_in_the_New_Testament" title="Life of Jesus in the New Testament">Biblical</a></li>
+<li><a href="/wiki/Christology" title="Christology">Christian</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Scholastic_Lutheran_Christology" title="Scholastic Lutheran Christology">Lutheran</a>)</span></li>
+<li><a href="/wiki/Judaism%27s_view_of_Jesus" title="Judaism's view of Jesus">Jewish</a></li>
+<li><a href="/wiki/Jesus_in_the_Talmud" title="Jesus in the Talmud">Talmud</a></li>
+<li><a class="mw-selflink selflink">Islamic</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Jesus_in_Ahmadiyya_Islam" title="Jesus in Ahmadiyya Islam">Ahmadi</a>)</span></li>
+<li><a href="/wiki/Jesus_in_Scientology" title="Jesus in Scientology">Scientology</a></li>
+<li><a href="/wiki/Josephus_on_Jesus" title="Josephus on Jesus">Josephus</a></li>
+<li><a href="/wiki/Tacitus_on_Christ" title="Tacitus on Christ">Tacitus</a></li>
+<li><a href="/wiki/Mara_bar_Serapion_on_Jesus" title="Mara bar Serapion on Jesus">Bar-Serapion</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-bottom:0;"><a href="/wiki/Depiction_of_Jesus" title="Depiction of Jesus">Jesus in culture</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Life_of_Christ_in_art" title="Life of Christ in art">Life in art</a></li>
+<li><a href="/wiki/Depiction_of_Jesus" title="Depiction of Jesus">Depiction</a></li>
+<li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.1em;font-weight:bold;line-height:1.5em;">
+<ul>
+<li><a href="/wiki/File:P_christianity.svg" class="image"><img alt="P christianity.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/16px-P_christianity.svg.png" width="16" height="14" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/24px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/32px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360" /></a> <a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></li>
+<li><a href="/wiki/File:Allah-green.svg" class="image"><img alt="Allah-green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/15px-Allah-green.svg.png" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/23px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/31px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></a> <a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></li>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" />&#160;<a href="/wiki/Book:Jesus" title="Book:Jesus">Book:Jesus</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jesus" title="Template:Jesus"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jesus" title="Template talk:Jesus"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jesus&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Islam" title="Islam">Islam</a>, <b>ʿĪsā ibn Maryam</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">عيسى بن مريم</span>‎, <small><a href="/wiki/Literal_translation" title="Literal translation">lit.</a>&#160;</small>'Jesus, son of Mary'), or <a href="/wiki/Jesus" title="Jesus">Jesus</a>, is understood to be the penultimate <a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">prophet and messenger</a> of <a href="/wiki/God_in_Islam" title="God in Islam">God</a> (<a href="/wiki/Allah" title="Allah">Allah</a>) and <i><a href="/wiki/Messiah#Islam" title="Messiah">al-Masih</a></i>, the Arabic term for <a href="/wiki/Messiah" title="Messiah">Messiah</a> (<a href="/wiki/Christ_(title)" title="Christ (title)">Christ</a>), sent to guide the <a href="/wiki/Israelites" title="Israelites">Children of Israel</a> (<i>banī isrā'īl</i> in Arabic) with a new revelation: <i><a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">al-Injīl</a></i> (Arabic for "the <a href="/wiki/The_gospel" title="The gospel">Gospel</a>").<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-0" class="reference"><a href="#cite_note-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Jesus is believed to be a prophet who neither married nor had any children and is reflected as a significant figure, being found in the <a href="/wiki/Quran" title="Quran">Quran</a> in 93 <i>ayaat</i> (Arabic for verses) with various titles attached such as "Son of <a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">Mary</a>" and other relational terms, mentioned directly and indirectly, over 187 times.<sup id="cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-1" class="reference"><a href="#cite_note-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature_6-0" class="reference"><a href="#cite_note-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature-6">[6]</a></sup><sup id="cite_ref-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature_6-1" class="reference"><a href="#cite_note-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Jesus is <a href="/wiki/List_of_people_mentioned_by_name_in_the_Quran#Prophets" class="mw-redirect" title="List of people mentioned by name in the Quran">the most mentioned person</a> in the Quran by reference; 25 times by the name Isa, third-person 48 times, first-person 35 times, and the rest as titles and attributes.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[note 2]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[8]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[note 3]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[9]</a></sup></p>
+<p>The Quran (central religious text of Islam) and most <a href="/wiki/Hadith" title="Hadith">Hadith</a> (testimonial reports) mention Jesus to have been born a "pure boy" (without sin) to Mary (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">مريم</span>‎, <small><a href="/wiki/Romanization_of_Arabic" title="Romanization of Arabic">translit.</a>&#160;</small><i lang="ar-Latn" title="Arabic transliteration" xml:lang="ar-Latn"><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam</a></i>) as the result of <a href="/wiki/Virgin_birth_of_Jesus" title="Virgin birth of Jesus">virginal conception</a>, similar to the event of the <a href="/wiki/Annunciation" title="Annunciation">Annunciation</a> in <a href="/wiki/Christianity" title="Christianity">Christianity</a>.<sup id="cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-2" class="reference"><a href="#cite_note-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them-2">[2]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[10]</a></sup><sup id="cite_ref-Leirvik_2010_14-0" class="reference"><a href="#cite_note-Leirvik_2010-14">[11]</a></sup> In Islamic theology, Jesus is believed to have performed many <a href="/wiki/Miracles_of_Jesus" title="Miracles of Jesus">miracles</a>, several being mentioned in the Quran such as speaking as an infant, healing various ailments such as blindness, raising the dead to life, and making birds out of clay and breathing life into them.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[12]</a></sup> Over the centuries, Islamic writers have referenced other miracles like casting out demons, having borrowed from pre-Islamic sources, some heretical, and from <a href="/wiki/Gospel_canon" class="mw-redirect" title="Gospel canon">canonical</a> sources as legends about Jesus were expanded.<sup id="cite_ref-Leirvik_2010,_p._59-60_16-0" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-60-16">[13]</a></sup> Like all <a href="/wiki/Prophets_of_Islam" class="mw-redirect" title="Prophets of Islam">prophets in Islamic thought</a>, Jesus is also called a <a href="/wiki/Muslim" title="Muslim">Muslim</a> (i.e., one who submits to the will of God), as he preached that his followers should adopt the "<a href="/wiki/Sirat_al-Mustaqim" title="Sirat al-Mustaqim">straight path</a>". Jesus is written about by some Muslim scholars as the perfect man.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[14]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[15]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[16]</a></sup></p>
+<p>In Islam, Jesus is believed to have been the precursor to <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>, attributing the name <a href="/wiki/Ahmad" title="Ahmad">Ahmad</a> to someone who would follow him. Islam traditionally teaches the <a href="/wiki/Islamic_view_of_the_Trinity" title="Islamic view of the Trinity">rejection of Jesus' divinity</a>, that Jesus was not <a href="/wiki/Incarnation_(Christianity)" title="Incarnation (Christianity)">God incarnate</a>, nor the <a href="/wiki/Son_of_God" title="Son of God">Son of God</a>, and—according to some interpretations of the Quran—the <a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">crucifixion</a>, <a href="/wiki/Islamic_view_of_Jesus%27_death" title="Islamic view of Jesus' death">death</a> and <a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">resurrection</a> is denied and not believed to have occurred, as rather he was saved.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[17]</a></sup> Despite the earliest Muslim traditions and exegesis quoting somewhat conflicting reports regarding a death and its length, the mainstream Muslim belief is that Jesus did not physically die, but was instead <a href="/wiki/Ascension_of_Jesus" title="Ascension of Jesus">raised alive to heaven</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[18]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[19]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Birth_of_Jesus"><span class="tocnumber">1</span> <span class="toctext">Birth of Jesus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Annunciation"><span class="tocnumber">1.1</span> <span class="toctext">Annunciation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Childhood"><span class="tocnumber">2</span> <span class="toctext">Childhood</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#In_Egypt"><span class="tocnumber">2.1</span> <span class="toctext">In Egypt</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Adulthood"><span class="tocnumber">3</span> <span class="toctext">Adulthood</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Mission"><span class="tocnumber">3.1</span> <span class="toctext">Mission</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Preaching"><span class="tocnumber">3.2</span> <span class="toctext">Preaching</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Miracles"><span class="tocnumber">4</span> <span class="toctext">Miracles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Speaking_from_the_cradle"><span class="tocnumber">4.1</span> <span class="toctext">Speaking from the cradle</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Healing_the_blind_and_the_leper"><span class="tocnumber">4.2</span> <span class="toctext">Healing the blind and the leper</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Creating_birds_from_clay"><span class="tocnumber">4.3</span> <span class="toctext">Creating birds from clay</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Power_over_death"><span class="tocnumber">4.4</span> <span class="toctext">Power over death</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Prescience"><span class="tocnumber">4.5</span> <span class="toctext">Prescience</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Table_of_food_from_heaven"><span class="tocnumber">4.6</span> <span class="toctext">Table of food from heaven</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Other_miracles"><span class="tocnumber">4.7</span> <span class="toctext">Other miracles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Scripture"><span class="tocnumber">5</span> <span class="toctext">Scripture</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Disciples"><span class="tocnumber">6</span> <span class="toctext">Disciples</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Death"><span class="tocnumber">7</span> <span class="toctext">Death</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Substitution"><span class="tocnumber">7.1</span> <span class="toctext">Substitution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Ascension"><span class="tocnumber">8</span> <span class="toctext">Ascension</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Second_coming"><span class="tocnumber">9</span> <span class="toctext">Second coming</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#In_Islamic_theology"><span class="tocnumber">10</span> <span class="toctext">In Islamic theology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Similitude_with_Adam"><span class="tocnumber">10.1</span> <span class="toctext">Similitude with Adam</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Precursor_to_Muhammad"><span class="tocnumber">10.2</span> <span class="toctext">Precursor to Muhammad</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Messianism"><span class="tocnumber">10.3</span> <span class="toctext">Messianism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#In_Islamic_literature"><span class="tocnumber">11</span> <span class="toctext">In Islamic literature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Hadith"><span class="tocnumber">11.1</span> <span class="toctext">Hadith</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Sunnism"><span class="tocnumber">11.2</span> <span class="toctext">Sunnism</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Sufism"><span class="tocnumber">11.3</span> <span class="toctext">Sufism</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Ahmadiyya"><span class="tocnumber">11.4</span> <span class="toctext">Ahmadiyya</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Ascetic_literature"><span class="tocnumber">11.5</span> <span class="toctext">Ascetic literature</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Appearance"><span class="tocnumber">12</span> <span class="toctext">Appearance</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#See_also"><span class="tocnumber">13</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Notes"><span class="tocnumber">14</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Citations"><span class="tocnumber">15</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#References"><span class="tocnumber">16</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-37"><a href="#Further_reading"><span class="tocnumber">17</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-38"><a href="#External_links"><span class="tocnumber">18</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Birth_of_Jesus">Birth of Jesus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=1" title="Edit section: Birth of Jesus">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:MaryLineage.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MaryLineage.JPG/260px-MaryLineage.JPG" width="260" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MaryLineage.JPG/390px-MaryLineage.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MaryLineage.JPG/520px-MaryLineage.JPG 2x" data-file-width="554" data-file-height="294" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MaryLineage.JPG" class="internal" title="Enlarge"></a></div>
+Jesus' lineage, going back to his great-grandfather</div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Maryam_(sura)" class="mw-redirect" title="Maryam (sura)">Maryam (sura)</a> and <a href="/wiki/Islamic_views_of_Mary" class="mw-redirect" title="Islamic views of Mary">Islamic views of Mary</a></div>
+<p>The account of Jesus begins with a prologue narrated several times in the Quran first describing the birth of his mother, Mary, and her service in the <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> <a href="/wiki/Temple" title="Temple">temple</a>, while under the care of the prophet and <a href="/wiki/Priest" title="Priest">priest</a> <a href="/wiki/Zechariah_(priest)#In_Islam" title="Zechariah (priest)">Zechariah</a>, who was to be the father of <a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">John the Baptist</a> (Luke 1:5-79). The narrative has been recounted with variations and additions by Islamic historians over the centuries.</p>
+<p><a href="/wiki/Ibn_Ishaq" title="Ibn Ishaq">Ibn Ishaq</a> (d. 761 or 767), an <a href="/wiki/Arab" class="mw-redirect" title="Arab">Arab</a> <a href="/wiki/Historian" title="Historian">historian</a> and <a href="/wiki/Hagiographer" class="mw-redirect" title="Hagiographer">hagiographer</a>, wrote the account entitled <i>Kitab al-Mubtada</i> (In the Beginning), reporting that Zechariah is Mary's guardian briefly, and after being incapable of maintaining her, he entrusts her to a carpenter named George. Secluded in a church, she is joined by a young man named Joseph, and they help one another fetching water and other tasks. The account of the birth of Jesus follows the Quran's narrative, adding that the birth occurred in <a href="/wiki/Bethlehem" title="Bethlehem">Bethlehem</a> beside a palm tree with a manger.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[20]</a></sup></p>
+<p><a href="/wiki/At-Tabari" class="mw-redirect" title="At-Tabari">At-Tabari</a> (d. 923), a <a href="/wiki/Persian_people" title="Persian people">Persian</a> <a href="/wiki/Scholar" class="mw-redirect" title="Scholar">scholar</a> and historian, contributed to the Jesus' birth narrative by mentioning envoys arriving from the king of Persia with gifts (similar to the <a href="/wiki/Biblical_Magi" title="Biblical Magi">Magi from the east</a>) for the Messiah; the command to a man called Joseph (not specifically Mary's husband) to take her and the child to Egypt and later return to <a href="/wiki/Nazareth" title="Nazareth">Nazareth</a>.<sup id="cite_ref-Watt_1991,_p._46_24-0" class="reference"><a href="#cite_note-Watt_1991,_p._46-24">[21]</a></sup></p>
+<p>The work <i><a href="/wiki/The_Meadows_of_Gold" title="The Meadows of Gold">The Meadows of Gold</a></i> by <a href="/wiki/Al-Masudi" title="Al-Masudi">Al-Masudi</a> (d. 956), an Arab historian and <a href="/wiki/Geographer" title="Geographer">geographer</a>, reports Jesus being born at Bethlehem on Wednesday 24 December (a detail likely received from contemporary Christians) without mentioning the Quranic palm tree.<sup id="cite_ref-Watt_1991,_p._46_24-1" class="reference"><a href="#cite_note-Watt_1991,_p._46-24">[21]</a></sup></p>
+<p><a href="/wiki/Ali_ibn_al-Athir" title="Ali ibn al-Athir">Ali ibn al-Athir</a> (d. 1233), an Arab or Kurdish historian and <a href="/wiki/Biographer" class="mw-redirect" title="Biographer">biographer</a>, reported in <i><a href="/wiki/The_Complete_History" title="The Complete History">The Perfection of History (al-Kamil)</a></i>, a work which became a standard for later Muslims, that Joseph the carpenter had a more prominent role, but is not mentioned as a relative or husband of Mary. Al-Athir writes about how Jesus as a young boy helped to detect a thief, and about bringing a boy back to life which Jesus was accused of having killed. He mentions a version of the birth narrative taking place in Egypt without mention of a manger under the palm tree, but adds that the first version of the birth in the land of Mary's people is more accurate. Al-Athir makes a point believing Mary's pregnancy to have lasted not nine or eight months, but only a single hour. His basis is that this understanding is closer to where the Quran says Mary 'conceived him and retired with him to a distant place' (19:22).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[22]</a></sup></p>
+<h3><span class="mw-headline" id="Annunciation">Annunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=2" title="Edit section: Annunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Annunciation" title="Annunciation">Annunciation</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Annunciation_(in_Islam).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Annunciation_%28in_Islam%29.jpg/220px-Annunciation_%28in_Islam%29.jpg" width="220" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Annunciation_%28in_Islam%29.jpg/330px-Annunciation_%28in_Islam%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b5/Annunciation_%28in_Islam%29.jpg 2x" data-file-width="339" data-file-height="525" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Annunciation_(in_Islam).jpg" class="internal" title="Enlarge"></a></div>
+Annunciation in miniature</div>
+</div>
+</div>
+<p>The virgin birth of Jesus is announced to Mary by the angel Gabriel while Mary is being raised in the <a href="/wiki/Second_Temple" title="Second Temple">Temple</a> after having been pledged to God by her mother. <a href="/wiki/Gabriel" title="Gabriel">Gabriel</a> states she is honored over all women of all nations and has brought her glad tidings of a holy son.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[23]</a></sup></p>
+<p>A <a href="/wiki/Hadith" title="Hadith">hadith</a> narrated by <a href="/wiki/Abu_Hurairah" title="Abu Hurairah">Abu Hurairah</a>, one of the earliest <a href="/wiki/Sahabah" title="Sahabah">companions of Muhammad</a>, quotes Muhammad:</p>
+<blockquote class="templatequote">
+<p><i>"Hardly a single descendant of Adam is born without Satan touching him at the moment of his birth. A baby who is touched like that gives a cry. The only exceptions are Mary and her son"</i> [cf. Q 3: 36].<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[24]</a></sup></p>
+</blockquote>
+<p>The angel declares the son is to be named Jesus, the Messiah, proclaiming he will be called a great prophet, being the Spirit of God and Word of God, who will receive <a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">al-Injīl</a> (Arabic for the <a href="/wiki/The_gospel" title="The gospel">Gospel</a>). The angel tells Mary that Jesus will speak in infancy, and when mature, will be a companion to the most righteous. Mary, responding how she could conceive and have a child when no man had touched her, was told by the angel that God can decree what He wills, and it shall come to pass.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[25]</a></sup></p>
+<p>The conception of Jesus as described by <a href="/wiki/Ibn_Arabi" title="Ibn Arabi">Ibn al-Arabi</a> (d. 1240), an <a href="/wiki/Al-Andalus" title="Al-Andalus">Andalusian</a> <a href="/wiki/Ulama" title="Ulama">Scholar of Islam</a>, <a href="/wiki/Sufism" title="Sufism">Sufi</a> <a href="/wiki/Mysticism" title="Mysticism">mystic</a>, <a href="/wiki/Poet" title="Poet">poet</a> and <a href="/wiki/Philosopher" title="Philosopher">philosopher</a>, in the Bezels of Wisdom:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Maryam.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Maryam.jpg/220px-Maryam.jpg" width="220" height="317" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/ec/Maryam.jpg 1.5x" data-file-width="224" data-file-height="323" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Maryam.jpg" class="internal" title="Enlarge"></a></div>
+Virgin Mary nurtured by a palm tree, as described in the Quran.</div>
+</div>
+</div>
+<blockquote class="templatequote">
+<p><i>From the water of Mary or from the breath of Gabriel,</i></p>
+<dl>
+<dd><i>In the form of a mortal fashioned of clay,</i></dd>
+</dl>
+<p><i>The Spirit came into existence in an essence</i></p>
+<dl>
+<dd><i>Purged of Nature's taint, which is called Sijjin (hell)</i></dd>
+</dl>
+<p><i>Because of this, his sojourn was prolonged,</i></p>
+<dl>
+<dd><i>Enduring, by decree, more than a thousand years.</i></dd>
+</dl>
+<p><i>A spirit from none other than God,</i></p>
+<dl>
+<dd><i>So that he might raise the dead and bring forth birds from clay.</i><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[26]</a></sup></dd>
+</dl>
+</blockquote>
+<p>Mary, overcome by the pains of childbirth, is provided a stream of water under her feet from which she could drink and a palm tree which she could shake so ripe dates would fall and be enjoyed. As Mary carried baby Jesus back to the temple, she was asked by the temple elders about the child. Having been commanded by Gabriel to a vow of silence, she points to the infant Jesus and the infant proclaims:<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[27]</a></sup></p>
+<blockquote class="templatequote">
+<p><i>He said, "Lo, I am God's servant; God has given me the Book, and made me a Prophet. Blessed He has made me, wherever I may be; and He has enjoined me to pray, and to give the alms, so long as I live, and likewise to cherish my mother; He has not made me arrogant, unprosperous. Peace be upon me, the day I was born, and the day I die, and the day I am raised up alive!"</i><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[28]</a></sup></p>
+</blockquote>
+<p>Jesus speaking from the cradle is mentioned as one of six miracles in the Quran.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[29]</a></sup> The speaking infant narrative is also found in the <a href="/wiki/Syriac_Infancy_Gospel" title="Syriac Infancy Gospel">Syriac Infancy Gospel</a>, a pre-Islamic sixth century work.<sup id="cite_ref-Leirvik_2010,_p._34_33-0" class="reference"><a href="#cite_note-Leirvik_2010,_p._34-33">[30]</a></sup></p>
+<h2><span class="mw-headline" id="Childhood">Childhood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=3" title="Edit section: Childhood">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gentile_da_Fabriano_037.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gentile_da_Fabriano_037.jpg/220px-Gentile_da_Fabriano_037.jpg" width="220" height="310" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gentile_da_Fabriano_037.jpg/330px-Gentile_da_Fabriano_037.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gentile_da_Fabriano_037.jpg/440px-Gentile_da_Fabriano_037.jpg 2x" data-file-width="1572" data-file-height="2218" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gentile_da_Fabriano_037.jpg" class="internal" title="Enlarge"></a></div>
+Pseudo-Arabic on the Christ child's blanket, <a href="/wiki/Gentile_da_Fabriano" title="Gentile da Fabriano">Gentile da Fabriano</a></div>
+</div>
+</div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Finding_in_the_Temple" title="Finding in the Temple">Finding in the Temple</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Flight_into_Egypt" title="Flight into Egypt">Flight into Egypt</a></div>
+<p>The narrative of fleeing from <a href="/wiki/Herod_the_Great" title="Herod the Great">Herod</a> continues similarly to the narrative found in the canonical Gospels and noncanonical sources, with some Islamic narratives having Jesus and family staying <a href="/wiki/Flight_into_Egypt" title="Flight into Egypt">in Egypt</a> for 12 years.<sup id="cite_ref-Leirvik_2010,_p._59_34-0" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-34">[31]</a></sup> Many moral stories and miraculous events of Jesus' youth are mentioned in <i><a href="/wiki/Qisas_al-anbiya" class="mw-redirect" title="Qisas al-anbiya">Qisas al-anbiya</a></i> (Stories of the Prophets), books composed over the centuries about <a href="/wiki/Pre-Islamic_Arabia" title="Pre-Islamic Arabia">pre-Islamic</a> prophets and heroes.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[32]</a></sup></p>
+<p>Al-Masudi claims that Jesus as a boy studied the Jewish religion reading from the <a href="/wiki/Zabur" title="Zabur">Psalms</a> and found <i>"traced in characters of light"</i>:</p>
+<blockquote class="templatequote">
+<p><i>"You are my son and my beloved; I have chosen you for myself"</i></p>
+</blockquote>
+<dl>
+<dd>with Jesus then claiming:</dd>
+</dl>
+<blockquote class="templatequote">
+<p><i>"today the word of God is fulfilled in the son of man</i>".<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[33]</a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="In_Egypt">In Egypt</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=4" title="Edit section: In Egypt">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the stay in Egypt, several miracles were reported;<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (July 2017)">when?</span></a></i>]</sup> Jesus at nine months old explains Muslim creed fundamentals to a schoolmaster; Jesus reveals thieves to a wealthy chief; fills empty jars of something to drink; reveals what parents were eating at home while playing with their children; provides food and wine for a tyrannical king; proves to this same king his power in raising a dead man from the dead; raises a child accidentally killed; and causes the garments from a single-colored vat to come out with various colors.<sup id="cite_ref-Leirvik_2010,_p._59-60_16-1" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-60-16">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=5" title="Edit section: Adulthood">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Yarden_034PAN2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yarden_034PAN2.JPG/300px-Yarden_034PAN2.JPG" width="300" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yarden_034PAN2.JPG/450px-Yarden_034PAN2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Yarden_034PAN2.JPG/600px-Yarden_034PAN2.JPG 2x" data-file-width="1789" data-file-height="745" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Yarden_034PAN2.JPG" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Jordan_River" title="Jordan River">Jordan River</a>, where Jesus was baptized by <a href="/wiki/Yahya_ibn_Zakariyya" class="mw-redirect" title="Yahya ibn Zakariyya">Yahya ibn Zakariyya</a> (<a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a>).<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[34]</a></sup></div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Mission">Mission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=6" title="Edit section: Mission">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Apostle_(Islam)" class="mw-redirect" title="Apostle (Islam)">Apostle (Islam)</a> and <a href="/wiki/Cleansing_of_the_Temple" title="Cleansing of the Temple">Cleansing of the Temple</a></div>
+<p>It is generally agreed that <a href="/wiki/Jesus" title="Jesus">Jesus</a> spoke <a href="/wiki/Aramaic_language" title="Aramaic language">Aramaic</a>, the <a href="/wiki/Lingua_franca" title="Lingua franca">common language</a> of <a href="/wiki/Roman_Judea" class="mw-redirect" title="Roman Judea">Judea in the first century AD</a> and the region at-large.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[35]</a></sup></p>
+<p>Most Islamic tradition conveys Jesus and his teaching conformed to the prophetic model: a human, as with previous prophets, sent by God to a certain people at a certain time, to present both a judgement upon humanity for worshipping idols and a challenge to turn to the one true God. Tradition believes Jesus' mission was to the people of Israel, his status as a prophet confirmed by numerous miracles.<sup id="cite_ref-Gregg,_Stephen_2010,_p._90_39-0" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._90-39">[36]</a></sup></p>
+<p>The first and earliest view of Jesus in Islamic thought is that of a prophet; a human being chosen by God to present both a judgement upon humanity for worshipping idols and a challenge to turn to the one, true God, is foundational for all Muslims. From this basis reflected upon all previous prophets through the lens of Muslim identity, Jesus is no more than a messenger repeating the same message of the ages. Jesus is not traditionally perceived as divine, yet Muslim ideology is careful not to view Jesus as less than this, for in doing so would be sacrilegious and similar to rejecting a recognized Islamic prophet. The miracles of Jesus and the Quranic titles attributed to Jesus demonstrate the power of God rather than the divinity of Jesus—the same power behind the message of all prophets.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[37]</a></sup></p>
+<p>A second early image of Jesus is an end-time figure, arising mostly from the Hadith. Muslim tradition constructs a narrative similar to found in Christian theology, seeing Jesus awaiting the end of time when he will descend to the earth and fight the Antichrist, championing the cause of Islam, when after doing so he will point to the primacy of Muhammad and die a natural death.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[38]</a></sup></p>
+<p>A third and distinctive image is of Jesus representing an ascetic figure; a prophet of the heart. Although the Quran refers to the ‘gospel’ of Jesus, those specific teachings of his are not mentioned. The Sufi movement is where Jesus became revered, acknowledged as a spiritual teacher with a distinctive voice from other prophets, including Muhammad. Sufism is a tendency, within Islam, to explore the dimensions of union with God through many approaches including asceticism, poetry, philosophy, speculative suggestion and mystical methods. Although Sufism to the western mind may seem to share similar origins or elements of Neoplatonism, Gnosticism and Buddhism, the ideology is distinctly Islamic since they adhere to the words of the Quran and pursue imitation of Muhammad as the perfect man.<sup id="cite_ref-Gregg,_Stephen_2010,_p._85_42-0" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._85-42">[39]</a></sup></p>
+<h3><span class="mw-headline" id="Preaching">Preaching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=7" title="Edit section: Preaching">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Islamic concept of Jesus' preaching is believed to have originated in <a href="/wiki/Kufa" title="Kufa">Kufa</a>, Iraq, where the earliest writers of Muslim tradition and scholarship was formulated, whom the Kufan, are labeled after. The concepts of Jesus and his preaching ministry was adopted from the early ascetic <a href="/wiki/Arianism" title="Arianism">Christians of Egypt</a> who opposed official church bishopric appointments from Rome.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[40]</a></sup></p>
+<p>The earliest stories numbering about 85 are found in two major collections of <a href="/wiki/Asceticism" title="Asceticism">ascetic</a> literature entitled <i>Kitab al-Zuhd wa'l Raqa'iq</i> (The Book of the Asceticism and Tender Mercies) by Ibn al-Mubarak (d. 797), and <i>Kitab al-Zuhd</i> (The Book of Asceticism) by Ibn Hanbal (d. 855). These sayings fall into four basic groups consisting of a) eschatological sayings; b) quasi-Gospel sayings; c) ascetic sayings and stories; d) sayings echoing intra-Muslim polemics.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[41]</a></sup></p>
+<p>The first group of sayings expand Jesus' <a href="/wiki/Archetype" title="Archetype">archetype</a> as portrayed in the Quran. The second group of stories, although containing a Gospel core, are expanded with a <i>"distinctly Islamic stamp"</i>. The third group, being the largest of the four, portrays Jesus as a patron saint of Muslim asceticism. The last group builds upon the Islamic archetype and Muslim-centric definition of Jesus and his attributes, furthering esoteric ideas regarding terms such as "Spirit of God" and "Word of God".<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[42]</a></sup></p>
+<h2><span class="mw-headline" id="Miracles">Miracles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=8" title="Edit section: Miracles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Miracles were attributed to Jesus as signs of his prophethood and his authority. Six miracles are specifically mentioned in the Quran, with these six initial miracle narratives being elaborated on over the centuries through Hadith and poetry.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Speaking_from_the_cradle">Speaking from the cradle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=9" title="Edit section: Speaking from the cradle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the miracles mentioned in the Quran is that Jesus, while still in the cradle, spoke out to protect his mother Mary from any accusations people may have placed on her due to having a child without a father. When she was approached about this strange incident after her childbirth, Mary merely pointed to Jesus, and he miraculously spoke, just as God had promised her upon annunciation.</p>
+<blockquote class="templatequote">
+<p>"He shall speak to people while still in the cradle, and in manhood, and he shall be from the righteous."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 3 (<a href="/wiki/Al-Imran" class="mw-redirect" title="Al-Imran">Al-Imran</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 46</i></cite></div>
+</blockquote>
+<p>This miracle is not found in the <a href="/wiki/Bible" title="Bible">Bible</a>, but it is found in the non-canonical <a href="/wiki/Syriac_Infancy_Gospel" title="Syriac Infancy Gospel">Syriac Infancy Gospel</a>. "He has said that Jesus spoke, and, indeed, when he was lying in his cradle, said to Mary, his mother: "I am Jesus, the Son of God, the <a href="/wiki/Logos" title="Logos">Logos</a>, whom thou hast brought forth, as the Angel <a href="/wiki/Gabriel" title="Gabriel">Gabriel</a> announced to thee; and my Father has sent me for the salvation of the world."<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[43]</a></sup></p>
+<h3><span class="mw-headline" id="Healing_the_blind_and_the_leper">Healing the blind and the leper</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=10" title="Edit section: Healing the blind and the leper">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Miracles_of_Jesus" title="Miracles of Jesus">Miracles of Jesus</a></div>
+<p>Similar to the <a href="/wiki/New_Testament" title="New Testament">New Testament</a>, The Quran also mentions Jesus to have healed the blind and the <a href="/wiki/Leprosy" title="Leprosy">lepers</a>.</p>
+<blockquote class="templatequote">
+<p>"I also heal the blind and the leper."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 3 (<a href="/wiki/Al_Imran" title="Al Imran">Al Imran</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 49</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Creating_birds_from_clay">Creating birds from clay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=11" title="Edit section: Creating birds from clay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>God mentions a miracle given to none other in the Quran but Jesus, one which is quite parallel to how God himself created Adam. This miracle was one which none can argue its greatness. God mentions in the Quran that Jesus says:</p>
+<blockquote class="templatequote">
+<p>"I create for you out of clay the likeness of a bird, then I breathe into it and it becomes a bird with God's permission."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 3 (<a href="/wiki/Al_Imran" title="Al Imran">Al Imran</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 49</i></cite></div>
+</blockquote>
+<p>This miracle is not found in the <a href="/wiki/New_Testament" title="New Testament">New Testament</a>, but it is found in the non-canonical <a href="/wiki/Infancy_Gospel_of_Thomas" title="Infancy Gospel of Thomas">Infancy Gospel of Thomas</a>; "When this boy, Jesus, was five years old, he was playing at the ford of a rushing stream. He then made soft clay and shaped it into twelve sparrows; Jesus simply clapped his hands and shouted to the sparrows: "Be off, fly away, and remember me, you who are now alive!" And the sparrows took off and flew away noisily."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Power_over_death">Power over death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=12" title="Edit section: Power over death">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<blockquote class="templatequote">
+<p>"...and I bring to life the dead, by the permission of God."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 3 (<a href="/wiki/Al_Imran" title="Al Imran">Al Imran</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 49</i></cite></div>
+</blockquote>
+<p>This, like the creation of a bird, was a miracle of incomparable nature, one that should have caused the Jews to believe in the prophethood of Jesus without any doubt. Islam agrees with Christianity that Jesus brought people back from the dead. The first three accounts are mentioned in both Islam and the Bible, save the last, which is only mentioned in Islam.</p>
+<h3><span class="mw-headline" id="Prescience">Prescience</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=13" title="Edit section: Prescience">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jesus has the miracle of <a href="/wiki/Precognition" title="Precognition">prescience</a>, or <a href="/wiki/Prophecy" title="Prophecy">foreknowledge</a>,<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[44]</a></sup> of what was hidden or unknown by others. One example is Jesus would answer any and every question anyone asked him correctly. Another example is Jesus knew what people had just eaten, as well as what they stored up in their houses.<sup id="cite_ref-Leirvik_2010,_p._59-60_16-2" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-60-16">[13]</a></sup></p>
+<blockquote class="templatequote">
+<p>"I inform you too of what things you eat, and what you store up in your houses. Surely in that is a sign for you, if you are believers."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 3 (<a href="/wiki/Al_Imran" title="Al Imran">Al Imran</a>) ayah 49</i><sup id="cite_ref-Leirvik_2010,_p._59-60_16-3" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-60-16">[13]</a></sup></cite></div>
+</blockquote>
+<p><a href="/wiki/Muhammad_ibn_Jarir_al-Tabari" class="mw-redirect" title="Muhammad ibn Jarir al-Tabari">Tabari</a> relates on the authority of <a href="/wiki/Ibn_Ishaq" title="Ibn Ishaq">Ibn Ishaq</a> that when Jesus was about nine or ten years old, his mother <a href="/wiki/Mary_in_Islam" title="Mary in Islam">Mary</a> would send him to a Jewish religious school. But whenever the teacher tried to teach him anything, he found that Jesus already knew it. The teacher exclaimed, "Do you not marvel at the son of this widow? Every time I teach him anything, I find that he knows it far better than I do!" <a href="/wiki/Muhammad_ibn_Jarir_al-Tabari" class="mw-redirect" title="Muhammad ibn Jarir al-Tabari">Tabari</a> further relates on the authority of <a href="/w/index.php?title=Ismail_al-Suddi&amp;action=edit&amp;redlink=1" class="new" title="Ismail al-Suddi (page does not exist)">Ismail al-Suddi</a> that "when Jesus was in his youth, his mother committed him [to the priests] to study the <a href="/wiki/Torah" title="Torah">Torah</a>. While Jesus played with the youths of his village, he used to tell them what their parents were doing." <a href="/wiki/Sa%27id_ibn_Jubayr" title="Sa'id ibn Jubayr">Sa'id ibn Jubayr</a>, according to <a href="/wiki/Muhammad_ibn_Jarir_al-Tabari" class="mw-redirect" title="Muhammad ibn Jarir al-Tabari">Tabari</a>, is said to have reported that Jesus would say to one of his fellow playmates in the religious school, "Your parents have kept such and such food for you, would you give me some of it?" Jesus would usually tell his fellow pupils in the religious school what their parents ate and what they have kept for them when they return home. He used to say to one boy, "Go home, for your parents have kept for you such and such food and they are now eating such and such food."<sup id="cite_ref-Leirvik_2010,_p._59-60_16-4" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-60-16">[13]</a></sup></p>
+<p>As parents became annoyed by this, they forbade their children to play with Jesus, saying, "Do not play with that magician." As a result, Jesus had no friends to play with and became lonely. Finally, the parents gathered all the children in a house away from Jesus. When Jesus came looking for them, the parents told Jesus that the children were not there. Jesus asked, "Then who is in this house?" The parents replied, "<a href="/wiki/Pig" title="Pig">Swine!</a>" (referring to Jesus). Jesus then said, "OK. Let there be swine in this house!" When the parents opened the door to the room where the children were, they found all their children had turned to swine, just as Jesus said.<sup id="cite_ref-Ayoub_1992_48-0" class="reference"><a href="#cite_note-Ayoub_1992-48">[45]</a></sup></p>
+<p>Tabari cites the Quran in support of this story:</p>
+<blockquote class="templatequote">
+<p>"Those of the children of Israel who have rejected faith were cursed by the tongue of <a href="/wiki/David_in_Islam" title="David in Islam">David</a> and Jesus, son of Mary, this because of their rebellion and the acts of transgression which they had committed."</p>
+<div class="templatequotecite">— <cite><i>Quran surah 5 (<a href="/wiki/Al-Ma%27ida" title="Al-Ma'ida">Al-Ma'ida</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 78</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Table_of_food_from_heaven">Table of food from heaven</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=14" title="Edit section: Table of food from heaven">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Feeding_the_multitude" title="Feeding the multitude">Feeding the multitude</a></div>
+<p>In the fifth chapter of the Quran, God narrates how the disciples of Jesus requested him to ask God to send down a table laden with food, and for it to be a special day of commemoration for them in the future.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup></p>
+<blockquote class="templatequote">
+<p>"When the disciples said: O Jesus, son of Mary! Is your Lord able to send down for us a table spread with food from heaven? He said: Observe your duty to God, if ye are true believers. They said: We desire to eat of it and our hearts be at rest, and that We may know that you have spoken truth to us, and that We may be witnesses thereof. Jesus, son of Mary, said: 'O God, our Lord, send down for us a table laden with food out of heaven, that shall be for us a recurring festival, the first and last of us, and a miracle from You. And provide us our sustenance, for You are the best of providers!"</p>
+<div class="templatequotecite">— <cite><i>Quran surah 5 (<a href="/wiki/Al-Ma%27ida" title="Al-Ma'ida">Al-Ma'ida</a>) ayah<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2016)">citation needed</span></a></i>]</sup> 112-114</i></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Other_miracles">Other miracles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=15" title="Edit section: Other miracles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Healing_the_royal_official%27s_son" title="Healing the royal official's son">Healing the royal official's son</a></div>
+<p>Similar to the <a href="/wiki/New_Testament" title="New Testament">New Testament</a>, <a href="/wiki/Al-Tabari" title="Al-Tabari">Al-Tabari</a> (d. 923) reports a story of Jesus's encounter with a certain King in the region. The identity of the King is not mentioned while legend suggests <a href="/wiki/Philip_the_Tetrarch" title="Philip the Tetrarch">Philip the Tetrarch</a>. The corresponding Bible reference is "the royal official's son." With regard to the reason which led Jesus to seek the support of the disciples in Islamic theology, al-Tabari relates the tale on the authority of As-Suddi.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[46]</a></sup></p>
+<p>Another legendary miraculous story has to do with a Jewish man and loafs of bread. A lesson on greed and truth-telling is weaved into the narration.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[47]</a></sup></p>
+<h2><span class="mw-headline" id="Scripture">Scripture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=16" title="Edit section: Scripture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Gospel in Islam</a></div>
+<p>Muslims believe that God <a href="/wiki/Direct_revelation" title="Direct revelation">revealed</a> to Jesus a new scripture, <i>al-Injīl</i> (the Gospel), while also declaring the truth of the previous revelations: <i><a href="/wiki/Tawrat" class="mw-redirect" title="Tawrat">al-Tawrat</a></i> (the <a href="/wiki/Torah" title="Torah">Torah</a>) and <i><a href="/wiki/Zabur" title="Zabur">al-Zabur</a></i> (the <a href="/wiki/Psalms" title="Psalms">Psalms</a>). The Quran speaks favorably of <i>al-Injīl</i>, which it describes as a scripture that fills the hearts of its followers with meekness and piety. The Quran says that the original biblical message has been distorted or corrupted (<i><a href="/wiki/Tahrif" title="Tahrif">tahrif</a></i>) over time.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup> In chapter 3, verse 3, and chapter 5, verses 46-47, of the Quran, the revelation of <i>al-Injil</i> is mentioned.</p>
+<h2><span class="mw-headline" id="Disciples">Disciples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=17" title="Edit section: Disciples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Quran states that Jesus was aided by a group of <a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">disciples</a> who believed in His message. While not naming the disciples, the Quran does give a few instances of Jesus preaching the message to them. According to Christianity, the names of the twelve disciples were <a href="/wiki/Saint_Peter" title="Saint Peter">Peter</a>, <a href="/wiki/Saint_Andrew" class="mw-redirect" title="Saint Andrew">Andrew</a>, <a href="/wiki/James,_son_of_Zebedee" title="James, son of Zebedee">James</a>, <a href="/wiki/John_the_Apostle" title="John the Apostle">John</a>, <a href="/wiki/Philip_the_Apostle" title="Philip the Apostle">Philip</a>, <a href="/wiki/Bartholomew" class="mw-redirect" title="Bartholomew">Bartholomew</a>, <a href="/wiki/Thomas_the_Apostle" title="Thomas the Apostle">Thomas</a>, <a href="/wiki/Saint_Matthew" class="mw-redirect" title="Saint Matthew">Matthew</a>, <a href="/wiki/James,_son_of_Alphaeus" title="James, son of Alphaeus">James</a>, <a href="/wiki/Jude_the_Apostle" title="Jude the Apostle">Jude</a>, <a href="/wiki/Simon_the_Zealot" title="Simon the Zealot">Simon</a> and <a href="/wiki/Judas_Iscariot" title="Judas Iscariot">Judas</a>.</p>
+<p>The Quran mentions in chapter 3, verses 52-53, that the disciples submitted to the faith of Islam:<sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (July 2017)">non-primary source needed</span></a></i>]</sup></p>
+<blockquote class="templatequote">
+<p>When Jesus found Unbelief on their part He said: "Who will be My helpers to (the work of) Allah?" Said the disciples: "We are Allah's helpers: We believe in Allah, and do thou bear witness that we are Muslims.<br />
+Our Lord! we believe in what Thou hast revealed, and we follow the Messenger; then write us down among those who bear witness."</p>
+<div class="templatequotecite">— <cite><i>Quran Surah Al-Imran 52-53</i><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[48]</a></sup></cite></div>
+</blockquote>
+<p>The longest narrative involving Jesus' disciples is when they request a laden table to be sent from Heaven, for further proof that Jesus is preaching the true message:</p>
+<blockquote class="templatequote">
+<p>Behold! the disciples, said: "O Jesus the son of Mary! can thy Lord send down to us a table set (with viands) from heaven?" Said Jesus: "Fear Allah, if ye have faith."<br />
+They said: "We only wish to eat thereof and satisfy our hearts, and to know that thou hast indeed told us the truth; and that we ourselves may be witnesses to the miracle."<br />
+Said Jesus, the son of Mary: "O Allah our Lord! Send us from heaven a table set (with viands), that there may be for us—for the first and the last of us—a solemn festival and a sign from thee; and provide for our sustenance, for thou art the best Sustainer (of our needs)."<br />
+Allah said: "I will send it down unto you: But if any of you after that resisteth faith, I will punish him with a penalty such as I have not inflicted on any one among all the peoples."</p>
+<div class="templatequotecite">— <cite><i>Quran Surah Al-Ma'ida 112-115</i><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[49]</a></sup></cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=18" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Islamic_view_of_Jesus%27_death" title="Islamic view of Jesus' death">Islamic view of Jesus' death</a></div>
+<p>Most Islamic traditions, save for a few, categorically deny that Jesus physically died, either on a cross or another manner. The contention is found within the Islamic traditions themselves, with the earliest Hadith reports quoting the companions of Muhammad stating Jesus having died, while the majority of subsequent Hadith and Tafsir have elaborated an argument in favor of the denial through exegesis and apologetics, becoming the popular (orthodox) view.</p>
+<p>Professor and scholar <a href="/wiki/Mahmoud_M._Ayoub" title="Mahmoud M. Ayoub">Mahmoud M. Ayoub</a> sums up what the Quran states despite interpretative arguments:</p>
+<blockquote class="templatequote">
+<p><i>"The Quran, as we have already argued, does not deny the death of Christ. Rather, it challenges human beings who in their folly have deluded themselves into believing that they would vanquish the divine Word, Jesus Christ the Messenger of God. The death of Jesus is asserted several times and in various contexts."</i> (3:55; 5:117; 19:33.)<sup id="cite_ref-Ayoub_1980_53-0" class="reference"><a href="#cite_note-Ayoub_1980-53">[50]</a></sup></p>
+</blockquote>
+<p>Some disagreement and discord can be seen beginning with Ibn Ishaq's (d. 761) report of a brief accounting of events leading up to the crucifixion, firstly stating that Jesus was replaced by someone named Sergius, while secondly reporting an account of Jesus' tomb being located at Medina and thirdly citing the places in the Quran (3:55; 4:158) that God took Jesus up to himself.<sup id="cite_ref-Watt_1991,_p._39-40_54-0" class="reference"><a href="#cite_note-Watt_1991,_p._39-40-54">[51]</a></sup></p>
+<p>An early interpretation of verse 3:55 (specifically <i>"I will cause you to die and raise you to myself"</i>), <a href="/wiki/Al-Tabari" title="Al-Tabari">Al-Tabari</a> (d. 923) records an interpretation attributed to <a href="/wiki/Abd_Allah_ibn_Abbas" title="Abd Allah ibn Abbas">Ibn 'Abbas</a>, who used the literal <i>"I will cause you to die"</i> (mumayyitu-ka) in place of the metaphorical mutawaffi-ka <i>"Jesus died"</i>, while <a href="/wiki/Wahb_ibn_Munabbih" title="Wahb ibn Munabbih">Wahb ibn Munabbih</a>, an early Jewish convert, is reported to have said "God caused Jesus, son of Mary, to die for three hours during the day, then took him up to himself." Tabari further transmits from Ibn Ishaq: "God caused Jesus to die for seven hours",<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[52]</a></sup> while at another place reported that a person called Sergius was crucified in place of Jesus. Ibn-al-Athir forwarded the report that it was <a href="/wiki/Judas" class="mw-redirect" title="Judas">Judas</a>, the betrayer, while also mentioning the possibility it was a man named Natlianus.<sup id="cite_ref-Watt_1991,_p._47_56-0" class="reference"><a href="#cite_note-Watt_1991,_p._47-56">[53]</a></sup></p>
+<p><a href="/wiki/Al-Masudi" title="Al-Masudi">Al-Masudi</a> (d. 956) reported the death of Christ under <a href="/wiki/Tiberius" title="Tiberius">Tiberius</a>.<sup id="cite_ref-Watt_1991,_p._47_56-1" class="reference"><a href="#cite_note-Watt_1991,_p._47-56">[53]</a></sup></p>
+<p><a href="/wiki/Ibn_Kathir" title="Ibn Kathir">Ibn Kathir</a> (d. 1373) follows traditions which suggest that a crucifixion did occur, but not with Jesus.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[54]</a></sup> After the event, Ibn Kathir reports the people were divided into three groups following three different narratives; The <a href="/wiki/Jacob_Baradaeus" title="Jacob Baradaeus">Jacobites</a> believing ‘God remained with us as long as He willed and then He ascended to Heaven;’ The <a href="/wiki/Nestorianism" title="Nestorianism">Nestorians</a> believing ‘The son of God was with us as long as he willed until God raised him to heaven;’ and the Muslims believing; ‘The servant and messenger of God, Jesus, remained with us as long as God willed until God raised him to Himself.’<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[55]</a></sup></p>
+<p>Another report from Ibn Kathir quotes Ishaq Ibn Bishr, on authority of Idris, on authority of Wahb ibn Munabbih, that <i>"God caused him to die for three days, then resurrected him, then raised him."</i><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[56]</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[57]</a></sup></p>
+<p>Quranic commentators seem to have concluded the denial of the crucifixion of Jesus by following material interpreted in Tafsir that relied upon <a href="/wiki/Apocrypha" title="Apocrypha">extra-biblical Judeo-Christian sources</a>, venturing away from the message conveyed in the Quran,<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[58]</a></sup> with the earliest textual evidence having originated from a non-Muslim source; a misreading of the Christian writings of <a href="/wiki/John_of_Damascus" title="John of Damascus">John of Damascus</a> regarding the literal understandings of <a href="/wiki/Docetism" title="Docetism">Docetism</a> (exegetical doctrine describing spiritual and physical realities of Jesus as understood by men in logical terms) as opposed to their figurative explanations.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[59]</a></sup> John of Damascus highlighted the Quran's assertion that the Jews did not crucify Jesus being very different from saying that Jesus was not crucified, explaining that it is the varied Quranic exegetes in Tafsir, and not the Quran itself, that denies the crucifixion, further stating that the message in the 4:157 verse simply affirms the historicity of the event.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[60]</a></sup></p>
+<p><a href="/wiki/The_Book_of_the_Sage_and_Disciple" title="The Book of the Sage and Disciple">Ja’far ibn Mansur al-Yaman</a> (d. 958), <a href="/wiki/Abu_Hatim_Ahmad_ibn_Hamdan_al-Razi" title="Abu Hatim Ahmad ibn Hamdan al-Razi">Abu Hatim Ahmad ibn Hamdan al-Razi</a> (d. 935), <a href="/wiki/Abu_Yaqub_al-Sijistani" title="Abu Yaqub al-Sijistani">Abu Yaqub al-Sijistani</a> (d. 971), <a href="/wiki/Mu%27ayyad_fi%27l-Din_al-Shirazi" title="Mu'ayyad fi'l-Din al-Shirazi">Mu'ayyad fi'l-Din al-Shirazi</a> (d. 1078) and the group <a href="/wiki/Ikhwan_al-Safa" class="mw-redirect" title="Ikhwan al-Safa">Ikhwan al-Safa</a> also affirm the historicity of the Crucifixion, reporting Jesus was crucified and not substituted by another man as maintained by many other popular Quranic commentators and Tafsir.</p>
+<p>In reference to the Quranic quote "We have surely killed Jesus the Christ, son of Mary, the apostle of God", Muslim scholar Mahmoud Ayoub asserts this boast not as the repeating of a historical lie or the perpetuating of a false report, but an example of human arrogance and folly with an attitude of contempt towards God and His messenger(s). Ayoub furthers what modern scholars of Islam interpret regarding the historical death of Jesus, the man, as man's inability to kill off God's Word and the Spirit of God, which the Quran testifies were embodied in Jesus Christ. Ayoub continues highlighting the denial of the killing of Jesus as God denying men such power to vanquish and destroy the divine Word. The words, <i>"they did not kill him, nor did they crucify him"</i> speaks to the profound events of ephemeral human history, exposing mankind's heart and conscience towards God's will. The claim of humanity to have this power against God is illusory. <i>"They did not slay him...but it seemed so to them"</i> speaks to the imaginations of mankind, not the denial of the actual event of Jesus dying physically on the cross.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[61]</a></sup></p>
+<p>Islamic reformer Muhammad <a href="/wiki/Rashid_Rida" title="Rashid Rida">Rashid Rida</a> agrees with contemporary commentators interpreting the physical killing of Christ's apostleship as a metaphorical interpretation.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[62]</a></sup></p>
+<h3><span class="mw-headline" id="Substitution">Substitution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=19" title="Edit section: Substitution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is unclear exactly where the substitutionist interpretation originated, but some scholars consider the theory originating among certain <a href="/wiki/Heresy" title="Heresy">heretical</a> Gnostic groups of the second century.<sup id="cite_ref-Leirvik_2010,_p._34_33-1" class="reference"><a href="#cite_note-Leirvik_2010,_p._34-33">[30]</a></sup></p>
+<p>Leirvik finds the Quran and Hadith to have been clearly influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.<sup id="cite_ref-Leirvik_2010,_p._66_66-0" class="reference"><a href="#cite_note-Leirvik_2010,_p._66-66">[63]</a></sup></p>
+<p>Muslim commentators have been unable to convincingly disprove the crucifixion. Rather, the problem has been compounded by adding the conclusion of their substitutionist theories. The problem has been one of understanding.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[64]</a></sup></p>
+<blockquote class="templatequote">
+<p><i>"If the substitutionist interpretation (Christ replaced on the cross) is taken as a valid reading of the Qur'anic text, the question arises of whether this idea is represented in Christian sources. According to <a href="/wiki/Irenaeus" title="Irenaeus">Irenaeus</a>'</i> <a href="/wiki/Adversus_Haereses" title="Adversus Haereses">Adversus Haereses</a><i>, the Egyptian Gnostic Christian <a href="/wiki/Basilides" title="Basilides">Basilides</a> (2nd century) held the view that Christ (the divine</i> <a href="/wiki/Nous" title="Nous">nous</a><i>, intelligence) was not crucified, but was replaced by Simon of Cyrene. However, both <a href="/wiki/Clement_of_Alexandria" title="Clement of Alexandria">Clement of Alexandria</a> and <a href="/wiki/Hippolytus_of_Rome" title="Hippolytus of Rome">Hippolytus</a> denied that Basilides held this view. But the substitutionist idea in general form is quite clearly expressed in the Gnostic <a href="/wiki/Nag_Hammadi" title="Nag Hammadi">Nag Hammadi</a> documents</i> <a href="/wiki/Apocalypse_of_Peter" title="Apocalypse of Peter">Apocalypse of Peter</a> <i>and</i> <a href="/wiki/Second_Treatise_of_the_Great_Seth" title="Second Treatise of the Great Seth">The Second Treatise of the Great Seth</a><i>."</i><sup id="cite_ref-Watt_1991,_p._39-40_54-1" class="reference"><a href="#cite_note-Watt_1991,_p._39-40-54">[51]</a></sup></p>
+</blockquote>
+<p>While most <a href="/wiki/Historicity_of_Jesus" title="Historicity of Jesus">western scholars</a>,<sup id="cite_ref-Crossan,_John_Dominic_1995_p._145_68-0" class="reference"><a href="#cite_note-Crossan,_John_Dominic_1995_p._145-68">[65]</a></sup> Jews,<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[66]</a></sup> and Christians believe Jesus died, orthodox Muslim theology teaches he <a href="/wiki/Entering_heaven_alive" class="mw-redirect" title="Entering heaven alive">ascended to Heaven</a> without being put on the cross and God transformed another person, <a href="/wiki/Simon_of_Cyrene" title="Simon of Cyrene">Simon of Cyrene</a>, to appear exactly like Jesus who was crucified instead of Jesus (cf. <a href="/wiki/Irenaeus" title="Irenaeus">Irenaeus</a>' description of the heresy of Basilides, Book I, ch. XXIV, 4.).<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[67]</a></sup></p>
+<h2><span class="mw-headline" id="Ascension">Ascension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=20" title="Edit section: Ascension">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Islamic_view_of_Jesus%27_death" title="Islamic view of Jesus' death">Islamic view of Jesus' death</a></div>
+<p>Modern Islamic scholars like Sayyid <a href="/wiki/Muhammad_Husayn_Tabataba%27i" title="Muhammad Husayn Tabataba'i">Muhammad Husayn Tabataba'i</a> interpret the ascension of Jesus as spiritual, not physical. This interpretation is in accord with <a href="/wiki/Mu%CA%BFtazila" title="Muʿtazila">Muʿtazila</a> and Shia metaphorical explanations regarding anthropomorphic references to God in the Quran. Although not popular with traditional Sunni interpretations of the depiction of crucifixion, there has been much speculation and discussion in the effort of logically reconciling this topic.<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[68]</a></sup></p>
+<p>In ascetic Shia writings, Jesus is depicted having "ascended to heaven wearing a woolen shirt, spun and sewed by Mary, his mother. As he reached the heavenly regions, he was addressed, “O Jesus, cast away from you the adornment of the world."<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[69]</a></sup></p>
+<h2><span class="mw-headline" id="Second_coming">Second coming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=21" title="Edit section: Second coming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Second_Coming#Islam" title="Second Coming">Second Coming §&#160;Islam</a>, <a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Islamic eschatology</a>, and <a href="/wiki/Hadith_of_Jesus_Praying_Behind_Mahdi" title="Hadith of Jesus Praying Behind Mahdi">Hadith of Jesus Praying Behind Mahdi</a></div>
+<p>According to Islamic tradition which describes this graphically, Jesus' descent will be in the midst of wars fought by <i><a href="/wiki/Mahdi" title="Mahdi">al-Mahdi</a></i> (<i>lit</i>. "the rightly guided one"), known in <a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Islamic eschatology</a> as the redeemer of Islam, against <i>al-Masīh ad-Dajjāl</i> (the Antichrist "<a href="/wiki/False_messiah" class="mw-redirect" title="False messiah">false messiah</a>") and his followers.<sup id="cite_ref-S209_73-0" class="reference"><a href="#cite_note-S209-73">[70]</a></sup> Jesus will descend at the point of a white <a href="/wiki/Arcade_(architecture)" title="Arcade (architecture)">arcade</a>, east of <a href="/wiki/Damascus" title="Damascus">Damascus</a>, dressed in yellow robes—his head anointed. He will say prayer behind <i>al-Mahdi</i> then join him in his war against the Dajjal. Jesus, considered as a Muslim, will abide by the Islamic teachings. Eventually, Jesus will slay the Antichrist, and then everyone who is one of the <a href="/wiki/People_of_the_Book" title="People of the Book">People of the Book</a> (<i>ahl al-kitāb</i>, referring to Jews and Christians) will believe in him. Thus, there will be one community, that of Islam.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[71]</a></sup><sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[72]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (July 2017)">non-primary source needed</span></a></i>]</sup></p>
+<p><a href="/wiki/Sahih_al-Bukhari" title="Sahih al-Bukhari">Sahih al-Bukhari</a>, Volume 3, Book 43: <i>Kitab-ul-`Ilm</i> (Book of Knowledge), Hâdith Number 656:</p>
+<blockquote class="templatequote">
+<p>Allah's Apostle said, "The Hour will not be established until the son of Mary (i.e. Jesus) descends amongst you as a just ruler, he will break the cross, kill the pigs, and abolish the <i>Jizya</i> tax. Money will be in abundance so that nobody will accept it (as charitable gifts)."</p>
+<div class="templatequotecite">— <cite>Narrated by Abu Huraira<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[73]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (July 2017)">non-primary source needed</span></a></i>]</sup></cite></div>
+</blockquote>
+<p>After the death of <i>al-Mahdi</i>, Jesus will assume leadership. This is a time associated in Islamic narrative with universal peace and justice. Islamic texts also allude to the appearance of <i><a href="/wiki/Gog_and_Magog#Qur.27an" title="Gog and Magog">Ya'juj and Ma'juj</a></i> (known also as Gog and Magog), ancient tribes which will disperse and cause disturbance on earth. God, in response to Jesus' prayers, will kill them by sending a type of worm in the napes of their necks.<sup id="cite_ref-S209_73-1" class="reference"><a href="#cite_note-S209-73">[70]</a></sup> Jesus' rule is said to be around forty years, after which he will die. Muslims will then perform the <a href="/wiki/Salat_al-Janazah" title="Salat al-Janazah">funeral prayer</a> for him and then bury him in the city of <a href="/wiki/Medina" title="Medina">Medina</a> in a grave left vacant <a href="/wiki/Green_Dome#Tomb_of_Muhammad" title="Green Dome">beside Muhammad</a>, <a href="/wiki/Abu_Bakr" title="Abu Bakr">Abu Bakr</a>, and <a href="/wiki/Umar" title="Umar">Umar</a> (<a href="/wiki/Sahabah" title="Sahabah">companions of Muhammad</a> and the first and second <a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a> <a href="/wiki/Caliph" class="mw-redirect" title="Caliph">caliphs</a> (<i><a href="/wiki/Rashidun" title="Rashidun">Rashidun</a></i>) respectively.<sup id="cite_ref-EoI-Isa_77-0" class="reference"><a href="#cite_note-EoI-Isa-77">[74]</a></sup></p>
+<h2><span class="mw-headline" id="In_Islamic_theology">In Islamic theology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=22" title="Edit section: In Islamic theology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="quotebox" style="float: right; clear: right; margin: 0.5em 0 0.8em 1.4em; width:30%; padding: 10px; border: 1px solid #aaa; font-size: 90%; background-color: #F9F9F9;">
+<div class="" style="position: relative; text-align: left;">
+<div>‘‘Muslims do not worship Jesus, who is known as Isa in Arabic, nor do they consider him divine, but they do believe that he was a prophet or messenger of God and he is called the Messiah in the Qu’ran [...] Islam insists that neither Jesus nor Mohammed brought a <i>new</i> religion. Both sough to call people back to what might be called "<a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic faith</a>." This is precisely what we find emphasized in the <a href="/wiki/Epistle_of_James" title="Epistle of James">book of James</a> [...] Since Muslims reject all of the <a href="/wiki/Pauline_Christianity" title="Pauline Christianity">Pauline affirmations</a> about Jesus, and thus the central claims of orthodox Christianity, the gulf between Islam and Christianity on Jesus is a wide one.’’</div>
+</div>
+<cite style="display: block; text-align: center;">— Professor <a href="/wiki/James_D._Tabor" class="mw-redirect" title="James D. Tabor">James D. Tabor</a> in his book <i><a href="/wiki/The_Jesus_Dynasty" title="The Jesus Dynasty">The Jesus Dynasty</a></i> <sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[75]</a></sup></cite></div>
+<p>Jesus is described by various means in the Quran. The most common reference to Jesus occurs in the form of <i>Ibn Maryam</i> (son of Mary), sometimes preceded with another title. Jesus is also recognized as a <i>nabī</i> (prophet) and <i>rasūl</i> (messenger) of God. The terms <i>`abd-Allāh</i> (servant of God), <i>wadjih</i> ("worthy of esteem in this world and the next") and <i>mubārak</i> ("blessed", or "a source of benefit for others") are all used in reference to him.<sup id="cite_ref-EoI-Isa_77-1" class="reference"><a href="#cite_note-EoI-Isa-77">[74]</a></sup></p>
+<p>Islam sees Jesus as human only, sent as the <a href="/wiki/Prophets_and_messengers_in_Islam#Prophets_and_messengers" title="Prophets and messengers in Islam">last</a> prophet of Israel to <a href="/wiki/Jews" title="Jews">Jews</a> with the <a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Gospel</a> scripture.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[76]</a></sup><sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[77]</a></sup> It rejects any divine notions of being God, begotten Son of God and the <a href="/wiki/Trinity" title="Trinity">Trinity</a> as a whole; according to theologians such beliefs constitute <i><a href="/wiki/Shirk_(Islam)" title="Shirk (Islam)">Shirk</a></i> (the "association" of partners with God) and thereby a rejection of his divine oneness (<i><a href="/wiki/Tawhid" title="Tawhid">tawhid</a></i>) as the sole unpardonable sin.<sup id="cite_ref-multiple_81-0" class="reference"><a href="#cite_note-multiple-81">[78]</a></sup> These doctrinal origins are ascribed to <a href="/wiki/Paul_the_Apostle" title="Paul the Apostle">Paul the Apostle</a> who is regarded as a false <a href="/wiki/Heresy" title="Heresy">heretic</a>,<sup id="cite_ref-82" class="reference"><a href="#cite_note-82">[79]</a></sup> as well as an evolution across the <a href="/wiki/Greco-Roman_world" title="Greco-Roman world">Greco-Roman world</a> causing <a href="/wiki/Greco-Roman_paganism" class="mw-redirect" title="Greco-Roman paganism">pagan</a> influences to corrupt God's revelation.<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[80]</a></sup> Therefore, the theological absence of <a href="/wiki/Original_Sin" class="mw-redirect" title="Original Sin">Original Sin</a> in Islam renders the Christian concepts of <a href="/wiki/Atonement_in_Christianity" title="Atonement in Christianity">Atonement</a> and <a href="/wiki/Redemption_(theology)#Christianity" title="Redemption (theology)">Redemption</a> as redundant. Jesus is simply reflected upon as a figure who conforms to the prophetic model of his predecessors.<sup id="cite_ref-Gregg,_Stephen_2010,_p._90_39-1" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._90-39">[36]</a></sup></p>
+<p>He is understood as to have preached salvation through submission to God's will and worshipping him alone, and ultimately denies being a divine claimant.<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[81]</a></sup> Thus, he is considered to have been a Muslim by the definition of the term (i.e., one who submits to God's will), as were all other prophets that preceded him.<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[82]</a></sup> A comprehensive verse reads:</p>
+<blockquote class="templatequote">
+<p>O People of the Scripture! Do not exaggerate in your religion nor utter aught concerning Allah save the truth. The Messiah, Jesus son of Mary, was only a messenger of Allah, and His word which He conveyed unto Mary, and a spirit from Him. So believe in Allah and His messengers, and say not "Three" - Cease! better for you! - Allah is only One Allah. Far is it removed from His Transcendent Majesty that He should have a son. His is all that is in the heavens and all that is in the earth. And Allah is sufficient as Defender.</p>
+<div class="templatequotecite">— <cite><i>Quran sura 4 (An-Nisa), ayah 171</i><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[83]</a></sup></cite></div>
+</blockquote>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Virgin_Mary_and_Jesus_(old_Persian_miniature).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Virgin_Mary_and_Jesus_%28old_Persian_miniature%29.jpg/220px-Virgin_Mary_and_Jesus_%28old_Persian_miniature%29.jpg" width="220" height="366" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Virgin_Mary_and_Jesus_%28old_Persian_miniature%29.jpg/330px-Virgin_Mary_and_Jesus_%28old_Persian_miniature%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f4/Virgin_Mary_and_Jesus_%28old_Persian_miniature%29.jpg 2x" data-file-width="385" data-file-height="640" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Virgin_Mary_and_Jesus_(old_Persian_miniature).jpg" class="internal" title="Enlarge"></a></div>
+Jesus and Mary in old <a href="/wiki/Persian_miniature" title="Persian miniature">Persian miniature</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup></div>
+</div>
+</div>
+<p>A frequent title of Jesus mentioned is <i><a href="/wiki/Messiah" title="Messiah">al-Masīḥ</a></i>, which translates to "the Messiah", as well as <a href="/wiki/Christ_(title)" title="Christ (title)">Christ</a>. Although the Quran is silent on its significance,<sup id="cite_ref-IslamicJesus_87-0" class="reference"><a href="#cite_note-IslamicJesus-87">[84]</a></sup> scholars disagree with the <a href="/wiki/Messiah#Christianity" title="Messiah">Christian concepts</a> of the term, and lean towards a <a href="/wiki/Messiah_in_Judaism" title="Messiah in Judaism">Jewish</a> understanding. Muslim exegetes explain the use of the word <i>masīh</i> in the Quran as referring to Jesus' status as the one anointed by means of blessings and honors; or as the one who helped cure the sick, by anointing the eyes of the blind, for example.<sup id="cite_ref-EoI-Isa_77-2" class="reference"><a href="#cite_note-EoI-Isa-77">[74]</a></sup></p>
+<p>Jesus also holds a description from God as both a word and a spirit. Quranic verses assert that he is a Word from God, which is interpreted as a reference to the creating Word uttered at the moment of his conception, and identified as "<a href="/wiki/Be,_and_it_is" title="Be, and it is">Be</a>".<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[85]</a></sup> Jesus is thus God's Word in a causal sense as his existence came through it, rather than being a manifestation of the Word itself, and hence differing from the Christian <i><a href="/wiki/Logos_(Christianity)" title="Logos (Christianity)">Logos</a></i>.<sup id="cite_ref-JesusTitle_89-0" class="reference"><a href="#cite_note-JesusTitle-89">[86]</a></sup></p>
+<p>The interpretation behind Jesus as a spirit from God, is seen as his human <a href="/wiki/Soul" title="Soul">soul</a>.<sup id="cite_ref-JesusTitle_89-1" class="reference"><a href="#cite_note-JesusTitle-89">[86]</a></sup> Some Muslim scholars occasionally see the spirit as the <a href="/wiki/Archangel" title="Archangel">archangel</a> <a href="/wiki/Gabriel" title="Gabriel">Gabriel</a>, but majority consider the spirit to be Jesus himself.<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[87]</a></sup></p>
+<h3><span class="mw-headline" id="Similitude_with_Adam">Similitude with Adam</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=23" title="Edit section: Similitude with Adam">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Quran emphasises the creationism of Jesus, through his similitude with <a href="/wiki/Adam" title="Adam">Adam</a> in regards to an absence of divine intervention.</p>
+<blockquote class="templatequote">
+<p>Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, "Be," and he was.</p>
+<div class="templatequotecite">— <cite><i>Quran sura 3 (Ali 'Imran), ayah 59</i><sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[88]</a></sup></cite></div>
+</blockquote>
+<p>Islamic exegesis extrapolates a logical inconsistency behind the Christian argument, as such implications would have ascribed divinity to Adam who is understood as creation only.<sup id="cite_ref-IslamicJesus_87-1" class="reference"><a href="#cite_note-IslamicJesus-87">[84]</a></sup><sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[89]</a></sup> Adam likewise was both created through the Word of God and described as a spirit from him.<sup id="cite_ref-JesusTitle_89-2" class="reference"><a href="#cite_note-JesusTitle-89">[86]</a></sup> Furthermore, their equation is also depicted numerically, as both Adam and Jesus are referred to by name 25 times each.<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[90]</a></sup></p>
+<h3><span class="mw-headline" id="Precursor_to_Muhammad">Precursor to Muhammad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=24" title="Edit section: Precursor to Muhammad">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 100%; background-color: #ccccff;">Lineage of several prophets<br />
+according to Islamic tradition</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">&#160;</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table style="border-spacing: 0px; margin: 0 auto; line-height:100%;">
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Adam</a></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nūḥ</a>&#160;(<a href="/wiki/Noah" title="Noah">Noah</a>)</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrāhīm</a> (<a href="/wiki/Abraham" title="Abraham">Abraham</a>)</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="border-right:1px solid black;border-bottom:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px solid black;width:2em"></td>
+<td style="height:1em;border-bottom:1px solid black;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px solid black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Ismāʿīl</a>&#160;(<a href="/wiki/Ishmael" title="Ishmael">Ishmael</a>)</td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Iṣḥāq</a>&#160;(<a href="/wiki/Isaac" title="Isaac">Isaac</a>)</td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td style="height:1em;width:1em"></td>
+<td style="height:1em;border-bottom:1px dashed black;width:1em"></td>
+<td colspan="2" style="height:1em;border-bottom:1px dashed black;width:2em"></td>
+<td style="border-right:1px dashed black;border-bottom:1px dashed black;height:1em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td style="border-right:1px dashed black;height:1em;width:1em"></td>
+<td style="height:1em;width:1em"></td>
+<td colspan="2" style="height:1em;width:2em"></td>
+<td style="border-right:1px dashed black;height:1em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Mūsa</a>&#160;(<a href="/wiki/Moses" title="Moses">Moses</a>)</td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam</a>&#160;(<a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">Mary</a>)</td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px solid black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td rowspan="2" style="border-right:1px dashed black;height:2em;width:1em"></td>
+<td rowspan="2" style="height:2em;width:1em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="2" rowspan="2" style="height:2em;width:2em"></td>
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a class="mw-selflink selflink">ʿĪsā</a>&#160;(<a href="/wiki/Jesus" title="Jesus">Jesus</a>)</td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td colspan="6" rowspan="2" style="border:2px solid black;padding:0.2em"><a href="/wiki/Muhammad" title="Muhammad">Muhammad</a></td>
+</tr>
+<tr style="height:1px;text-align:center">
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;font-weight:normal;background: none;"><i><small>Dotted lines indicate multiple generations</small></i></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Six_Islamic_Prophets" title="Template:Six Islamic Prophets"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Six_Islamic_Prophets" title="Template talk:Six Islamic Prophets"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Six_Islamic_Prophets&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The tree shown right depicts lineage. Muslims believe that Jesus was a precursor to Muhammad, and that he announced the latter's coming. They base this on a verse of the Quran wherein Jesus speaks of a messenger to appear after him named Ahmad.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[91]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup> Islam associates <a href="/wiki/Ahmad" title="Ahmad">Ahmad</a> with Muhammad, both words deriving from the <i><a href="/wiki/%E1%B8%A4-M-D" title="Ḥ-M-D">h-m-d</a></i> <a href="/wiki/Semitic_root" title="Semitic root">triconsonantal root</a> which refers to praiseworthiness. Muslims also assert that evidence of Jesus' pronouncement is present in the New Testament, citing the mention of the <a href="/wiki/Paraclete" title="Paraclete">Paraclete</a> whose coming is foretold in the <a href="/wiki/Gospel_of_John" title="Gospel of John">Gospel of John</a>.<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[92]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></p>
+<p>Muslim theology states Jesus had predicted another Prophet succeeding him according to this message in the Quran which mentions:</p>
+<blockquote class="templatequote">
+<p>And remember, Jesus, the son of Mary, said: "O Children of Israel! I am the apostle of God (sent) to you, confirming the Law (which came) before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad." But when he came to them with clear signs, they said, "this is evident sorcery!"</p>
+<div class="templatequotecite">— <cite><a href="/wiki/Sura_61" class="mw-redirect" title="Sura 61">Sura 61</a>:6<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></cite></div>
+</blockquote>
+<p>(<a href="/wiki/Ahmad" title="Ahmad">Ahmad</a> is an Arabic name from the same <a href="/wiki/Triconsonantal" class="mw-redirect" title="Triconsonantal">triconsonantal</a> root <a href="/wiki/%E1%B8%A4-M-D" title="Ḥ-M-D">Ḥ-M-D</a> = [ح - م - د].)</p>
+<p>Muslim commentators claim that the original Greek word used was <i>periklutos</i>, meaning famed, illustrious, or praiseworthy—rendered in Arabic as Ahmad; and that this was replaced by Christians with <i>parakletos</i>.<sup id="cite_ref-EoI-Isa_77-3" class="reference"><a href="#cite_note-EoI-Isa-77">[74]</a></sup><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[93]</a></sup> Islamic scholars debate whether this traditional understanding is supported by the text of the Quran. Responding to <a href="/wiki/Ibn_Ishaq" title="Ibn Ishaq">Ibn Ishaq</a>'s biography of Muhammad, the <a href="/wiki/Prophetic_biography" title="Prophetic biography">Sirat Rasul Allah</a>, Islamic scholar <a href="/wiki/Alfred_Guillaume" title="Alfred Guillaume">Alfred Guillaume</a> wrote:</p>
+<blockquote class="templatequote">
+<p>Coming back to the term "Ahmad", Muslims have suggested that Ahmad is the translation of periklutos, celebrated or the Praised One, which is a corruption of parakletos, the Paraclete of John XIV, XV and XVI.<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[94]</a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Messianism">Messianism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=25" title="Edit section: Messianism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An alternative, more esoteric, interpretation is expounded by <a href="/wiki/Messianism" title="Messianism">Messianic</a> <a href="/wiki/Muslims" class="mw-redirect" title="Muslims">Muslims</a><sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[95]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup> in the <a href="/wiki/Sufism" title="Sufism">Sufi</a> and <a href="/wiki/Ismailism" class="mw-redirect" title="Ismailism">Isma'ili</a> traditions so as to unite <a href="/wiki/Islam" title="Islam">Islam</a>, <a href="/wiki/Christianity" title="Christianity">Christianity</a> and <a href="/wiki/Judaism" title="Judaism">Judaism</a> into a single religious <a href="/wiki/Continuum_(theory)" class="mw-redirect" title="Continuum (theory)">continuum</a>.<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[96]</a></sup> Other Messianic Muslims hold a similar theological view regarding Jesus, without attempting to unite the religions.<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[97]</a></sup><sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[98]</a></sup><sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[99]</a></sup> Making use of the <a href="/wiki/New_Testament" title="New Testament">New Testament</a>'s distinguishing between <a href="/wiki/Jesus" title="Jesus">Jesus</a>, <a href="/wiki/Son_of_Man" class="mw-redirect" title="Son of Man">Son of Man</a> (being the physical human Jesus), and <a href="/wiki/Christ" class="mw-redirect" title="Christ">Christ</a>, <a href="/wiki/Son_of_God" title="Son of God">Son of God</a> (being <a href="/wiki/The_Holy_Spirit" class="mw-redirect" title="The Holy Spirit">the Holy Spirit</a> of God residing in the body of Jesus), <a href="/wiki/The_Holy_Spirit" class="mw-redirect" title="The Holy Spirit">the Holy Spirit</a>, being immortal and immaterial, is not subject to crucifixion — for it can never die, nor can it be touched by the earthly nails of the crucifixion, for it is a being of pure spirit. Thus, while the spirit of Christ avoided crucifixion by ascending unto God, the body that was Jesus was sacrificed on the cross, thereby bringing the <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a> to final fulfillment. Thus Quranic passages on the death of Jesus affirm that while the <a href="/wiki/Pharisees" title="Pharisees">Pharisees</a> intended to destroy <a href="/wiki/The_Son_of_God" class="mw-redirect" title="The Son of God">the Son of God</a> completely, they, in fact, succeeded only in killing <a href="/wiki/Son_of_Man" class="mw-redirect" title="Son of Man">the Son of Man</a>, being his <i>nasut</i> (material being). Meanwhile, <a href="/wiki/The_Son_of_God" class="mw-redirect" title="The Son of God">the Son of God</a>, being his <i>lahut</i> (spiritual being) remained alive and undying — because it is <a href="/wiki/The_Holy_Spirit" class="mw-redirect" title="The Holy Spirit">the Holy Spirit</a>.<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[100]</a></sup></p>
+<h2><span class="mw-headline" id="In_Islamic_literature">In Islamic literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=26" title="Edit section: In Islamic literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg" class="image"><img alt="Muhammad, surrounded by fire, is depicted on the right. Jesus and others are on the left" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg/220px-Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg/330px-Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg/440px-Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg 2x" data-file-width="1073" data-file-height="680" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Medieval_Persian_manuscript_Muhammad_leads_Abraham_Moses_Jesus.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a> leads Jesus, <a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Abraham</a>, <a href="/wiki/Moses_in_Islam" title="Moses in Islam">Moses</a> and others in prayer. Medieval Persian miniature.</div>
+</div>
+</div>
+<p>The Quran does not convey the specific teachings of Jesus. What has developed over the years was authored by later followers of Islam. What is found in the Quran's about Jesus is that his teaching conformed to the prophetic model: a human sent by God to present both a judgement upon humanity for worshipping idols and a challenge to turn to the one true God. In the case of Jesus, Muslims believe that his mission was to the people of Israel and that his status as a prophet was confirmed by numerous miracles.<sup id="cite_ref-Gregg,_Stephen_2010,_p._90_39-2" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._90-39">[36]</a></sup> The Quran's description of specific events at the end of Jesus’ life have continued to be controversial between Christians and Muslims, while the classical commentaries have been interpreted differently to accommodate new information.<sup id="cite_ref-Gregg,_Stephen_2010,_p._90_39-3" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._90-39">[36]</a></sup></p>
+<h3><span class="mw-headline" id="Hadith">Hadith</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=27" title="Edit section: Hadith">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Hadith" title="Hadith">Hadith</a> and <a href="/wiki/Hadith_of_Jesus_Praying_Behind_Mahdi" title="Hadith of Jesus Praying Behind Mahdi">Hadith of Jesus Praying Behind Mahdi</a></div>
+<p>The Hadith are reported sayings of Muhammad and people around him. The Hadith containing Jesus legend have been influenced by the non-canonical ('heretical') Christianity that prevailed in the Arab peninsula and further in Abyssinia.<sup id="cite_ref-Leirvik_2010,_p._66_66-1" class="reference"><a href="#cite_note-Leirvik_2010,_p._66-66">[63]</a></sup> The Hadith developed a canonical status in the third Muslim century as a source of authority for the Muslim community. The Muslim perception of Jesus emerging from the Hadith is of a miraculous, sinless, and eschatological figure, pointing people, again according to the Muslim's perspective of prophethood, to the Muslim faith (Muslim; one who submits to the will of God).<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[101]</a></sup></p>
+<p>Hadith have played a very important part shaping Jesus' image among common Muslims, having become further developed when incorporating Hadiths and Tafsirs weaved into great amounts of <a href="/wiki/Legend" title="Legend">legendary</a> writings and reports.<sup id="cite_ref-Leirvik_2010,_p._59_34-1" class="reference"><a href="#cite_note-Leirvik_2010,_p._59-34">[31]</a></sup> With the Muslim reshaping, the void of Jesus is surprising. What is instead written about is the <a href="/wiki/Asceticism" title="Asceticism">ascetic</a> magician, helped by the Holy Spirit. The Gospel is seen as a book to be preached and is only referred to in passing without mentioning actual teachings. Strikingly, the fictitious sayings and supposed teachings of Jesus are given preeminence in Hadith-collections, in Shia Islam, and in Sufi representations of Jesus.<sup id="cite_ref-Leirvik_2010,_p._66_66-2" class="reference"><a href="#cite_note-Leirvik_2010,_p._66-66">[63]</a></sup></p>
+<h3><span class="mw-headline" id="Sunnism">Sunnism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=28" title="Edit section: Sunnism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i>Kitab al-Milal wa al-Nihal</i>, <a href="/wiki/Al-Shahrastani" title="Al-Shahrastani">al-Shahrastani</a> (d. 1153), an influential Persian historian, historiographer, scholar, philosopher and theologian, records a portrayal of Jesus very close to the orthodox tenets while continuing the Islamic narrative:</p>
+<blockquote>
+<p><i>The Christians. (They are) the community (</i><a href="/wiki/Ummah" title="Ummah">umma</a><i>) of the Christ, Jesus, son of Mary (peace upon him). He it is who was truly sent (as prophet;</i> mab'uth<i>) after Moses (peace upon him), and who was announced in the Torah. To him were (granted) manifest signs and notable evidences, such as the reviving of the dead and the curing of the blind and the leper. His very nature and innate disposition (</i><a href="/wiki/Fitra" title="Fitra">fitra</a><i>) are a perfect sign of his truthfulness; that is, his coming without previous seed and his speaking without prior teaching. For all the (other) prophets the arrival of their revelation was at (the age of) forty years, but revelation came to him when he was made to speak in the cradle, and revelation came to him when he conveyed (the divine message) at (the age of) thirty. The duration of his (prophetic) mission (</i><a href="/wiki/Da%27wa" class="mw-redirect" title="Da'wa">da'wa</a><i>) was three years and three months and three days.</i><sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[102]</a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Sufism">Sufism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=29" title="Edit section: Sufism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Early Sufis adopted the sayings of Jesus in the Sermon on the Mount and an ascetic dimension. The submission and sacrifice Jesus exemplified shows the Muslim is to be set apart from worldly compromises. In poetry and mysticism, Jesus was celebrated as a prophet close to the heart of God achieving an uncommon degree of self-denial.<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[103]</a></sup></p>
+<p>Although the writings developed over the centuries embellished Jesus’ miracles, the lessons of Jesus can be seen as metaphors of the inner life. These rich and diverse presentations of Jesus in Sufi traditions are the largest body of Jesus-texts in any non-Christian tradition.<sup id="cite_ref-Gregg,_Stephen_2010,_p._86_107-0" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._86-107">[104]</a></sup></p>
+<blockquote class="templatequote">
+<p><i>"A key issue arises for Muslims with the Sufi picture of Jesus: how universally should the ascetic/esoteric approach be applied? For many Muslim poets and scholars the answer is clear: every Muslim is invited to the path of asceticism and inner realization embodied by Jesus. However, whilst all Muslims revere Jesus, most have reservations about the application of his way of life to society. For Muslims the highest pinnacle of human achievement is, after all, Muhammad. Muhammad is revered in part because he promoted the right blend of justice and mercy. In other words, Muslims need both a path that addresses individual spirituality as well as a path that will address the complex issues of community life, law, justice, etc. Jesus is viewed by many Muslims as having lived out only one side of this equation. As a figure of the heart or individual conscience, Jesus is viewed by some to be a limited figure. In more critical Muslim perspectives the Sermon on the Mount is admired but seen as impractical for human society. Perhaps the greatest division amongst Muslims has to do with the relevance of ascetic and esoteric beliefs in the context of strengthening an Islamic society."</i><sup id="cite_ref-Gregg,_Stephen_2010,_p._86_107-1" class="reference"><a href="#cite_note-Gregg,_Stephen_2010,_p._86-107">[104]</a></sup></p>
+</blockquote>
+<p>The miraculous birth and life of Jesus becomes a metaphor for <a href="/wiki/Rumi" title="Rumi">Rumi</a> of the spiritual rebirth that is possible within each human soul. This rebirth is not achieved without effort; one needs to practice silence, poverty, and fasting—themes that were prominent in Jesus’ life according to Islamic traditions.<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[105]</a></sup></p>
+<p><a href="/wiki/Ibn_Arabi" title="Ibn Arabi">Ibn Arabi</a> stated Jesus was <a href="/wiki/Al-Ins%C4%81n_al-K%C4%81mil" title="Al-Insān al-Kāmil">Al-Insān al-Kāmil</a>, the spirit and simultaneously a servant of God. Jesus is held to be "one with God" in whole coincidence of will, not as a being. Due to the spirit of God dwelling in Jesus, God spoke and acted through him. Yet Jesus is not considered to be God, but a person within God's word and spirit and a manifestation of God's attributes, like a mirror.<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">[106]</a></sup><sup id="cite_ref-110" class="reference"><a href="#cite_note-110">[107]</a></sup></p>
+<h3><span class="mw-headline" id="Ahmadiyya">Ahmadiyya</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=30" title="Edit section: Ahmadiyya">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Jesus_in_Ahmadiyya_Islam" title="Jesus in Ahmadiyya Islam">Jesus in Ahmadiyya Islam</a></div>
+<p>The Ahmadiyya Movement considers Jesus was a prophet and a mortal man, who was crucified and remained on the cross for six hours, until darkness fell. Jesus was taken down from the cross alive and unconscious. He was treated for three days and nights by saint physician Necdemus in a cave like tomb (especially built for <a href="/wiki/Joseph_of_Aramathea" class="mw-redirect" title="Joseph of Aramathea">Joseph of Aramathea</a>). Thereafter, Jesus recuperated from his wounds, met his trusted disciples on the Mount of Olives, and left Judea towards the sea of Galilee on his way to Damascus. After his dramatic escape from crucifixion, Jesus traveled to the eastern lands in search of the ten lost tribes of Israel. Finally, he died a natural death in <a href="/wiki/Kashmir" title="Kashmir">Kashmir</a>, <a href="/wiki/India" title="India">India</a>, as opposed to having been raised up alive to Heaven.<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">[108]</a></sup></p>
+<h3><span class="mw-headline" id="Ascetic_literature">Ascetic literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=31" title="Edit section: Ascetic literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Jesus is widely venerated in Muslim <a href="/wiki/Asceticism" title="Asceticism">ascetic</a> and <a href="/wiki/Mysticism" title="Mysticism">mystic</a> literature, such as in Muslim mystic <a href="/wiki/Ghazali" title="Ghazali">Al-Ghazzali</a>'s <i>Ihya `ulum ad-Din</i> ("The revival of the religious sciences"). These works lay stress upon Jesus' poverty, his preoccupation with worship, his detachment from worldly life and his miracles. Such depictions also include advice and sermons which are attributed to him. Later <a href="/wiki/Sufism" title="Sufism">Sufic</a> commentaries adapted material from Christian gospels which were consistent with their ascetic portrayal. Sufi philosopher <a href="/wiki/Ibn_Arabi" title="Ibn Arabi">Ibn Arabi</a> described Jesus as "the seal of universal holiness" due to the quality of his faith and "because he holds in his hands the keys of living breath and because he is at present in a state of deprivation and journeying".<sup id="cite_ref-EoI-Isa_77-4" class="reference"><a href="#cite_note-EoI-Isa-77">[74]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></p>
+<p>The <a href="/wiki/Gospel_of_Barnabas" title="Gospel of Barnabas">Gospel of Barnabas</a>, which is generally agreed to correspond with the one found in the two known manuscripts and is reported to be contained in <a href="/wiki/Morisco" title="Morisco">Morisco</a> manuscript BNM MS 9653 in <a href="/wiki/Madrid" title="Madrid">Madrid</a>, claims that Jesus predicted the advent of <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>. This was written about 1634 by Ibrahim al-Taybili in <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>.<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[109]</a></sup> While describing how the Bible predicts Muhammad, he speaks of the "Gospel of Saint Barnabas where one can find the light" ("y así mismo en Evangelio de San Bernabé, donde se hallará la luz"). The first published account of the Gospel was in 1717, when a brief reference to the Spanish text is found in <i>De religione Mohamedica</i> by <a href="/wiki/Adriaan_Reland" title="Adriaan Reland">Adriaan Reland</a>;<sup id="cite_ref-Fremaux_1999_14_113-0" class="reference"><a href="#cite_note-Fremaux_1999_14-113">[110]</a></sup> and then in 1718, a much more detailed description of the Italian text by the Irish <a href="/wiki/Deism" title="Deism">deist</a> <a href="/wiki/John_Toland" title="John Toland">John Toland</a>.<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">[111]</a></sup></p>
+<h2><span class="mw-headline" id="Appearance">Appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=32" title="Edit section: Appearance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Based upon several <a href="/wiki/Hadith" title="Hadith">Hadith</a> narrations of Muhammad, Jesus can be physically described thus (with any differences in Jesus’ physical description being due to Muhammad describing him when seeing him at different occasions, such as during his ascension to Heaven, or when describing Jesus during <a href="/wiki/Jesus_in_Islam#Second_coming" title="Jesus in Islam">Jesus' second coming):</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup><sup id="cite_ref-115" class="reference"><a href="#cite_note-115">[112]</a></sup></p>
+<ul>
+<li>A well-built man of medium/moderate/average height and stature with a broad chest.</li>
+<li>Straight, lank, slightly curly, long hair that fell between his shoulders.</li>
+<li>A moderate, fair complexion of red or finest brown.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2017)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=33" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/27px-Allah-green.svg.png" width="27" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/40px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/54px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></span></li>
+</ul>
+</div>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Biblical_and_Quranic_narratives" title="Biblical and Quranic narratives">Biblical and Quranic narratives</a></li>
+<li><a href="/wiki/Christianity_and_Islam" title="Christianity and Islam">Christianity and Islam</a></li>
+<li><a href="/wiki/End_time" title="End time">End time</a></li>
+<li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li>
+<li><a href="/wiki/Legends_and_the_Quran" class="mw-redirect" title="Legends and the Quran">Legends and the Quran</a></li>
+<li><a href="/wiki/Mormonism_and_Islam" class="mw-redirect" title="Mormonism and Islam">Mormonism and Islam</a></li>
+<li><a href="/wiki/Peace_in_Islamic_philosophy" title="Peace in Islamic philosophy">Peace in Islamic philosophy</a></li>
+<li><a href="/wiki/Sacrifice#Islam" title="Sacrifice">Sacrifice in Islam</a></li>
+<li><a href="/wiki/Saint_Mary_(film)" title="Saint Mary (film)">Saint Mary (film)</a></li>
+<li><a href="/wiki/Qisas_Al-Anbiya" title="Qisas Al-Anbiya">Qisas Al-Anbiya</a></li>
+<li><a href="/wiki/The_Messiah_(Iranian_film)" class="mw-redirect" title="The Messiah (Iranian film)">The Messiah (Iranian film)</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=34" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Isa (25 times): 2:87, 2:136, 2:253, 3:45, 3:52, 3:55, 3:59, 3:84, 4:157, 4:163, 4:171, 5:46, 5:78, 5:110, 5:112, 5:114, 5:116, 6:85, 19:34, 33:7, 42:13, 43:63, 57:27, 61:6, 61:14.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Son of Mary / Ibn Maryam (23 times): 2:87, 2:253, 3:45, 4:157, 4:171, 5:17, 5:46, 5:72, 5:75, 5:78, 5:110, 5:112, 5:114, 5:116, 9:31, 19:34, 23:50, 33:7, 43:57, 57:27, 61:6, 61:14; Messiah / Al Masih (11 times): 3:45, 4:171, 4:172, 5:17, 5:72(2), 5:75, 9:30, 9:31; Spirit (of God) / rwh (11 times): 2:87, 2:253, 4:171, 5:110, 12:87, 15.29, 17:85(2), 19:17, 21:91, 58:22; child / pure boy (9 times): 19:19, 19:20, 19:21, 19:29, 19:35, 19:88, 19:91, 19:92, 21:91; Word (of God) / kalima (6 times): 3:39, 3:45, 3:48, 4:171, 5:46, 5:110; Messenger / Apostle / Prophet (5 times): 3:49, 4:157, 4:171, 19:30, 61:6; Sign (4 times): 19:21, 21:91, 23:50, 43:61; The Gift (1 time): 19:19; Mercy from Us (1 time): 19:21; Servant (1 time): 19:30; Blessed (1 time): 19:31; Word of Truth ~ Statement of Truth (1 time): 19:34; amazing thing ~ thing unheard of (1 time): 19:27; Example (1 time): 43:57; Straight Path ~ Right Way (1 time): 43:61; Witness (1 time): 4:159; His Name (1 time): 3:45.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">3rd person "He / Him / Thee" etc. (48 times): 2:87, 2:253, 3:46(2), 3:48, 3:52, 3:55(4), 4:157(3), 4.159(3), 5:110(11), 5:46(3), 5:75(2), 19:21, 19:22(2), 19:27(2), 19:29, 23:50, 43:58(2), 43:59(3), 43:63, 57:27(2), 61:6.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=35" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Glassé, Cyril (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=focLrox-frUC&amp;pg=PA240"><i>The new encyclopedia of Islam, with introduction by Huston Smith</i></a> (Édition révisée. ed.). Walnut Creek, CA: AltaMira Press. p.&#160;239. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780759101906" title="Special:BookSources/9780759101906">9780759101906</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+new+encyclopedia+of+Islam%2C+with+introduction+by+Huston+Smith&amp;rft.place=Walnut+Creek%2C+CA&amp;rft.pages=239&amp;rft.edition=%C3%89dition+r%C3%A9vis%C3%A9e.&amp;rft.pub=AltaMira+Press&amp;rft.date=2001&amp;rft.isbn=9780759101906&amp;rft.aulast=Glass%C3%A9&amp;rft.aufirst=Cyril&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfocLrox-frUC%26pg%3DPA240&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Understanding_Islam_and_Christianity:_Beliefs_That_Separate_Us_and_How_to_Talk_About_Them_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">McDowell, Jim, Josh; Walker, Jim (2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UfvgAAAAQBAJ&amp;pg=PT12"><i>Understanding Islam and Christianity: Beliefs That Separate Us and How to Talk About Them</i></a>. Euguen, Oregon: Harvest House Publishers. p.&#160;12. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780736949910" title="Special:BookSources/9780736949910">9780736949910</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Understanding+Islam+and+Christianity%3A+Beliefs+That+Separate+Us+and+How+to+Talk+About+Them&amp;rft.place=Euguen%2C+Oregon&amp;rft.pages=12&amp;rft.pub=Harvest+House+Publishers&amp;rft.date=2002&amp;rft.isbn=9780736949910&amp;rft.aulast=McDowell%2C+Jim&amp;rft.aufirst=Josh&amp;rft.au=Walker%2C+Jim&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUfvgAAAAQBAJ%26pg%3DPT12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/The_Oxford_Dictionary_of_Islam" title="The Oxford Dictionary of Islam">The Oxford Dictionary of Islam</a>, p.158</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Schumann, Olaf H. (2002). <i>Jesus the Messiah in Muslim Thought</i>. Dehli: ISPCK/HIM. p.&#160;13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/8172145225" title="Special:BookSources/8172145225">8172145225</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+the+Messiah+in+Muslim+Thought&amp;rft.place=Dehli&amp;rft.pages=13&amp;rft.pub=ISPCK%2FHIM&amp;rft.date=2002&amp;rft.isbn=8172145225&amp;rft.aulast=Schumann&amp;rft.aufirst=Olaf+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Geoffrey_Parrinder" title="Geoffrey Parrinder">Parrinder, Geoffrey</a> (1965). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJmcAwAAQBAJ&amp;pg=PT33"><i>Jesus in the Quran</i></a>. London: Oxford <a href="/wiki/Oneworld_Publications" title="Oneworld Publications">Oneworld Publications</a>. p.&#160;33. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781851689996" title="Special:BookSources/9781851689996">9781851689996</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+in+the+Quran&amp;rft.place=London&amp;rft.pages=33&amp;rft.pub=Oxford+Oneworld+Publications&amp;rft.date=1965&amp;rft.isbn=9781851689996&amp;rft.aulast=Parrinder&amp;rft.aufirst=Geoffrey&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DiJmcAwAAQBAJ%26pg%3DPT33&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Muslim_Jesus:_Sayings_and_Stories_in_Islamic_Literature_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tarif_Khalidi" title="Tarif Khalidi">Khalidi, Tarif</a> (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA4"><i>The Muslim Jesus: Sayings and Stories in Islamic Literature</i></a>. London: Harvard University Press. p.&#160;4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0674011155" title="Special:BookSources/0674011155">0674011155</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Muslim+Jesus%3A+Sayings+and+Stories+in+Islamic+Literature&amp;rft.place=London&amp;rft.pages=4&amp;rft.pub=Harvard+University+Press&amp;rft.date=2001&amp;rft.isbn=0674011155&amp;rft.aulast=Khalidi&amp;rft.aufirst=Tarif&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpE57rmPaM58C%26printsec%3Dfnd%26pg%3DPA4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Gregory A. Barker and Stephen E. Gregg, "Jesus Beyond Christianity: The Classic Texts (Oxford: Oxford University Press, 2010), p. 84.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJmcAwAAQBAJ&amp;pg=PT16">Parrinder 1965, p. 16</a>.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">McDowell, Jim, Josh; Walker, Jim (2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UfvgAAAAQBAJ&amp;pg=PT16"><i>Understanding Islam and Christianity: Beliefs That Separate Us and How to Talk About Them</i></a>. Euguen, Oregon: Harvest House Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780736949910" title="Special:BookSources/9780736949910">9780736949910</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Understanding+Islam+and+Christianity%3A+Beliefs+That+Separate+Us+and+How+to+Talk+About+Them&amp;rft.place=Euguen%2C+Oregon&amp;rft.pub=Harvest+House+Publishers&amp;rft.date=2002&amp;rft.isbn=9780736949910&amp;rft.aulast=McDowell%2C+Jim&amp;rft.aufirst=Josh&amp;rft.au=Walker%2C+Jim&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUfvgAAAAQBAJ%26pg%3DPT16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Robinson, Neal (31 July 1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ht1hpisBQF0C&amp;printsec=fnd&amp;pg=PA12"><i>Christ in Islam and Christianity</i></a>. New York: State University of New York Press. p.&#160;12. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0791405591" title="Special:BookSources/0791405591">0791405591</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Christ+in+Islam+and+Christianity&amp;rft.place=New+York&amp;rft.pages=12&amp;rft.pub=State+University+of+New+York+Press&amp;rft.date=1991-07-31&amp;rft.isbn=0791405591&amp;rft.aulast=Robinson&amp;rft.aufirst=Neal&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dht1hpisBQF0C%26printsec%3Dfnd%26pg%3DPA12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Leirvik_2010-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leirvik_2010_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Leirvik, Oddbjørn (27 May 2010). <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA47"><i>Images of Jesus Christ in Islam: 2nd Edition</i></a>. New York: <a href="/wiki/Bloomsbury_Publishing" title="Bloomsbury Publishing">Bloomsbury Academic</a>; 2nd edition. p.&#160;47. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1441181601" title="Special:BookSources/1441181601">1441181601</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Images+of+Jesus+Christ+in+Islam%3A+2nd+Edition&amp;rft.place=New+York&amp;rft.pages=47&amp;rft.pub=Bloomsbury+Academic%3B+2nd+edition&amp;rft.date=2010-05-27&amp;rft.isbn=1441181601&amp;rft.aulast=Leirvik&amp;rft.aufirst=Oddbj%C3%B8rn&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fhl%3Den%26lr%3D%26id%3DIEUdCgAAQBAJ%26oi%3Dfnd%26pg%3DPA47&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Klauck, Hans-Josef Klauck (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WoqXMHPY5EgC&amp;printsec=fnd&amp;pg=PA18"><i>The Apocryphal Gospels: An Introduction</i></a>. London: Bloomsbury T&amp;T Clark. p.&#160;18. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/056708390X" title="Special:BookSources/056708390X">056708390X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Apocryphal+Gospels%3A+An+Introduction&amp;rft.place=London&amp;rft.pages=18&amp;rft.pub=Bloomsbury+T%26T+Clark&amp;rft.date=2003&amp;rft.isbn=056708390X&amp;rft.aulast=Klauck&amp;rft.aufirst=Hans-Josef+Klauck&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWoqXMHPY5EgC%26printsec%3Dfnd%26pg%3DPA18&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Leirvik_2010,_p._59-60-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leirvik_2010,_p._59-60_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._59-60_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._59-60_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._59-60_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._59-60_16-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA59">Leirvik 2010, p. 59-60</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Little, John T. (3 April 2007). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1478-1913.1987.tb02785.x/abstract">"Al-Insan Al-Kamil: The Perfect Man According to Ibn Al-Arabi"</a>. <i>The Muslim World</i>. Hartford Seminary. <b>77</b> (1): 43–54. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1478-1913.1987.tb02785.x">10.1111/j.1478-1913.1987.tb02785.x</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2016</span>. <q><a href="/wiki/Ibn_Arabi" title="Ibn Arabi">Ibn al-'Arabi</a> uses no less than 22 different terms to describe the various aspects under which this single Logos may be viewed.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Muslim+World&amp;rft.atitle=Al-Insan+Al-Kamil%3A+The+Perfect+Man+According+to+Ibn+Al-Arabi&amp;rft.volume=77&amp;rft.issue=1&amp;rft.pages=43-54&amp;rft.date=2007-04-03&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1478-1913.1987.tb02785.x&amp;rft.aulast=Little&amp;rft.aufirst=John+T.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1478-1913.1987.tb02785.x%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Schumann, Olaf H. (2002). <i>Jesus the Messiah in Muslim Thought</i>. Dehli: ISPCK/HIM. p.&#160;13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/8172145225" title="Special:BookSources/8172145225">8172145225</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+the+Messiah+in+Muslim+Thought&amp;rft.place=Dehli&amp;rft.pages=13&amp;rft.pub=ISPCK%2FHIM&amp;rft.date=2002&amp;rft.isbn=8172145225&amp;rft.aulast=Schumann&amp;rft.aufirst=Olaf+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJmcAwAAQBAJ&amp;pg=PT6">Parrinder 1965, p. 6</a>.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Lawson, Todd (1 March 2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=C1cQBwAAQBAJ&amp;oi=fnd&amp;pg=PA14"><i>The Crucifixion and the Quran: A Study in the History of Muslim Thought</i></a>. Oneworld Publications. p.&#160;14. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1851686355" title="Special:BookSources/1851686355">1851686355</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Crucifixion+and+the+Quran%3A+A+Study+in+the+History+of+Muslim+Thought&amp;rft.pages=14&amp;rft.pub=Oneworld+Publications&amp;rft.date=2009-03-01&amp;rft.isbn=1851686355&amp;rft.aulast=Lawson&amp;rft.aufirst=Todd&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fhl%3Den%26lr%3D%26id%3DC1cQBwAAQBAJ%26oi%3Dfnd%26pg%3DPA14&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Zahniser, Mathias (30 October 2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=VxAZBwAAQBAJ&amp;pg=PT55"><i>The Mission and Death of Jesus in Islam and Christianity (Faith Meets Faith Series)</i></a>. New York: Orbis Books. p.&#160;55. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1570758077" title="Special:BookSources/1570758077">1570758077</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Mission+and+Death+of+Jesus+in+Islam+and+Christianity+%28Faith+Meets+Faith+Series%29&amp;rft.place=New+York&amp;rft.pages=55&amp;rft.pub=Orbis+Books&amp;rft.date=2008-10-30&amp;rft.isbn=1570758077&amp;rft.aulast=Zahniser&amp;rft.aufirst=Mathias&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVxAZBwAAQBAJ%26pg%3DPT55&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJmcAwAAQBAJ&amp;pg=PT61">Parrinder 1965, p. 61</a>.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/W._Montgomery_Watt" title="W. Montgomery Watt">Watt, William Montgomery</a> (1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA39"><i>Muslim-Christian Encounters: Perceptions and Misperceptions</i></a>. London and New York: Routledge. p.&#160;39. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0415054109" title="Special:BookSources/0415054109">0415054109</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Muslim-Christian+Encounters%3A+Perceptions+and+Misperceptions&amp;rft.place=London+and+New+York&amp;rft.pages=39&amp;rft.pub=Routledge&amp;rft.date=1991&amp;rft.isbn=0415054109&amp;rft.aulast=Watt&amp;rft.aufirst=William+Montgomery&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_qxlAgAAQBAJ%26printsec%3Dfnd%26pg%3DPA39&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Watt_1991,_p._46-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watt_1991,_p._46_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watt_1991,_p._46_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA46">Watt 1991, p. 46.</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA48">Watt 1991, p. 48-49.</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tarif_Khalidi" title="Tarif Khalidi">Khalidi, Tarif</a> (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA51"><i>The Muslim Jesus: Sayings and Stories in Islamic Literature</i></a>. Cambridge, Mass., and London: Harvard University Press. pp.&#160;51–94. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0674004779" title="Special:BookSources/0674004779">0674004779</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Muslim+Jesus%3A+Sayings+and+Stories+in+Islamic+Literature&amp;rft.place=Cambridge%2C+Mass.%2C+and+London&amp;rft.pages=51-94&amp;rft.pub=Harvard+University+Press&amp;rft.date=2001&amp;rft.isbn=0674004779&amp;rft.aulast=Khalidi&amp;rft.aufirst=Tarif&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpE57rmPaM58C%26printsec%3Dfnd%26pg%3DPA51&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Tarif Khalidi 2001, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA51">p. 51-94</a>, 4.199, Abū Hurayra.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA33">Leirvik 2010, p. 33-34</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Ibn_al-Arabi" class="mw-redirect" title="Ibn al-Arabi">al-Arabi, Ibn</a> (1980). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=p4PeeQGStQkC&amp;pg=PT174"><i>Ibn Al Arabi: The Bezels of Wisdom</i></a>. London: SPCK. p.&#160;174. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0809123312" title="Special:BookSources/0809123312">0809123312</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ibn+Al+Arabi%3A+The+Bezels+of+Wisdom&amp;rft.place=London&amp;rft.pages=174&amp;rft.pub=SPCK&amp;rft.date=1980&amp;rft.isbn=0809123312&amp;rft.aulast=al-Arabi&amp;rft.aufirst=Ibn&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dp4PeeQGStQkC%26pg%3DPT174&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA33">Leirvik 2010, p. 33</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/A.J._Arberry" class="mw-redirect" title="A.J. Arberry">Arberry, A. J.</a> (11 December 1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=sKdkrXhrjrcC&amp;oi=fnd&amp;pg=PA27"><i>The Koran Interpreted: A Translation</i></a>. New York: Touchstone. p.&#160;27. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0684825074" title="Special:BookSources/0684825074">0684825074</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Koran+Interpreted%3A+A+Translation&amp;rft.place=New+York&amp;rft.pages=27&amp;rft.pub=Touchstone&amp;rft.date=1996-12-11&amp;rft.isbn=0684825074&amp;rft.aulast=Arberry&amp;rft.aufirst=A.+J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fhl%3Den%26lr%3D%26id%3DsKdkrXhrjrcC%26oi%3Dfnd%26pg%3DPA27&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zebiri, Kate (March 2000). <a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1478-1913.2000.tb03682.x/abstract">"Contemporary Muslim Understanding of the Miracles of Jesus"</a>. <i>The Muslim World</i>. <a href="/wiki/Hartford_Seminary" title="Hartford Seminary">Hartford Seminary</a>. <b>90</b> (1-2): 71–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1478-1913.2000.tb03682.x">10.1111/j.1478-1913.2000.tb03682.x</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Muslim+World&amp;rft.atitle=Contemporary+Muslim+Understanding+of+the+Miracles+of+Jesus&amp;rft.volume=90&amp;rft.issue=1-2&amp;rft.pages=71-90&amp;rft.date=2000-03&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1478-1913.2000.tb03682.x&amp;rft.aulast=Zebiri&amp;rft.aufirst=Kate&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1478-1913.2000.tb03682.x%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Leirvik_2010,_p._34-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leirvik_2010,_p._34_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._34_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA34">Leirvik 2010, p. 34</a></span></li>
+<li id="cite_note-Leirvik_2010,_p._59-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leirvik_2010,_p._59_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._59_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA59">Leirvik 2010, p. 59</a></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA58">Leirvik 2010, p. 58</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA46">Watt 1991, p. 46-47.</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA64">Leirvik 2010, p. 64</a></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Allen C. Myers, ed. (1987). "Aramaic". <i>The Eerdmans Bible Dictionary</i>. Grand Rapids, MI: William B. Eerdmans. p.&#160;72. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8028-2402-1" title="Special:BookSources/0-8028-2402-1">0-8028-2402-1</a>. <q>It is generally agreed that Aramaic was the common language of Palestine in the first century AD. Jesus and his disciples spoke the Galilean dialect, which was distinguished from that of Jerusalem (Matt. 26:73)</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Aramaic&amp;rft.btitle=The+Eerdmans+Bible+Dictionary&amp;rft.place=Grand+Rapids%2C+MI&amp;rft.pages=72&amp;rft.pub=William+B.+Eerdmans&amp;rft.date=1987&amp;rft.isbn=0-8028-2402-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gregg,_Stephen_2010,_p._90-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gregg,_Stephen_2010,_p._90_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gregg,_Stephen_2010,_p._90_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gregg,_Stephen_2010,_p._90_39-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gregg,_Stephen_2010,_p._90_39-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 90.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 83.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 84.</span></li>
+<li id="cite_note-Gregg,_Stephen_2010,_p._85-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gregg,_Stephen_2010,_p._85_42-0">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 85.</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tarif_Khalidi" title="Tarif Khalidi">Khalidi, Tarif</a> (31 May 2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA31"><i>The Muslim Jesus: Sayings and Stories in Islamic Literature</i></a>. Cambridge, MA: Harvard University Press. pp.&#160;31–36. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0674004779" title="Special:BookSources/0674004779">0674004779</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Muslim+Jesus%3A+Sayings+and+Stories+in+Islamic+Literature&amp;rft.place=Cambridge%2C+MA&amp;rft.pages=31-36&amp;rft.pub=Harvard+University+Press&amp;rft.date=2001-05-31&amp;rft.isbn=0674004779&amp;rft.aulast=Khalidi&amp;rft.aufirst=Tarif&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpE57rmPaM58C%26printsec%3Dfnd%26pg%3DPA31&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">Khalidi 2001, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA31">p. 31</a>.</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Khalidi 2001, p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA32">32-36</a>.</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=iJmcAwAAQBAJ&amp;pg=PT58">Parrinder 1965, p. 58</a>.</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation book">Fudge, Bruce (7 April 2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lWrLEup7pJcC&amp;oi=fnd&amp;pg=PA60"><i>Qur'anic Hermeneutics: Al-Tabrisi and the Craft of Commentary (Routledge Studies in the Qur'an)</i></a>. United Kingdom: Routledge. p.&#160;60. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0415782007" title="Special:BookSources/0415782007">0415782007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Qur%27anic+Hermeneutics%3A+Al-Tabrisi+and+the+Craft+of+Commentary+%28Routledge+Studies+in+the+Qur%27an%29&amp;rft.place=United+Kingdom&amp;rft.pages=60&amp;rft.pub=Routledge&amp;rft.date=2011-04-07&amp;rft.isbn=0415782007&amp;rft.aulast=Fudge&amp;rft.aufirst=Bruce&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlWrLEup7pJcC%26oi%3Dfnd%26pg%3DPA60&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ayoub_1992-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ayoub_1992_48-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Mahmoud_M._Ayoub" title="Mahmoud M. Ayoub">Ayoub, Mahmoud</a> (14 May 1992). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=XCZaP4JLeKkC&amp;pg=PA145"><i>The Qur'an and Its Interpreters, Volume II: The House of 'Imran</i></a>. New York: State University of New York Press. p.&#160;145. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0791409945" title="Special:BookSources/0791409945">0791409945</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Qur%27an+and+Its+Interpreters%2C+Volume+II%3A+The+House+of+%27Imran&amp;rft.place=New+York&amp;rft.pages=145&amp;rft.pub=State+University+of+New+York+Press&amp;rft.date=1992-05-14&amp;rft.isbn=0791409945&amp;rft.aulast=Ayoub&amp;rft.aufirst=Mahmoud&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXCZaP4JLeKkC%26pg%3DPA145&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=XCZaP4JLeKkC&amp;pg=PA154">Ayoub 1992, p. 154-156</a></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=XCZaP4JLeKkC&amp;pg=PA158">Ayoub 1992, p. 158</a></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D3%3Averse%3D52">3:52–53</a></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D5%3Averse%3D112">5:112–115</a></span></li>
+<li id="cite_note-Ayoub_1980-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ayoub_1980_53-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Mahmoud_M._Ayoub" title="Mahmoud M. Ayoub">Ayoub, Mahmoud M.</a> (April 1980). "Towards an Islamic Christology II: The Death of Jesus, Reality or Delusion (A Study of the Death of Jesus in Tafsir Literature)". <i>The Muslim World</i>. Hartford Seminary. <b>70</b> (2): 106. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1478-1913.1980.tb03405.x">10.1111/j.1478-1913.1980.tb03405.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Muslim+World&amp;rft.atitle=Towards+an+Islamic+Christology+II%3A+The+Death+of+Jesus%2C+Reality+or+Delusion+%28A+Study+of+the+Death+of+Jesus+in+Tafsir+Literature%29&amp;rft.volume=70&amp;rft.issue=2&amp;rft.pages=106&amp;rft.date=1980-04&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1478-1913.1980.tb03405.x&amp;rft.aulast=Ayoub&amp;rft.aufirst=Mahmoud+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Watt_1991,_p._39-40-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watt_1991,_p._39-40_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watt_1991,_p._39-40_54-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA39">Watt 1991, p. 39-40.</a></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">Zahniser 2008, page 56</span></li>
+<li id="cite_note-Watt_1991,_p._47-56"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watt_1991,_p._47_56-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watt_1991,_p._47_56-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA47">Watt 1991, p. 47.</a></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 119.</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 121.</span></li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text">Robinson 1991, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ht1hpisBQF0C&amp;printsec=fnd&amp;pg=PA122">p. 122</a>.</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 108. [Muhammad b. 'Ali b. Muhammad al-Shawkani, <i>Fath al-Qadir al-Jami bayn Fannay al-Riwaya wa 'l Diraya min 'Ilm al-Tqfsir</i> (Cairo: Mustafa al-Babi al-Halabi, n.d.), I, 346, citing Ibn Asakir, who reports on the authority of Ibn Munabbih.]</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text">Lawson 2009, <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=C1cQBwAAQBAJ&amp;oi=fnd&amp;pg=PA12">page 12</a></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text">Lawson 2009, <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=C1cQBwAAQBAJ&amp;oi=fnd&amp;pg=PA7">page 7</a>.</span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text">Lawson 2009, <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=C1cQBwAAQBAJ&amp;oi=fnd&amp;pg=PA12">page 12</a>.</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 117.</span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 113.</span></li>
+<li id="cite_note-Leirvik_2010,_p._66-66"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leirvik_2010,_p._66_66-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._66_66-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Leirvik_2010,_p._66_66-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA66">Leirvik 2010, p. 66</a></span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 116.</span></li>
+<li id="cite_note-Crossan,_John_Dominic_1995_p._145-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-Crossan,_John_Dominic_1995_p._145_68-0">^</a></b></span> <span class="reference-text">Crossan, John Dominic (1995). Jesus: A Revolutionary Biography. HarperOne. p. 145. <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-061662-8" title="Special:BookSources/0-06-061662-8">0-06-061662-8</a>. "That he was crucified is as sure as anything historical can ever be, since both Josephus and Tacitus...agree with the Christian accounts on at least that basic fact."</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Peter_Sch%C3%A4fer" title="Peter Schäfer">Schäfer, Peter</a> (13 September 2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=IxIv_zqQx9kC&amp;printsec=fnd&amp;pg=PA139"><i>Jesus in the Talmud</i></a>. Princeton University Press. p.&#160;139. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0691143188" title="Special:BookSources/0691143188">0691143188</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+in+the+Talmud&amp;rft.pages=139&amp;rft.pub=Princeton+University+Press&amp;rft.date=2009-09-13&amp;rft.isbn=0691143188&amp;rft.aulast=Sch%C3%A4fer&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIxIv_zqQx9kC%26printsec%3Dfnd%26pg%3DPA139&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Alexander_Roberts" title="Alexander Roberts">Roberts, Alexander</a> (1 May 2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lvdMAQAAMAAJ&amp;pg=fnd&amp;pg=PA349"><i>The Ante-Nicene Fathers: The Writings of the Fathers Down to A.D. 325 Volume I - The Apostolic Fathers with Justin Martyr and Irenaeus</i></a>. New York: Cosimo Classics. p.&#160;349. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1602064695" title="Special:BookSources/1602064695">1602064695</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ante-Nicene+Fathers%3A+The+Writings+of+the+Fathers+Down+to+A.D.+325+Volume+I+-+The+Apostolic+Fathers+with+Justin+Martyr+and+Irenaeus&amp;rft.place=New+York&amp;rft.pages=349&amp;rft.pub=Cosimo+Classics&amp;rft.date=2007-05-01&amp;rft.isbn=1602064695&amp;rft.aulast=Roberts&amp;rft.aufirst=Alexander&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlvdMAQAAMAAJ%26pg%3Dfnd%26pg%3DPA349&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 100.</span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text">Ayoub 1980, p. 103.</span></li>
+<li id="cite_note-S209-73"><span class="mw-cite-backlink">^ <a href="#cite_ref-S209_73-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-S209_73-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Sonn (2004) p. 209</span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text"><a href="/wiki/Sahih_Muslim" title="Sahih Muslim">Sahih Muslim</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/041-smt.php#041.7023">41:7023</a></span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text"><cite class="citation book"><i><a href="/wiki/Sahih_Muslim" title="Sahih Muslim">Sahih Muslim</a></i> (in Arabic). p.&#160;193, part2.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sahih+Muslim&amp;rft.pages=193%2C+part2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text"><a href="/wiki/Sahih_al-Bukhari" title="Sahih al-Bukhari">Sahih al-Bukhari</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/bukhari/043-sbt.php#003.043.656">3:43:656</a></span></li>
+<li id="cite_note-EoI-Isa-77"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoI-Isa_77-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoI-Isa_77-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EoI-Isa_77-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-EoI-Isa_77-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-EoI-Isa_77-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Anawati, G.C. (6 June 2016) [2012]. <a rel="nofollow" class="external text" href="http://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/isa-COM_0378">"Īsā"</a>. In P. Bearman; Th. Bianquis; C.E. Bosworth; E. van Donzel; W.P. Heinrichs. <i>Encyclopaedia of Islam</i> (2nd ed.). Brill Online. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789004161214" title="Special:BookSources/9789004161214">9789004161214</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%C4%AAs%C4%81&amp;rft.btitle=Encyclopaedia+of+Islam&amp;rft.edition=2nd&amp;rft.pub=Brill+Online&amp;rft.date=2016-06-06&amp;rft.isbn=9789004161214&amp;rft.aulast=Anawati&amp;rft.aufirst=G.C.&amp;rft_id=http%3A%2F%2Freferenceworks.brillonline.com%2Fentries%2Fencyclopaedia-of-islam-2%2Fisa-COM_0378&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><b><a href="#cite_ref-78">^</a></b></span> <span class="reference-text"><cite class="citation book">Tabor, James (August 28, 2017) [1st pub. 2006]. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=CKFUFtnnffgC&amp;printsec=frontcover&amp;dq=The+Jesus+Dynasty:+The+Hidden+History+of+Jesus,+His+Royal+Family,+and+the+Birth+of+Christianity&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjg2Lrt2vrVAhXDCcAKHW9ABL4Q6AEIKDAA#v=snippet&amp;q=jesus%20mohammed%20religion&amp;f=false">"Conclusion: RECOVERING LOST TREASURES"</a>. <i>The Jesus Dynasty: The Hidden History of Jesus, His Royal Family, and the Birth of Christianity</i>. <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>. pp.&#160;315–316. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7432-8723-4" title="Special:BookSources/978-0-7432-8723-4">978-0-7432-8723-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Conclusion%3A+RECOVERING+LOST+TREASURES&amp;rft.btitle=The+Jesus+Dynasty%3A+The+Hidden+History+of+Jesus%2C+His+Royal+Family%2C+and+the+Birth+of+Christianity&amp;rft.pages=315-316&amp;rft.pub=Simon+%26+Schuster&amp;rft.date=2017-08-28&amp;rft.isbn=978-0-7432-8723-4&amp;rft.aulast=Tabor&amp;rft.aufirst=James&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DCKFUFtnnffgC%26printsec%3Dfrontcover%26dq%3DThe%2BJesus%2BDynasty%3A%2BThe%2BHidden%2BHistory%2Bof%2BJesus%2C%2BHis%2BRoyal%2BFamily%2C%2Band%2Bthe%2BBirth%2Bof%2BChristianity%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjg2Lrt2vrVAhXDCcAKHW9ABL4Q6AEIKDAA%23v%3Dsnippet%26q%3Djesus%2520mohammed%2520religion%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text"><cite class="citation book">Sakura, Muham (November 11, 2017) [December 2015]. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=lWQ2CwAAQBAJ&amp;pg=PT10&amp;dq=jesus+last+prophet+israel+islam&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjTwZOV47fXAhUIJewKHQJJBs8Q6AEINDAC#v=onepage&amp;q=jesus%20last%20prophet%20israel%20islam&amp;f=false">"Preface"</a>. <i>The Great Tale of Prophet Adam &amp; Prophet Jesus In Islam</i>. <a href="/wiki/United_Submitters_International" title="United Submitters International">United Submitters International</a>. p.&#160;6.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Preface&amp;rft.btitle=The+Great+Tale+of+Prophet+Adam+%26+Prophet+Jesus+In+Islam&amp;rft.pages=6&amp;rft.pub=United+Submitters+International&amp;rft.date=2017-11-11&amp;rft.aulast=Sakura&amp;rft.aufirst=Muham&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DlWQ2CwAAQBAJ%26pg%3DPT10%26dq%3Djesus%2Blast%2Bprophet%2Bisrael%2Bislam%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjTwZOV47fXAhUIJewKHQJJBs8Q6AEINDAC%23v%3Donepage%26q%3Djesus%2520last%2520prophet%2520israel%2520islam%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text"><cite class="citation book">Akhtar, Shabbir (October 24, 2017) [October 2007]. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=iIx8AgAAQBAJ&amp;printsec=frontcover&amp;dq=The+Quran+and+the+Secular+Mind:+A+Philosophy+of+Islam+jesus+sent&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjthvGVv4zXAhUGuhoKHRFWBsQQ6AEIKDAA#v=snippet&amp;q=sent%20israelites&amp;f=false">"PART 1 Quranic Islam and the secular mind"</a>. <i>The Quran and the Secular Mind: A Philosophy of Islam</i>. <a href="/wiki/Routledge" title="Routledge">Routledge</a>. p.&#160;31. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-203-93531-4" title="Special:BookSources/0-203-93531-4">0-203-93531-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=PART+1+Quranic+Islam+and+the+secular+mind&amp;rft.btitle=The+Quran+and+the+Secular+Mind%3A+A+Philosophy+of+Islam&amp;rft.pages=31&amp;rft.pub=Routledge&amp;rft.date=2017-10-24&amp;rft.isbn=0-203-93531-4&amp;rft.aulast=Akhtar&amp;rft.aufirst=Shabbir&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DiIx8AgAAQBAJ%26printsec%3Dfrontcover%26dq%3DThe%2BQuran%2Band%2Bthe%2BSecular%2BMind%3A%2BA%2BPhilosophy%2Bof%2BIslam%2Bjesus%2Bsent%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjthvGVv4zXAhUGuhoKHRFWBsQQ6AEIKDAA%23v%3Dsnippet%26q%3Dsent%2520israelites%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-multiple-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-multiple_81-0">^</a></b></span> <span class="reference-text">See:</span>
+<ul>
+<li><span class="reference-text">Esposito (2002) p. 32, 74;</span></li>
+<li><span class="reference-text">Fasching, deChant (2001) p. 241</span></li>
+<li><span class="reference-text">Markham and Ruparell (2001) p. 348</span></li>
+</ul>
+</li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-82">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://frted.wordpress.com/2009/06/12/christianity-and-islam-the-apostle-paul/">"Christianity and Islam: The Apostle Paul"</a>. <i>frted</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 7,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=frted&amp;rft.atitle=Christianity+and+Islam%3A+The+Apostle+Paul&amp;rft_id=https%3A%2F%2Ffrted.wordpress.com%2F2009%2F06%2F12%2Fchristianity-and-islam-the-apostle-paul%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://interfaithdigest.wordpress.com/2016/05/19/greek-roman-evolution-of-christianity/">"GREEK-ROMAN EVOLUTION OF CHRISTIANITY"</a>. <i>interfaithdigest</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 6,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=interfaithdigest&amp;rft.atitle=GREEK-ROMAN+EVOLUTION+OF+CHRISTIANITY&amp;rft_id=https%3A%2F%2Finterfaithdigest.wordpress.com%2F2016%2F05%2F19%2Fgreek-roman-evolution-of-christianity%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-84">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-5/section-16-teachings-jesus-corrupted-after-his">"Section 16: Teachings of Jesus corrupted after his departure"</a>. <i>al-islam.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 7,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=al-islam.org&amp;rft.atitle=Section+16%3A+Teachings+of+Jesus+corrupted+after+his+departure&amp;rft_id=https%3A%2F%2Fwww.al-islam.org%2Fenlightening-commentary-light-holy-quran-vol-5%2Fsection-16-teachings-jesus-corrupted-after-his&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-85">^</a></b></span> <span class="reference-text">Khalidi 2001 <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pE57rmPaM58C&amp;printsec=fnd&amp;pg=PA75">p. 75</a>; *Fasching, deChant (2001) p. 241</span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-86">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D4%3Averse%3D171">4:171</a></span></li>
+<li id="cite_note-IslamicJesus-87"><span class="mw-cite-backlink">^ <a href="#cite_ref-IslamicJesus_87-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IslamicJesus_87-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Akhtar, Shabbir (October 24, 2017) [October 2007]. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=wa1HRjA0AgEC&amp;pg=PA32&amp;dq=quran+jesus+like+adam+islam&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiNpd2bpoXXAhVJJcAKHaxoAmcQ6AEIVDAI#v=onepage&amp;q=quran%20jesus%20like%20adam%20islam&amp;f=false">"PART 1 Quranic Islam and the secular mind"</a>. <i>The Quran and the Secular Mind: A Philosophy of Islam</i>. <a href="/wiki/Routledge" title="Routledge">Routledge</a>. p.&#160;32. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-203-93531-4" title="Special:BookSources/0-203-93531-4">0-203-93531-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=PART+1+Quranic+Islam+and+the+secular+mind&amp;rft.btitle=The+Quran+and+the+Secular+Mind%3A+A+Philosophy+of+Islam&amp;rft.pages=32&amp;rft.pub=Routledge&amp;rft.date=2017-10-24&amp;rft.isbn=0-203-93531-4&amp;rft.aulast=Akhtar&amp;rft.aufirst=Shabbir&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3Dwa1HRjA0AgEC%26pg%3DPA32%26dq%3Dquran%2Bjesus%2Blike%2Badam%2Bislam%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwiNpd2bpoXXAhVJJcAKHaxoAmcQ6AEIVDAI%23v%3Donepage%26q%3Dquran%2520jesus%2520like%2520adam%2520islam%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-88"><span class="mw-cite-backlink"><b><a href="#cite_ref-88">^</a></b></span> <span class="reference-text">"She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, <a href="/wiki/Be,_and_it_is" title="Be, and it is">'Be,' and it is</a>!", <a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D3%3Averse%3D47">3:47</a>, cf. Encyclopedia of Islam</span></li>
+<li id="cite_note-JesusTitle-89"><span class="mw-cite-backlink">^ <a href="#cite_ref-JesusTitle_89-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JesusTitle_89-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-JesusTitle_89-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://www.islamreligion.com/articles/229/descriptive-titles-of-jesus-in-quran-part-2/">"THE DESCRIPTIVE TITLES OF JESUS IN THE QURAN (PART 2 OF 2): A "WORD" AND "SPIRIT" FROM GOD"</a>, <i>islamreligion.com</i><span class="reference-accessdate">, retrieved <span class="nowrap">October 24,</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=islamreligion.com&amp;rft.atitle=THE+DESCRIPTIVE+TITLES+OF+JESUS+IN+THE+QURAN+%28PART+2+OF+2%29%3A+A+%22WORD%22+AND+%22SPIRIT%22+FROM+GOD&amp;rft_id=https%3A%2F%2Fwww.islamreligion.com%2Farticles%2F229%2Fdescriptive-titles-of-jesus-in-quran-part-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><b><a href="#cite_ref-90">^</a></b></span> <span class="reference-text">Mufti Shafi Uthmani, Maariful Quran, Q. 19:16-21, Volume 6, p. 34.</span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><b><a href="#cite_ref-91">^</a></b></span> <span class="reference-text"><a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D3%3Averse%3D59">3:59</a></span></li>
+<li id="cite_note-92"><span class="mw-cite-backlink"><b><a href="#cite_ref-92">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.islamicstudies.info/tafheem.php?sura=3&amp;verse=55">"Surah Ali 'Imran 3:55-63"</a>. <i>islamicstudies.info</i><span class="reference-accessdate">. Retrieved <span class="nowrap">October 24,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=islamicstudies.info&amp;rft.atitle=Surah+Ali+%27Imran+3%3A55-63&amp;rft_id=http%3A%2F%2Fwww.islamicstudies.info%2Ftafheem.php%3Fsura%3D3%26verse%3D55&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><b><a href="#cite_ref-93">^</a></b></span> <span class="reference-text"><cite class="citation book">Khalifa, Rashad (October 24, 2017) [June 2007]. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=DWkeDNySuz0C&amp;pg=PA34&amp;dq=quran+3:59+jesus+adam&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwju6bi05YfXAhWEIMAKHXUzBY8Q6AEILTAB#v=onepage&amp;q=3%3A59%20equality&amp;f=false">"Sura 3: The Amramites (Āl- 'Imrān)"</a>. <i>Quran - The Final Testament: Authorized English Version of the Original</i>. <a href="/wiki/United_Submitters_International" title="United Submitters International">United Submitters International</a>. p.&#160;341. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9793459-0-6" title="Special:BookSources/978-0-9793459-0-6">978-0-9793459-0-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Sura+3%3A+The+Amramites+%28%C4%80l-+%E2%80%99Imr%C4%81n%29&amp;rft.btitle=Quran+-+The+Final+Testament%3A+Authorized+English+Version+of+the+Original&amp;rft.pages=341&amp;rft.pub=United+Submitters+International&amp;rft.date=2017-10-24&amp;rft.isbn=978-0-9793459-0-6&amp;rft.aulast=Khalifa&amp;rft.aufirst=Rashad&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DDWkeDNySuz0C%26pg%3DPA34%26dq%3Dquran%2B3%3A59%2Bjesus%2Badam%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwju6bi05YfXAhWEIMAKHXUzBY8Q6AEILTAB%23v%3Donepage%26q%3D3%253A59%2520equality%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-94"><span class="mw-cite-backlink"><b><a href="#cite_ref-94">^</a></b></span> <span class="reference-text">"And remember, Jesus, the son of Mary, said: "O Children of Israel! I am the messenger of Allah (sent) to you, confirming the Law (which came) before me, and giving Glad Tidings of a Messenger to come after me, whose name shall be Ahmad." But when he came to them with Clear Signs, they said, "this is evident sorcery!" ", <a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D61%3Averse%3D6">61:6</a></span></li>
+<li id="cite_note-95"><span class="mw-cite-backlink"><b><a href="#cite_ref-95">^</a></b></span> <span class="reference-text">"And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever—<br />
+the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.", <a href="https://en.wikisource.org/wiki/Bible_(King_James)/John#14:16" class="extiw" title="s:Bible (King James)/John">John 14:16–17</a></span></li>
+<li id="cite_note-96"><span class="mw-cite-backlink"><b><a href="#cite_ref-96">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA33">Watt 1991, p. 33-34.</a></span></li>
+<li id="cite_note-97"><span class="mw-cite-backlink"><b><a href="#cite_ref-97">^</a></b></span> <span class="reference-text">Liddell and Scott`s celebrated Greek-English Lexicon gives this definition for periklutos: "heard of all round, famous, renowned, Latin inclytus: of things, excellent, noble, glorious". Rev. James M. Whiton, ed. A Lexicon abridged from Liddell and Scott`s Greek-English Lexicon. New York: American Book Company, N.D. c.1940s, p.549. Periklutos occurs in The Iliad and The Odyssey, and Hesiod`s Theogony.</span></li>
+<li id="cite_note-98"><span class="mw-cite-backlink"><b><a href="#cite_ref-98">^</a></b></span> <span class="reference-text"><cite class="citation journal">Travis, John (2000). <a rel="nofollow" class="external text" href="http://www.ijfm.org/PDFs_IJFM/17_1_PDFs/Followers_of_Isa.pdf">"Messian Muslim Followers of Isa"</a> <span style="font-size:85%;">(PDF)</span>. <i>International Journal of Frontier Missions</i>. <b>17</b> (Spring): 54.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Frontier+Missions&amp;rft.atitle=Messian+Muslim+Followers+of+Isa&amp;rft.volume=17&amp;rft.issue=Spring&amp;rft.pages=54&amp;rft.date=2000&amp;rft.aulast=Travis&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.ijfm.org%2FPDFs_IJFM%2F17_1_PDFs%2FFollowers_of_Isa.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-99"><span class="mw-cite-backlink"><b><a href="#cite_ref-99">^</a></b></span> <span class="reference-text"><cite class="citation web">Cumming, Joseph. <a rel="nofollow" class="external text" href="http://www.christianitytoday.com/ct/2009/december/index.html">"Muslim Followers of Jesus?"</a>. ChristianityToday<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Muslim+Followers+of+Jesus%3F&amp;rft.pub=ChristianityToday&amp;rft.aulast=Cumming&amp;rft.aufirst=Joseph&amp;rft_id=http%3A%2F%2Fwww.christianitytoday.com%2Fct%2F2009%2Fdecember%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-100"><span class="mw-cite-backlink"><b><a href="#cite_ref-100">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.touchstonemag.com/archives/article.php?id=15-09-032-f">"Touchstone Archives: Can Jesus Save Islam?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Touchstone+Archives%3A+Can+Jesus+Save+Islam%3F&amp;rft_id=http%3A%2F%2Fwww.touchstonemag.com%2Farchives%2Farticle.php%3Fid%3D15-09-032-f&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-101"><span class="mw-cite-backlink"><b><a href="#cite_ref-101">^</a></b></span> <span class="reference-text"><cite class="citation web">Author, Carl Medearis; Not-Evangelism, 'Speaking of Jesus: The Art of (9 January 2013). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/carl-medearis/muslims-who-follow-jesus_b_2436538.html">"Muslims Who Follow Jesus"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Muslims+Who+Follow+Jesus&amp;rft.date=2013-01-09&amp;rft.aulast=Author&amp;rft.aufirst=Carl+Medearis&amp;rft.au=Not-Evangelism%2C+%27Speaking+of+Jesus%3A+The+Art+of&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fcarl-medearis%2Fmuslims-who-follow-jesus_b_2436538.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-102"><span class="mw-cite-backlink"><b><a href="#cite_ref-102">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.christianitytoday.com/ct/2013/january-february/jesus-saves-religion-doesnt.html">"Why Evangelicals Should Be Thankful for Muslim Insiders"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+Evangelicals+Should+Be+Thankful+for+Muslim+Insiders&amp;rft_id=http%3A%2F%2Fwww.christianitytoday.com%2Fct%2F2013%2Fjanuary-february%2Fjesus-saves-religion-doesnt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-103"><span class="mw-cite-backlink"><b><a href="#cite_ref-103">^</a></b></span> <span class="reference-text">Encyclopedia of Islam, <i>Jesus</i> article. cf. L. Massignon, <i>Le Christ dans les Évangiles selon Ghazali</i>, in REI, 1932, 523-36, who cites texts of the <a href="/wiki/Rasa%27il_Ikhwan_al-Safa" class="mw-redirect" title="Rasa'il Ikhwan al-Safa">Rasa'il Ikhwan al-Safa</a>, a passage of <a href="/wiki/Abu_Hatim_Ahmad_ibn_Hamdan_al-Razi" title="Abu Hatim Ahmad ibn Hamdan al-Razi">Abu Hatim al-Razi</a> (about 934), and another of the Isma'ili <i><a href="/wiki/Da%27i" title="Da'i">da'i</a></i> <a href="/wiki/Mu%27ayyad_fid-din_al-Shirazi" class="mw-redirect" title="Mu'ayyad fid-din al-Shirazi">Mu'ayyad fid-din al-Shirazi</a> (1077).</span></li>
+<li id="cite_note-104"><span class="mw-cite-backlink"><b><a href="#cite_ref-104">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 97.</span></li>
+<li id="cite_note-105"><span class="mw-cite-backlink"><b><a href="#cite_ref-105">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=fnd&amp;pg=PA68">Watt 1991, p. 68.</a></span></li>
+<li id="cite_note-106"><span class="mw-cite-backlink"><b><a href="#cite_ref-106">^</a></b></span> <span class="reference-text">name="Gregg, Stephen 2010, p. 85"</span></li>
+<li id="cite_note-Gregg,_Stephen_2010,_p._86-107"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gregg,_Stephen_2010,_p._86_107-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gregg,_Stephen_2010,_p._86_107-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 86.</span></li>
+<li id="cite_note-108"><span class="mw-cite-backlink"><b><a href="#cite_ref-108">^</a></b></span> <span class="reference-text">Gregg, Stephen; Barker, Gregory 2010, p. 112.</span></li>
+<li id="cite_note-109"><span class="mw-cite-backlink"><b><a href="#cite_ref-109">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=IEUdCgAAQBAJ&amp;oi=fnd&amp;pg=PA89">Leirvik 2010, p. 89-90</a></span></li>
+<li id="cite_note-110"><span class="mw-cite-backlink"><b><a href="#cite_ref-110">^</a></b></span> <span class="reference-text">Clinton Bennett <i>Understanding Christian-Muslim Relations: Past and Present</i> A&amp;C Black 2008 <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-826-48782-7" title="Special:BookSources/978-0-826-48782-7">978-0-826-48782-7</a> page 155</span></li>
+<li id="cite_note-111"><span class="mw-cite-backlink"><b><a href="#cite_ref-111">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.wikiahmadiyya.org/history/jesus/death-of-jesus">http://www.wikiahmadiyya.org/history/jesus/death-of-jesus</a></span></li>
+<li id="cite_note-112"><span class="mw-cite-backlink"><b><a href="#cite_ref-112">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wiegers, G.A. (April–June 1995). "Muhammad as the Messiah: A comparison of the polemical works of Juan Alonso with the Gospel of Barnabas". <i>Biblitheca Orientalis</i>. <b>LII</b> (3/4): 274.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biblitheca+Orientalis&amp;rft.atitle=Muhammad+as+the+Messiah%3A+A+comparison+of+the+polemical+works+of+Juan+Alonso+with+the+Gospel+of+Barnabas&amp;rft.volume=LII&amp;rft.issue=3%2F4&amp;rft.pages=274&amp;rft.date=1995-04%2F1995-06&amp;rft.aulast=Wiegers&amp;rft.aufirst=G.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fremaux_1999_14-113"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fremaux_1999_14_113-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Fremaux, Michel; Cirillo, Luigi (1999). <i>Évangile de Barnabé 2nd Edn revised</i>. Beauchesne. p.&#160;14. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9782701013893" title="Special:BookSources/9782701013893">9782701013893</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%C3%89vangile+de+Barnab%C3%A9+2nd+Edn+revised&amp;rft.pages=14&amp;rft.pub=Beauchesne&amp;rft.date=1999&amp;rft.isbn=9782701013893&amp;rft.aulast=Fremaux&amp;rft.aufirst=Michel&amp;rft.au=Cirillo%2C+Luigi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-114"><span class="mw-cite-backlink"><b><a href="#cite_ref-114">^</a></b></span> <span class="reference-text"><cite class="citation book">Ragg, L &amp; L (1907). <i>The Gospel of Barnabas</i>. Oxford. lxv–lxxi. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-881316-15-7" title="Special:BookSources/1-881316-15-7">1-881316-15-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Gospel+of+Barnabas&amp;rft.pages=lxv-lxxi&amp;rft.pub=Oxford&amp;rft.date=1907&amp;rft.isbn=1-881316-15-7&amp;rft.aulast=Ragg&amp;rft.aufirst=L+%26+L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-115"><span class="mw-cite-backlink"><b><a href="#cite_ref-115">^</a></b></span> <span class="reference-text"><a href="/wiki/Sahih_al-Bukhari" title="Sahih al-Bukhari">Sahih al-Bukhari</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/bukhari/054-sbt.php#004.054.462">4:54:462</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/bukhari/055-sbt.php#004.055.607">4:55:607–608</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/bukhari/055-sbt.php#004.055.647">4:55:647–650</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/bukhari/055-sbt.php#004.055.649">4:55:649–650</a>, <a href="/wiki/Sahih_Muslim" title="Sahih Muslim">Sahih Muslim</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/001-smt.php#001.0316">1:316</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/001-smt.php#001.0321">1:321</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/001-smt.php#001.0325">1:325</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/001-smt.php#001.0328">1:328</a>, <a rel="nofollow" class="external text" href="http://cmje.usc.edu/religious-texts/hadith/muslim/041-smt.php#041.7023">41:7023</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=36" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation encyclopaedia">Anawati, G. C. "`Īsā Alleh Islam". In P. J. Bearman; Th. Bianquis; <a href="/wiki/C._E._Bosworth" class="mw-redirect" title="C. E. Bosworth">C. E. Bosworth</a>; E. van Donzel; <a href="/wiki/W._P._Heinrichs" class="mw-redirect" title="W. P. Heinrichs">W. P. Heinrichs</a>. <i><a href="/wiki/Encyclopaedia_of_Islam_Online" class="mw-redirect" title="Encyclopaedia of Islam Online">Encyclopaedia of Islam Online</a></i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%60%C4%AAs%C4%81+Alleh+Islam&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.pub=Brill+Academic+Publishers&amp;rft.issn=1573-3912&amp;rft.au=Anawati%2C+G.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Mahmoud_M._Ayoub" title="Mahmoud M. Ayoub">Ayoub, Mahmoud</a> (1992). <i>The Quran and Its Interpreters</i>. State University of New York Press US. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7914-0993-7" title="Special:BookSources/0-7914-0993-7">0-7914-0993-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Quran+and+Its+Interpreters&amp;rft.pub=State+University+of+New+York+Press+US&amp;rft.date=1992&amp;rft.isbn=0-7914-0993-7&amp;rft.au=Ayoub%2C+Mahmoud&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/John_Esposito" title="John Esposito">Esposito, J. L.</a> (2002). <i>What Everyone Needs to Know About Islam</i>. Oxford University Press US. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-515713-3" title="Special:BookSources/0-19-515713-3">0-19-515713-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What+Everyone+Needs+to+Know+About+Islam&amp;rft.pub=Oxford+University+Press+US&amp;rft.date=2002&amp;rft.isbn=0-19-515713-3&amp;rft.au=Esposito%2C+J.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/John_Esposito" title="John Esposito">Esposito, J. L.</a> (2003). <i><a href="/wiki/The_Oxford_Dictionary_of_Islam" title="The Oxford Dictionary of Islam">The Oxford Dictionary of Islam</a></i>. Oxford University Press US. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-512558-4" title="Special:BookSources/0-19-512558-4">0-19-512558-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Dictionary+of+Islam&amp;rft.pub=Oxford+University+Press+US&amp;rft.date=2003&amp;rft.isbn=0-19-512558-4&amp;rft.au=Esposito%2C+J.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Fasching, D. J.; deChant, D. (2001). <i>Comparative Religious Ethics: A Narrative Approach</i>. Blackwell Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-631-20125-4" title="Special:BookSources/0-631-20125-4">0-631-20125-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Comparative+Religious+Ethics%3A+A+Narrative+Approach&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2001&amp;rft.isbn=0-631-20125-4&amp;rft.au=Fasching%2C+D.+J.&amp;rft.au=deChant%2C+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Khalidi, T. (2001). <i>The Muslim Jesus: Sayings and Stories in Islamic Literature</i>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-674-00477-9" title="Special:BookSources/0-674-00477-9">0-674-00477-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Muslim+Jesus%3A+Sayings+and+Stories+in+Islamic+Literature&amp;rft.pub=Harvard+University+Press&amp;rft.date=2001&amp;rft.isbn=0-674-00477-9&amp;rft.au=Khalidi%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Leirvik, O. (2010). <i>Images of Jesus Christ in Islam: 2nd Edition</i>. <a href="/wiki/Bloomsbury_Publishing" title="Bloomsbury Publishing">Bloomsbury Academic</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1441181601" title="Special:BookSources/1441181601">1441181601</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Images+of+Jesus+Christ+in+Islam%3A+2nd+Edition&amp;rft.pub=Bloomsbury+Academic&amp;rft.date=2010&amp;rft.isbn=1441181601&amp;rft.au=Leirvik%2C+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Markham, I. S.; Ruparell, T. (2001). <i>Encountering Religion: An Introduction to the Religions of the World</i>. Blackwell Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-631-20674-4" title="Special:BookSources/0-631-20674-4">0-631-20674-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encountering+Religion%3A+An+Introduction+to+the+Religions+of+the+World&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2001&amp;rft.isbn=0-631-20674-4&amp;rft.au=Markham%2C+I.+S.&amp;rft.au=Ruparell%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation encyclopaedia">Rippin, A. "Yahya b. Zakariya". In P.J. Bearman; Th. Bianquis; C.E. Bosworth; E. van Donzel; W.P. Heinrichs. <i><a href="/wiki/Encyclopaedia_of_Islam_Online" class="mw-redirect" title="Encyclopaedia of Islam Online">Encyclopaedia of Islam Online</a></i>. Brill Academic Publishers. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1573-3912">1573-3912</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Yahya+b.+Zakariya&amp;rft.btitle=Encyclopaedia+of+Islam+Online&amp;rft.pub=Brill+Academic+Publishers&amp;rft.issn=1573-3912&amp;rft.au=Rippin%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Saritoprak, Zeki (2014). <a rel="nofollow" class="external text" href="http://upf.com/book.asp?id=SARITF09"><i>Islam's Jesus</i></a>. Gainesville: University Press of Florida. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780813049403" title="Special:BookSources/9780813049403">9780813049403</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 13,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Islam%27s+Jesus&amp;rft.place=Gainesville&amp;rft.pub=University+Press+of+Florida&amp;rft.date=2014&amp;rft.isbn=9780813049403&amp;rft.aulast=Saritoprak&amp;rft.aufirst=Zeki&amp;rft_id=http%3A%2F%2Fupf.com%2Fbook.asp%3Fid%3DSARITF09&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Slade, Darren M. (January 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140202093241/http://atijournal.org/ATI_Vol7_No1.pdf">"Arabia Haeresium Ferax (Arabia Bearer of Heresies): Schismatic Christianity's Potential Influence on Muhammad and the Qur'an"</a> <span style="font-size:85%;">(PDF)</span>. <i>American Theological Inquiry</i>. <b>7</b> (1): 43–53. Archived from <a rel="nofollow" class="external text" href="http://atijournal.org/ATI_Vol7_No1.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2014-02-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Theological+Inquiry&amp;rft.atitle=Arabia+Haeresium+Ferax+%28Arabia+Bearer+of+Heresies%29%3A+Schismatic+Christianity%27s+Potential+Influence+on+Muhammad+and+the+Qur%E2%80%99an&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=43-53&amp;rft.date=2014-01&amp;rft.aulast=Slade&amp;rft.aufirst=Darren+M.&amp;rft_id=http%3A%2F%2Fatijournal.org%2FATI_Vol7_No1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Sonn, Tamarra (2004). <i>A Brief History of Islam</i>. Blackwell Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4051-2174-2" title="Special:BookSources/1-4051-2174-2">1-4051-2174-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Brief+History+of+Islam&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2004&amp;rft.isbn=1-4051-2174-2&amp;rft.aulast=Sonn&amp;rft.aufirst=Tamarra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/William_Montgomery_Watt" class="mw-redirect" title="William Montgomery Watt">Watt, W. M.</a> (1991). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_qxlAgAAQBAJ&amp;printsec=frontcover"><i>Muslim-Christian Encounters: Perceptions and Misperceptions</i></a>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-05410-9" title="Special:BookSources/0-415-05410-9">0-415-05410-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Muslim-Christian+Encounters%3A+Perceptions+and+Misperceptions&amp;rft.pub=Routledge&amp;rft.date=1991&amp;rft.isbn=0-415-05410-9&amp;rft.aulast=Watt&amp;rft.aufirst=W.+M.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_qxlAgAAQBAJ%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Elwood_Morris_Wherry" title="Elwood Morris Wherry">Wherry, E. M.</a>; Sale, G. (2000). <i>A Comprehensive Commentary on the Qurán: Comprising Sale's Translation and Preliminary Discourse (vol. II)</i>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-23188-4" title="Special:BookSources/0-415-23188-4">0-415-23188-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Comprehensive+Commentary+on+the+Qur%C3%A1n%3A+Comprising+Sale%27s+Translation+and+Preliminary+Discourse+%28vol.+II%29&amp;rft.pub=Routledge&amp;rft.date=2000&amp;rft.isbn=0-415-23188-4&amp;rft.au=Wherry%2C+E.+M.&amp;rft.au=Sale%2C+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Tarif_Khalidi" title="Tarif Khalidi">Tarif Khalidi</a> (2003). <i>The Muslim Jesus: Sayings and Stories in Islamic Literature</i>. Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-674-01115-5" title="Special:BookSources/0-674-01115-5">0-674-01115-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Muslim+Jesus%3A+Sayings+and+Stories+in+Islamic+Literature&amp;rft.pub=Harvard+University+Press&amp;rft.date=2003&amp;rft.isbn=0-674-01115-5&amp;rft.au=Tarif+Khalidi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Ghil%27ad_Zuckermann" title="Ghil'ad Zuckermann">Zuckermann, Ghil'ad</a> (2006). "'<a href="/wiki/Folk_etymology" title="Folk etymology">Etymythological</a> <a href="/wiki/Othering" class="mw-redirect" title="Othering">Othering</a>' and the Power of 'Lexical Engineering' in <a href="/wiki/Judaism" title="Judaism">Judaism</a>, <a href="/wiki/Islam" title="Islam">Islam</a> and <a href="/wiki/Christianity" title="Christianity">Christianity</a>. A Socio-Philo(sopho)logical Perspective", <i>Explorations in the Sociology of <a href="/wiki/Language" title="Language">Language</a> and <a href="/wiki/Religion" title="Religion">Religion</a></i>, edited by Tope Omoniyi and Joshua A. Fishman, Amsterdam: John Benjamins, pp.&#160;237–258. <a href="/wiki/International_Standard_Book_Number_(identifier)" class="mw-redirect" title="International Standard Book Number (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-272-2710-1" title="Special:BookSources/90-272-2710-1">90-272-2710-1</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=37" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><cite class="citation book">Lawson, Todd (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/The_Crucifixion_and_the_Qur_an.html?id=LBB2NwAACAAJ"><i>The Crucifixion and the Qur'an: A Study in the History of Muslim Thought</i></a>. Oxford: Oneworld Publications. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1851686363" title="Special:BookSources/1851686363">1851686363</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Crucifixion+and+the+Qur%27an%3A+A+Study+in+the+History+of+Muslim+Thought&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft.date=2009&amp;rft.isbn=1851686363&amp;rft.aulast=Lawson&amp;rft.aufirst=Todd&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FThe_Crucifixion_and_the_Qur_an.html%3Fid%3DLBB2NwAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></p>
+<p><cite class="citation journal">Slade, Darren M. (January 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140202093241/http://atijournal.org/ATI_Vol7_No1.pdf">"ARABIA HAERESIUM FERAX (ARABIA BEARER OF HERESIES): Schismatic Christianity's Potential Influence on Muhammad and the Qur'an"</a> <span style="font-size:85%;">(PDF)</span>. <i>American Theological Inquiry</i>. <b>7</b> (1): 43–53. Archived from <a rel="nofollow" class="external text" href="http://atijournal.org/ATI_Vol7_No1.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2014-02-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Theological+Inquiry&amp;rft.atitle=ARABIA+HAERESIUM+FERAX+%28ARABIA+BEARER+OF+HERESIES%29%3A+Schismatic+Christianity%27s+Potential+Influence+on+Muhammad+and+the+Qur%E2%80%99an&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=43-53&amp;rft.date=2014-01&amp;rft.aulast=Slade&amp;rft.aufirst=Darren+M.&amp;rft_id=http%3A%2F%2Fatijournal.org%2FATI_Vol7_No1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJesus+in+Islam" class="Z3988"><span style="display:none;">&#160;</span></span></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit&amp;section=38" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Jesus_in_Islam" class="extiw" title="commons:Category:Jesus in Islam">Jesus in Islam</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.uga.edu/islam/jesusdif.html">Jesus: A Summary of the Points About Which Islam and Christianity Agree and Disagree</a> Dr. Alan Godlas, University of Georgia.</li>
+<li><a rel="nofollow" class="external text" href="https://www.saudiembassy.net/islam#What%20Do%20Muslims%20Think%20About%20Jesus?">What Do Muslims Think About Jesus - Royal Embassy of Saudi Arabia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.businessinsider.com/how-jesus-christ-depicted-islam-quran-muhammad-bible-religion-christianity-bible-2016-12">Here's How Jesus is Depicted in Islam - Business Insider</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/religion/religions/islam/beliefs/isa.shtml">Jesus Through Muslim Eyes - BBC</a></li>
+<li><a rel="nofollow" class="external text" href="http://abcnews.go.com/Entertainment/story?id=4297085&amp;page=1">The Story of Jesus Through Iranian Eyes - ABC News</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Prophets_in_the_Quran" style="padding:3px">
+<table class="nowraplinks plainlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prophets_in_the_Quran" title="Template:Prophets in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prophets_in_the_Quran" title="Template talk:Prophets in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prophets_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Prophets_in_the_Quran" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Quranic_prophets" class="mw-redirect" title="List of Quranic prophets">Prophets in the Quran</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">آدم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إدريس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">نوح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">هود</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">صالح</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إبراهيم</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">لوط</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إسماعيل</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Adam</a></i></li>
+<li><a href="/wiki/Adam" title="Adam">Adam</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idris</a></i></li>
+<li><a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nuh</a></i></li>
+<li><a href="/wiki/Noah" title="Noah">Noah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hud</a></i></li>
+<li><a href="/wiki/Eber" title="Eber">Eber</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Saleh" title="Saleh">Saleh</a></i></li>
+<li><a href="/wiki/Salah_(biblical_figure)" title="Salah (biblical figure)">Salah</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrahim</a></i></li>
+<li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lut</a></i></li>
+<li><a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Ismail</a></i></li>
+<li><a href="/wiki/Ishmael" title="Ishmael">Ishmael</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إسحاق</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يعقوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يوسف</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">أيوب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">شُعيب</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">موسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">هارون</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">ذو الكفل</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8.333%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">داود</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Is'haq</a></i></li>
+<li><a href="/wiki/Isaac" title="Isaac">Isaac</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaqub</a></i></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yusuf</a></i></li>
+<li><a href="/wiki/Joseph_(patriarch)" class="mw-redirect" title="Joseph (patriarch)">Joseph</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyub</a></i></li>
+<li><a href="/wiki/Job_(biblical_figure)" title="Job (biblical figure)">Job</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Shuaib" title="Shuaib">Shuayb</a></i></li>
+<li><a href="/wiki/Jethro_(Bible)" title="Jethro (Bible)">Jethro</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Musa</a></i></li>
+<li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Aaron" class="mw-redirect" title="Islamic view of Aaron">Harun</a></i></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhul-Kifl</a></i></li>
+<li><a href="/wiki/Ezekiel" title="Ezekiel">Ezekiel</a> (?)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/David_in_Islam" title="David in Islam">Daud</a></i></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;">
+<tr>
+<td class="navbox-abovebelow" colspan="1" style="font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">سليمان</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إلياس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">إليسع</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يونس</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">زكريا</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">يحيى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">عيسى</span></span></td>
+<td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;width:8%;font-weight:normal;padding:0.75em 0.1em 0.5em;"><span lang="ar" xml:lang="ar"><span style="font-size:large;">مُحمد</span></span></td>
+</tr>
+<tr style="vertical-align:top;">
+<td class="navbox-list" style="padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulaiman</a></i></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Elijah" title="Elijah">Ilyas</a></i></li>
+<li><a href="/wiki/Elijah" title="Elijah">Elijah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Elisha" class="mw-redirect" title="Islamic view of Elisha">Al-Yasa</a></i></li>
+<li><a href="/wiki/Elisha" title="Elisha">Elisha</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Islamic_view_of_Jonah" class="mw-redirect" title="Islamic view of Jonah">Yunus</a></i></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Zechariah_(New_Testament_figure)#In_Islam" class="mw-redirect" title="Zechariah (New Testament figure)">Zakaria</a></i></li>
+<li><a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Yahya_ibn_Zakariyya" class="mw-redirect" title="Yahya ibn Zakariyya">Yahya</a></i></li>
+<li><a href="/wiki/John_the_Baptist" title="John the Baptist">John</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a class="mw-selflink selflink">Isa</a></i></li>
+<li><a href="/wiki/Jesus" title="Jesus">Jesus</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align:center;;;;width:10em;">
+<div>
+<ul>
+<li><i><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></i></li>
+<li><a href="/wiki/Muhammad" title="Muhammad">Muhammad</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Note: <a href="/wiki/Muslim" title="Muslim">Muslims</a> believe that there were many prophets sent by <a href="/wiki/God_in_Islam" title="God in Islam">God</a> to mankind. The <a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">Islamic prophets</a> above are only the ones mentioned by name in the <a href="/wiki/Quran" title="Quran">Quran</a>.</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="People_and_things_in_the_Quran" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Characters_and_names_in_the_Quran" title="Template:Characters and names in the Quran"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Characters_and_names_in_the_Quran" title="Template talk:Characters and names in the Quran"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Characters_and_names_in_the_Quran&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="People_and_things_in_the_Quran" style="font-size:114%;margin:0 4em">People and things in the Quran</div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div id="Characters" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_characters_and_names_mentioned_in_the_Quran" title="List of characters and names mentioned in the Quran">Characters</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-human life-forms</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/God_in_Islam" title="God in Islam">Allâh</a> ("The <a href="/wiki/God" title="God">God</a>")
+<ul>
+<li><a href="/wiki/Names_of_God_in_Islam#List_of_names_and_attributes_of_God_as_found_in_the_Quran" title="Names of God in Islam">Names</a> of <a href="/wiki/Allah" title="Allah">Allah</a> found in the Quran</li>
+</ul>
+</li>
+<li>Beings in <a href="/wiki/Jannah" title="Jannah">Jannah</a> (<a href="/wiki/Paradise" title="Paradise">Paradise</a>, literally '<a href="/wiki/Garden" title="Garden">Garden</a>')
+<ul>
+<li><a href="/wiki/Ghilman" title="Ghilman">Ghilman</a> &amp; Wildan</li>
+<li><a href="/wiki/Houri" title="Houri">Houri</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Zaqqum" title="Zaqqum">Zaqqum</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Animal" title="Animal">Animals</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Baqara#Overview" title="Al-Baqara">Cattle of Israelites</a>
+<ul>
+<li>A real <i>baqarah</i> (<a href="/wiki/Cow" class="mw-redirect" title="Cow">cow</a>) that was slaughtered for a purpose</li>
+<li>The <i>‘ijl</i> (<a href="/wiki/Golden_calf" title="Golden calf">golden calf</a> <a href="/wiki/Statue" title="Statue">statue</a>)</li>
+</ul>
+</li>
+<li>The <i>dhi’b</i> (<a href="/wiki/Joseph_in_Islam#The_plot_against_Joseph" title="Joseph in Islam">wolf</a>) that Jacob feared could attack Joseph</li>
+<li>The <i><a href="/wiki/Solomon_in_Islam#Reign" title="Solomon in Islam">hud-hud</a></i> (<a href="/wiki/Hoopoe" title="Hoopoe">hoopoe</a>) of Solomon</li>
+<li>The <i>kalb</i> (<a href="/wiki/Dog" title="Dog">dog</a>) of the <a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">sleepers of the cave</a></li>
+<li>The <i><a href="/wiki/Jonah#The_fish" title="Jonah">nūn</a></i> (<a href="/wiki/Fish" title="Fish">fish</a> or <a href="/wiki/Whale" title="Whale">whale</a>) of Jonah</li>
+<li>The <i><a href="/wiki/She-Camel_of_God" title="She-Camel of God">nāqaṫ</a></i> (she-<a href="/wiki/Camel" title="Camel">camel</a>) of Saleh</li>
+<li>The <i><a href="/wiki/Al-Fil" title="Al-Fil">fīl</a></i> (<a href="/wiki/War_elephant" title="War elephant">elephant</a>) of the Abyssinians)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Ḥimār</i> ('<a href="/wiki/Onager" title="Onager">wild ass</a>')</li>
+<li><i><a href="/wiki/Qaswarah" class="mw-redirect" title="Qaswarah">Qaswarah</a></i> ('<a href="/wiki/Arabian_lion" class="mw-redirect" title="Arabian lion">Lion</a>', '<a href="/wiki/Beast_of_prey" class="mw-redirect" title="Beast of prey">Beast of prey</a>' or '<a href="/wiki/Hunter" class="mw-redirect" title="Hunter">Hunter</a>')</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jinn" title="Jinn">Jinns</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Devil_(Islam)" title="Devil (Islam)">Iblīs/Devil</a> or <a href="/wiki/Satan#Islam" title="Satan">Shaitan/Satan</a></li>
+<li><a href="/wiki/Ifrit#Islamic_scripture" title="Ifrit">Ifrit</a></li>
+<li><a href="/wiki/Marid" title="Marid">Marid</a></li>
+<li><a href="/wiki/Qareen#Qareen_in_islamic_scriptures" title="Qareen">Qareen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prophets_in_Islam" class="mw-redirect" title="Prophets in Islam">Prophets</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adam_in_Islam" title="Adam in Islam">Ādam</a> (<a href="/wiki/Adam" title="Adam">Adam</a>)</li>
+<li><a href="/wiki/Al-Yasa" class="mw-redirect" title="Al-Yasa">Al-Yasa</a>‘ (<a href="/wiki/Elisha" title="Elisha">Elisha</a>)</li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Ayyūb</a> (<a href="/wiki/Job" title="Job">Job</a>)</li>
+<li><a href="/wiki/David_in_Islam" title="David in Islam">Dāwūd</a> (<a href="/wiki/David" title="David">David</a>)</li>
+<li><a href="/wiki/Dhul-Kifl" title="Dhul-Kifl">Dhūl-Kifl</a> (Ezekiel?)</li>
+<li><a href="/wiki/Aaron#Islam" title="Aaron">Hārūn</a> (Aaron)</li>
+<li><a href="/wiki/Hud_(prophet)" title="Hud (prophet)">Hūd</a> (Eber?)</li>
+<li><a href="/wiki/Idris_(prophet)" title="Idris (prophet)">Idrīs</a> (<a href="/wiki/Enoch_(ancestor_of_Noah)" title="Enoch (ancestor of Noah)">Enoch</a>?)</li>
+<li><a href="/wiki/Elijah#Elijah_in_Islam" title="Elijah">Ilyās</a> (Elijah)</li>
+<li><a href="/wiki/Joachim#In_Islam" title="Joachim">‘Imrān</a> (Joachim the father of Maryam)</li>
+<li><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">Is-ḥāq</a> (<a href="/wiki/Isaac" title="Isaac">Isaac</a>)</li>
+<li><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">Ismā‘īl</a> (<a href="/wiki/Ishmael" title="Ishmael">Ishmael</a>)
+<ul>
+<li><a href="/wiki/Binding_of_Isaac#Muslim_views" title="Binding of Isaac">Dhabih Ullah</a></li>
+</ul>
+</li>
+<li>Isma'il <i>Ṣādiq al-Wa‘d</i> (Fulfiller of the Promise)</li>
+<li><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Lūṭ</a> (<a href="/wiki/Lot_(biblical_person)" title="Lot (biblical person)">Lot</a>)</li>
+<li><a href="/wiki/%E1%B9%A2%C4%81li%E1%B8%A5" class="mw-redirect" title="Ṣāliḥ">Ṣāliḥ</a></li>
+<li><a href="/wiki/Shuaib" title="Shuaib">Shu‘ayb</a> (Jethro, Reuel or <a href="/wiki/List_of_minor_biblical_figures#Hobab" class="mw-redirect" title="List of minor biblical figures">Hobab</a>?)</li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Sulaymān</a> ibn Dāwūd (<a href="/wiki/Solomon" title="Solomon">Solomon</a> son of David)</li>
+<li>‘<a href="/wiki/Uzair" title="Uzair">Uzair</a> (Ezra)</li>
+<li><a href="/wiki/John_the_Baptist#Islam" title="John the Baptist">Yaḥyā</a> ibn Zakariyyā (<a href="/wiki/John_the_Baptist" title="John the Baptist">John the Baptist</a> the son of Zechariah)</li>
+<li><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Ya‘qūb</a> (<a href="/wiki/Jacob" title="Jacob">Jacob</a>)
+<ul>
+<li>Isrâ’îl (Israel)</li>
+</ul>
+</li>
+<li><a href="/wiki/Jonah#Jonah_in_Islam" title="Jonah">Yūnus</a> (<a href="/wiki/Jonah" title="Jonah">Jonah</a>)
+<ul>
+<li><i>Dhūn-Nūn</i> ("He of the <a href="/wiki/Fish" title="Fish">Fish</a> (or <a href="/wiki/Whale" title="Whale">Whale</a>)" or "Owner of the Fish (or Whale)")</li>
+<li><i>Ṣāḥib al-Ḥūṫ</i> ("Companion of the Whale")</li>
+</ul>
+</li>
+<li><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yūsuf</a> ibn Ya‘qūb (<a href="/wiki/Joseph" title="Joseph">Joseph</a> son of Jacob)</li>
+<li><a href="/wiki/Zechariah_(priest)#In_Islam" title="Zechariah (priest)">Zakariyyā</a> (<a href="/wiki/Zechariah_(priest)" title="Zechariah (priest)">Zechariah</a>)</li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ulu-l-%E2%80%98Azm" class="mw-redirect" title="Ulu-l-‘Azm">Ulu-l-‘Azm</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Muhammad_in_the_Quran" title="Muhammad in the Quran">Muḥammad</a>
+<ul>
+<li><a href="/wiki/Ahmad" title="Ahmad">Aḥmad</a></li>
+<li>Other <a href="/wiki/Names_and_titles_of_Muhammad" title="Names and titles of Muhammad">names and titles of Muhammad</a></li>
+</ul>
+</li>
+<li><a class="mw-selflink selflink">ʿĪsā</a> (<a href="/wiki/Jesus" title="Jesus">Jesus</a>)
+<ul>
+<li><i>Al-Masīḥ</i> (The <a href="/wiki/Messiah" title="Messiah">Messiah</a>)</li>
+<li><i>Ibn Maryam</i> (Son of Mary)</li>
+</ul>
+</li>
+<li><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Mūsā Kalīmullāh</a> (<a href="/wiki/Moses" title="Moses">Moses</a> He who spoke to God)</li>
+<li><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">Ibrāhīm Khalīlullāh</a> (<a href="/wiki/Abraham" title="Abraham">Abraham</a> Friend of God)</li>
+<li><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nūḥ</a> (<a href="/wiki/Noah" title="Noah">Noah</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Debatable ones</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Dhūl-Qarnain</a> (<a href="/wiki/Cyrus_the_Great_in_the_Quran" title="Cyrus the Great in the Quran">Cyrus the Great</a>?)</li>
+<li><a href="/wiki/Luqman" title="Luqman">Luqmân</a></li>
+<li><a href="/wiki/Mary_in_Islam" title="Mary in Islam">Maryam</a> (<a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">Mary</a>)</li>
+<li><a href="/wiki/Talut" title="Talut">Ṭâlûṫ</a> (<a href="/wiki/Saul#In_Islam" title="Saul">Saul</a> or <a href="/wiki/Gideon" title="Gideon">Gideon</a>?)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implied</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jeremiah#Islamic_views" title="Jeremiah">Ermia/Jeremiah</a></li>
+<li><a href="/wiki/Samuel#Islam" title="Samuel">Ṣamû’îl</a> (<a href="/wiki/Samuel" title="Samuel">Samuel</a>)</li>
+<li><a href="/wiki/Joshua#Joshua_in_Islamic_history" title="Joshua">Yusha' ibn Nūn/Joshua (companion and successor of Musa)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Contemporaries, relatives or followers of Prophets</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned evil ones</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abraham_in_Islam#Family" title="Abraham in Islam">Āzar</a> (possibly <a href="/wiki/Terah#Islamic_tradition" title="Terah">Terah</a>)
+<ul>
+<li><i>Abū Ibrāhīm</i> (Father of Abraham)</li>
+</ul>
+</li>
+<li><a href="/wiki/Pharaoh_of_the_Exodus" class="mw-redirect" title="Pharaoh of the Exodus">Fir'aun/Pharaoh</a></li>
+<li><a href="/wiki/Haman_(Islam)" title="Haman (Islam)">Haman</a></li>
+<li><a href="/wiki/Goliath#Islam" title="Goliath">Jâlûṫ</a> (Goliath)</li>
+<li><a href="/wiki/Korah#Quranic_reference" title="Korah">Qarun/Korah (cousin of Musa/Moses)</a></li>
+<li><a href="/wiki/Samiri_(Islamic_figure)" title="Samiri (Islamic figure)">Sāmiri/Zimri</a></li>
+<li><a href="/wiki/Abu_Lahab" class="mw-redirect" title="Abu Lahab">Abu Lahab</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Specified good ones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elizabeth_(biblical_figure)#In_Islam" title="Elizabeth (biblical figure)">Zechariah's wife</a></li>
+<li>Adam's immediate relatives
+<ul>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Martyred son</a></li>
+<li><a href="/wiki/Eve#Islamic_view" title="Eve">Wife</a></li>
+</ul>
+</li>
+<li>Women of Moses
+<ul>
+<li><a href="/wiki/Jochebed#The_Islamic_view_of_Jochebed" title="Jochebed">Moses' mother</a></li>
+<li><a href="/wiki/Miriam#Quranic_account" title="Miriam">Sister</a></li>
+<li><a href="/wiki/Zipporah" title="Zipporah">Wife</a></li>
+<li><a href="/wiki/Leah" title="Leah">Sister-in-law</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sarah#Islam" title="Sarah">Isaac's mother</a></li>
+<li><a href="/wiki/Zayd_ibn_Harithah" title="Zayd ibn Harithah">Zayd</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-specified good ones</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Abiona/Amtelai daughter of Karnebo (mother of Ibrahim)</li>
+<li><a href="/wiki/Bathsheba#Islam" title="Bathsheba">Bathsheba (wife of Dawud, mother of Sulayman)</a></li>
+<li><a href="/wiki/Hagar_in_Islam" title="Hagar in Islam">Hājar/Hagar (wife of Ibrahim, mother of Isma'il)</a></li>
+<li><a href="/wiki/Saint_Anne#In_Islam" title="Saint Anne">Hannah/Anne daughter of Faquz (mother of Maryam, wife of Imran)</a></li>
+<li><a href="/wiki/Amram#In_the_Qur'an" title="Amram">Imran/Amram (father of Musa)</a></li>
+<li><a href="/wiki/Lamech_(father_of_Noah)" title="Lamech (father of Noah)">Lamech (father of Nuh)</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rāhil/Rachel (wife of Ya'qub, mother of Yūsuf)</a></li>
+<li>Rahma/<a href="/wiki/Dinah" title="Dinah">Dinah (wife of Ayyub)</a></li>
+<li>Shamkha bint Anush/Betenos (mother of Nuh)</li>
+<li><a href="/wiki/Luqman" title="Luqman">Son of Luqman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implied</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">Asiyah bint Muzahim</a>/<a href="/wiki/Bithiah#In_Islamic_tradition" title="Bithiah">Bithiah</a> <a href="/wiki/Asiya,_wife_of_the_Pharaoh" class="mw-redirect" title="Asiya, wife of the Pharaoh">(wife of Fir'aun)</a></li>
+<li><a href="/wiki/Asif_ibn_Barkhiya" title="Asif ibn Barkhiya">Asif ibn Barkhiya (vizier and successor of Sulayman)</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur'anic_account" title="Queen of Sheba">Bilquis (Queen of Saba/Sheba)</a></li>
+<li>Believer of Fir'aun Family (Hizbil/Hizqil ibn Sabura)</li>
+<li><a href="/wiki/Benjamin#Benjamin_in_Islam" title="Benjamin">Benyamin/Benjamin</a></li>
+<li><a href="/wiki/Habib_the_Carpenter" title="Habib the Carpenter">Habib the Carpenter (believer of Ya-Sin)</a></li>
+<li><a href="/wiki/Caleb#Quranic_account" title="Caleb">Kaleb/Caleb (companion of Yusha')</a></li>
+<li><a href="/wiki/Khidr" title="Khidr">Khidr</a></li>
+<li><a href="/wiki/Moses_in_Islam#Confrontation_with_sorcerers" title="Moses in Islam">Magicians of Fir'aun</a></li>
+<li><a href="/wiki/Peter_in_Islam" title="Peter in Islam">Simon Cephas/Simon Peter</a></li>
+<li><a href="/wiki/Abrahah" class="mw-redirect" title="Abrahah">Abrahah</a></li>
+<li><a href="/wiki/Balaam#Balaam_in_the_Quran" title="Balaam">Bal'am/Balaam</a></li>
+<li><a href="/wiki/Barsisa" class="mw-redirect" title="Barsisa">Barsisa</a></li>
+<li><a href="/wiki/Nebuchadnezzar_II" title="Nebuchadnezzar II">Nebuchadnezzar II</a></li>
+<li><a href="/wiki/Nimrod" title="Nimrod">Nimrod</a></li>
+<li><a href="/wiki/Potiphar" class="mw-redirect" title="Potiphar">Potiphar</a> (Al-Aziz)</li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Shaddad</a></li>
+<li><a href="/wiki/Simeon_(Hebrew_Bible)" class="mw-redirect" title="Simeon (Hebrew Bible)">Simeon (son of Ya'qub)</a></li>
+<li>Slayers of Saleh's she-camel (Qaddar ibn Salif and Musda' ibn Dahr)</li>
+<li>Valid ibn Rayyan (king of Egypt in the account of Yūsuf)</li>
+<li><a href="/wiki/Zuleikha" class="mw-redirect" title="Zuleikha">Zuleikha</a> (wife of al-Aziz)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Groups</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>A‘rāb (<a href="/wiki/Arab" class="mw-redirect" title="Arab">Arabs</a> or Bedouins)</li>
+<li><i>Aş-ḥāb al-Jannah</i>
+<ul>
+<li>People of Paradise</li>
+<li>People of the Burnt Garden</li>
+</ul>
+</li>
+<li><i>Aş-ḥāb as-Sabṫ</i> (Companions of the <a href="/wiki/Sabbath" title="Sabbath">Sabbath</a>)</li>
+<li><a href="/wiki/Apostle_(Christian)" class="mw-redirect" title="Apostle (Christian)">Christian apostles</a>
+<ul>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Disciples of Jesus</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Companions of Noah's Ark</a></li>
+<li><i>Aş-ḥāb al-Kahf war-Raqīm</i> (<a href="/wiki/Seven_Sleepers#Islamic_interpretation" title="Seven Sleepers">Companions of the Cave</a> and <a href="/wiki/Sahab,_Jordan#Famous_places_in_Sahab" class="mw-redirect" title="Sahab, Jordan">Al-Raqaim?</a></li>
+<li><a href="/wiki/Al-Fil" title="Al-Fil">Companions of the Elephant</a></li>
+<li><a href="/wiki/Ancient_towns_in_Saudi_Arabia#Al-Ukhd.C5.ABd_Archeological_Area" title="Ancient towns in Saudi Arabia">People of al-Ukhdūd</a></li>
+<li><a href="/wiki/People_of_Ya-Sin" title="People of Ya-Sin">People of the City (People of Ya-Sin)</a></li>
+<li><a href="/wiki/Medina#Pre-Islamic_times" title="Medina">People of Yathrib</a> or <a href="/wiki/Medina" title="Medina">Medina</a></li>
+<li><a href="/wiki/David_in_Islam" title="David in Islam">Folk of Dawud</a></li>
+<li><a href="/wiki/Lot_in_Islam" title="Lot in Islam">Folk of Lut</a></li>
+<li><a href="/wiki/Moses_in_Islam" title="Moses in Islam">Folk of Musa</a> and <a href="/wiki/Aaron#Islam" title="Aaron">Harun</a></li>
+<li><a href="/wiki/Noah_in_Islam" title="Noah in Islam">Nation of Nuh</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tribe" title="Tribe">Tribes</a>, <a href="/wiki/Ethnicities" class="mw-redirect" title="Ethnicities">ethnicities</a> or familes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%CA%BF%C4%80d" title="ʿĀd">'Ād (people of Hud)</a></li>
+<li><a href="/wiki/Arab_people" class="mw-redirect" title="Arab people">Arab</a> &amp; <a href="/wiki/Ajam" title="Ajam">Ajam</a></li>
+<li><a href="/wiki/Israelites" title="Israelites">Children of Israel/Israelites</a></li>
+<li><a href="/wiki/Companions_of_the_Rass" title="Companions of the Rass">Companions of the Rass</a></li>
+<li><a href="/wiki/Abraham_in_Islam" title="Abraham in Islam">People of Ibrahim</a></li>
+<li><a href="/wiki/Elijah#Elijah_in_Islam" title="Elijah">People of Ilyas</a></li>
+<li><a href="/wiki/Sodom_and_Gomorrah#Islamic" title="Sodom and Gomorrah">People of Lut (Mu'tafikat)</a></li>
+<li><a href="/wiki/Noah_in_Islam" title="Noah in Islam">People of Nuh</a></li>
+<li><a href="/wiki/Sabaeans" title="Sabaeans">People of Saba'/Sheba</a></li>
+<li>People of Shuaib
+<ul>
+<li><i>Ahl Madyan</i> <a href="/wiki/Midian#In_the_Qur'an" title="Midian">People of Madyan</a>)</li>
+<li><i><a href="/wiki/A%E1%B9%A3-%E1%B8%A5%C4%81b_al-Aykah" class="mw-redirect" title="Aṣ-ḥāb al-Aykah">Aṣ-ḥāb al-Aykah</a></i> ("Companions of the Wood")</li>
+</ul>
+</li>
+<li><i>Qawm Tubba‘</i> (People of <a href="/wiki/List_of_rulers_of_Saba_and_Himyar" title="List of rulers of Saba and Himyar">Tubba</a>)</li>
+<li><i>Qawm <a href="/wiki/Jonah#Jonah_in_Islam" title="Jonah">Yûnus</a></i> (People of Jonah)</li>
+<li><a href="/wiki/Quraysh" title="Quraysh">Quraysh</a></li>
+<li><i><a href="/wiki/R%C3%BBm" title="Rûm">Rûm</a></i> (literally '<a href="/wiki/Romans" class="mw-redirect" title="Romans">Romans</a>')</li>
+<li><a href="/wiki/Thamud" title="Thamud">Thamûd</a> (people of <a href="/wiki/Saleh" title="Saleh">Saleh</a>)
+<ul>
+<li><i>Aṣ-ḥâb al-Ḥijr</i> ("Companions of the <a href="/wiki/Mada%27in_Saleh" title="Mada'in Saleh">Stoneland</a>")</li>
+</ul>
+</li>
+<li><a href="/wiki/Gog_and_Magog#Qur'an" title="Gog and Magog">Ya'juj and Ma'juj/Gog and Magog</a></li>
+<li><i>Ahl al-Bayṫ</i> ("People of the Household")
+<ul>
+<li>Household of Abraham
+<ul>
+<li><a href="/wiki/Jacob#Children_of_Jacob" title="Jacob">Brothers of Yūsuf</a></li>
+<li><a href="/wiki/Daughters_of_Lot" class="mw-redirect" title="Daughters of Lot">Daughters of Abraham's nephew Lot (Ritha, Za'ura, et al.)</a></li>
+<li><a href="/wiki/Joachim#In_Islam" title="Joachim">Progeny of Imran</a></li>
+<li>Household of Moses</li>
+<li><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Household of Muhammad</a> <a href="/wiki/Banu_Hashim" title="Banu Hashim">ibn Abdullah ibn Abdul-Muttalib ibn Hashim</a>
+<ul>
+<li><a href="/wiki/Genealogy_of_Khadijah%27s_daughters" title="Genealogy of Khadijah's daughters">Daughters of Muhammad</a></li>
+<li><a href="/wiki/Wives_of_Muhammad" class="mw-redirect" title="Wives of Muhammad">Wives of Muhammad</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Household of Salih</li>
+</ul>
+</li>
+<li><a href="/wiki/Copts" title="Copts">People of Fir'aun</a></li>
+<li><a href="/wiki/Muslim_world" title="Muslim world">Current Ummah of Islam (Ummah of Muhammad)</a></li>
+<li><i>Hezbollah</i></li>
+<li><i>Aṣ-ḥāb Muḥammad</i> (<a href="/wiki/Sahabah" title="Sahabah">Companions of Muhammad</a>)
+<ul>
+<li><a href="/wiki/Muhajirun" title="Muhajirun">Muhajirun</a> (Emigrants)</li>
+<li><a href="/wiki/Ansar_(Islam)" title="Ansar (Islam)">Anṣār</a> Muslims of Medina who helped Muhammad and his Meccan followers, literally 'Helpers')</li>
+</ul>
+</li>
+<li>People of <a href="/wiki/Mecca" title="Mecca">Mecca</a></li>
+<li><a href="/wiki/Job_in_Islam" title="Job in Islam">Children of Ayyub</a></li>
+<li><a href="/wiki/Solomon_in_Islam" title="Solomon in Islam">Dead son of Sulaiman</a></li>
+<li><a href="/wiki/Cain_and_Abel_in_Islam" title="Cain and Abel in Islam">Qabil/Cain (son of Adam)</a></li>
+<li><a href="/wiki/Umm_Jamil" title="Umm Jamil">Umm Jamil (wife of Abu Lahab)</a></li>
+<li><a href="/wiki/Wives_aboard_Noah%27s_Ark" title="Wives aboard Noah's Ark">Wali'ah or Wa'ilah/Waala (wife of Nuh)</a></li>
+<li><a href="/wiki/Lot%27s_wife" title="Lot's wife">Walihah or Wahilah (wife of Lut)</a></li>
+<li><a href="/wiki/Sons_of_Noah#Extrabiblical_sons_of_Noah" class="mw-redirect" title="Sons of Noah">Yam or Kan'an (son of Nuh)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implicitly<br />
+mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amalek" title="Amalek">Amalek</a></li>
+<li><i>Ahl al-Suffa</i> (People of the Verandah)</li>
+<li><a href="/wiki/Banu_Nadir" title="Banu Nadir">Banu Nadir</a></li>
+<li><a href="/wiki/Banu_Qaynuqa" title="Banu Qaynuqa">Banu Qaynuqa</a></li>
+<li><a href="/wiki/Banu_Qurayza" title="Banu Qurayza">Banu Qurayza</a></li>
+<li><a href="/wiki/Iranian_peoples" title="Iranian peoples">Iranian people</a></li>
+<li><a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad Dynasty</a></li>
+<li><a href="/wiki/Banu_Aus" class="mw-redirect" title="Banu Aus">Aus</a> &amp; <a href="/wiki/Banu_Khazraj" title="Banu Khazraj">Khazraj</a></li>
+<li>People of <a href="/wiki/Quba_Mosque" title="Quba Mosque">Quba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Religious groups</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dhimmi" title="Dhimmi">Ahl al-dhimmah (Dhimmi)</a></li>
+<li><a href="/wiki/Kafir" title="Kafir">Kâfirûn (Infidels)</a></li>
+<li><a href="/wiki/Zoroastrians" class="mw-redirect" title="Zoroastrians">Zoroastrians</a></li>
+<li><a href="/wiki/Munafiq" class="mw-redirect" title="Munafiq">Munafiqun</a> (<a href="/wiki/Hypocrisy" title="Hypocrisy">Hypocrites</a>)</li>
+<li><a href="/wiki/Muslim" title="Muslim">Muslims</a></li>
+<li><a href="/wiki/People_of_the_Book" title="People of the Book">People of the Book</a> (Ahl al-Kiṫāb)
+<ul>
+<li><a href="/wiki/Christian" title="Christian">Christian</a> (People of the Injil)
+<ul>
+<li><a href="/wiki/Monk" title="Monk">Ruhban (Christian monks)</a></li>
+<li><a href="/wiki/Priest#Christianity" title="Priest">Qissis (Christian priest)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jews" title="Jews">Jews</a>
+<ul>
+<li><a href="/wiki/Hakham" title="Hakham">Ahbār (Jewish scholars)</a></li>
+<li><a href="/wiki/Rabbi" title="Rabbi">Rabbani/Rabbi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sabians#Islamic_reference" title="Sabians">Sabians</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheists</a>
+<ul>
+<li><a href="/wiki/Religion_in_pre-Islamic_Arabia#Mecca" title="Religion in pre-Islamic Arabia">Meccan polytheists</a> at the time of Muhammad</li>
+<li><a href="/wiki/Ancient_Mesopotamian_polytheism" class="mw-redirect" title="Ancient Mesopotamian polytheism">Mesopotamian polytheists</a> at the time of Abraham and Lot</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Hud_(prophet)#Historical_context" title="Hud (prophet)">Al-Aḥqāf</a></i> ("The Sandy Plains," or "the Wind-curved Sand-hills")</li>
+<li><i><a href="/wiki/Al-Ar%E1%B8%8D_Al-Mub%C4%81rakah" class="mw-redirect" title="Al-Arḍ Al-Mubārakah">Al-Arḍ Al-Mubārakah</a></i> ("The Land The Blessed")
+<ul>
+<li><i>Al-Arḍ Al-Muqaddasah</i> ("The Land The Holy")</li>
+</ul>
+</li>
+<li><a href="/wiki/Mount_Judi" title="Mount Judi">Al-Jūdiyy</a>
+<ul>
+<li><i><a href="/wiki/Al-Munzal_Al-Mub%C3%A2rak" class="mw-redirect" title="Al-Munzal Al-Mubârak">Munzalanm-Mubārakan</a></i> ("Place-of-Landing Blessed")</li>
+</ul>
+</li>
+<li><i>Al-<a href="/wiki/Medina" title="Medina">Madīnah</a></i> (formerly <a href="/wiki/Medina#Pre-Islamic_times" title="Medina">Yathrib</a>)</li>
+<li><i>Al-Wād Al-Muqaddas Ṭuwan</i> (The Holy <a href="/wiki/Valley_of_Tuwa" class="mw-redirect" title="Valley of Tuwa">Valley of Tuwa</a>)</li>
+<li><a href="/wiki/Mount_Arafat" title="Mount Arafat">‘Arafāṫ</a></li>
+<li><i>Bābil</i> (<a href="/wiki/Babylon" title="Babylon">Babylon</a>)</li>
+<li><a href="/wiki/Badr,_Saudi_Arabia" title="Badr, Saudi Arabia">Badr</a></li>
+<li>Door of Hittah</li>
+<li><i><a href="/wiki/Mada%27in_Saleh" title="Mada'in Saleh">Al-Ḥijr</a></i> (Hegra)</li>
+<li><a href="/wiki/Hunayn,_Saudi_Arabia" title="Hunayn, Saudi Arabia">Ḥunayn</a></li>
+<li><i>Iram dhāṫ al-‘Imād</i> (<a href="/wiki/Iram_of_the_Pillars" title="Iram of the Pillars">Iram of the Pillars</a>)</li>
+<li><a href="/wiki/Kaaba" title="Kaaba">Ka'bah/Kaaba (Bayt al-Harām/Sacred House, Bayt al-'Atīq/Ancient House)</a></li>
+<li><i>Madyan</i> (<a href="/wiki/Midian" title="Midian">Midian</a>)</li>
+<li><i>Majma' al-Bahrain</i></li>
+<li><i>Makkah</i> (<a href="/wiki/Mecca" title="Mecca">Mecca</a>)</li>
+<li><i><a href="/wiki/Masjid_al-Haram#Maqām_Ibrahim" class="mw-redirect" title="Masjid al-Haram">Maqām Ibrāhīm</a></i> (Station of Abraham)</li>
+<li><i>Miṣr</i> (<a href="/wiki/Egypt" title="Egypt">Egypt</a>)</li>
+<li><a href="/wiki/Mount_Sinai" title="Mount Sinai">Mount Sinai</a> or <a href="/wiki/Mount_Tabor" title="Mount Tabor">Mount Tabor</a></li>
+<li><a href="/wiki/Sodom_and_Gomorrah" title="Sodom and Gomorrah">Mu'tafikat (Sodom)</a></li>
+<li><i>Qaryaṫ Yūnus</i> ("Township of <a href="/wiki/Jonah_in_Islam" class="mw-redirect" title="Jonah in Islam">Jonah</a>," that is <a href="/wiki/Nineveh" title="Nineveh">Nineveh</a>)</li>
+<li><a href="/wiki/Ar_Rass" title="Ar Rass">Rass</a></li>
+<li><a href="/wiki/Sabaeans" title="Sabaeans">Saba’</a> (<a href="/wiki/Sheba" title="Sheba">Sheba</a>)</li>
+<li><a href="/wiki/Safa_and_Marwah" class="mw-redirect" title="Safa and Marwah">Safa and Marwah</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Implied</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antioch" title="Antioch">Antioch</a>
+<ul>
+<li><a href="/wiki/Antakya" title="Antakya">Antakya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ayla_(city)" title="Ayla (city)">Ayla</a></li>
+<li><a href="/wiki/Dhul-Qarnayn" title="Dhul-Qarnayn">Barrier of Dhul-Qarnayn</a></li>
+<li><a href="/wiki/Bayt_al-Muqaddas" class="mw-redirect" title="Bayt al-Muqaddas">Bayt al-Muqaddas</a> &amp; <a href="/wiki/Jericho" title="Jericho">'Ariha</a></li>
+<li><i><a href="/wiki/Mesopotamia_in_the_Quran" class="mw-redirect" title="Mesopotamia in the Quran">Bilād ar-Rāfidayn</a></i> (<a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>)</li>
+<li><a href="/wiki/Canaan" title="Canaan">Canaan</a></li>
+<li><a href="/wiki/Hira" title="Hira">Cave of Hira</a> &amp; <a href="/wiki/Jabal_Thawr#Cave" title="Jabal Thawr">Ghar al-Thawr (Cave of the Bull)</a></li>
+<li><a href="/wiki/Seven_Sleepers#Location_of_the_cave_and_duration_of_stay" title="Seven Sleepers">Cave of Seven Sleepers</a></li>
+<li><i>Dār al-Nadwa</i></li>
+<li><i>Al-<a href="/wiki/Hejaz" title="Hejaz">Ḥijāz</a></i> (literally "The Barrier")
+<ul>
+<li><a href="/wiki/Black_Stone" title="Black Stone">Black Stone (Al-Ḥajar al-Aswad)</a> &amp; <a href="/wiki/Al-Hijr_of_Ishmael" class="mw-redirect" title="Al-Hijr of Ishmael">Al-Hijr of Isma'il</a></li>
+<li><a href="/wiki/Ta%27if" title="Ta'if">Ta'if</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Hudaybiyyah</a></li>
+<li><a href="/wiki/Jordan_River" title="Jordan River">Jordan River</a></li>
+<li><a href="/wiki/Marib_Dam" title="Marib Dam">Ma'rib Dam</a></li>
+<li><a href="/wiki/Nile" title="Nile">Nile</a> River</li>
+<li>Palestine River</li>
+<li><a href="/wiki/Shaddad" title="Shaddad">Paradise of Shaddad</a></li>
+<li>Sinai Desert or Tīh Desert</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Religious locations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christian_Church" title="Christian Church">Bay'a (Church)</a></li>
+<li><a href="/wiki/Mihrab" title="Mihrab">Mihrab</a></li>
+<li><a href="/wiki/Monastery" title="Monastery">Monastery</a></li>
+<li><i>Masjid</i> (<a href="/wiki/Mosque" title="Mosque">Mosque</a>, literally "Place of <a href="/wiki/Sajdah" class="mw-redirect" title="Sajdah">Prostration</a>")
+<ul>
+<li><i><a href="/wiki/Al-Mash%E2%80%98ar_Al-%E1%B8%A4ar%C4%81m" class="mw-redirect" title="Al-Mash‘ar Al-Ḥarām">Al-Mash‘ar Al-Ḥarām</a></i> ("The Monument the Sacred")</li>
+<li><i>Al-Masjid Al-Aqṣā</i> (<a href="/wiki/Al-Aqsa_Mosque" title="Al-Aqsa Mosque">Al-Aqsa Mosque</a>, literally "The Place-of-Prostration The Farthest")</li>
+<li><i>Al-Masjid Al-Ḥarām</i> (The <a href="/wiki/Great_Mosque_of_Mecca" title="Great Mosque of Mecca">Sacred Mosque</a> of Mecca)</li>
+<li><a href="/wiki/Demolition_of_Masjid_al-Dirar" title="Demolition of Masjid al-Dirar">Masjid al-Dirar</a></li>
+<li>A Mosque in the area of Medina, possibly:
+<ul>
+<li><i>Masjid Qubâ’</i> (<a href="/wiki/Quba_Mosque" title="Quba Mosque">Quba Mosque</a>)</li>
+<li>The <a href="/wiki/Prophet%27s_Mosque" class="mw-redirect" title="Prophet's Mosque">Prophet's Mosque</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Synagogue" title="Synagogue">Salat (Synagogue)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non-human<br />
+physical<br />
+entities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Islamic_holy_books" title="Islamic holy books">Religious texts</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gospel_in_Islam" title="Gospel in Islam">Injil/Gospel</a></li>
+<li><a href="/wiki/Quran" title="Quran">Quran</a></li>
+<li><a href="/wiki/Scrolls_of_Abraham" title="Scrolls of Abraham">Suhuf-i Ibrahim (Scrolls of Abraham)</a></li>
+<li><a href="/wiki/Torah_in_Islam" title="Torah in Islam">Tawrat/Torah</a>, <a href="/wiki/Scrolls_of_Moses" title="Scrolls of Moses">Suhuf-i-Musa (Scrolls of Moses)</a> and <a href="/wiki/Tablets_of_Stone" title="Tablets of Stone">Tablets of Stone</a></li>
+<li><a href="/wiki/Zabur" title="Zabur">Zabur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related objects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forbidden_fruit#Islamic_tradition" title="Forbidden fruit">Forbidden fruit of Adam</a></li>
+<li><a href="/wiki/Disciples_of_Jesus_in_Islam" title="Disciples of Jesus in Islam">Heavenly Food of Christian Apostles</a></li>
+<li><a href="/wiki/Noah%27s_Ark" title="Noah's Ark">Noah's Ark</a></li>
+<li><a href="/wiki/Staff_of_Moses" title="Staff of Moses">Staff of Musa</a></li>
+<li><a href="/wiki/Ark_of_the_Covenant#Quran" title="Ark of the Covenant">Tabut al-Sakina (Casket of Shekhinah)</a></li>
+<li><a href="/wiki/Queen_of_Sheba#Qur'anic_account" title="Queen of Sheba">Throne of Bilqis</a></li>
+<li>Trumpet of Israfil</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Mentioned idols<br />
+(cult images)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baal#In_Islam" title="Baal">Baal</a></li>
+<li><a href="/wiki/Al-l%C4%81t" class="mw-redirect" title="Al-lāt">Lāt</a>, <a href="/wiki/Al-%E2%80%98Uzz%C3%A1" title="Al-‘Uzzá">'Uzza</a> and <a href="/wiki/Man%C4%81t" title="Manāt">Manāt</a></li>
+<li><a href="/wiki/Wadd" title="Wadd">Wadd</a>, <a href="/wiki/Suwa%27" title="Suwa'">Suwa'</a>, <a href="/wiki/Yaghuth" class="mw-redirect" title="Yaghuth">Yaghuth</a>, <a href="/wiki/Ya%27uq" title="Ya'uq">Ya'uq</a> and <a href="/wiki/Nasr_(idol)" title="Nasr (idol)">Nasr</a></li>
+<li>Jibt and Taghut</li>
+<li>Ansāb</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Events</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_the_Trench" title="Battle of the Trench">Battle of <i>al-Aḥzāb</i></a> ("the Confederates")</li>
+<li><a href="/wiki/Battle_of_Badr" title="Battle of Badr">Battle of Badr</a></li>
+<li><a href="/wiki/Battle_of_Hunayn" title="Battle of Hunayn">Battle of Hunayn</a></li>
+<li><a href="/wiki/Battle_of_Khaybar" title="Battle of Khaybar">Battle of Khaybar</a></li>
+<li><a href="/wiki/Battle_of_Tabouk" class="mw-redirect" title="Battle of Tabouk">Battle of Tabouk</a></li>
+<li><a href="/wiki/Battle_of_Uhud" title="Battle of Uhud">Battle of Uhud</a></li>
+<li><a href="/wiki/Conquest_of_Mecca" title="Conquest of Mecca">Conquest of Mecca</a></li>
+<li><a href="/wiki/Hadith_of_the_Pond_of_Khumm" class="mw-redirect" title="Hadith of the Pond of Khumm">Hadith of the Pond of Khumm</a></li>
+<li>Incident of Ifk</li>
+<li><a href="/wiki/Laylat_al-Mabit" title="Laylat al-Mabit">Laylat al-Mabit</a></li>
+<li><a href="/wiki/Mubahala" class="mw-redirect" title="Mubahala">Mubahala</a></li>
+<li><a href="/wiki/The_Farewell_Pilgrimage" class="mw-redirect" title="The Farewell Pilgrimage">The Farewell Pilgrimage (Hujja al-Wada')</a></li>
+<li><a href="/wiki/Treaty_of_Hudaybiyyah" title="Treaty of Hudaybiyyah">Treaty of Hudaybiyyah</a></li>
+<li><a href="/wiki/Umrah_al-Qaza" class="mw-redirect" title="Umrah al-Qaza">Umrah al-Qaza</a></li>
+<li><i>Yawm al-Dār</i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>Note:</b> The names are sorted alphabetically. Standard form: Islamic name / Biblical name (title or relationship)</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Jesus" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Jesus_footer" title="Template:Jesus footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Jesus_footer" title="Template talk:Jesus footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jesus_footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jesus" style="font-size:114%;margin:0 4em"><a href="/wiki/Jesus" title="Jesus">Jesus</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Historicity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronology_of_Jesus" title="Chronology of Jesus">Chronology of Jesus</a></li>
+<li><a href="/wiki/Genealogy_of_Jesus" title="Genealogy of Jesus">Genealogy of Jesus</a></li>
+<li><a href="/wiki/Historical_Jesus" title="Historical Jesus">Historical Jesus</a>
+<ul>
+<li><a href="/wiki/Quest_for_the_historical_Jesus" title="Quest for the historical Jesus">Quest for the historical Jesus</a></li>
+<li><a href="/wiki/Portraits_of_the_historical_Jesus" title="Portraits of the historical Jesus">portraits</a></li>
+<li><a href="/wiki/Sources_for_the_historicity_of_Jesus" title="Sources for the historicity of Jesus">sources</a></li>
+<li><a href="/wiki/Josephus_on_Jesus" title="Josephus on Jesus">Josephus on Jesus</a></li>
+<li><a href="/wiki/Tacitus_on_Christ" title="Tacitus on Christ">Tacitus mention</a></li>
+<li><a href="/wiki/Mara_bar_Serapion_on_Jesus" title="Mara bar Serapion on Jesus">Mara bar Serapion letter</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Historicity_of_Jesus" title="Historicity of Jesus">Historicity</a>
+<ul>
+<li><a href="/wiki/Historical_reliability_of_the_Gospels" title="Historical reliability of the Gospels">Gospels</a></li>
+<li><a href="/wiki/Race_and_appearance_of_Jesus" title="Race and appearance of Jesus">race and appearance</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chronology_of_Jesus" title="Chronology of Jesus">Life events</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virgin_birth_of_Jesus" title="Virgin birth of Jesus">Birth</a>
+<ul>
+<li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity</a></li>
+<li><a href="/wiki/Mary,_mother_of_Jesus" title="Mary, mother of Jesus">Mary</a></li>
+<li><a href="/wiki/Saint_Joseph" title="Saint Joseph">Joseph</a></li>
+<li><a href="/wiki/Flight_into_Egypt" title="Flight into Egypt">Flight into Egypt</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Christ_Child" title="Christ Child">Childhood</a></li>
+<li><a href="/wiki/Unknown_years_of_Jesus" title="Unknown years of Jesus">Unknown years</a></li>
+<li><a href="/wiki/Baptism_of_Jesus" title="Baptism of Jesus">Baptism</a></li>
+<li><a href="/wiki/Temptation_of_Christ" title="Temptation of Christ">Temptation</a></li>
+<li><a href="/wiki/Apostles" title="Apostles">Apostles</a>
+<ul>
+<li><a href="/wiki/Commissioning_of_the_Twelve_Apostles" title="Commissioning of the Twelve Apostles">selecting</a></li>
+<li><a href="/wiki/Great_Commission" title="Great Commission">Great Commission</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ministry_of_Jesus" title="Ministry of Jesus">Ministry</a></li>
+<li><a href="/wiki/Sermon_on_the_Mount" title="Sermon on the Mount">Sermon on the Mount</a>
+<ul>
+<li><a href="/wiki/Sermon_on_the_Plain" title="Sermon on the Plain">Plain</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prayers_of_Jesus" title="Prayers of Jesus">Prayers</a>
+<ul>
+<li><a href="/wiki/Lord%27s_Prayer" title="Lord's Prayer">Lord's Prayer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Parables_of_Jesus" title="Parables of Jesus">Parables</a></li>
+<li><a href="/wiki/Miracles_of_Jesus" title="Miracles of Jesus">Miracles</a></li>
+<li><a href="/wiki/Transfiguration_of_Jesus" title="Transfiguration of Jesus">Transfiguration</a></li>
+<li><a href="/wiki/Homelessness_of_Jesus" title="Homelessness of Jesus">Homelessness</a></li>
+<li><a href="/wiki/Last_Supper" title="Last Supper">Last Supper</a></li>
+<li><a href="/wiki/Passion_of_Jesus" title="Passion of Jesus">Passion</a>
+<ul>
+<li><a href="/wiki/Arrest_of_Jesus" title="Arrest of Jesus">arrest</a></li>
+<li><a href="/wiki/Sanhedrin_trial_of_Jesus" title="Sanhedrin trial of Jesus">trial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">Crucifixion</a>
+<ul>
+<li><a href="/wiki/Sayings_of_Jesus_on_the_cross" title="Sayings of Jesus on the cross">sayings on the cross</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tomb_of_Jesus" title="Tomb of Jesus">Tomb</a></li>
+<li><a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">Resurrection</a></li>
+<li><a href="/wiki/Ascension_of_Jesus" title="Ascension of Jesus">Ascension</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/New_Testament" title="New Testament">New Testament</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gospel" title="Gospel">Gospels</a>
+<ul>
+<li><a href="/wiki/Gospel_of_Matthew" title="Gospel of Matthew">Matthew</a></li>
+<li><a href="/wiki/Gospel_of_Mark" title="Gospel of Mark">Mark</a></li>
+<li><a href="/wiki/Gospel_of_Luke" title="Gospel of Luke">Luke</a></li>
+<li><a href="/wiki/Gospel_of_John" title="Gospel of John">John</a></li>
+<li><a href="/wiki/Gospel_harmony" title="Gospel harmony">Gospel harmony</a></li>
+<li><a href="/wiki/Oral_gospel_traditions" title="Oral gospel traditions">Oral gospel traditions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Life_of_Jesus_in_the_New_Testament" title="Life of Jesus in the New Testament">Life of Jesus in the New Testament</a></li>
+<li><a href="/wiki/Historical_background_of_the_New_Testament" title="Historical background of the New Testament">Historical background of the New Testament</a></li>
+<li><a href="/wiki/New_Testament_places_associated_with_Jesus" title="New Testament places associated with Jesus">New Testament places associated with Jesus</a></li>
+<li><a href="/wiki/Names_and_titles_of_Jesus_in_the_New_Testament" title="Names and titles of Jesus in the New Testament">Names and titles of Jesus in the New Testament</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Culture</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Language_of_Jesus" title="Language of Jesus">Language of Jesus</a></li>
+<li><a href="/wiki/List_of_books_about_Jesus" title="List of books about Jesus">Bibliography</a></li>
+<li><a href="/wiki/List_of_films_based_on_the_Bible#Life_of_Christ" title="List of films based on the Bible">Films</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Christianity</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christ_(title)" title="Christ (title)">Christ</a></li>
+<li><a href="/wiki/Christianity" title="Christianity">Christianity</a></li>
+<li><a href="/wiki/Christology" title="Christology">Christology</a></li>
+<li><a href="/wiki/Depiction_of_Jesus" title="Depiction of Jesus">Depictions of Jesus</a>
+<ul>
+<li><a href="/wiki/Life_of_Christ_in_art" title="Life of Christ in art">art</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jesus_in_Christianity" title="Jesus in Christianity">Jesus in Christianity</a>
+<ul>
+<li><a href="/wiki/Pre-existence_of_Christ" title="Pre-existence of Christ">pre-existence</a></li>
+<li><a href="/wiki/Incarnation_(Christianity)" title="Incarnation (Christianity)">incarnation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Relics_associated_with_Jesus" title="Relics associated with Jesus">Relics associated with Jesus</a></li>
+<li><a href="/wiki/Scholastic_Lutheran_Christology" title="Scholastic Lutheran Christology">Scholastic Lutheran Christology</a></li>
+<li><a href="/wiki/Second_Coming" title="Second Coming">Second Coming</a></li>
+<li><a href="/wiki/Session_of_Christ" title="Session of Christ">Session of Christ</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other views</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brothers_of_Jesus" title="Brothers of Jesus">Brothers of Jesus</a></li>
+<li><a href="/wiki/Jesuism" title="Jesuism">Jesuism</a></li>
+<li><a href="/wiki/Jesus_in_comparative_mythology" title="Jesus in comparative mythology">Jesus in comparative mythology</a></li>
+<li><a href="/wiki/Christ_myth_theory" title="Christ myth theory">Christ myth theory</a></li>
+<li><a class="mw-selflink selflink">Jesus in Islam</a>
+<ul>
+<li><a href="/wiki/Jesus_in_Ahmadiyya_Islam" title="Jesus in Ahmadiyya Islam">Ahmadiyya</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jesus_in_Scientology" title="Jesus in Scientology">Jesus in Scientology</a></li>
+<li><a href="/wiki/Judaism%27s_view_of_Jesus" title="Judaism's view of Jesus">Judaism's view of Jesus</a>
+<ul>
+<li><a href="/wiki/Jesus_in_the_Talmud" title="Jesus in the Talmud">in the Talmud</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Master_Jesus" title="Master Jesus">Master Jesus</a></li>
+<li><a href="/wiki/Religious_perspectives_on_Jesus" title="Religious perspectives on Jesus">Religious perspectives on Jesus</a></li>
+<li><a href="/wiki/Criticism_of_Jesus" title="Criticism of Jesus">Criticism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20171215192626
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.756 seconds
+Real time usage: 1.952 seconds
+Preprocessor visited node count: 13907/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 552712/2097152 bytes
+Template argument size: 42854/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 8/500
+Lua time usage: 0.931/10.000 seconds
+Lua memory usage: 20.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1631.853      1 -total
+ 29.31%  478.263      2 Template:Reflist
+ 16.41%  267.856     22 Template:Fix
+ 15.96%  260.448      1 Template:Infobox_person
+ 15.01%  244.951     42 Template:Cite_book
+ 14.51%  236.830     17 Template:Navbox
+ 14.35%  234.230     18 Template:Citation_needed
+ 13.59%  221.707      1 Template:Infobox
+ 12.33%  201.151     22 Template:Quote
+ 12.28%  200.345     26 Template:Lang
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:173722-0!canonical and timestamp 20171215192624 and revision id 815373807
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jesus_in_Islam&amp;oldid=815373807">https://en.wikipedia.org/w/index.php?title=Jesus_in_Islam&amp;oldid=815373807</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Perspectives_on_Jesus" title="Category:Perspectives on Jesus">Perspectives on Jesus</a></li><li><a href="/wiki/Category:Biblical_people_in_Islam" title="Category:Biblical people in Islam">Biblical people in Islam</a></li><li><a href="/wiki/Category:Prophets_of_Islam" title="Category:Prophets of Islam">Prophets of Islam</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Arabic-language_sources_(ar)" title="Category:CS1 Arabic-language sources (ar)">CS1 Arabic-language sources (ar)</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_July_2017" title="Category:Vague or ambiguous time from July 2017">Vague or ambiguous time from July 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">Articles with unsourced statements from July 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2016" title="Category:Articles with unsourced statements from June 2016">Articles with unsourced statements from June 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2013" title="Category:Articles with unsourced statements from April 2013">Articles with unsourced statements from April 2013</a></li><li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">All pages needing factual verification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_July_2017" title="Category:Wikipedia articles needing factual verification from July 2017">Wikipedia articles needing factual verification from July 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2017" title="Category:Articles with unsourced statements from May 2017">Articles with unsourced statements from May 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Jesus+in+Islam" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jesus+in+Islam" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Jesus_in_Islam" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Jesus_in_Islam" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Jesus_in_Islam">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jesus_in_Islam&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jesus_in_Islam" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jesus_in_Islam" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jesus_in_Islam&amp;oldid=815373807" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jesus_in_Islam&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q51664" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jesus_in_Islam&amp;id=815373807" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Jesus+in+Islam">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Jesus+in+Islam&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jesus_in_Islam&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Jesus_in_Islam" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Nabi_Isa" title="Nabi Isa – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Jesus_in_Islam" title="Jesus in Islam – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A2%E1%8B%A8%E1%88%B1%E1%88%B5_%E1%89%A0%E1%8A%A5%E1%88%B5%E1%88%8D%E1%88%9D%E1%8A%93" title="ኢየሱስ በእስልምና – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B3%D9%89_%D8%A8%D9%86_%D9%85%D8%B1%D9%8A%D9%85" title="عيسى بن مريم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%93%D0%86%D0%B8%D1%81%D0%B0_%D0%B0%D0%B2%D0%B0%D1%80%D0%B0%D0%B3" title="ГІиса авараг – Avaric" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%88%E0%A6%B8%E0%A6%BE" title="ঈসা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Isa" title="Isa – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D2%92%D0%B0%D0%B9%D1%81%D0%B0_%D0%BF%D3%99%D0%B9%D2%93%D3%99%D0%BC%D0%B1%D3%99%D1%80" title="Ғайса пәйғәмбәр – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D1%81%D1%83%D1%81_%D0%B2_%D0%B8%D1%81%D0%BB%D1%8F%D0%BC%D0%B0" title="Исус в исляма – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Jes%C3%BAs_a_l%27islam" title="Jesús a l&#039;islam – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/%CA%BF%C4%AAs%C4%81_ibn_Maryam" title="ʿĪsā ibn Maryam – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Isa_(Jes%C3%BAs_de_Nazaret)" title="Isa (Jesús de Nazaret) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Isa_bin_Marjam" title="Isa bin Marjam – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B9%DB%8C%D8%B3%DB%8C_%D8%AF%D8%B1_%D8%A7%D8%B3%D9%84%D8%A7%D9%85" title="عیسی در اسلام – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%CA%BF%C4%AAs%C4%81" title="ʿĪsā – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%AC%EB%9E%8C%EA%B5%90_%EC%86%8D_%EC%98%88%EC%88%98" title="이슬람교 속 예수 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Isus_u_islamu" title="Isus u islamu – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Isa" title="Isa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Vista_islamic_de_Jesus" title="Vista islamic de Jesus – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Isa" title="Isa – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ges%C3%B9_nell%27islam" title="Gesù nell&#039;islam – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A1%D7%90" title="עיסא – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Isa" title="Isa – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Basa Jawa</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Isa" title="Isa – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/J%C4%93zus_isl%C4%81m%C4%81" title="Jēzus islāmā – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%88%E0%B4%B8%E0%B4%BE" title="ഈസാ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B3%D9%89" title="عيسى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nabi_Isa_a.s." title="Nabi Isa a.s. – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Isa_(profeet)" title="Isa (profeet) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja badge-Q17437798 badge-goodarticle" title="good article"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%A4%E3%83%BC%E3%82%B5%E3%83%BC" title="イスラームにおけるイーサー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D3%80%D0%B8%D1%81%D0%B0_%D0%B1%D0%B8%D0%BD_%D0%9C%D0%B0%D1%80%D1%8C%D1%8F%D0%BC" title="Ӏиса бин Марьям – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Isa" title="Isa – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%B9%D9%8A%D8%B3%DB%8C_%D8%B9%D9%84%D9%8A%D9%87_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85" title="عيسی عليه السلام – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Jezus_w_islamie" title="Jezus w islamie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Isa_(profeta)" title="Isa (profeta) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%B0_%D0%B8%D0%B1%D0%BD_%D0%9C%D0%B0%D1%80%D1%8C%D1%8F%D0%BC" title="Иса ибн Марьям – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Isai,_Jezusi_mysliman" title="Isai, Jezusi mysliman – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Nabi_Ciise" title="Nabi Ciise – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B9%DB%8C%D8%B3%D8%A7" title="عیسا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D1%81%D0%B0" title="Иса – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Isa" title="Isa – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi badge-Q17437798 badge-goodarticle" title="good article"><a href="https://fi.wikipedia.org/wiki/Jeesus_islaminuskossa" title="Jeesus islaminuskossa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Isa" title="Isa – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Hesus_sa_Islam" title="Hesus sa Islam – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%9A%E0%AF%81%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%AF%E0%AF%87%E0%AE%9A%E0%AF%81" title="இசுலாமில் இயேசு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%87%E0%B0%B8%E0%B1%8D%E0%B0%B2%E0%B0%BE%E0%B0%82_%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B1%88%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B0%B5_%E0%B0%AE%E0%B0%A4%E0%B0%BE%E0%B0%B2_%E0%B0%AE%E0%B0%A7%E0%B1%8D%E0%B0%AF_%E0%B0%B8%E0%B0%82%E0%B0%AC%E0%B0%82%E0%B0%A7%E0%B0%BE%E0%B0%B2%E0%B1%81" title="ఇస్లాం క్రైస్తవ మతాల మధ్య సంబంధాలు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B5%E0%B8%8B%E0%B8%B2" title="อีซา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C4%B0slam%27da_%C4%B0sa" title="İslam&#039;da İsa – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D1%81%D0%B0_%D1%96%D0%B1%D0%BD_%D0%9C%D0%B0%D1%80%27%D1%8F%D0%BC" title="Іса ібн Мар&#039;ям – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B9%DB%8C%D8%B3%DB%8C%D9%B0_%D8%B9%D9%84%DB%8C%DB%81_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85" title="عیسیٰ علیہ السلام – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%88%BE%E6%92%92" title="爾撒 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q51664#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 December 2017, at 13:03.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jesus_in_Islam&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.756","walltime":"1.952","ppvisitednodes":{"value":13907,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":552712,"limit":2097152},"templateargumentsize":{"value":42854,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1631.853      1 -total"," 29.31%  478.263      2 Template:Reflist"," 16.41%  267.856     22 Template:Fix"," 15.96%  260.448      1 Template:Infobox_person"," 15.01%  244.951     42 Template:Cite_book"," 14.51%  236.830     17 Template:Navbox"," 14.35%  234.230     18 Template:Citation_needed"," 13.59%  221.707      1 Template:Infobox"," 12.33%  201.151     22 Template:Quote"," 12.28%  200.345     26 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.931","limit":"10.000"},"limitreport-memusage":{"value":21891301,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20171215192626","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":2089,"wgHostname":"mw1209"});});</script>
+	</body>
+</html>
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Isha prayer - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isha_prayer","wgTitle":"Isha prayer","wgCurRevisionId":809348590,"wgRevisionId":809348590,"wgArticleId":1145461,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Islamic prayer","Salat","Salah terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Isha_prayer","wgRelevantArticleId":1145461,"wgRequestId":"WjYCRApAICgAAFMGiwMAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q757365","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.12"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Isha_prayer"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Isha_prayer&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Isha_prayer&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Isha_prayer"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isha_prayer rootpage-Isha_prayer skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Isha prayer</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;">
+<tr>
+<td style="background-color:#dcf5dc;;padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Islam" title="Category:Islam">a series</a> on</td>
+</tr>
+<tr>
+<th style="background-color:#dcf5dc;;padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Islam" title="Islam">Islam</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Allah3.svg" class="image"><img alt="Allah3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/110px-Allah3.svg.png" width="110" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/165px-Allah3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Allah3.svg/220px-Allah3.svg.png 2x" data-file-width="213" data-file-height="213" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Iman_(concept)" title="Iman (concept)">Beliefs</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Tawhid" title="Tawhid">Oneness</a> <small>of</small> <a href="/wiki/God_in_Islam" title="God in Islam">God</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Prophets_and_messengers_in_Islam" title="Prophets and messengers in Islam">Prophets</a></li>
+<li><a href="/wiki/Islamic_holy_books" title="Islamic holy books">Revealed books</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamic_view_of_angels" title="Islamic view of angels">Angels</a></li>
+<li><a href="/wiki/Predestination_in_Islam" title="Predestination in Islam">Predestination</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Day of Resurrection</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Five_Pillars_of_Islam" title="Five Pillars of Islam">Practices</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Shahada" title="Shahada">Profession of faith</a></li>
+<li><a href="/wiki/Salah" title="Salah">Prayer</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Fasting_in_Islam" title="Fasting in Islam">Fasting</a></li>
+<li><a href="/wiki/Zakat" title="Zakat">Alms-giving</a></li>
+<li><a href="/wiki/Hajj" title="Hajj">Pilgrimage</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/List_of_Islamic_texts" title="List of Islamic texts">Texts</a> and <a href="/wiki/Sharia" title="Sharia">laws</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><i><a href="/wiki/Quran" title="Quran">Quran</a></i></li>
+<li><i><a href="/wiki/Sunnah" title="Sunnah">Sunnah</a></i></li>
+<li><i><a href="/wiki/Hadith" title="Hadith">Hadith</a></i></li>
+</ul>
+<ul>
+<li><a href="/wiki/Sharia" title="Sharia"><i>Sharia</i> <small>(law)</small></a></li>
+<li><a href="/wiki/Fiqh" title="Fiqh"><i>Fiqh</i> <small>(jurisprudence)</small></a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Kalam" title="Kalam"><i>Kalam</i> <small>(dialectic)</small></a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/History_of_Islam" title="History of Islam">History</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Timeline_of_Islamic_history" title="Timeline of Islamic history">Timeline</a></li>
+<li><a href="/wiki/Muhammad_in_Islam" title="Muhammad in Islam">Muhammad</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Ahl_al-Bayt" title="Ahl al-Bayt">Ahl al-Bayt</a></i></li>
+<li><i><a href="/wiki/Sahabah" title="Sahabah">Sahabah</a></i></li>
+<li><i><a href="/wiki/Rashidun" title="Rashidun">Rashidun</a></i></li>
+</ul>
+<ul>
+<li><a href="/wiki/Imamah_(Shia_doctrine)" class="mw-redirect" title="Imamah (Shia doctrine)">Imamate</a></li>
+<li><a href="/wiki/Caliphate" title="Caliphate">Caliphate</a></li>
+<li><a href="/wiki/Spread_of_Islam" title="Spread of Islam">Spread of Islam</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Islamic_culture" title="Islamic culture">Culture</a> and <a href="/wiki/Muslim_world" title="Muslim world">society</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Calendar</a></li>
+<li><a href="/wiki/Muslim_holidays" class="mw-redirect" title="Muslim holidays">Festivals</a></li>
+<li><a href="/wiki/Islamic_studies" title="Islamic studies">Academics</a></li>
+<li><a href="/wiki/Islamic_art" title="Islamic art">Art</a></li>
+<li><a href="/wiki/Morality_in_Islam" title="Morality in Islam">Moral teachings</a></li>
+<li><a href="/wiki/Islam_and_children" title="Islam and children">Children</a></li>
+<li><a href="/wiki/Islamic_schools_and_branches" title="Islamic schools and branches">Denominations</a></li>
+<li><a href="/wiki/Islamic_feminism" title="Islamic feminism">Feminism</a></li>
+<li><a href="/wiki/Women_in_Islam" title="Women in Islam">Women</a></li>
+<li><a href="/wiki/Madrasa" title="Madrasa">Madrasa</a></li>
+<li><a href="/wiki/Mosque" title="Mosque">Mosque</a></li>
+<li><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Philosophy</a></li>
+<li><a href="/wiki/Political_aspects_of_Islam" title="Political aspects of Islam">Politics</a></li>
+<li><a href="/wiki/Dawah" title="Dawah">Proselytizing</a></li>
+<li><a href="/wiki/Animals_in_Islam" title="Animals in Islam">Animals</a></li>
+<li><a href="/wiki/LGBT_in_Islam" title="LGBT in Islam">LGBT</a></li>
+<li><a href="/wiki/Islamic_attitudes_towards_science" title="Islamic attitudes towards science">Science</a></li>
+<li><a href="/wiki/Islam_by_country" title="Islam by country">Demographics</a></li>
+<li><a href="/wiki/Islamic_economics" title="Islamic economics">Economics</a></li>
+<li><a href="/wiki/Islamic_banking_and_finance" title="Islamic banking and finance">Finance</a></li>
+<li><a href="/wiki/Islam_and_humanity" title="Islam and humanity">Social welfare</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0;">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color:#dcf5dc;;background:#dcf5dc;padding:0.2em;"><a href="/wiki/Category:Islam" title="Category:Islam">Related topics</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.2em; padding-right:0.2em;">
+<ul>
+<li><a href="/wiki/Criticism_of_Islam" title="Criticism of Islam">Criticism of Islam</a></li>
+<li><a href="/wiki/Islam_and_other_religions" title="Islam and other religions">Islam and other religions</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Islamophobia" title="Islamophobia">Islamophobia</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Glossary_of_Islam" title="Glossary of Islam">Glossary</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.1em;font-weight:bold;line-height:1.5em;">
+<ul>
+<li><a href="/wiki/File:Allah-green.svg" class="image"><img alt="Allah-green.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/15px-Allah-green.svg.png" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/23px-Allah-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/31px-Allah-green.svg.png 2x" data-file-width="206" data-file-height="215" /></a> <a href="/wiki/Portal:Islam" title="Portal:Islam">Islam portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;padding-right:0.2em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Islam" title="Template:Islam"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Islam" title="Template talk:Islam"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islam&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Isha prayer</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">صلاة العشاء</span>‎ <i><span title="DIN 31635 Arabic" class="Unicode" style="white-space:normal; text-decoration: none">ṣalāt al-ʿišāʾ</span></i>&#160; <small>IPA:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Arabic" title="Help:IPA/Arabic">[sˤalaːt alʕiʃaːʔ]</a></span>, "night prayer") is the night-time daily prayer recited by practising <a href="/wiki/Muslim" title="Muslim">Muslims</a>. It is the fifth of the five daily prayers– (<i><a href="/wiki/Salat" class="mw-redirect" title="Salat">salat</a></i>) [Islamic evening begins at <a href="/wiki/Maghrib" class="mw-redirect" title="Maghrib">maghrib</a>].<sup id="cite_ref-qul.org_1-0" class="reference"><a href="#cite_note-qul.org-1">[1]</a></sup><sup id="cite_ref-quranreading_2-0" class="reference"><a href="#cite_note-quranreading-2">[2]</a></sup> The five daily prayers collectively are one pillar of the <a href="/wiki/Five_Pillars_of_Islam" title="Five Pillars of Islam">Five Pillars of Islam</a>, in <a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni Islam</a>, and one of the ten <a href="/wiki/Practices_of_the_Religion" class="mw-redirect" title="Practices of the Religion">Practices of the Religion</a> (<i>Furū al-Dīn</i>) according to <a href="/wiki/Shia_Islam" title="Shia Islam">Shia Islam</a>. It is a four <a href="/wiki/Rak%27ah" class="mw-redirect" title="Rak'ah">rak'ah</a> prayer and the first two rak'ah are prayed aloud. When travelling, according to some <a href="/wiki/Madhhab" title="Madhhab">madhhabs</a>, it may be reduced to two rak'ahs.</p>
+<p>In Islam, the Isha' daily prayer has four required (Fard) rak'ah. However, in Sunni Islam, the two Sunnah rak'ah following the Isha' are highly recommended and so is the third rakat <a href="/wiki/Wajib" class="mw-redirect" title="Wajib">Wajib</a> <a href="/wiki/Witr" title="Witr">Witr</a>. There are a few optional prayers that can be recited after the Isha' prayer, including the Nafilat ul-Layl prayers (together termed <a href="/wiki/Tahajjud" title="Tahajjud">tahajjud</a>), as well as the <a href="/wiki/Tarawih" title="Tarawih">tarawih</a> in <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name_variations"><span class="tocnumber">1</span> <span class="toctext">Name variations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ahadith_mentioning_virtues_of_Isha_Salat"><span class="tocnumber">2</span> <span class="toctext">Ahadith mentioning virtues of Isha Salat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sunni_Muslims"><span class="tocnumber">3</span> <span class="toctext">Sunni Muslims</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Shia_Muslims"><span class="tocnumber">4</span> <span class="toctext">Shia Muslims</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Name_variations">Name variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=1" title="Edit section: Name variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Region/country</th>
+<th>Language</th>
+<th>Main</th>
+</tr>
+<tr>
+<td><a href="/wiki/Arab_World" class="mw-redirect" title="Arab World">Arab World</a></td>
+<td><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></td>
+<td>صلاة العشاء (Ṣalāh al-ʿIshaaʾ)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iran" title="Iran">Iran</a></td>
+<td><a href="/wiki/Farsi" class="mw-redirect" title="Farsi">Persian</a></td>
+<td>نماز عشا</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, <a href="/wiki/India" title="India">India</a></td>
+<td><a href="/wiki/Urdu" title="Urdu">Urdu</a></td>
+<td>نماز عشاء (Isha namaaz)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td><a href="/wiki/Turkce" class="mw-redirect" title="Turkce">Turkish</a></td>
+<td>Yatsı namazı</td>
+</tr>
+<tr>
+<td><a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a></td>
+<td><a href="/wiki/Azeri_language" class="mw-redirect" title="Azeri language">Azeri</a></td>
+<td>İşa namazı</td>
+</tr>
+<tr>
+<td><a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a></td>
+<td><a href="/wiki/Shqip" class="mw-redirect" title="Shqip">Albanian</a></td>
+<td>Namazi i natës</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balkans" title="Balkans">Balkans</a></td>
+<td><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croatian</a>, <a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a></td>
+<td>Jacija-namaz</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>, <a href="/wiki/India" title="India">India</a></td>
+<td><a href="/wiki/Bengali_language" title="Bengali language">Bengali</a></td>
+<td>ইশা, এশা (Isha, esha)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td><a href="/wiki/Polish_language" title="Polish language">Polish</a></td>
+<td>Isza</td>
+</tr>
+<tr>
+<td><a href="/wiki/Somalia" title="Somalia">Somalia</a>, <a href="/wiki/Somaliland" title="Somaliland">Somaliland</a></td>
+<td><a href="/wiki/Soomaaliga" class="mw-redirect" title="Soomaaliga">Somali</a></td>
+<td>Salaada Cishe</td>
+</tr>
+<tr>
+<td><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> (nationwide)</td>
+<td><a href="/wiki/Indonesian_language" title="Indonesian language">Bahasa Indonesia</a></td>
+<td>Salat Isya</td>
+</tr>
+<tr>
+<td><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>, <a href="/wiki/Brunei" title="Brunei">Brunei</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a></td>
+<td><a href="/wiki/Bahasa_Melayu" class="mw-redirect" title="Bahasa Melayu">Bahasa Melayu</a></td>
+<td>Solat Isyak</td>
+</tr>
+<tr>
+<td><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> (<a href="/wiki/West_Java" title="West Java">West Java</a>, <a href="/wiki/Banten" title="Banten">Banten</a>)</td>
+<td><a href="/wiki/Basa_Sunda" class="mw-redirect" title="Basa Sunda">Basa Sunda</a></td>
+<td>Solat Isa</td>
+</tr>
+<tr>
+<td><a href="/wiki/China" title="China">China</a> (<a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a>)</td>
+<td><a href="/wiki/Uyghur_language" title="Uyghur language">Uyghur</a></td>
+<td>خۇپتەن نامىزى</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iraqi_Kurdistan" title="Iraqi Kurdistan">Iraqi Kurdistan</a></td>
+<td><a href="/wiki/Sorani" class="mw-redirect" title="Sorani">Sorani</a></td>
+<td>نوێژی عیشا</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Ahadith_mentioning_virtues_of_Isha_Salat">Ahadith mentioning virtues of Isha Salat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=2" title="Edit section: Ahadith mentioning virtues of Isha Salat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Asif_muharram_1795_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Asif_muharram_1795_1.jpg/250px-Asif_muharram_1795_1.jpg" width="250" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Asif_muharram_1795_1.jpg/375px-Asif_muharram_1795_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Asif_muharram_1795_1.jpg/500px-Asif_muharram_1795_1.jpg 2x" data-file-width="929" data-file-height="712" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Asif_muharram_1795_1.jpg" class="internal" title="Enlarge"></a></div>
+An <a href="/wiki/Imam" title="Imam">Imam</a> reads verses from the <a href="/wiki/Quran" title="Quran">Quran</a> after Isha' (night prayers) in the <a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughal Empire</a>.</div>
+</div>
+</div>
+<p><a href="/wiki/Uthman_bin_Affan" class="mw-redirect" title="Uthman bin Affan">Uthman bin Affan</a> reported that he heard Muhammad saying: "The one who offered Isha salat in congregation, it was as if he remained in salat up to midnight, and he who offered the <a href="/wiki/Fajr" class="mw-redirect" title="Fajr">Fajr</a> salat in congregation, it was as if he remained in salat the whole night." From Muslim Abu Hurairah reported: The Messenger of Allah said, "The most difficult Salah for the munafiqeen (the hypocrites) is Isha and Fajr. Had they known the rewards for them, they would have attended them even if they had to crawl on their knees." (<a href="/wiki/Sahih_al-Bukhari" title="Sahih al-Bukhari">Bukhari</a>)<sup id="cite_ref-quranreading_2-1" class="reference"><a href="#cite_note-quranreading-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Sunni_Muslims">Sunni Muslims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=3" title="Edit section: Sunni Muslims">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The time period within which the Isha prayer must be recited is the following:</p>
+<ul>
+<li>Time begins: According to the <a href="/wiki/Hanafi" title="Hanafi">Hanafi</a> school, Isha begins when complete darkness has arrived and the white twilight in the <a href="/wiki/Sky" title="Sky">sky</a> has disappeared. According to the <a href="/wiki/Maliki" title="Maliki">Maliki</a> and <a href="/wiki/Shafi%27i" class="mw-redirect" title="Shafi'i">Shafi'i</a> schools, the time begins when the red thread has disappeared from the sky. These times can be approximated by using the <a href="/wiki/Sun" title="Sun">sun</a> as a measure. When the sun has descended 12 degrees below the horizon, it is approximately equivalent to the disappearance of the red from the sky. For approximating when complete darkness begins, some astronomers argue that it occurs when the sun has descended 15 degrees below the horizon while others use the safer measure of 18 degrees.</li>
+<li>Time ends: At the beginning of dawn when the time for <a href="/wiki/Fajr" class="mw-redirect" title="Fajr">Fajr</a> prayer begins. However, it is frowned upon to delay the prayer without a legitimate reason past the first third of the night, and "night" in Islamic law means the time between the start of the <a href="/wiki/Maghrib" class="mw-redirect" title="Maghrib">Maghrib</a> prayer and the start of the <a href="/wiki/Fajr" class="mw-redirect" title="Fajr">Fajr</a> prayer. According to an opinion in the Maliki school, the prohibition is from delaying the prayer beyond the first half of the night, rather than just the first third.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Shia_Muslims">Shia Muslims</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=4" title="Edit section: Shia Muslims">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The time period within which the Isha prayer must be recited is the following:</p>
+<ul>
+<li>Time begins: once <a href="/wiki/Maghrib" class="mw-redirect" title="Maghrib">Maghrib</a> (evening prayer) has been recited and completed.<sup id="cite_ref-qul.org_1-1" class="reference"><a href="#cite_note-qul.org-1">[1]</a></sup></li>
+<li>Time ends: at midnight, the midpoint between shafak and dawn.</li>
+</ul>
+<p>However, it is very important to recite the prayer as soon as the time begins. Often Maghrib and Isha are offered together with a small gap of time in between.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Salat" class="mw-redirect" title="Salat">Salat</a> (Prayer)</li>
+<li><a href="/wiki/Wudhu" class="mw-redirect" title="Wudhu">Wudhu</a> (Washing of some body parts to prepare oneself for praying)</li>
+<li><a href="/wiki/Fajr" class="mw-redirect" title="Fajr">Fajr</a> (Dawn prayer)</li>
+<li><a href="/wiki/Dhuhr" class="mw-redirect" title="Dhuhr">Dhuhr</a> (Mid-day prayer)</li>
+<li><a href="/wiki/Asr" class="mw-redirect" title="Asr">Asr</a> (Afternoon prayer)</li>
+<li><a href="/wiki/Maghrib" class="mw-redirect" title="Maghrib">Maghrib</a> (Sunset prayer)</li>
+<li><a href="/wiki/Dhikr" title="Dhikr">Dhikr</a></li>
+<li><a href="/wiki/Tasbih" title="Tasbih">Tasbih</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-qul.org-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-qul.org_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qul.org_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.qul.org.au/library/a-guide-on-praying/maghrib-a-isha-prayers">A guide on praying Maghrib and Isha prayers on qul.org website</a>, Retrieved 14 May 2017</span></li>
+<li id="cite_note-quranreading-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-quranreading_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-quranreading_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.quranreading.com/blog/isha-prayer-significance-benefits/">Significance of Offering The Isha Prayer and Its Benefits</a>, QuranReading website, Published 29 January 2015, Retrieved 14 May 2017</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.qul.org.au/prayertimes">Prayer Times defined for all five prayers in a day, qul.org website</a>, Retrieved 14 May 2017</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isha_prayer&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=g9l4u_EIqOI">A detailed videoclip of how the Isha prayer is performed on YouTube</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Salah_(Islamic_prayer)" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Islamic_prayer" title="Template:Islamic prayer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Islamic_prayer" title="Template talk:Islamic prayer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Islamic_prayer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Salah_(Islamic_prayer)" style="font-size:114%;margin:0 4em"><i><a href="/wiki/Salah" title="Salah">Salah</a></i> (Islamic prayer)</div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Types of prayers (<i><a href="/wiki/Salah" title="Salah">salat</a></i>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fard" title="Fard">Mandatory</a> daily prayers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fajr_prayer" title="Fajr prayer">Fajr</a></li>
+<li><a href="/wiki/Zuhr_prayer" title="Zuhr prayer">Zuhr</a></li>
+<li><a href="/wiki/Asr_prayer" title="Asr prayer">Asr</a></li>
+<li><a href="/wiki/Maghrib_prayer" title="Maghrib prayer">Maghrib</a></li>
+<li><a class="mw-selflink selflink">Isha</a></li>
+<li><a href="/wiki/Witr" title="Witr">Witr</a> (for Hanafis)</li>
+<li><a href="/wiki/Jumu%27ah" title="Jumu'ah">Jumu'ah</a> (Friday prayer)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Communal mandatory</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Salat_al-Janazah" title="Salat al-Janazah">Salat al-Janazah</a></li>
+<li><a href="/wiki/Absentee_funeral_prayer_(Islam)" title="Absentee funeral prayer (Islam)">prayers for the absent</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Congregational prayers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jumu%27ah" title="Jumu'ah">Jumu'ah</a></li>
+<li><a href="/wiki/Tarawih" title="Tarawih">Tarawih</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Supererogatory prayers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sunnah_prayer" title="Sunnah prayer">Sunnah salah</a></li>
+<li><a href="/wiki/Nafl_prayer" title="Nafl prayer">Nafl salah</a></li>
+<li><a href="/wiki/Witr" title="Witr">Witr</a></li>
+<li><a href="/wiki/Duha" title="Duha">Duha</a></li>
+<li><a href="/wiki/Tahajjud" title="Tahajjud">Tahajjud</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Special-purpose prayers</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Salat_al-Istikharah" title="Salat al-Istikharah">Salat al-Istikharah</a></li>
+<li><a href="/wiki/Eid_prayers" title="Eid prayers">Salat al-Eid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Kaaba_mirror_edit_jj.jpg" class="image"><img alt="Kaaba mirror edit jj.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaaba_mirror_edit_jj.jpg/120px-Kaaba_mirror_edit_jj.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaaba_mirror_edit_jj.jpg/180px-Kaaba_mirror_edit_jj.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaaba_mirror_edit_jj.jpg/240px-Kaaba_mirror_edit_jj.jpg 2x" data-file-width="1200" data-file-height="900" /></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Prayer unit (<i><a href="/wiki/Rakat" title="Rakat">raka'ah</a></i>) and<br />
+components of prayer unit</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Basmala" title="Basmala">Basmala</a></li>
+<li>Glorifying Allah (<a href="/wiki/Takbir" title="Takbir">Takbir</a>)</li>
+<li><a href="/wiki/Standing_in_salah" title="Standing in salah">Standing in salat</a></li>
+<li><a href="/wiki/Sitting_in_salah" title="Sitting in salah">Sitting in salat</a></li>
+<li>Recitation of <a href="/wiki/Quran" title="Quran">Quran</a> (<a href="/wiki/Tajwid" title="Tajwid">Tajweed</a>)</li>
+<li>Bowing (<a href="/wiki/Ruku" title="Ruku">Ruku</a>)</li>
+<li>Prostrating (<a href="/wiki/Sujud" title="Sujud">Sajdah</a>)</li>
+<li><a href="/wiki/Tashahhud" title="Tashahhud">Tashahhud</a></li>
+<li><a href="/wiki/Taslim" title="Taslim">Taslim</a></li>
+<li><a href="/wiki/Sujud_Sahwi" title="Sujud Sahwi">Sujud Sahwi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mosque" title="Mosque">Mosque</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mihrab" title="Mihrab">Mihrab</a></li>
+<li>Podium (<a href="/wiki/Minbar" title="Minbar">Minbar</a>)</li>
+<li>Sermon (<a href="/wiki/Khutbah" title="Khutbah">Khutbah</a>)</li>
+<li><a href="/wiki/Musalla" title="Musalla">Musalla</a></li>
+<li><a href="/wiki/Prayer_rug" title="Prayer rug">Prayer rug</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Conditions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Call to prayer (<a href="/wiki/Adhan" title="Adhan">Adhan</a></li>
+<li><a href="/wiki/Iqama" title="Iqama">Iqama</a>)</li>
+<li><a href="/wiki/Salah_times" title="Salah times">Salat times</a></li>
+<li><a href="/wiki/Qibla" title="Qibla">Qibla</a></li>
+<li>Ablution (<a href="/wiki/Wudu" title="Wudu">Wudu</a>)</li>
+<li>Dry ablution (<a href="/wiki/Tayammum" title="Tayammum">Tayammum</a>)</li>
+<li>Full ablution (<a href="/wiki/Ghusl" title="Ghusl">Ghusl</a>)</li>
+<li>Screen or barrier (<a href="/wiki/Sutrah" title="Sutrah">Sutrah</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/Category:Salat" title="Category:Salat">Category</a></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20171217052658
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 523/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37030/2097152 bytes
+Template argument size: 276/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 8.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  208.376      1 -total
+ 64.51%  134.426      1 Template:Lang-ar
+ 16.16%   33.680      1 Template:Islam
+ 15.00%   31.248      1 Template:Sidebar_with_collapsible_lists
+  7.18%   14.951      1 Template:Reflist
+  6.16%   12.834      1 Template:Islamic_prayer
+  5.87%   12.240      2 Template:Navbox
+  3.65%    7.609      1 Template:Portal-inline
+  1.72%    3.581      1 Template:Transl
+  1.40%    2.927      1 Template:IPA-ar
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1145461-0!canonical and timestamp 20171217052658 and revision id 809348590
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Isha_prayer&amp;oldid=809348590">https://en.wikipedia.org/w/index.php?title=Isha_prayer&amp;oldid=809348590</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Islamic_prayer" title="Category:Islamic prayer">Islamic prayer</a></li><li><a href="/wiki/Category:Salat" title="Category:Salat">Salat</a></li><li><a href="/wiki/Category:Salah_terminology" title="Category:Salah terminology">Salah terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Isha+prayer" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Isha+prayer" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Isha_prayer" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Isha_prayer" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Isha_prayer">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Isha_prayer&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Isha_prayer&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Isha_prayer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Isha_prayer" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Isha_prayer&amp;oldid=809348590" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Isha_prayer&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757365" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Isha_prayer&amp;id=809348590" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Isha+prayer">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Isha+prayer&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Isha_prayer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D9%84%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D8%A7%D8%A1" title="صلاة العشاء – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0%C5%9Fa_namaz%C4%B1" title="İşa namazı – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%B6%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9C" title="ইশার নামাজ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Jacija-namaz" title="Jacija-namaz – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Isha%27a" title="Isha&#039;a – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Salat_al-%CA%BFIsha%CA%BE" title="Salat al-ʿIshaʾ – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%85%D8%A7%D8%B2_%D8%B9%D8%B4%D8%A7" title="نماز عشا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Salat_Isya" title="Salat Isya – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/%E1%B9%A2al%C4%81t_al-%CA%BFish%C4%81%CA%BE" title="Ṣalāt al-ʿishāʾ – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D2%B1%D0%BF%D1%82%D0%B0%D0%BD_%D0%BD%D0%B0%D0%BC%D0%B0%D0%B7%D1%8B" title="Құптан намазы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Is%C3%A1" title="Isá – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%B6%E0%B4%BE" title="ഇശാ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Solat_Isyak" title="Solat Isyak – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Isha" title="Isha – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Isha%27a" title="Isha&#039;a – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Isza" title="Isza – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%88%D0%B0" title="Иша – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Namazi_i_nat%C3%ABs" title="Namazi i natës – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Isha%27a" title="Isha&#039;a – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Salaada_Cishe" title="Salaada Cishe – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%86%D9%88%DB%8E%DA%98%DB%8C_%D8%B9%DB%8C%D8%B4%D8%A7" title="نوێژی عیشا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Jacija_namaz" title="Jacija namaz – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Solat_Isa" title="Solat Isa – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Basa Sunda</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%AF%D1%81%D1%82%D2%AF_%D0%BD%D0%B0%D0%BC%D0%B0%D0%B7%D1%8B" title="Ястү намазы – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A5%D1%83%D1%84%D1%82%D0%B0%D0%BD" title="Хуфтан – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B9%D8%B4%D8%A7%D8%A1" title="عشاء – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%AE%DB%87%D9%BE%D8%AA%DB%95%D9%86_%D9%86%D8%A7%D9%85%D9%89%D8%B2%D9%89" title="خۇپتەن نامىزى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757365#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 November 2017, at 15:32.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Isha_prayer&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.257","ppvisitednodes":{"value":523,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37030,"limit":2097152},"templateargumentsize":{"value":276,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  208.376      1 -total"," 64.51%  134.426      1 Template:Lang-ar"," 16.16%   33.680      1 Template:Islam"," 15.00%   31.248      1 Template:Sidebar_with_collapsible_lists","  7.18%   14.951      1 Template:Reflist","  6.16%   12.834      1 Template:Islamic_prayer","  5.87%   12.240      2 Template:Navbox","  3.65%    7.609      1 Template:Portal-inline","  1.72%    3.581      1 Template:Transl","  1.40%    2.927      1 Template:IPA-ar"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":8700042,"limit":52428800}},"cachereport":{"origin":"mw1216","timestamp":"20171217052658","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1319"});});</script>
+	</body>
+</html>
