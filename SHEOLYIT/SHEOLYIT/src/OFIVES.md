@@ -198,20 +198,11 @@ Somewhere in here I&#39;ve got to mention that both <a href="http://ho.s.lamc.la
 <a href="https://www.amazon.com/SHEOLyIT-Adam-Marshall-Dobrin/dp/1981922385/ref=sr_1_1?ie=UTF8&amp;qid=1514105242&amp;sr=8-1&amp;keywords=sheolyit"><img alt="https://www.amazon.com/SHEOLyIT-Adam-Marshall-Dobrin/dp/1981922385/ref=sr_1_1?ie=UTF8&amp;qid=1514105242&amp;sr=8-1&amp;keywords=sheolyit" src="https://i.imgur.com/TqJIFPG.png" /></a><br />
 <br />
 <b><span style="font-family: &quot;arial black&quot; , sans-serif;">&lt;/ADVERT&gt;</span></b>​</div>
-
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-<br />
-<br />
 ​</div>
 
-<div style="text-align: center;">&nbsp;</div>
-</div>
 
-<div style="text-align: center;">&nbsp;</div>
 
 <div style="text-align: center;"><a href="http://key.s.lamc.la"><img alt="" src="https://i.imgur.com/oYUkCuX.jpg" style="width: 255px; height: 191px;" /></a></div>
 
