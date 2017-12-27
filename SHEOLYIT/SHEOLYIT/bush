@@ -9,18 +9,27 @@ cd /var/www/html/SHEOLYIT/SHEOLYIT
 
 sed -i -e 's/print.html/bloback.html/g' /var/www/html/BLOG/book/*.html
 mv /var/www/html/BLOG/book/print.html /var/www/html/BLOG/book/bloback.html
-cp /var/www/html/BLOG/book/*.html /var/www/html
+cp /var/www/html/BLOG/book/*.html /var/www/html/SHEOLYIT/pp
 
 sed -i -e 's/print.html/alobsop.html/g' /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html
 mv /var/www/html/SHEOLYIT/ALEDOBSOP/book/print.html /var/www/html/SHEOLYIT/ALEDOBSOP/book/alobsop.html
-cp /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html /var/www/html
+cp /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html /var/www/html/SHEOLYIT/pp
 
 cd /var/www/html/SHEOLYIT/SHEOLYIT
 mdbook build
 sed -i -e 's/print.html/sheolyit.html/g' /var/www/html/SHEOLYIT/SHEOLYIT/book/*.html
 mv /var/www/html/SHEOLYIT/SHEOLYIT/book/print.html /var/www/html/SHEOLYIT/SHEOLYIT/book/sheolyit.html
 
-cp /var/www/html/SHEOLYIT/SHEOLYIT/book/*.html /var/www/html
+cp /var/www/html/SHEOLYIT/SHEOLYIT/book/*.html /var/www/html/SHEOLYIT/pp
+
+##preprocess lol
+cd /var/www/html/SHEOLYIT/pp
+for file in *; do
+#echo "- [$file](./$file)" >> SUMMARY.md
+cat /var/www/html/SHEOLYIT/SHEOLYIT/ppfoot.md >> $file
+done
+
+cp /var/www/html/SHEOLYIT/pp/* /var/www/html
 cd /var/www/html
 
 tar cf html.tar *.html
