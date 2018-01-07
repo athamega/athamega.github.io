@@ -26,3 +26,4 @@
 - [FUIR](./FOUR.md)
 - [FIVE](./OFIVES.md)
 - [CKIMUS](./CLIMAX.md)
+- [SPCH2](./SPEECH.md)
