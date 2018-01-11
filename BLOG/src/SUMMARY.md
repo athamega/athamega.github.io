@@ -183,6 +183,3 @@
 - [2017-10-15-the-cure.md](./2017-10-15-the-cure.md)
 - [2017-11-14-and-wall-of-jericho-comes-tumbling-down.md](./2017-11-14-and-wall-of-jericho-comes-tumbling-down.md)
 - [2017-11-18-the-tion-ning-of-adam.md](./2017-11-18-the-tion-ning-of-adam.md)
-- [BLONAV.md](./BLONAV.md)
-- [SUMMARY.md](./SUMMARY.md)
-- [mkb](./mkb)
