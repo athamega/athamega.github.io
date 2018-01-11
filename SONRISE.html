@@ -1,0 +1,1425 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>SONRISE.md - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
+            if (typeof Clipboard == 'undefined') {
+                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = store.get('mdbook-theme');
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html" class="active"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./messengertour.html"><strong>115.</strong> messengertour.md</a></li><li><a href="./music_saves_all_souls.html"><strong>116.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>117.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>118.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>119.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>120.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>121.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>122.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html"><strong>123.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>124.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>125.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>126.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>127.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>128.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>129.</strong> whenistheapocalypse.md</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<!-- saved from url=(0115)https://mail.google.com/mail/u/1/?ui=2&ik=644623e632&view=pt&search=sent&msg=15a13c644a7fefda&siml=15a13c644a7fefda --><html data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"},{"appId":"sdk_streak_21e9788951","version":"6.2934"}]' data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1486400843216" data-inboxsdk-master-claimed="true" data-inboxsdk-session-id="1486400842497-0.5540190743292668" data-map-id="64e963ecbc3337a5" lang="en"><head data-inboxsdk-script-injected="true"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><style type="text/css">
+body,td,div,p,a,input {font-family: arial, sans-serif;}
+</style><meta content="IE=edge" http-equiv="X-UA-Compatible"/><title>Ministry of Forbidden Knowledge Mail - Fwd: We are now approaching lunar *Sunrise, for everyone back on Earth... a message from the Heavens</title><style type="text/css">
+body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none} a:hover {text-decoration:underline; cursor: pointer} a:visited{color:##6611CC} img{border:0px} pre { white-space: pre; white-space: -moz-pre-wrap; white-space: -o-pre-wrap; white-space: pre-wrap; word-wrap: break-word; max-width: 800px; overflow: auto;} .logo { left: -7px; position: relative; }
+</style><style id="inboxsdk__shared_style">.inboxsdk__notransition {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  -ms-transition: none !important;
+  transition: none !important;
+}
+<p>.inboxsdk__close_button {
+height: 24px;
+width: 24px;
+opacity: .7;
+position: relative;
+background: none;
+border: none;
+padding: 0;
+box-sizing: content-box;
+outline: none;
+cursor: pointer;
+}
+.inboxsdk__close_button:focus, .inboxsdk__close_button:hover {
+opacity: 1;
+}
+.inboxsdk__close_button:focus::before {
+background-color: rgba(0,0,0,.12);
+}
+.inboxsdk__close_button::before {
+border-radius: 50%;
+position: absolute;
+top: -4px;
+bottom: -4px;
+left: -4px;
+right: -4px;
+padding: 4px;
+content: ' ';
+}
+.inboxsdk__close_button::after {
+content: ' ';
+background: url(https://www.gstatic.com/images/icons/material/system/1x/close_black_24dp.png);
+position: absolute;
+height: 24px;
+width: 24px;
+top: 0;
+left: 0;
+}</p>
+<p>.BGCFEedJDAJICDFH {
+display: none;
+}</p>
+<p>/* drawer */</p>
+<p>.inboxsdk__drawer_view_container {
+visibility: visible;
+direction: initial;
+position: fixed;
+height: 100vh;
+width: 100vw;
+bottom: 0;
+left: 0;
+z-index: 51;
+pointer-events: none;
+}
+.inboxsdk__drawer_view {
+position: absolute;
+pointer-events: auto;
+top: 0;
+bottom: 0;
+right: 0;
+width: 452px;
+font: normal normal normal normal 13px / normal &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-direction: column;
+flex-direction: column;
+background-color: #fff;
+outline: none;
+box-shadow: 0 0 8px rgba(0,0,0,.18), 0 8px 16px rgba(0,0,0,.36);
+-webkit-transform: translateX(100%);
+transform: translateX(100%);
+transition: transform 150ms cubic-bezier(.4,0,.2,1);
+}</p>
+<p>.inboxsdk__drawer_view.inboxsdk__active {
+-webkit-transform: none;
+transform: none;
+}
+.inboxsdk__drawer_title_bar {
+background-color: #f5f5f5;
+border-bottom: 1px solid #e0e0e0;
+padding: 16px 20px;
+white-space: nowrap;
+display: -webkit-flex;
+display: flex;
+flex: 0 0 auto;
+-webkit-flex: 0 0 auto;
+}
+.inboxsdk__drawer_title_bar .inboxsdk__close_button {
+margin-right: 20px;
+-webkit-flex-shrink: 0;
+flex-shrink: 0;
+}
+.inboxsdk__drawer_title {
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+font: normal normal normal normal 20px / 24px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+}</p>
+<p>/* backdrop */</p>
+<p>.inboxsdk__inbox_backdrop {
+visibility: visible;
+position: fixed;
+height: 100vh;
+width: 100vw;
+bottom: 0;
+left: 0;
+z-index: 50;
+background-color: transparent;
+transition: background-color 150ms cubic-bezier(0.4, 0, 1, 1);
+}
+.inboxsdk__inbox_backdrop.inboxsdk__active {
+background-color: rgba(10,10,10,.6);
+transition: background-color 70ms cubic-bezier(0,0,.2,1);
+}</p>
+<p>.inboxsdk__inbox_backdrop ~ .inboxsdk__inbox_backdrop {
+opacity: 0.6;
+}</p>
+<p>/* sidebar */</p>
+<p>.DbdIDefcabCbEGFF {
+display: -webkit-flex;
+display: flex;
+-webkit-flex-direction: column;
+flex-direction: column;
+}</p>
+<p>.JCEBHBEHaadbcDAc &gt; .inboxsdk__close_button {
+position: absolute;
+bottom: 10px;
+right: 20px;
+}</p>
+<p>.EDGEbdaDcHAAHBfC {
+width: 216px;
+}</p>
+<p>.dfbcABCfDFfFFJBH {
+overflow: hidden;
+font: 12px Arial, sans-serif;
+max-height: 100%;
+box-sizing: border-box;
+}</p>
+<p>.eJAHAbcfbdBaaeBB {
+white-space: nowrap;
+display: -webkit-flex;
+display: flex;
+-moz-user-select: none;
+-webkit-user-select: none;
+user-select: none;
+cursor: default;
+}</p>
+<p>.dfbcABCfDFfFFJBH:not(.FcdIfGJEabcHIcFb) .eJAHAbcfbdBaaeBB {
+border-bottom: 1px solid #ddd;
+}</p>
+<p>.dfbcABCfDFfFFJBH.fFcJGeddFCBJaaaJ .eJAHAbcfbdBaaeBB:hover,
+.dfbcABCfDFfFFJBH.CbcdeabdeaaJBdIf .eJAHAbcfbdBaaeBB {
+background: rgba(0,0,0,.03);
+}</p>
+<p>.FbfbaJBFBIbHHdeG {
+min-width: 0;
+overflow: hidden;
+text-overflow: ellipsis;
+}</p>
+<p>.dfbcABCfDFfFFJBH.fFcJGeddFCBJaaaJ .FbfbaJBFBIbHHdeG {
+cursor: move;
+}</p>
+<p>.FeDcFDcBCGEACHbF {
+padding-left: 6px;
+vertical-align: middle;
+font: bold 13px / 40px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;
+color: rgba(0,0,0, 0.87);
+}</p>
+<p>.JCEBHBEHaadbcDAc.BJGAfDcCEfGHeGcF .eJAHAbcfbdBaaeBB {
+display: none;
+}</p>
+<p>.dfbcABCfDFfFFJBH.fFcJGeddFCBJaaaJ .eJAHAbcfbdBaaeBB:hover .BDedcBfcIJabJDEe {
+position: absolute;
+top: 0px;
+left: 0px;
+width: 10px;
+height: 40px;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI2cHgiIGhlaWdodD0iMTJweCIgdmlld0JveD0iMCAwIDYgMTIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+ICAgICAgICA8dGl0bGU+Q29tYmluZWQgU2hhcGU8L3RpdGxlPiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4gICAgPGRlZnM+PC9kZWZzPiAgICA8ZyBpZD0iRkluYWxzLSoqSmFuLTkqKiIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+ICAgICAgICA8ZyBpZD0iU2lkZWJhci1jbG9zZWQtQ29weSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsIC0xNC4wMDAwMDApIiBmaWxsPSIjQUFBQUFBIj4gICAgICAgICAgICA8ZyBpZD0iU2lkZWJhciIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwLjAwMDAwMCwgMC4wMDAwMDApIj4gICAgICAgICAgICAgICAgPGcgaWQ9IkJveC1pbmZvLUNvcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwLjAwMDAwMCwgMC4wMDAwMDApIj4gICAgICAgICAgICAgICAgICAgIDxnIGlkPSJHcmlwcHkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAxNC41MDAwMDApIj4gICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMC42NjY2NjY2NjcsNS40MTY2NjY2NyBDMC42NjY2NjY2NjcsNC44NjQzODE5MiAxLjExMDUzMTQ5LDQuNDE2NjY2NjcgMS42NjY2NjY2Nyw0LjQxNjY2NjY3IEMyLjIxODk1MTQyLDQuNDE2NjY2NjcgMi42NjY2NjY2Nyw0Ljg2MDUzMTQ5IDIuNjY2NjY2NjcsNS40MTY2NjY2NyBDMi42NjY2NjY2Nyw1Ljk2ODk1MTQyIDIuMjIyODAxODQsNi40MTY2NjY2NyAxLjY2NjY2NjY3LDYuNDE2NjY2NjcgQzEuMTE0MzgxOTIsNi40MTY2NjY2NyAwLjY2NjY2NjY2Nyw1Ljk3MjgwMTg0IDAuNjY2NjY2NjY3LDUuNDE2NjY2NjcgWiBNMC42NjY2NjY2NjcsMS4yNSBDMC42NjY2NjY2NjcsMC42OTc3MTUyNSAxLjExMDUzMTQ5LDAuMjUgMS42NjY2NjY2NywwLjI1IEMyLjIxODk1MTQyLDAuMjUgMi42NjY2NjY2NywwLjY5Mzg2NDgyMiAyLjY2NjY2NjY3LDEuMjUgQzIuNjY2NjY2NjcsMS44MDIyODQ3NSAyLjIyMjgwMTg0LDIuMjUgMS42NjY2NjY2NywyLjI1IEMxLjExNDM4MTkyLDIuMjUgMC42NjY2NjY2NjcsMS44MDYxMzUxOCAwLjY2NjY2NjY2NywxLjI1IFogTTAuNjY2NjY2NjY3LDkuNTgzMzMzMzMgQzAuNjY2NjY2NjY3LDkuMDMxMDQ4NTggMS4xMTA1MzE0OSw4LjU4MzMzMzMzIDEuNjY2NjY2NjcsOC41ODMzMzMzMyBDMi4yMTg5NTE0Miw4LjU4MzMzMzMzIDIuNjY2NjY2NjcsOS4wMjcxOTgxNiAyLjY2NjY2NjY3LDkuNTgzMzMzMzMgQzIuNjY2NjY2NjcsMTAuMTM1NjE4MSAyLjIyMjgwMTg0LDEwLjU4MzMzMzMgMS42NjY2NjY2NywxMC41ODMzMzMzIEMxLjExNDM4MTkyLDEwLjU4MzMzMzMgMC42NjY2NjY2NjcsMTAuMTM5NDY4NSAwLjY2NjY2NjY2Nyw5LjU4MzMzMzMzIFogTTMuMzAwMDAwMTksMS4yNSBDMy4zMDAwMDAxOSwwLjY5NzcxNTI1IDMuNzQzODY1MDEsMC4yNSA0LjMwMDAwMDE5LDAuMjUgQzQuODUyMjg0OTQsMC4yNSA1LjMwMDAwMDE5LDAuNjkzODY0ODIyIDUuMzAwMDAwMTksMS4yNSBDNS4zMDAwMDAxOSwxLjgwMjI4NDc1IDQuODU2MTM1MzcsMi4yNSA0LjMwMDAwMDE5LDIuMjUgQzMuNzQ3NzE1NDQsMi4yNSAzLjMwMDAwMDE5LDEuODA2MTM1MTggMy4zMDAwMDAxOSwxLjI1IFogTTMuMzAwMDAwMTksNS40MTY2NjY2NyBDMy4zMDAwMDAxOSw0Ljg2NDM4MTkyIDMuNzQzODY1MDEsNC40MTY2NjY2NyA0LjMwMDAwMDE5LDQuNDE2NjY2NjcgQzQuODUyMjg0OTQsNC40MTY2NjY2NyA1LjMwMDAwMDE5LDQuODYwNTMxNDkgNS4zMDAwMDAxOSw1LjQxNjY2NjY3IEM1LjMwMDAwMDE5LDUuOTY4OTUxNDIgNC44NTYxMzUzNyw2LjQxNjY2NjY3IDQuMzAwMDAwMTksNi40MTY2NjY2NyBDMy43NDc3MTU0NCw2LjQxNjY2NjY3IDMuMzAwMDAwMTksNS45NzI4MDE4NCAzLjMwMDAwMDE5LDUuNDE2NjY2NjcgWiBNMy4zMDAwMDAxOSw5LjU4MzMzMzMzIEMzLjMwMDAwMDE5LDkuMDMxMDQ4NTggMy43NDM4NjUwMSw4LjU4MzMzMzMzIDQuMzAwMDAwMTksOC41ODMzMzMzMyBDNC44NTIyODQ5NCw4LjU4MzMzMzMzIDUuMzAwMDAwMTksOS4wMjcxOTgxNiA1LjMwMDAwMDE5LDkuNTgzMzMzMzMgQzUuMzAwMDAwMTksMTAuMTM1NjE4MSA0Ljg1NjEzNTM3LDEwLjU4MzMzMzMgNC4zMDAwMDAxOSwxMC41ODMzMzMzIEMzLjc0NzcxNTQ0LDEwLjU4MzMzMzMgMy4zMDAwMDAxOSwxMC4xMzk0Njg1IDMuMzAwMDAwMTksOS41ODMzMzMzMyBaIiBpZD0iQ29tYmluZWQtU2hhcGUiPjwvcGF0aD4gICAgICAgICAgICAgICAgICAgIDwvZz4gICAgICAgICAgICAgICAgPC9nPiAgICAgICAgICAgIDwvZz4gICAgICAgIDwvZz4gICAgPC9nPjwvc3ZnPg==) 50% center no-repeat;
+}</p>
+<p>.GbIJFBGEdBHbdaaG {
+width: 20px;
+height: 20px;
+vertical-align: middle;
+margin-left: 6px;
+display: inline-flex;
+justify-content: center;
+align-items: center;
+margin-top: -1px;
+}</p>
+<p>.cJAHIEBafEbcbAeH,
+.cJAHIEBafEbcbAeH &gt; img {
+width: 13px;
+height: 13px;
+}</p>
+<p>.fadAbCABGJIBEabE {
+-webkit-flex: 1;
+flex: 1;
+text-align: right;
+visibility: hidden;
+}</p>
+<p>.dfbcABCfDFfFFJBH.fFcJGeddFCBJaaaJ .fadAbCABGJIBEabE {
+visibility: visible;
+cursor: pointer;
+}</p>
+<p>.JdJDHEcJHeeDabJb {
+margin-top: 12px;
+margin-right: 4px;
+background: url(https://www.streak.com/build/images/arrowDown.png) center / 20px no-repeat;
+border: none;
+width: 14px;
+height: 14px;
+-webkit-transform: rotate(-90deg);
+transform: rotate(-90deg);
+transition: -webkit-transform .15s, transform .15s;
+outline: none;
+opacity: .6;
+cursor: pointer;
+}</p>
+<p>.eJAHAbcfbdBaaeBB:hover .JdJDHEcJHeeDabJb,
+.dfbcABCfDFfFFJBH.CbcdeabdeaaJBdIf .eJAHAbcfbdBaaeBB .JdJDHEcJHeeDabJb {
+opacity: .9;
+}</p>
+<p>.dfbcABCfDFfFFJBH.FcdIfGJEabcHIcFb .JdJDHEcJHeeDabJb {
+-webkit-transform: rotate(0);
+transform: rotate(0);
+}</p>
+<p>.CFGJDFCeIEGJDdEa {
+margin-bottom: 25px;
+}</p>
+<p>/* end sidebar */</p>
+<p>/* shared parts of app id warning */</p>
+<p>.inboxsdk__appid_warning {
+margin: 0;
+padding: 9px;
+color: #4b4b4b;
+background: #ff6c6c;
+font-size: 10pt;
+}</p>
+<p>.inboxsdk__appid_warning_main {
+display: inline-block;
+vertical-align: middle;
+}</p>
+<p>.inboxsdk__appid_warning .topline {
+font-weight: bold;
+font-size: 11pt;
+}</p>
+<p>a.inboxsdk__appid_register {
+color: white;
+display: inline-block;
+background: #1989ff;
+border-radius: 3px;
+text-decoration: none;
+box-shadow: 0 0 5px rgba(0,0,0,0.3);
+padding: 7px;
+font-size: 10pt;
+vertical-align: middle;
+margin-left: 1em;
+}</p>
+</style><style id="inboxsdk__style">/* suggestions */
+<p>.inboxsdk__suggestions_separator_before {
+padding-bottom: 2px !important;
+}</p>
+<p>.inboxsdk__suggestions_separator_after {
+border-top: 1px solid #e5e5e5;
+padding-top: 2px !important;
+}</p>
+<p>/* buttons */</p>
+<p>div.T-I.inboxsdk__button {
+-webkit-user-select: none;
+min-width: 27px;
+}</p>
+<p>.inboxsdk__no_bg {
+background: none;
+}</p>
+<p>.inboxsdk__button.inboxsdk__button_disabled {
+opacity: 0.55;
+}</p>
+<p>.inboxsdk__button_icon + .inboxsdk__button_text {
+margin-left: 5px;
+}</p>
+<p>.inboxsdk__button_icon {
+display: inline-block;
+}</p>
+<p>.inboxsdk__button_iconImg {
+height: 16px;
+width: 16px;
+vertical-align: middle;
+margin-top: -2px;
+user-drag: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+}</p>
+<p>.inboxsdk__button_green_inactive {
+-webkit-box-shadow: 0 1px 0 rgba(0,0,0,.05);
+box-shadow: 0 1px 0 rgba(0,0,0,.05);
+background-color: #53a93f;
+background-image: -webkit-linear-gradient(top,transparent,transparent);
+background-image: linear-gradient(top,transparent,transparent);
+border: 1px solid transparent;
+color: #fff;
+text-shadow: none;
+}</p>
+<p>.inboxsdk__button_green_hover {
+-webkit-box-shadow: inset 0 -1px 0 #4c8534;
+box-shadow: inset 0 -1px 0 #4c8534;
+background-color: #65b045;
+background-image: -webkit-linear-gradient(top,transparent,transparent);
+background-image: linear-gradient(top,transparent,transparent);
+border: 1px solid transparent;
+border-bottom: 1px solid #4c8534;
+text-shadow: none;
+}</p>
+<p>.inboxsdk__button_green_active {
+-webkit-box-shadow: inset 0 1px 0 #2f6124;
+box-shadow: inset 0 1px 0 #2f6124;
+background: #3e802f;
+border: 1px solid transparent;
+border-top: 1px solid #2f6124;
+color: #fff;
+text-shadow: none;
+}</p>
+<p>.J-M.inboxsdk__menu {
+min-width: 1em;
+min-height: 1em;
+padding: 0px;
+overflow: visible;
+max-height: none;
+}</p>
+<p>.f4.J-N-JX.inboxsdk__message_more_icon {
+margin-top: -1px;
+width: 16px;
+height: 16px;
+}</p>
+<p>/* end */</p>
+<p>/* compose buttons */</p>
+<p>.T-I.inboxsdk__button.inboxsdk__compose_sendButton {
+min-width: 0px;
+margin-right: 0px;
+margin-left: 0px;
+padding:0px;
+}</p>
+<p>.inboxsdk__compose_actionToolbar {
+padding: 0px 0px 0px 5px;
+white-space: nowrap;
+}</p>
+<p>.inboxsdk__compose_actionToolbar div.inboxsdk__button {
+min-width: 27px;
+height: 27px;
+}</p>
+<p>.inboxsdk__compose_actionToolbar .inboxsdk__button_icon {
+height: 17px;
+width: 17px;
+display: inline-block;
+vertical-align: middle;
+position: relative;
+margin-top: 2px;
+}</p>
+<p>.inboxsdk__compose_actionToolbar .inboxsdk__button_iconImg {
+vertical-align: top;
+height: 17px;
+width: 17px;
+display: inline-block;
+margin-top: -1px;
+}</p>
+<p>.inboxsdk__compose_actionToolbar .inboxsdk__button &gt; div {
+opacity: 0.55;
+}</p>
+<p>.inboxsdk__compose_actionToolbar .inboxsdk__button:focus {
+border: 1px solid #4d90fe;
+outline: none;
+}</p>
+<p>.inboxsdk__compose_actionToolbar .inboxsdk__button.inboxsdk__button_hover &gt; div, .inboxsdk__compose_actionToolbar .inboxsdk__button:focus &gt; div {
+opacity: 1
+}</p>
+<p>.inboxsdk__compose_groupedActionToolbar {
+position: absolute;
+bottom: 44px;
+background: #f5f5f5;
+margin: 3px;
+box-shadow: 0 2px 2px -1px rgba(0,0,0,0.1);
+border: 1px solid #cfcfcf;
+padding: 1px !important;
+z-index: 10;
+left: 0px;
+}</p>
+<p>.inboxsdk__compose_groupedActionToolbar div.inboxsdk__button {
+z-index: 1;
+}</p>
+<p>.inboxsdk__compose_groupedActionToolbar_arrow {
+position: absolute;
+background: url('https://ssl.gstatic.com/ui/v1/icons/mail/down_pointer.png') no-repeat;
+width: 17px;
+height: 18px;
+bottom: -16px;
+margin-left: 4px;
+}</p>
+<p>/* end */</p>
+<p>/* appid warning gmail specific parts */</p>
+<p>input.inboxsdk__x_close_button {
+background-color: transparent;
+background-image: url(https://www.streak.com/build/images/circle_border_x.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 20px;
+width: 20px;
+border: none;
+display: inline-block;
+vertical-align: middle;
+cursor: pointer;</p>
+<p>float: right;
+margin: 5px;
+}</p>
+<p>/* thread rows */</p>
+<p>.inboxsdk__gmail_label.inboxsdk__label_has_icon .au {
+display: inline-block;
+margin-left: 14px;
+}</p>
+<p>.inboxsdk__thread_row_label .inboxsdk__button_icon,
+.inboxsdk__thread_row_label .inboxsdk__button_iconImg {
+height: 11px;
+width: 11px;
+}</p>
+<p>.inboxsdk__thread_row_label .inboxsdk__button_icon {
+display: inline-block;
+margin-top: 2px;
+margin-left: 4px;
+position: absolute;
+}</p>
+<p>.inboxsdk__thread_row_button {
+outline: 0;
+padding: 0 5px;
+position: relative;
+height: 15px;
+width: 15px;
+top: -2px;
+}</p>
+<p>.inboxsdk__gmail_action {
+float: right;
+position: relative;
+background-color: grey;
+border: 1px solid black;
+margin-left: 1em;
+cursor: default;
+padding: 0 6px;
+background-image: -webkit-linear-gradient(top,#e9e9e9,#e6e6e6);
+background-image: linear-gradient(top,#e9e9e9,#e6e6e6);
+border: 1px solid rgba(0,0,0,0.1);
+border-color: #ccc;
+color: #444;
+height: 17px;
+line-height: 17px;
+min-width: 56px;
+border-radius: 2px;
+font-size: 11px;
+font-weight: bold;
+text-align: center;
+white-space: nowrap;
+padding-right: 18px;
+}</p>
+<p>.inboxsdk__gmail_action:focus {
+border: 1px solid #4d90fe;
+outline: none;
+}</p>
+<p>.inboxsdk__gmail_action:active {
+box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}</p>
+<p>.inboxsdk__gmail_action:hover {
+box-shadow: 0 1px 1px rgba(0,0,0,.05);
+background-color: #ededed;
+background-image: -webkit-linear-gradient(top,#ededed,#eaeaea);
+background-image: linear-gradient(top,#ededed,#eaeaea);
+border-color: #b8b8b8;
+}</p>
+<p>.inboxsdk__gmail_action::after {
+content: '';
+position: absolute;
+right: 5px;
+top: 5px;
+margin-left: 5px;
+background: no-repeat url(https://ssl.gstatic.com/mail/sprites/smartmail-561acb673be75c1d374881a95997fce4.png) -67px -100px;
+width: 7px;
+height: 7px;
+opacity: .55;
+}</p>
+<p>.inboxsdk__thread_row_custom_date {
+margin-left: 2px;
+}</p>
+<p>span.inboxsdk__thread_row_custom_date + span:not(.inboxsdk__thread_row_custom_date) {
+display: none;
+}</p>
+<p>span.inboxsdk__thread_row_custom_draft_label + div.yW {
+display: none;
+}</p>
+<p>.inboxsdk__thread_row_attachment_icon {
+margin-left: 3px;
+width: 16px;
+height: 16px;
+}</p>
+<p>.inboxsdk__thread_row_icon_wrapper {
+display: inline-block;
+width: 25px;
+margin-right: 3px;
+}</p>
+<p>.inboxsdk__thread_row_image_added .y6 .inboxsdk__thread_row_icon_wrapper ~ span[id] {
+margin-left: 3px;
+}</p>
+<p>.inboxsdk__thread_row_icon_wrapper .inboxsdk__button_icon {
+position: absolute;
+top: 50%;
+height: 24px;
+overflow: hidden;
+width: 24px;
+margin-top: -12px;
+}</p>
+<pre><code>.inboxsdk__thread_row_icon_wrapper .inboxsdk__button_iconImg {
+  height: 24px;
+  width: 24px;
+  margin-top: 0px;
+}
+</code></pre>
+<p>.inboxsdk__thread_row_image_added .a4W, .inboxsdk__thread_row_image_added .apA, .inboxsdk__thread_row_image_added .apx {
+position: relative;
+}</p>
+<p>/* end thread rows */</p>
+<p>td.gH div.gK span:first-child &gt; img {
+margin-right: 3px;
+}</p>
+<p>td.gH div.gK span:first-child &gt; img:last-child {
+margin-right: 6px;
+}</p>
+<p>.inboxsdk__message_attachment_icon {
+width: 21px;
+height: 21px;
+margin-top: -3px;
+}</p>
+<p>/* Work around issue where clicking &quot;Remove formatting&quot; in Compose causes this</p>
+<ul>
+<li>element to become taller and shift the toolbar down. */
+.gU .aWQ {
+max-height: 3px;
+}</li>
+</ul>
+<p>.aQw .inboxsdk__button_iconImg {
+margin-top: 2px;
+}</p>
+<p>.aZi .asa .inboxsdk__button_iconImg {
+display: inline-block;
+vertical-align: middle;
+margin-top: -3px;
+}</p>
+<p>/* Message view attachments toolbar */
+.aZi .aZj .asa .inboxsdk__button_iconImg {
+margin: 0;
+}</p>
+<p>body .dw {
+/* Fixes issue where a tall compose window opened over a custom view could be</p>
+<ul>
+<li>overlapped by Gmail's top bar. Also fixes issue where mole widgets are</li>
+<li>only visible while a compose window is open.
+*/
+z-index: 6 !important;
+}</li>
+</ul>
+<p>.inboxsdk__compose_outerSidebar_wrapper {
+position: absolute;
+left: -401px;
+top: 0px;
+background: white;
+width: 400px;
+bottom: 0px;
+border-left: 1px solid silver;
+box-shadow: -2px 0px 1px #E6E6E6;
+display: block;
+}</p>
+<p>.inboxsdk__outerSidebarActive .aSt .inboxsdk__compose_outerSidebar_wrapper {
+border-left: 0;
+box-shadow: none;
+left: -400px;
+}</p>
+<p>.inboxsdk__outerSidebarActive .aSs &gt; div { width: 50% !important; margin-left: 30%; }</p>
+<p>.inboxsdk__compose_outerSidebar_header {
+background: #404040;
+font-size: 80%;
+padding: 10px 10px 11px 10px;
+color: white;
+border-bottom: 1px solid #C4C4C4;
+}</p>
+<p>.inboxsdk__compose_outerSidebar_body {
+position: absolute;
+width: 100%;
+bottom: 43px;
+top: 36px;
+left: -1px;
+overflow: auto;
+}</p>
+<p>.inboxsdk__compose_outerSidebar_footer {
+position: absolute;
+bottom: 0px;
+width: 100%;
+border-top: 1px solid rgb(206, 206, 206);
+display: block;
+}</p>
+<p>.inboxsdk__compose_innerSidebarActive form, .inboxsdk__compose_innerSidebarActive .GQ {
+padding-right: 200px;
+}</p>
+<p>div.inboxsdk__compose_statusbar {
+margin: 0;
+border: 0;
+height: 40px;
+}</p>
+<p>.inboxsdk__compose_statusbarActive .aoI {
+height: auto !important;
+}</p>
+<p>/* compose size fixing */
+.inboxsdk__compose .qz {
+max-height: inherit !important;
+}</p>
+<p>/* .dw means not fullscreen */
+.dw .inboxsdk__compose_statusbarActive .aDj.aDi {
+position: static !important;
+}</p>
+<p>.inboxsdk__compose_statusbarActive .aDj &gt; .aDh {
+height: auto;
+}</p>
+<p>.inboxsdk__recipient_row td.ok {
+height: 23px;
+}</p>
+<p>.inboxsdk__recipient_row td.az3 {
+padding: 0px 3px 3px 3px;
+}</p>
+<p>/* toolbar visibility */</p>
+<p>[data-thread-toolbar=true] [data-rowlist-toolbar=true] {
+display: none;
+}</p>
+<p>[data-toolbar-expanded=true] [data-toolbar-expanded=false] {
+display: none;
+}</p>
+<p>[data-toolbar-expanded=false] [data-toolbar-expanded=true] {
+display: none;
+}</p>
+<p>[data-toolbar-icononly=true] .inboxsdk__button_text {
+display: none;
+}</p>
+<p>.inboxsdk__menuItem img, .inboxsdk__menuItem .inboxsdk__icon {
+height: 16px;
+width: 16px;
+margin-left: -20px;
+position: absolute;
+margin-top: -1px;
+}</p>
+<p>/* end */</p>
+<p>/* modal */</p>
+<p>.inboxsdk__modal_overlay {
+right: 0px;
+bottom: 0px;
+}</p>
+<p>.inboxsdk__modal_fullscreen {
+position: fixed;
+top: 0px;
+left: 0px;
+bottom: 0px;
+right: 0px;
+z-index: 501;
+display: flex;
+display: -webkit-flex;
+justify-content: center;
+-webkit-justify-content: center;
+align-items: center;
+-webkit-align-items: center;
+padding: 110px 50px 50px 50px;
+}</p>
+<p>.inboxsdk__modal_content {
+margin-top: 30px; margin-bottom: 30px;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_content_no_buttons .inboxsdk__modal_content {
+margin-bottom: 0px;
+}</p>
+<p>.inboxsdk__modal_close {
+outline: none;
+cursor: pointer;
+}</p>
+<p>.inboxsdk__modal_fullscreen .inboxsdk__modal_container {
+position: relative;
+margin-top: -60px;
+width: auto;
+overflow: hidden;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideTop .inboxsdk__modal_close {
+display: none;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideTop .inboxsdk__modal_container {
+padding-top: 0px;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideTop .inboxsdk__modal_content {
+margin-top: 0px;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideTop .Kj-JD-K7 {
+margin: 0px;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideSides .inboxsdk__modal_container {
+padding-left: 0px;
+padding-right: 0px
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideBottom .inboxsdk__modal_content {
+margin-bottom: 0px;
+}</p>
+<p>.inboxsdk__modal_fullscreen.inboxsdk__modal_hideBottom .inboxsdk__modal_container {
+padding-bottom: 0px;
+}</p>
+<p>/* end modal */</p>
+<p>/* mole */</p>
+<p>/* Fix issue where Compose toolbar can become disconnected when moles or</p>
+<ul>
+<li>drawers are in use */
+.inboxsdk__drawers_in_use .aDi,
+.inboxsdk__moles_in_use .aDi {
+left: auto !important;
+}</li>
+</ul>
+<p>/* Make it so the compose/mole layer doesn't wrap, so we don't have to do a lot</p>
+<ul>
+<li>of fancy logic to hide moles ourselves when things get too crowded. */
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no {
+white-space: nowrap;
+}
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; * {
+white-space: initial;
+}
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; .nn {
+display: inline-block;
+float: none;
+}</li>
+</ul>
+<p>.inboxsdk__mole_view {
+position: relative;
+max-width: 564px;
+height: 100vh;
+vertical-align: top;
+display: inline-flex;
+display: -webkit-inline-flex;
+align-items: flex-end;
+-webkit-align-items: flex-end;
+}</p>
+<p>.inboxsdk__mole_view_inner {
+visibility: visible;
+box-sizing: border-box;
+margin-right: 5px;
+box-shadow: rgba(0,0,0,0.2) 0 2px 6px;
+min-width: 260px;
+min-height: 36px;
+}</p>
+<p>.inboxsdk__mole_view_titlebar {
+position: absolute;
+left: 0;
+right: 5px;
+color: white;
+font-size: 12.8px;
+background: #404040;
+box-sizing: border-box;
+height: 36px;
+padding-top: 7px;
+padding-left: 11px;
+cursor: pointer;
+}</p>
+<p>.inboxsdk__mole_view_titlebar h2 {
+font-size: inherit;
+font-weight: inherit;
+margin: 4px 0 0 0;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}</p>
+<p>.inboxsdk__mole_title_buttons {
+white-space: nowrap;
+float: right;
+padding-right: 5px;
+margin-top: -3px;
+}</p>
+<p>.inboxsdk__mole_title_buttons &gt; img {
+height: 24px;
+width: 24px;
+position: relative;
+top: 2px;
+opacity: 0.6;
+}</p>
+<p>.inboxsdk__mole_title_buttons &gt; img:hover {
+opacity: 1;
+background-color: #737373;
+}</p>
+<p>.inboxsdk__mole_view.inboxsdk__minimized .inboxsdk__mole_view_content,
+.inboxsdk__mole_view.inboxsdk__minimized.inboxsdk__mole_use_minimize_title h2.inboxsdk__mole_default,
+.inboxsdk__mole_view:not(.inboxsdk__minimized) h2.inboxsdk__mole_minimized,
+.inboxsdk__mole_view:not(.inboxsdk__mole_use_minimize_title) h2.inboxsdk__mole_minimized,
+.inboxsdk__mole_view.inboxsdk__minimized .Hl,
+.inboxsdk__mole_view:not(.inboxsdk__minimized) .Hk {
+display: none;
+}</p>
+<p>.inboxsdk__mole_view_content {
+margin-top: 36px;
+border: 1px solid #cfcfcf;
+background: white;
+min-width: 260px;
+min-height: 20px;
+max-height: 80vh;
+}</p>
+<p>.inboxsdk__mole_view_chromeless .inboxsdk__mole_view_inner {
+min-width: 0px;
+}</p>
+<p>.inboxsdk__mole_view_chromeless .inboxsdk__mole_view_content {
+margin-top: 0px;
+min-width: 0px;
+}</p>
+<p>/* end mole */</p>
+<p>/* tabs */</p>
+<p>.inboxsdk__tab {
+width: 30px;
+}</p>
+<p>.inboxsdk__tab.BJGAfDcCEfGHeGcF:first-child:last-child {
+display: none;
+}</p>
+<p>.inboxsdk__tab.inboxsdk__tab_selected {
+width: auto;
+}</p>
+<p>table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
+height: 28px;
+}</p>
+<p>.inboxsdk__tab_icon {
+width: 30px;
+height: 25px;
+background-position-x: 5px;
+background-position-y: 3px;
+background-size: 16px;
+bacgkround-repeat: no-repeat;
+}</p>
+<p>.inboxsdk__tab_icon img {
+height: 16px;
+width: 16px;
+margin-left: 5px;
+margin-top: 3px;
+}</p>
+<p>.inboxsdk__tab .aKx {
+top: 4px;
+}</p>
+<p>.inboxsdk__sidebar div[role=complementary] {
+position: static !important;
+}</p>
+<p>/* Fix issue where sidebar causes threadview to be taller than it should */
+.inboxsdk__sidebar &gt; div.y4,
+.dEIHfEAdBIAdfFIf &gt; div.y4 {
+display: none;
+}</p>
+<p>table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=tab] {
+border-left-width: 1px;
+}</p>
+<p>/* end tabs */</p>
+<p>/* old sidebar */</p>
+<p>.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+font: 12px Arial, sans-serif;
+max-width: 220px;
+}</p>
+<p>.inboxsdk__contentPanelContainer_contentContainer {
+overflow: hidden;
+margin-bottom: 10px;
+border-bottom: 1px solid #D8D8D8;
+}</p>
+<p>/* end old sidebar */</p>
+<p>/* sidebar */</p>
+<p>.dEIHfEAdBIAdfFIf div[role=complementary] {
+position: static !important;
+width: 216px !important;
+}</p>
+<p>.dEIHfEAdBIAdfFIf {
+/* Necessary to prevent z-indexes on sidebar items from causing them to show
+above stuff outside of the sidebar. */
+will-change: position;
+}</p>
+<p>.JCEBHBEHaadbcDAc {
+position: relative;
+}</p>
+<p>.dfbcABCfDFfFFJBH {
+background: #ffffff;
+}</p>
+<p>.EDGEbdaDcHAAHBfC {
+padding: 4px 0 12px;
+}</p>
+<p>.JCEBHBEHaadbcDAc.BJGAfDcCEfGHeGcF .EDGEbdaDcHAAHBfC {
+padding-top: 0;
+}</p>
+<p>/* end sidebar */</p>
+<p>/* custom content */</p>
+<p>.inboxsdk__custom_view_element {
+overflow: auto;
+}</p>
+<p>/* end custom content */</p>
+<p>/* nav menu */</p>
+<p>.inboxsdk__hide_native_marker .ain:not(.inboxsdk__navItem) {
+border-left-color: transparent;
+}
+.inboxsdk__hide_native_marker .ain:not(.inboxsdk__navItem) .nZ .aio * {
+color: inherit !important;
+}
+.inboxsdk__hide_native_marker .ain:not(.inboxsdk__navItem) .nU:not(.n1) .n0 {
+font-weight: normal;
+}</p>
+<p>.inboxsdk__navItem_hover .aj0, .inboxsdk__navItem_hover .p8 {
+visibility: visible;
+}</p>
+<p>.inboxsdk__navItem_link {
+position: absolute;
+top: 0px;
+right: -4px;
+}</p>
+<p>[dir=rtl] .inboxsdk__navItem_link {
+left: -4px;
+right: initial;
+}</p>
+<p>.inboxsdk__navItem_container .aio .inboxsdk__button {
+position: absolute;
+top: 0px;
+right: -30px;
+}</p>
+<p>.inboxsdk__navItem_marker {
+position: absolute;
+left: 0px;
+padding-bottom: 2px;
+}</p>
+<p>.ain .inboxsdk__navItem_container {
+margin-left: -18px;
+}</p>
+<p>.inboxsdk__navItem_container {
+margin-left: -14px;
+}</p>
+<p>.inboxsdk__expando {
+z-index: 1;
+}</p>
+<p>.aip .CK {
+color: #15c;
+}</p>
+<p>.aip .CK:hover {
+text-decoration: underline;
+}</p>
+<p>.inboxsdk__navItem_container .aio.aip {
+white-space: nowrap;
+}</p>
+<p>/* end nav menu */</p>
+<p>/* search results section */</p>
+<p>.inboxsdk__custom_sections {
+margin-bottom: 15px;
+}</p>
+<p>.inboxsdk__custom_sections.Wc {
+padding: 0px;
+margin-bottom: 0px;
+}</p>
+<p>.inboxsdk__resultsSection {
+padding-top: 20px;
+}</p>
+<p>.inboxsdk__custom_sections.Wc .inboxsdk__resultsSection {
+padding-top: 0px;
+}</p>
+<p>.inboxsdk__custom_sections .Wg {
+padding-top: 0px;
+}</p>
+<p>.inboxsdk__custom_sections.Wc .Wg {
+border-bottom: 0;
+padding: 0px;
+}</p>
+<p>.inboxsdk__results_collapsedContainer &gt; div {
+display: inline;
+}</p>
+<p>.inboxsdk__resultsSection.inboxsdk__resultsSection_collapsed {
+display: inline-block;
+margin-right: 20px;
+}</p>
+<p>.Wc .inboxsdk__resultsSection.inboxsdk__resultsSection_collapsed {
+margin-right: 0px;
+}</p>
+<p>.inboxsdk__resultsSection_collapsed .Cr {
+display: none;
+}</p>
+<p>.inboxsdk__resultsSection_title {
+white-space: nowrap;
+cursor: pointer;
+display: inline-block;
+}</p>
+<p>.Wc .inboxsdk__resultsSection_title {
+padding: 3px 0 3px 8px;
+}</p>
+<p>.inboxsdk__resultsSection_title_subtitle {
+opacity: 0.5;
+margin-left: 5px;
+}</p>
+<p>.Wc .inboxsdk__resultsSection_title_subtitle {
+font-size: 80%;
+}</p>
+<p>.inboxsdk__resultsSection_title .Wp {
+float: left;
+height: 10px;
+width: 20px;
+margin-top: 3px;
+}</p>
+<p>.inboxsdk__resultsSection_title h3 {
+margin-bottom: 10px;
+margin-top: 20px;
+display: inline;
+float: none;
+}</p>
+<p>.inboxsdk__resultsSection_header_summaryText.Wm:last-child .amH {
+padding-right: 0px;
+margin-right: 0px;
+}</p>
+<p>.inboxsdk__custom_sections.Wc .inboxsdk__resultsSection_header_summaryText:last-child {
+margin-right: 11px;
+}</p>
+<p>.inboxsdk__custom_sections.Wc .J-JN-M-I {
+margin-right: 13px;
+}</p>
+<p>.inboxsdk__resultsSection_header_summaryText.Wm + .aAE {
+margin-left: 3px;
+}</p>
+<p>.inboxsdk__resultsSection .TB.TC {
+text-align: center;
+}</p>
+<p>.inboxsdk__resultsSection .inboxsdk__resultsSection_loading {
+font-style: italic;
+}</p>
+<p>.inboxsdk__resultsSection .inboxsdk__resultsSection_result_icon {
+height: 15px;
+width: 15px;
+margin-left: 9px;
+}</p>
+<p>.inboxsdk__resultsSection .xX {
+width: 20ex;
+}</p>
+<p>.inboxsdk__resultsSection_result_title span {
+text-overflow: ellipsis;
+display: block;
+overflow: hidden;
+}</p>
+<p>.inboxsdk__resultsSection tr .xW &gt; span {
+overflow: hidden;
+display: block;
+text-overflow: ellipsis;
+}</p>
+<p>.inboxsdk__resultsSection .V3 {
+overflow: hidden;
+white-space: nowrap;
+}</p>
+<p>.inboxsdk__resultsSection .at {
+position: relative;
+}</p>
+<p>.inboxsdk__resultsSection .at &gt; * {
+display: inline-block;
+}</p>
+<p>.inboxsdk__resultsSection_label_icon {
+height: 11px;
+width: 11px;
+position: absolute;
+margin-left: 4px;
+margin-top: 1px;
+}</p>
+<p>.inboxsdk__resultsSection .av, .inboxsdk__thread_row_label .av {
+max-width: 90px;
+overflow: hidden;
+text-overflow: ellipsis;
+}</p>
+<p>.inboxsdk__resultsSection_label_icon + .av, .inboxsdk__thread_row_label .inboxsdk__button_icon + .av {
+margin-left: 16px;
+}</p>
+<p>.Wc .inboxsdk__resultsSection_footer {
+padding: 3px 3px 3px 8px;
+}</p>
+<p>/* end search results section */</p>
+<p>/* tooltip */</p>
+<p>/* gmail styles */</p>
+<p>.inboxsdk__tooltip .T-P {
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.2);
+box-shadow: 0 1px 3px rgba(0,0,0,.2);
+background-color: #fff;
+border: 1px solid;
+border-color: #bbb #bbb #a8a8a8;
+padding: 16px;
+position: absolute;
+z-index: 1201!important;
+}</p>
+<p>.inboxsdk__tooltip.inboxdk__tooltip_content .T-P {
+padding: 0px;
+}</p>
+<p>.inboxsdk__tooltip .aRM {
+outline: none;
+padding: 13px 10px 16px;
+text-align: center;
+font: normal normal normal normal 16px / normal arial, sans-serif;
+}</p>
+<p>.inboxdk__tooltip_content.inboxsdk__tooltip .aRM {
+padding: 0px;
+}</p>
+<p>.inboxsdk__tooltip .aRR {
+color: #333;
+font-size: 18px;
+margin-top: 13px;
+}</p>
+<p>.inboxsdk__tooltip .aRQ {
+color: #777;
+font-size: 13px;
+margin: 3px 0 14px 0;
+}</p>
+<p>/* end gmail styles */</p>
+<p>.inboxsdk__tooltip {
+position: fixed;
+z-index: 1300;
+transition: left 200ms ease, top 200ms ease;
+}</p>
+<p>.inboxsdk__tooltip .T-P {
+position: relative;
+width: auto;
+max-width: 500px;
+}</p>
+<p>.inboxsdk__tooltip .inboxsdk__tooltip_arrow {
+position: fixed;
+z-index: 1400;
+margin-top: -1px;
+transition: left 200ms ease, top 200ms ease;
+}</p>
+<p>.inboxsdk__tooltip .inboxsdk__tooltip_close {
+-webkit-user-select: none;
+}</p>
+<p>.inboxsdk__tooltip .inboxsdk__button {
+margin-right: 0px;
+}</p>
+<p>.inboxsdk__tooltip .inboxsdk__tooltip_image {
+max-height: 300px;
+max-width: 500px;
+overflow: hidden;
+height: auto;
+}</p>
+<p>.inboxsdk__tooltip .inboxsdk__tooltip_image &gt; img {
+max-height: 300px;
+max-width: 500px;
+}</p>
+<p>/* end tooltip */</p>
+<p>/* attachment card */</p>
+<p>.inboxsdk__attachmentCard img.aQG.aYB {
+max-width: 178px;
+min-width: 178px;
+min-height: 118px;
+}</p>
+<p>.inboxsdk__attachmentCard img.aZG.aYw {
+background: none;
+}</p>
+<p>/* add some margins between cards so 4+ cards don't hit each other */</p>
+<p>.aQw &gt; .T-I.J-J5-Ji.L3 {
+margin-top: 5px;
+}</p>
+<p>/* end attachment card */</p>
+<p>/* keyboard shortcut help */</p>
+<p>table.cf.wd.inboxsdk__shortcutHelp_table {
+margin-bottom: 15px;
+}</p>
+<p>.inboxsdk__shortcutHelp_table td.Dn {
+display: inline-block;
+width: 50%;
+}</p>
+<p>.inboxsdk__shortcutHelp_table table.cf {
+display: block;
+}</p>
+<p>.inboxsdk__shortcutHelp_table tbody tbody {
+display: block;
+}</p>
+<p>.inboxsdk__shortcutHelp_table tbody tbody tr {
+display: block;
+white-space: nowrap;
+}</p>
+<p>.inboxsdk__shortcutHelp_table td.wg.Dn {
+display: inline-block;
+width: 45%;
+}</p>
+<p>.inboxsdk__shortcutHelp_table span.wb {
+margin-left: 3px;
+}</p>
+<p>.inboxsdk__shortcutHelp_table td.we.Dn {
+width: 60%;
+white-space: normal;
+}</p>
+<p>.inboxsdk__shortcutHelp_title img.inboxsdk__icon {
+height: 21px;
+width: 21px;
+vertical-align: middle;
+margin-right: 10px;
+border-radius: 4px;
+}</p>
+<p>/* end keyboard shortcut help */</p>
+<p>/* search suggestions */</p>
+<p>.asor.inboxsdk__custom_suggestion {
+display: flex;
+display: -webkit-flex;
+justify-content: center;
+-webkit-justify-content: center;
+align-items: center;
+-webkit-align-items: center;
+}</p>
+<p>.inboxsdk__custom_suggestion img {
+max-width: 32px;
+max-height: 32px;
+margin-left: -11px;
+}</p>
+<p>/* end send suggestions */</p>
+<p>/* app toolbar */</p>
+<p>.inboxsdk__appButton {
+margin-right: -15px;
+}</p>
+<p>.inboxsdk__appButton:first-child {
+margin-left: -45px;
+}</p>
+<p>.inboxsdk__appButton + .inboxsdk__appButton {
+margin-left: 35px;
+}</p>
+<p>.inboxsdk__appButton.inboxsdk__appButton_noGPlus {
+margin-right: 0px;
+}</p>
+<p>.inboxsdk__appButton .inboxsdk__button_icon {
+margin-right: 5px;
+position: relative;
+}</p>
+<p>.inboxsdk__appButton a {
+color: #404040;
+text-decoration: none;
+line-height: 24px;
+}</p>
+<p>.inboxsdk__appButton.inboxsdk__appButton_noGPlus a {
+line-height: 30px;
+}</p>
+<p>.inboxsdk__appButton a:hover {
+text-decoration: underline;
+color: #000;
+}</p>
+<p>.inboxsdk__gmail_dark_theme .inboxsdk__appButton a {
+color: #eee;
+}
+.inboxsdk__gmail_dark_theme .inboxsdk__appButton a:hover {
+color: #fff;
+}</p>
+<p>.inboxsdk__appButton_tooltip {
+outline: none;
+transition: none;
+-webkit-animation: gb__a .2s;
+}</p>
+<p>.inboxsdk__appButton_tooltip .inboxsdk__tooltip_close {
+display: none;
+}</p>
+<p>.inboxsdk__tooltip.inboxsdk__appButton_tooltip .T-P {
+padding: 0px;
+}</p>
+<p>.inboxsdk__tooltip.inboxsdk__appButton_tooltip .aRM {
+padding: 0px;
+white-space: initial;
+text-align: center;
+font: normal normal normal normal 16px / normal arial, sans-serif;
+}</p>
+<p>.inboxsdk__tooltip.inboxsdk__appButton_tooltip .inboxsdk__tooltip_arrow {
+transform-origin: top;
+transform: rotateZ(180deg);
+margin-top: 9px;
+}</p>
+<p>/* end app toolbar */</p>
+</style></head><body style="zoom: 1;">
+<ESHAD/><center><p><a href="http://chalk.reallyhim.com"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://gate.reallyhim.com"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://ender.reallyhim.com"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /><a href="http://slack.reallyhim.com"><img src="http://i.imgur.com/jne0eNw.png" height=97 width=97></a> <br /></a></p></center><OSHAD/>
+<div class="bodycontainer"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr height="14px"><td width="143"><img alt="Ministry of Forbidden Knowledge Mail" class="logo" height="59" src="http://i.imgur.com/2kBmj1c.png" width="143"/></td><td align="right"><font color="#777" size="-1"><b>Adam M. Dobrin &lt;zeuslight@thunderstanding.tk&gt;</b></font></td></tr></tbody></table><hr/><div class="maincontent"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><font size="+1"><b>Fwd: We are now approaching lunar *Sunrise, for everyone back on Earth... a message from the Heavens</b></font><br/></td></tr></tbody></table><hr/><table border="0" cellpadding="0" cellspacing="0" class="message" width="100%"><tbody><tr><td><font size="-1"><b>GMass_Sent_Copy@gmass.co </b>&lt;GMass_Sent_Copy@gmass.co&gt;</font></td><td align="right"><font size="-1">Mon, Feb 6, 2017 at 9:13 AM</font></td></tr><tr><td colspan="2"><font class="recipient" size="-1"><div>To: grad-womeng@lists.gatech.edu</div></font></td></tr><tr><td colspan="2"><table border="0" cellpadding="12" cellspacing="0" width="100%"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr"><div class="gmail_quote"><div dir="ltr"><div style="font-size:12.8px;text-align:center">the words in the subject were first spoken to the world by the crew of Apollo 8 on Christmas Eve,<b> that's something like <i>tonight</i>.  </b></div><div style="font-size:12.8px;text-align:center"><b><br/></b></div><div style="font-size:12.8px;text-align:center">the time is always ripe to do what's<b> <i><u>write</u> -MLK </i></b></div><div style="font-size:12.8px;text-align:center"><b><i><br/></i></b></div><div style="font-size:12.8px;text-align:center"><b>Write</b> therefore, what you have seen. -Revelation</div><div style="font-size:12.8px;text-align:center"><br/></div><div style="font-size:12.8px;text-align:center"><b>How many times do I have to tell you? -Imagine Dragons</b></div><br style="font-size:12.8px"/><div dir="ltr" style="font-size:12.8px"><div class="gmail_quote"><div dir="ltr"><div class="gmail_quote"><div dir="ltr"><div><div style="text-align:center"><b>this message will keep the world from self-destructing, read and share it</b>. -Dr. Who</div></div><div><br/></div><div>Hello <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/SEEWHYRAISEL.html&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNHXlR1JLm-v31c3ugymddG_wPVKFw" href="http://bit.ly/2kKyWa5" target="_blank">Israel</a>, </b>in my world of magic words that tells the story of <b>the Second Coming</b>, that's all of you.  It's the group of angels or demon that are asking themselves the question "Is Ra El?"  In plain English, read that as "is God really <i>him</i>?" Understand that whether or not you are an angel has nothing to do with your personal answer to that question; but it really might have something to do with how you treat the content of this message.  I am cautioning you to take it seriously and separate its sender and what you believe your savior to be from the content being delivered because you will be making mistake if you ignore it for any reason other than not agree with what is being presented.  That being said; I have plenty, and I mean plenty of proof... <i>and Holy purpose.</i></div><div><br/></div><div style="font-size:12.8px"><i>Let's start with this, we are not in reality, and wave-function collapse and it's correlation to a video game rendering engine "catering to consciousness" is the beginning of the message; it is one that must be delivered to the world, the alternatives are things like living until the power randomly goes out or permanent midnight.  Period.  More than just the obvious scientific issues of physics wasting their time and our future trying to unify a virtual set of "mechanics" with the actual laws of reality... a significant part of this message, from <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://itsuni.tk/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNFchOAS0FEC1xioSafRlzhCAG5DnQ" href="http://bit.ly/2iPxX51" target="_blank">the true Fifth Element being <b>Silicon</b></a> (to match the index of my initials, which grace our timeline and names like Adonai-<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://zelda.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNFw0JzxmMP7RVYe6vYINzpMKV8efQ" href="http://bit.ly/2gZfr8l" target="_blank">A.D. on Artificial Intelligence</a>) to my initials matching a computer chip maker is designed to ensure we do not lose this grounding in where we actually are... and <b>not knowing this truth is keeping us from building Heaven</b>. <b> </b>So the beginning of Holy Purpose here, help this message reach everyone... like, <b>on TV.</b></i></div><div><br/></div><div>In the way of "proof," let's bring this Ra concept forward to the name Abraham, which in light of the meaning of Isaac's name "he laughs" clearly shows the Holy Trinity... many years, or millennium before that idea was "invented."  Ab is father in Hebrew, the first word in the Strong's Concordance, actually; we're all somewhat familiar with the God of the Rising Sun, and there's quite a bit about the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoah.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNH6gyRrAEFAw8zeuetecJs3xgfDJA" href="http://bit.ly/2h1CUWe" target="_blank">Holy Spirit's </a><i><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoah.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNH6gyRrAEFAw8zeuetecJs3xgfDJA" href="http://bit.ly/2h1CUWe" target="_blank">laughter</a> </i>coming our way.  I've got this in spades, take the time to look if you have any interest in the "secrets of the Universe," and Abraham (changed from Abram due to his Covenant... with his son) is joined by the prophetic name Elisha to logically equate both the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://thor.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNHbEiTMkQiXgnmmYzQi9Rr4LtQ2QA" href="http://bit.ly/2h1qEFb" target="_blank">Spanish and Hebrew for "the" through the English "is"</a> as well as the God of all Gods, El; linked here directly to <i>him (psst, <b>it's me</b>).</i></div><div><br/></div><div><i>In your head, now imagine what you think the world's natural reaction to verifiable proof of Creation and God's existence would be.  Now look around you, and realize something here... is very wrong.  <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://hammer.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNEuj_v-4DDQGhvoYaiOX4wQPNo_qQ" href="http://bit.ly/2kT53Fp" target="_blank">Morning is half-broken.</a>  </b>This proof before your eyes today has "sprinkled many nations," their governments, scholars, scientists, theologians, and nearly all of the English speaking press on the face of the Earth.  Think long and hard about whether or not you want to spend eternity and give to your children a place that could hide this kind of information, when it's plastered in every movie, every song, and every word of every language.  <b>Stand up and shout,</b> the silence and darkness--censorship and secrecy so thick it can be felt--that I see is disgusting.  If you were worried about a disaster, be assured, it is the wall stopping the truth and our ascension to Heaven that <b>the big bad wolf.  </b>Unchecked, it's also the end of freedom and eventually civilization in sum; thank <b><u>your lucky star</u></b> that I am here... </i>or so the story goes.  Until you see my name on television, be very sure that this is Hell and <i>it's only getting worse.</i></div><div><br/></div><div style="text-align:center"><b><font size="6">carpe diem.</font></b></div><div style="text-align:center"><b>Seriously, wake up, take this gift... it's </b>absolutely <b>everything.  </b>Hey, you've got an an audience tonight... <b>light my fire!</b></div><div style="text-align:center"><b><br/></b></div><div><br/></div><div>I am getting sick and tired of writing you e-mails, and seeing absolutely no action, in the words of Imagine Dragons--<b>I've woken up to action dust.  </b>This is a battle between me and the "Holy Sea" to actually live up to that word and take <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ofome.ga/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNHPWzlwfx8e6jY69cHUdp_wz0G4GA" href="http://bit.ly/2hYsbMD" target="_blank">this message</a></b> and change the world with it.  To build Heaven.  Specifically in detail, I am presenting God's Holy suggestions that we start working to create a technocracy, <b>an advanced system to enable self governance</b> rather than "representative democracy," that our justice system be <b>pulled out of retrograde</b> <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://minorityreport.tk/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNHEWafqBC94oF0awMqSOzRWAixcvQ" href="http://bit.ly/2ikj6li" target="_blank">with Minority Report style pre-crime</a>, again along with proof that we can do that.  I demand we wake up and see the <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://cake.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNEO-xGY3woAffl3zFRLp2wEF00bCw" href="http://bit.ly/2ha4H70" target="_blank">needless starvation and sickness that surrounds us and work to put an end to it forevermore</a>.  </b><br/></div><div><b><br/></b></div><div><font size="4"><b>I can <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNFTis0YIPNxh07jfmr8yJoz1tQxjQ" href="http://bit.ly/2l12JfL" target="_blank">show you "my" Heaven</a>, </b>but you need <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/JOHN717.html&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNF5mjLPm00vH9yQYbGYpNVws84W9A" href="http://bit.ly/2kKIWjC" target="_blank">to take part</a>... <b>or that word is meaningless. </b> <i>Want proof?</i></font></div><div><b><br/></b></div><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px"><div><i>The beginning</i> ... starts with <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sign.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNENzKxvDxTMjl8NSvLH8o1ZPkGILQ" href="http://bit.ly/2ia0F3k" target="_blank">sight of the Burning Bush</a></b>, highlighting the Hebrew word for Holy Fire, that describes it... H <b>a'es </b>h</div><div><br/></div><div>Within that word, the <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://theword.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNG1vLt68SoV1A-F7z7AHLKl-z2Qcw" href="http://bit.ly/2i7aA9O" target="_blank">true parted sea of Moses</a>, </b>in reverse--and parted by an <b>apostrophe</b>.  In our world, that's little old me, parting the waters. </div><div><br/></div><div><b>Let there be light, </b>those words are described in the name Exodus, read in reverse, and transliterated from Linux jargon, and chemistry elements.  In those two-letter symbols, the <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://torch.lamc.la/&amp;source=gmail&amp;ust=1486487242411000&amp;usg=AFQjCNFoq18hNp3LLQZZBe3ftvAS_CCR9w" href="http://bit.ly/2i7b9AF" target="_blank">key to Revelation 1:20, the mystery of the Lampstands in the hands of Jesus Christ.</a></b></div><div>  </div><div>With just a little bit of research into what it is that I see, <b>proof that 9/11 was predicted not only by our Shining Bush</b>,  but that you are <b>the shining sea</b>, the multitude of Revelation.</div><div><br/></div></blockquote><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px"><div>In some very obvious places, like seeing Love and "sun" in the name of the Woman Clothed in the Sun with the moon at her feet--proof that English was known when Venus was named in Greek, and Revelation 12:1 written... or seeing our idiom "on the lam" relate directly to t<b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/2NAME.html&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNFGYudI9Wt_kEmcK0tSnJl1vcWOoQ" href="http://bit.ly/2iEeWFj" target="_blank">he story of the Trial of Christ</a></b> and see that the Lamb of God "<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://lamb.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNE2LDNUmm2ib3Qsj38xwWsUYYqkSQ" href="http://bit.ly/2i73ulL" target="_blank">islam</a>" bright light coming from the<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://itsuni.tk/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNFvT8N6FQX5PBeMKc3hm2sSpXbHJA" href="http://bit.ly/2iPxX51" target="_blank"> name Ko<b>ran</b>, some lyrics I hold dear</a>, and freedom coming from my story.  </div><div><br/></div><div>There are tens of thousands of examples of similar anachronisms, and in truth <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://cake.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGoUB-Z1fiCyPvnGEihqrAu94edAA" href="http://bit.ly/2ha4H70" target="_blank">a secret language written into the names of many people, places, and ... everything</a>... just waiting to be read by the world.  Yankee Doodle would call it macaroni, this macaronic fusion of acronyms Spanish and English in Hebrew that Shakespeare--Rattling a Rod now--would call Spanglishrew, now tamed.  Stephen King would probably say they are outliers and call it "Langolier" and in the Matrix you'd probably just see a Cypher--one of the characters. </div><div><br/></div><div> Either way, it should start becoming clear that this is much more than "names" or a "hidden language" it's in our art and our history... it is <b>our everything.</b></div><div><br/></div></blockquote><div><div>In the links of this e-mail I am providing clues to a series of events in my life which are predicted in the Holy Bible and a significant amount of ancient mythology.  Along with these details, you are being given a ridiculous amount of evidence that the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bygod.whenistheapocalypse.com/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNFm-v07vQ_sQuira-rvIxSNF2JkRA" href="http://bit.ly/2hcTgLZ" target="_blank"><b>English language and modern computing</b></a> were known at the time of the writing of these stories and that the intent of that ancient record is to prove to you that we are not in reality and that time travel does exist.  With only a little bit of thought, you can see for yourself that <b>this message</b> has been laid out all over "our everything," from the names of <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bread.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGndWDTrMKIlT4sUniRWpFb4mRROw" href="http://bit.ly/2h1Gyzh" target="_blank">video game</a> and <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://happy4th.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNEpTl8Nd49IaEJLgDCCcnBNijAAlQ" href="http://bit.ly/2hN14rE" target="_blank">computer</a> companies, <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://michelin.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNEnR1tmZp3GtPF99ToJhcF1m9y9xw" href="http://bit.ly/2hZXIBI" target="_blank">d<wbr>epartment stores and tire companies</wbr></a>, </b>to nearly <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/WHYSODOM.html&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNHWeKGvkNTvtvmdYtZkqbkT3DL0HQ" href="http://bit.ly/2j7BuMm" target="_blank">every single modern medicine</a></b>--with the hope that we will seek out God's words and advice ourselves... and see that there is a map to a golden future in everything around us, in everything that we are.  It's a kind of answer to my cries and wishes from the very beginning of this story for me... that proof be "written on the sky," see clearly His answer is that the sky, Heaven, is all around us.  It's probably worth noting that these names are contextually "important," adding significant information like the relationship between video games and computers... and Heaven.<br/><div><br/></div><div>We stand at a place in time that has been written and etched into the messianic map that is this world as the name of the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/JERUSALEM.html&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNERcRdQVAOd_Yss3pY8P8zTvJ0SIg" href="http://bit.ly/2it07Ga" target="_blank">city <b>Jerusalem</b>, read it "is J or the USA the Messiah?" </a> I've got an easy answer for you, today it's most definitely not the USA; when we start, when this really begins, the answer changes to seeing that the USA is the heart of a map, and <b>I am the Legend</b> of that map.  Love me or hate me, I am providing you with proof that we are <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bread.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGndWDTrMKIlT4sUniRWpFb4mRROw" href="http://bit.ly/2h1Gyzh" target="_blank">living in a virtual reality</a></b> at a place in time that has been selected for thousands and thousands of years as the recipient of a technological singularity that includes not only <b>proof of time travel</b> but of other advanced technologies <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://thunderstand.tk/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNHD7AdWAnyENT0ZtOcm-y2h-qY6YQ" href="http://bit.ly/2iyCHfd" target="_blank">like mind control</a></b>.  Proof, you have proof now; even if you have only read this far.  Each and every day that passes you lose a little bit more of the help I can offer, and <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://keynes.hallowed.gq/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGIhCc2KHvjns5QvOa4RLsiEL05Qw" href="http://bit.ly/2jW1oDr" target="_blank">each day is another day spent wallowing in Hell </a></b>instead of taking control of our collective destiny.</div><div><br/></div><div>Note the intentional reference to the USA thousands of years before it existed, in this story created... as America and Exodus was, by God to deliver freedom to the Universe.  See that "er" in <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://neterson.tk/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGjwrFma2aMT9acUh0Ey4V6muXdjw" href="http://bit.ly/2i3iDku" target="_blank">the Anderson from the Matrix and Feed</a>; and now take a look at the word "<b>eternity,</b>"<b> </b>that's and, and, and, <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://why.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGO51iwR9Tpw62DZsp_7E1OAAtLFg" href="http://bit.ly/2i71aeC" target="_blank">it's why</a>... in Latin, Matrix, Rock 'n Roll, and Spanish or "Adamish acronym" depending on whether or not Y is another and or an answer.  Bet on both being explained in this land of Y.:)</div><div><br/></div><div>Through nothing more than the stories of <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/2NAME.html&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNFGYudI9Wt_kEmcK0tSnJl1vcWOoQ" href="http://bit.ly/2iEeWFj" target="_blank">my name</a></b> and <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://islam.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNEhms6onTr7Df_a0LQJw5tge1WcRg" href="http://bit.ly/2iPRXEQ" target="_blank">my life</a>, </b>this proof is fortified with more details and <b>Holy Purpose</b> that shows that we are here to help our civilization gain promised freedoms that have remained out of our grasp due to nothing more than secrecy and ignorance for thousands of years.   This is verifiable scientific evidence, patterns that can be proven to be non-random and are in effect maps to the life of Jesus Christ--take them and use them, and this designed disruption, to change the things that make this world Hell--you have our input clearly displayed in <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://midas.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGKxC1n1Y5PMGgXsrTRqHIHWOzQKg" href="http://bit.ly/2gZkgyq" target="_blank">my struggle against the loss of freedom here in America--one rendition of the Holy Grail</a>.  </b>In the aftermath of the battle, it's clear to me that it was an attempt to suppress <i style="font-weight:bold">changing the world</i> by throwing me into "legal hot water," (see Isaiah 52:13, "<b>he will be setup and be very high"</b> and <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNEN_1wpvgvT2Uy3k26JxBPEKDrgqw" href="http://bit.ly/2l12JfL" target="_blank">my name and the name Jesus Christ crossing</a> directly over it in <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matchbox.lamc.la/SIGNAL.html&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGBNnENTAJBAtmie-pTDHjRWu5zYw" href="http://bit.ly/2i9crdC" target="_blank">Bible Code</a> .. and in nearly every other book) it's become clear that a grander design has instead brought to full focus the serious flaws in our legal system and law enforcement... a number of Constitutionally... and God given rights being abrogated in this day by the American... "government."</div></div><div><b><br/></b></div><div><b>Exodus</b> itself is a story about this generation and specifically about this event; we are being lead out of a slavery that we still cannot see clearly; but will just as soon as we overcome it.  Through this event, a great number of social justice problems and systemic disasters have been highlighted--ones you see and know about, but don't really realize how big of a deal it is.  Things like <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://censorship.lamc.la/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNGl_yOrPafIbJ_g2AKWeT1BbPnrLw" href="http://bit.ly/2hNeOE0" target="_blank">media censorship</a> </b>have been put on a fiery pedestal in <b>a world that has ignored this proof for over a year now.</b>  Make no mistake, the anachronistic paradoxes in language are nothing short of proof of the Creation of Humanity and the existence of God; and they and I have been hidden by something dark and sinister... whose true purpose is to keep Heaven from being created from our world, to stop this place from being helped.</div><div><br/></div><div><b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://thunderstand.tk/&amp;source=gmail&amp;ust=1486487242412000&amp;usg=AFQjCNHD7AdWAnyENT0ZtOcm-y2h-qY6YQ" href="http://bit.ly/2iyCHfd" target="_blank">Sound the Horn of Revelation</a>, I am coming--and I will plow through anything standing in the way of the truth and free communication.  </b>Hear me, this message of vastly improving the quality of democracy in our world and of our participation in the creation of laws and self governance ties very tightly to your participation in helping this message to be heard.... and then continuing to see and write it together, the way it was intended to be received.</div><div><br/></div><div>I need your help, make no mistake the conspiracy that this message has created and exposed, both intentionally, reaches through the Vatican, through your government, and higher in the sky than you can imagine.  This is our time, and <b>seizing this day, working together, and sharing our light</b> is what saves everything that ever was and everything that ever will be.  Share my words and your thoughts with your friend and family, send an e-mail to your local press or government representatives--they've probably already heard from me... it's time you got involved.</div><div style="text-align:center"><br/></div><div style="text-align:center"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://itsuni.tk/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNH9kDCOYyA5_9SdWN_7WT81gW6uZA" href="http://bit.ly/2iPxX51" target="_blank"><i style="font-weight:bold">the</i> Last Adam</a></div></div><div style="text-align:center"><br/></div><div style="text-align:center"><b><span style="color:rgb(37,37,37);font-family:sans-serif"><font size="6">In <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://genesis.lamc.la/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNHaOypNgxKNbqCFEmnyu22fhkk0Vw" href="http://bit.ly/2kT4yLq" target="_blank">the beginning</a>... <i><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://name.lamc.la/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNGxuVLSqw6kmBzqc8MlAG6XBDypbA" href="http://bit.ly/2iancNz" target="_blank">God</a> created</i> the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://almost.lamc.la/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNH9s9uCHR_F6uHjYDYigm6_NyGlgQ" href="http://bit.ly/2iasIjl" target="_blank">h<wbr>eaven</wbr></a> and the <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sign.lamc.la/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNEdikrJ0tQiKpKjGd3OFddWta6XsA" href="http://bit.ly/2ia0F3k" target="_blank">earth</a>.</font></span></b></div><div style="text-align:center"><span style="color:rgb(37,37,37);font-family:sans-serif"><font size="4"><br/></font></span></div><div style="text-align:center"><span style="color:rgb(37,37,37);font-family:sans-serif"><font size="4">Those links in the big bold line are all movies, if you happen to find yourself bored at a Superbowl party, or if you happen to work for FOX and you want to single handedly save the world by broadcasting something special, we'll thank you--I promise.  Please, make some phone calls, <b>today</b>.  Try now, <b><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://dark2right.lamc.la/&amp;source=gmail&amp;ust=1486487242413000&amp;usg=AFQjCNEAyGMmSrSH1aIhcF8hISHslhJnHQ" href="http://bit.ly/2h2EYxm" target="_blank">we have it.</a>  </b></font></span></div><div style="text-align:center"><span style="color:rgb(37,37,37);font-family:sans-serif"><font size="4"><b><br/></b></font></span></div><div style="text-align:center"><span style="color:rgb(37,37,37);font-family:sans-serif"><b><font size="6"><img height="372" 
+src="SONRISE.gif" width="412"/><br/></font></b></span></div><div style="text-align:center"><span style="color:rgb(37,37,37);font-family:sans-serif"><b><font size="6"><br/></font></b></span></div><div style="text-align:center"></div><div style="text-align:center"><font color="#252525" face="sans-serif" size="6"><b>Genesis 3:24</b></font></div></div></div></div></div></div></div><div hspace="streak-pt-mark" style="max-height:1px"><img src="http://i.imgur.com/2Y0QC0M.png" style="width:0px;max-height:0px;overflow:hidden"/><font color="#ffffff" size="1">ᐧ</font></div>
+</div><br/></div>
+</font></div></td></tr></tbody></table></td></tr></tbody></table></div></div><script type="text/javascript">// <![CDATA[
+// ]]></script></body></html>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./SIGNAL.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="./SPEARS.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./SIGNAL.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./SPEARS.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>

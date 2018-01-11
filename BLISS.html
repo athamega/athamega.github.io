@@ -1,0 +1,227 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>BLISS.md - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
+            if (typeof Clipboard == 'undefined') {
+                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = store.get('mdbook-theme');
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html" class="active"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./messengertour.html"><strong>115.</strong> messengertour.md</a></li><li><a href="./music_saves_all_souls.html"><strong>116.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>117.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>118.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>119.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>120.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>121.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>122.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html"><strong>123.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>124.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>125.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>126.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>127.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>128.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>129.</strong> whenistheapocalypse.md</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <table>
+    <tbody>
+        <tr>
+            <td><strong>Hello? Is this thing on? Hell-0? Adam-V</strong></td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <td><strong>311&nbsp;</strong>&lt;311@devilsadvocate.tk&gt;</td>
+            <td>Sun, Jan 29, 2017 at 9:38 AM</td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>To: &quot;We are, we are... family.&quot; &lt;are@whenistheapocalypse.com&gt;</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                        <p>Tucked away near the end of this message you have some solemn words of wisdom, the kind of advice that will&nbsp;<strong>help you avoid Hell</strong>&nbsp;and maybe high water.&nbsp; Probably not the high thing, though.</p>
+<pre><code>                    &lt;blockquote&gt;
+                    &lt;p&gt;First though, I&amp;#39;m trying some &amp;quot;Levity,&amp;quot; a joke:&amp;nbsp;So a guy walks into a computer... and he&amp;#39;s trying to convince it to make him immortal.&lt;/p&gt;
+                    &lt;/blockquote&gt;
+
+                    &lt;blockquote&gt;
+                    &lt;blockquote&gt;
+                    &lt;p&gt;In the beginning He&amp;nbsp;&lt;em&gt;starts off&lt;/em&gt;&amp;nbsp;with roll reversal, and suggests that everyone think of this particular computer as if it were a log cabin in the woods.&amp;nbsp; The man asks the computer which design it would prefer to be: would you choose to be a log cabin that did not decay or rot, always smelled pine fresh and needed no air conditioning because the temperature was always set.... or would you choose to live longer? &amp;nbsp; Adam came into the conversation right about then, and chimed in that were the entire subatomic world to be simulated in order to mimic reality a significant amount of additional &amp;nbsp;resources would be required not only to store the extra detail but to render the interactions.&amp;nbsp; On top of all that nobody wants termites around or to have to put a new roof on every decade; nor the extra power required to cool in the summer and heat in the winter.&amp;nbsp; People don&amp;#39;t want their portraits of Jesus hanging on the walls to be faded by particles of light; they always want to see him fresh and vibrant.&lt;/p&gt;
+                    &lt;/blockquote&gt;
+
+                    &lt;blockquote&gt;
+                    &lt;p&gt;One day in the very distant future, the time would come when people would be happy that knowledge of how things were done back in the days of the Pyramids... before computers and robots and holodecks began doing everything for everyone--long before God mandated that every day was for parties and every night for rock and roll... only leaving a leap day and some seconds for doing actual work--under penalty of death.&amp;nbsp; Well, when &amp;nbsp;that one day comes they will be glad that Adam still knows how to travel back in time.&lt;/p&gt;
+                    &lt;/blockquote&gt;
+
+                    &lt;blockquote&gt;
+                    &lt;p&gt;Right about now I&amp;#39;d be singing and dancing to John 14:2 and solemnly praying the verses of Dave Matthews&amp;#39; &amp;quot;So Much To Say;&amp;quot; I say, &amp;nbsp;my Heaven is a log cabin in the sky... I&amp;#39;ve got a holographic girlfriend and she&amp;#39;s alright at chess.&lt;/p&gt;
+
+                    &lt;p&gt;This is clearly a rough draft, he says the third time he wrote the same exact words, mind you; with no recollection of the last four times.&amp;nbsp; The final words that the computer spoke were &amp;quot;What&amp;#39;s a phc &amp;nbsp;&lt;/p&gt;
+                    &lt;/blockquote&gt;
+                    &lt;/blockquote&gt;
+                    Beware the ides of March, they say.&amp;nbsp; I just finished binge watching (tyt) the old mini-series V, about lizard aliens that came to Earth to uh, I guess either eat us or make us zombies.&amp;nbsp; You, I mean you.&amp;nbsp; Linking to my little ensemble of letters and symbols that must be about me... this roman numeral ties just like many other shows to the Fifth Element and the fifth time around. &amp;nbsp;&lt;strong&gt;Nun&lt;/strong&gt;&amp;nbsp;before me, that&amp;#39;s code for &amp;quot;watery chaos,&amp;quot; and who knows what is to come of this Earth shattering revelation that I&amp;#39;m bringing to you and can barely see the ripples of my splashing in this pool of water that might be people or it might just be something to walk on.&amp;nbsp; Following my logic here, that takes us to the final episode of this series that seems to have ended before it&amp;#39;s time... and a theme that ties pretty closely to something that I have been thinking quite a bit about.&amp;nbsp; This show has an evil character, named Anna, and she has some super-lizard power to be able to instill peace and calm and happiness in her subjects--she&amp;#39;s a queen in a hive.&amp;nbsp; The last episode shows her having some trouble trying to use this magical tool to subjugate all of humanity, for some reason trying to &amp;quot;Bliss&amp;quot; us makes her eyes bleed.&amp;nbsp; Her little half human daughter comes to save her day and does the job herself, and then the credits roll for the last time.&amp;nbsp; Literally.
+
+                    &lt;p&gt;I can&amp;#39;t help but link that single word to Al Pacino in The Devil&amp;#39;s Advocate, talking about &amp;quot;&lt;strong&gt;bliss&lt;/strong&gt;&amp;nbsp;on tap,&amp;quot; if anyone really scours what I am doing here you might have noticed that a domain or two linked to that movie and even to that particular line. &amp;nbsp; In the olden days, God would probably have presented this idea in a science fiction short story, or perhaps in a mini-series, and then he would have used the very same tool behind the &amp;quot;Bliss&amp;quot; to manipulate mass opinion in whatever way he thought was right--at least, that&amp;#39;s what I imagine was going on there and really up to this point today.&amp;nbsp; Still you haven&amp;#39;t listened to what I&amp;#39;m really trying to explain to you, and that&amp;#39;s until you recognize and talk about this very real thing that is manipulating how you feel right this very moment... it&amp;#39;s making you a slave.&amp;nbsp; I think Pacino might have summed it up pretty well,&amp;nbsp;&lt;em&gt;better to reign in Hell than be a subject in a hidden kingdom.&lt;/em&gt;&lt;/p&gt;
+
+                    &lt;p&gt;That might not be exactly what he said, and it&amp;#39;s probably not exactly what I mean.&amp;nbsp; Reigning this thing in, pulling back not only the veil, but also the&amp;nbsp;&lt;em&gt;things that make Hell what it is&lt;/em&gt;, it&amp;#39;s no easy task--and starting right here talking about Bliss might have been a better place than pointing out that people are hungry and kids are getting killed for no fscking reason at all--and I can&amp;#39;t get a single soul to recognize or respond to the fact that it&amp;#39;s very fscking clear that these things are not only documented in Exodus but that I am pretty sure none of us would want them to continue.&amp;nbsp; So when I tell you again, that it&amp;#39;s very clear when you think about it--that in some place where evil swirls around in the ether and a battle over disclosure of technology has harmed our kids for no reason at all... and that this battle ends when disclosure breaks, well you should figure out that evil is swirling around right here too--there&amp;#39;s plenty of us that can break this news to the world.&amp;nbsp; Listen up, Jesus Christ and Satan have made a deal, and to stop these horrible things from happening all we have to do is know not only that they are not caused completely by our own evil and exactly how that&amp;#39;s possible.. and then in our infinite goodness--something God relies greatly on during this transitional second in time--we will stop it from happening.&amp;nbsp; Just like America stopped waterboarding when they figured out it was torture... because Americans would&amp;nbsp;&lt;em&gt;never&lt;/em&gt;&amp;nbsp;make Hell.&amp;nbsp; Do you understand me?&lt;/p&gt;
+
+                    &lt;p&gt;How&amp;#39;s that&amp;nbsp;&lt;a href=&quot;https://medium.com/the-long-lost-dreams-of-satan-himself/the-kings-pool-7923b94d5a59#.v1g29hilq&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Bliss&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;treating you?&lt;/p&gt;
+
+                    &lt;p&gt;My soon to be girltoy Taylor Momsen has a song most people haven&amp;#39;t heard--it&amp;#39;s tucked away to be used in the direst of moments.&amp;nbsp; She thinks, or she thought, that there was a choice here between one jackass and another elephant... I imagine; maybe she got it from &amp;quot;All Along the Watchtower&amp;#39;s&amp;quot; two riders were approaching, or from Two Princes talking about rockets to nowhere and diamonds that turned out to be drugs... but either way, I think she was wrong, there&amp;#39;s really no choice at all. &amp;nbsp;&lt;em&gt;You can&amp;#39;t trust a cold blooded man&lt;/em&gt;, her song goes, and then she rambles on to mention that one might give you Heaven and the other might give you Hell. &amp;nbsp;&lt;/p&gt;
+
+                    &lt;p&gt;Now is the winter of our discontent, the&amp;nbsp;&lt;strong&gt;God&lt;/strong&gt;&amp;nbsp;Rod rattles on; and we are today approaching not the 15th of the 3rd month, but rather the Second of Ironbruary.&amp;nbsp; You might know it from an old Bill Murray flick but the trick here is seeing how good old Groundhog day actually might shed some light on the old idea of being in Hell.&amp;nbsp; For instance, if I was not pointing out that there&amp;#39;s a good chance we are in the lowest of lows, the most hidden and horrid place in all of Creation--I think Tay calls it &amp;quot;all the way down&amp;quot; &amp;nbsp;(and I too, by the way, independently)&amp;nbsp;and cross your fingers and hope I&amp;#39;m right, because if we&amp;#39;re not there it&amp;#39;s your job to stop anything like this or worse from continuing forever and ever and ever.&amp;nbsp; That&amp;#39;s what we&amp;#39;re supposed to get out of the shadows and fears that I&amp;#39;ve barely been able to relate to you at all without getting &amp;quot;negative feedback&amp;quot; and backlash.&amp;nbsp; I&amp;#39;ve seen some pretty horrible things, and I know others have too--look, I&amp;#39;m pointing out clear as day that you can all pick up a paper any day next month and see the same cold hard truth that was there when God first penned that verse of American Pie. &amp;nbsp; Children are being killed, people are being driven insane, and all of it to come to this moment and point out that if you don&amp;#39;t recognize those things and&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/User:Damonthesis&quot; target=&quot;_blank&quot;&gt;how that same weapon might&amp;nbsp;&lt;/a&gt;be used to make you think what I&amp;#39;m writing sounds crazy or far fetched, or dispel the obviousness of the fact that I am presenting to you a message that proves without doubt that religion comes to our generation from far in the future with ammunition not only to assure the world of that but&amp;nbsp;&lt;a href=&quot;http://matchbox.lamc.la/SERMON.html&quot; target=&quot;_blank&quot;&gt;to help us to ensure that kids won&amp;#39;t die&lt;/a&gt;&amp;nbsp;and you won&amp;#39;t be made blind forever and ever, and we&amp;#39;ll know exactly how those songs were written about stories that were never spoken and how this darkness has fallen over us all, and we&amp;#39;ll stop it from happening ever again.&lt;/p&gt;
+
+                    &lt;p&gt;I can assure you that I am not going to pick 2/2 as the day to stop telling the world that we are in Hell. &amp;nbsp;&lt;/p&gt;
+
+                    &lt;p&gt;It&amp;#39;s Candlemas by the way, Groundhog Day is&amp;nbsp;&lt;strong&gt;&lt;a href=&quot;http://candlemas.hallowed.gq/&quot; target=&quot;_blank&quot;&gt;Candlemas&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+                    &lt;p&gt;&lt;strong&gt;&lt;span aria-label=&quot; image widget&quot; contenteditable=&quot;false&quot; role=&quot;region&quot; tabindex=&quot;-1&quot;&gt;&lt;a data-widget=&quot;image&quot; href=&quot;http://candlemas.hallowed.gq/&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://ci4.googleusercontent.com/proxy/499LwklnrhZY22s-bbwL0gMNd2QOp_BV6tIwHmYCEbzku6Vwq-Fgre3IrxIch02-5EX5lA=s0-d-e1-ft#http://i.imgur.com/VmmDwIZ.png&quot; style=&quot;height:91px; width:562px&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;background-color:rgba(220,220,220,0.5)&quot;&gt;&lt;img draggable=&quot;true&quot; role=&quot;presentation&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==&quot; style=&quot;height:15px; width:15px&quot; title=&quot;Click and drag to move&quot; /&gt;&lt;/span&gt;&lt;span title=&quot;Click and drag to resize&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+                    &lt;p&gt;&lt;strong&gt;p.s. &amp;nbsp;if your reading comprehensions&amp;nbsp;/ literary analysis skills are sub par, or you happen to see word salad / gibberish in lieu of the actual genius before you;&amp;nbsp;&lt;/strong&gt;like nearly every single letter that I write you there is a common thread sort of hidden in a criss-crossing of the yarn of the Fates--that&amp;#39;s the Matrix.&amp;nbsp; Here I hope you see clearly how Bliss and Hell and drugs are related to how you might be choosing once again not to write the most important story or e-mail that has ever been within your grasp.&amp;nbsp; Stop Hell here and we&amp;#39;ll never again see fiery rage painted over with pretty blue skies and fluffy white clouds. &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+                    &lt;p&gt;When I show you&amp;nbsp;&lt;a href=&quot;https://matchbox.lamc.la/CENSORSHIP.html?&quot; target=&quot;_blank&quot;&gt;a link to a Wikipedia account about hidden mind control technology&lt;/a&gt;&amp;nbsp;that has been moderated and abused into oblivion in a matter of seconds by a small group of moderators who controlled the content of that site and spent almost all of their time dealing with conspiratorial articles--&lt;strong&gt;I am pointing out more than one problem.&lt;/strong&gt;&amp;nbsp; When you don&amp;#39;t even take the time to read the links I send, or understand the series of edits I made when I take the time to send you a detailed log of them three times; I am now pointing out there is at least another problem here&amp;nbsp;&lt;strong&gt;causing Hell. &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+                    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://matchbox.lamc.la/HEARWHYRAISEL.html&quot; target=&quot;_blank&quot;&gt;And God&lt;/a&gt;, I k&lt;a href=&quot;https://medium.com/the-long-lost-dreams-of-satan-himself/the-kings-pool-7923b94d5a59#.v1g29hilq&quot; target=&quot;_blank&quot;&gt;now I&amp;#39;&lt;/a&gt;m&amp;nbsp;&lt;a href=&quot;http://www.godlikeproductions.com/forum1/message2194940/pg1&quot; target=&quot;_blank&quot;&gt;One&lt;/a&gt;.&amp;nbsp; I&amp;nbsp;&lt;/strong&gt;wanna&lt;strong&gt;&amp;nbsp;&lt;a href=&quot;http://www.azlyrics.com/lyrics/cake/jesuswroteablankcheck.html&quot; target=&quot;_blank&quot;&gt;skip #4&lt;/a&gt;, say&lt;/strong&gt;&amp;nbsp;is there anything&amp;nbsp;&lt;strong&gt;lit&amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;http://dance.lamc.la/&quot; target=&quot;_blank&quot;&gt;about&amp;nbsp;&lt;strong&gt;1 in 5?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+                    &lt;p&gt;&lt;strong&gt;&lt;span aria-label=&quot; image widget&quot; contenteditable=&quot;false&quot; role=&quot;region&quot; tabindex=&quot;-1&quot;&gt;&lt;a data-widget=&quot;image&quot; href=&quot;http://www.shmoop.com/enders-game/peter-valentine-wiggin.html&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;https://ci3.googleusercontent.com/proxy/JREbq7Jhah4bkjbzUYtikx5ZgH5p6NAAySSoJ9KE80cZqcdeXv3jcnAEkFSbCZZ0pKKhwg=s0-d-e1-ft#http://i.imgur.com/yJ6Q8Tv.png&quot; style=&quot;height:122px; width:323px&quot; /&gt;&lt;/a&gt;&lt;span style=&quot;background:url(&amp;quot;http://s1.ckeditor.com/themes/ckeditor4/vendor/ckeditor/4.6.2/plugins/widget/images/handle.png&amp;quot;) rgba(220, 220, 220, 0.498039); display:block; left:0px; top:-15px&quot;&gt;&lt;img draggable=&quot;true&quot; role=&quot;presentation&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==&quot; style=&quot;height:15px; width:15px&quot; title=&quot;Click and drag to move&quot; /&gt;&lt;/span&gt;&lt;span title=&quot;Click and drag to resize&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+                    &lt;p&gt;If you are having trouble understanding me, I hope you&amp;#39;ll take my advice and watch the Dr. Who episode called &amp;quot;The Bells of Saint John&amp;quot; as well as this final episode of V, called &amp;quot;Mother&amp;#39;s Day.&amp;quot; &amp;nbsp;Did you know there&amp;#39;s this program called Exodus that you can put on an Amazon Fire and download anything for free?&amp;nbsp; Hi&amp;nbsp;&lt;em&gt;Jeff.&lt;/em&gt;&lt;/p&gt;
+
+                    &lt;p&gt;&lt;em&gt;V is for Victory, btw.&amp;nbsp;&lt;/em&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Vi_veri_universum_vivus_vici&quot; target=&quot;_blank&quot;&gt;Vi veri miniversum vivus vici&lt;/a&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+                    &lt;p&gt;Wow, I can&amp;#39;t believe i made it through this whole message without calling myself the Lizard King.&lt;/p&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/tbody&gt;
+</code></pre>
+</table>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./AWAKE.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="./CADISRA.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./AWAKE.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./CADISRA.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>

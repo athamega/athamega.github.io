@@ -1,0 +1,562 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>
+        Insightful wisdom gleaned from the search and analysis of Biblical light in the world around us.
+</title>
+<link rel="alternate" type="application/rss+xml"      title="awlist4296878 [RSS]"      href="../../awlist4296878.rss" />
+<link rel="alternate" type="application/atom+xml"      title="awlist4296878 [Atom]"      href="../../awlist4296878.atom" />
+<link href="../../stylesheets/universal.min.css?t=1466707264" media="screen" rel="stylesheet" type="text/css" />
+<script src="../../jquery-1.3.2.min.jquery.cookie.COMBINED.min.js?t=1466707264" type="text/javascript"></script>
+
+
+  <link href="http://fromthemachine.org/awbr-archive.css" rel="stylesheet" />
+
+<style type="text/css">
+
+</style>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-5J4XPK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5J4XPK');</script>
+<!-- End Google Tag Manager -->
+<div id="aweber_container">
+    <div id="aweber_leftcolumn">
+        <button class="toggleNav">
+  <svg height="32px" id="Layer_1" style="enable-background:new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M23.1,6.1L16,13.2L8.9,6.1c-0.8-0.8-2-0.8-2.8,0s-0.8,2,0,2.8l7.1,7.1l-7.1,7.1c-0.8,0.8-0.8,2,0,2.8c0.8,0.8,2,0.8,2.8,0
+    l7.1-7.1l7.1,7.1c0.8,0.8,2,0.8,2.8,0c0.8-0.8,0.8-2,0-2.8L18.8,16l7.1-7.1c0.8-0.8,0.8-2,0-2.8C25.1,5.3,23.9,5.3,23.1,6.1z"/></svg>
+</button>
+
+
+
+
+<div id="aweber_header">
+
+    
+        <h1 class="padder"><a href="http://fromthemachine.org" rel="nofollow">Adam Marshall Dobrin</a></h1>
+
+</div>
+
+    
+    
+    <div class="aweber_archive_link">
+        <a href="../MUugW/h/bit.ly/20aN3AE"> Return to All</a>
+    </div>
+
+
+
+    <div class="aweber_archivedates">
+    <span class="aweber_heading padder">Browse By Month</span>
+    <ul>
+        <li class="aweber_accordion">
+            <a href="06#" class="head" id="aweber_archivedates_2016">2016 <span>(38)</span></a>
+            <ul>
+                
+                
+                
+                
+                
+                
+                
+                    <li>
+                        <a href="06">June (21)</a>
+                    </li>
+                
+                    <li>
+                        <a href="05">May (17)</a>
+                    </li>
+                
+                
+                
+                
+            </ul>
+        </li>
+    </ul>
+    <script type="text/javascript">
+    jQuery(document).ready(function(){
+        function persistNav(e) {
+            if (!jQuery.cookie) {
+                return;
+            }
+            var eId = jQuery(e).attr('id');
+            var shownItems = jQuery.cookie('shownItems') ? jQuery.cookie('shownItems').split(',') : [$('.aweber_accordion .head:first').attr('id')];
+            var arrPos = jQuery.inArray(eId, shownItems);
+            if (arrPos == -1) {
+                shownItems.push(eId);
+            } else {
+                shownItems.splice(arrPos, 1);
+            }
+            jQuery.cookie('shownItems', shownItems, {path: '/awlist4296878', expires: 365});
+        }
+
+        $("[href='']").each(function() {
+            $(this).attr('href', '#');
+        });
+
+        $('.aweber_accordion .head').click(function() {
+            $(this).next().next().toggle('fast');
+            persistNav($(this));
+            return false;
+        }).next().next().hide();
+
+        $('.toggleNav').click(function(){
+          $('#aweber_leftcolumn').toggleClass('isOpen');
+        });
+
+        if (jQuery.cookie) {
+            if (!jQuery.cookie('shownItems')) {
+                jQuery.cookie('shownItems', $('.aweber_accordion .head:first').attr('id'), {path: '/awlist4296878', expires: 365});
+            }
+            if (jQuery.cookie('shownItems')) {
+                var shownItems = jQuery.cookie('shownItems').split(',');
+                for (var i = 0; i < shownItems.length; i++) {
+                    jQuery('#' + shownItems[i]).next().next().show();
+                }
+            }
+        } else {
+            $('.aweber_accordion .head:first').next().next().show();
+        }
+    });
+    </script>
+    </div>
+
+<br/>
+<div class="aweber_form_container padder">
+  <div class="aweber_heading">Like This?</div>
+
+  <p>Subscribe by email:</p>
+  <div class="aweber_form">
+      <form action="http://www.aweber.com/scripts/addlead.pl" class="aweber_form" method="post">
+      <input id="unit" name="unit" type="hidden" value="awlist4296878" />
+      <input id="redirect_bc62cb2ddc5275a213c85408e97ee6c4" name="redirect" type="hidden" value="http://www.aweber.com//thankyou.htm?m=default" />
+      <input id="meta_adtracking" name="meta_adtracking" type="hidden" value="Broadcast_Archive" />
+      <input id="meta_message" name="meta_message" type="hidden" value="1" />
+      <input id="meta_required" name="meta_required" type="hidden" value="from" />
+      <input id="meta_forward_vars" name="meta_forward_vars" type="hidden" value="1" />
+      <div class="field_wrap">
+          <label class="aweber_lbl" for="name">Name<span>:</span></label>
+          <input class="aweber_textinput" id="name" name="name" type="text" />
+      </div>
+      <div class="field_wrap">
+          <label class="aweber_lbl" for="from">Email<span>:</span></label>
+          <input class="aweber_textinput" id="from" name="from" type="text" />
+      </div>
+      <div class="aweber_element aweber_submit">
+          <input class="aweber_button" id="submit" name="submit" type="submit" value="Submit" />
+      </div>
+      </form>
+  </div>
+</div>
+
+<div class="sidebar_links padder">
+  <div id="aweber_rss" class="sidebar_links--link">
+      
+      <a href="../../awlist4296878.rss"><img alt="" border="0" height="24" src="../../images/rss-icon.svg" width="24" /></a>
+      <span><a href="../../awlist4296878.rss">Subscribe by RSS</a></span>
+  </div>
+
+      <div id="aweber_twitter" class="sidebar_links--link">
+          <a href="http://twitter.com/yitsheyzeus"><img alt="" border="0" height="24" id="aweber_twittericon" src="../../images/twitter-icon.svg" width="24" /></a>
+          <a href="http://twitter.com/yitsheyzeus">Follow Me<br/> On Twitter</a>
+      </div>
+</div>
+
+
+
+
+    </div>
+
+    
+
+<div id="aweber_rightcolumn_index">
+  <div>
+    <button class="toggleNav">
+      <svg height="32px" id="Layer_1" style="enable-background:new 0 0 32 32;" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/></svg>
+    </button>
+
+    
+    <div class="aweber_postheading"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <h4>June, 2016</h4>
+        
+    <ul name="titles" class="titles">
+        <li>
+    
+    
+    
+    <a href="../M0Qzq/h/I_m_playing_with_fire_.htm">I'm playing with fire.</a>
+
+    <span>Sent Sunday, June 26, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Above you you will find a link to the Matchbox.. the series of e-mails which I believe are going to start this fire.If yu (sic) are new to &#34;n&#34; (I&#39;m Y-its-ha&#39;ck) I recommend starting here:The Burning BushAD (that&#39;s &#34;n&#34;) on Artificial Intelligence (that&#39;s AD-on-Ai)... Kurzweil and ZeldaThis is our Universe.With
+&#34;authority.&#34;The true nature of RaelityEmail #36 ***Within these walls, you will find tacit proof of Creation, and a guide... to building Heaven.Below, a [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../HVtOq/h/From_Har_wer_I_am_an_open.htm">From Har-wer, I am an open book.</a>
+
+    <span>Sent Saturday, June 25, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read this message as if the fate of the Universe depended on it.These pictures highlight an
+Egyptian concept, the Ka and Ba--a union of mind and soul that we humorously call &#34;oneness&#34; in western religion.  In Egypt there is a much more robust record of what we might call a &#34;history of Gods&#34; that relates directly to Greek and Abrahamic myth.  From Atum-Ra (guess), to P&#39;tah (clearly Peter?) to a story of Uniting Two Lands--that is (obvious to me) as the un-parting of a [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../DQhRq/h/E_mail_36_.htm">E-mail #36.</a>
+
+    <span>Sent Friday, June 24, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you missed some of them, there&#39;s an archive here.Under LockE and KeyNES I see patterns within religion that flow into our world, from our history to modern music and movies.  Within this Matrix of Light, exists a prophesy... one that predicts a great Exodus from darkness.   There are five E&#39;s that connect throughout the Bible to Earth.., and together they paint a picture of Creation itself, of a civilization forged in fire.  Between the messianic Den filled with the [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../7.AUq/h/This_is_our_You_and_I_verse_.htm">This is our You and I verse.</a>
+
+    <span>Sent Thursday, June 23, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tomorrow, I&#39;ll have something to say about the Plague of Darkness.  Those are all media. Seriously, this is obvious right?       nashon@unduecoercion.org
+
+
+
+Well, I thought it was clever.  Mor? ... MondayI watched as the Lamb opened the ... seven seals. Then I heard one of the four living creatures say in a voice like thunder,“Come!” I watched as he opened the sixth seal. There was a great earthquake.The sun turned black like sackcloth made of goat hair, the whole moon [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../8E9yq/h/from_the_Greek_for.htm">from the Greek Ελεσβόάς, for “The one who brought about the morning.”</a>
+
+    <span>Sent Wednesday, June 22, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My apologies if this is a duplicate.  I&#39;m trying... but it&#39;s hard.-aI have written a little bit before in this e-mail series about a number of microcosms that appear to have been &#34;written into&#34;
+my early life... sort of &#34;actualizing&#34; the kind of thing that appears in Matthew 3--where Christ walks through the story of Exodus.  As if beside myself walking through Sam&#39;s valley, these stories appear to shed light on what I am doing now, and give me some comfort in knowing [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../M7wDq/h/Ready_or_not_here_I_come_.htm">Ready or not... here I come.   I am sharing the truth, mine is the life... and you are the way. -John 14:6 and ((ish))</a>
+
+    <span>Sent Sunday, June 19, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello, this is a copy of two e-mails, which were mostly sent to the media.  Delivery gets difficult, because of people that don&#39;t agree with me that clicking that SPAM button over and over again, and not unsubscribing isn&#39;t complete darkness.  Good luck to you. For the rest of you, I apologize, this is &#34;mostly&#34; more of the same information reiterated.
+ Although I do a bit of analysis that you haven&#39;t heard before.  I hope I&#39;m not being a bother... understand, I am [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../MNcK4/h/Kurzweil_luminates_Zelda.htm">Kurzweil luminates... Zelda too.</a>
+
+    <span>Sent Friday, June 17, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adam Dobrin on Artificial Intelligence
+
+
+
+
+Adonai (אֲדֹנָי, lit. &#34;My Lords&#34;) is the plural form of adon (&#34;lord&#34;) along with the first-person singular pronoun enclitic.[n 3] As with Elohim, Adonai&#39;s grammatical form is usually explained as a plural of majesty. In the Hebrew Scriptures, it
+is only used to refer to God. As the pronunciation of the Tetragrammaton came to be avoided in the Hellenistic period, Jews began to read &#34;Adonai&#34; at its appearances in scripture and [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../7M8U4/h/You_are_cordially_invited_to.htm">You are cordially invited to the Ministry of Forbidden Knowledge</a>
+
+    <span>Sent Wednesday, June 15, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yesterday, I told you I invited you to follow me on twitter, at @yitsheyzeus, which happens to be a play on the Spanish pronunciation of Jesus... and Yitshack--the Hebrew for Isaac.  Ha, I&#39;m not CK anymore. &lt;3For the final e-mail of this series, I invite you to a conversation on Facebook, at the Ministry of Forbidden Knowledge.​​​​​​​
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are also free to send me a friend request, or contact me on Facebook.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../M8X44/h/Moses_smashes_the_Stone_.htm">Moses smashes the "Stone"</a>
+
+    <span>Sent Tuesday, June 14, 2016</span>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                                            
+Dave Matthews Band Summer Tour Warm Up - The Stone 7.18.14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over the course of Time and Chance I provide ample evidence to prove the existence of time travel, of mind control and of God... I show you how religion has recorded the existence of these things, and our society has been overtly influenced
+both not to see it... and not to believe that these things exist.  Again, proof is [&hellip;]
+
+</li>
+        <li>
+    
+    
+    
+    <a href="../PMgN4/h/A_mock_article_about_the.htm">A mock article about the Second Coming.  "Do I have to do it all myself.. to get of this place?"</a>
+
+    <span>Sent Monday, June 13, 2016</span>
+    
+    
+
+
+
+
+
+
+
+I have no doubt that this is the story that God has designed to change the world.  Nor do I doubt it is very different from the one you have been expecting, if you ... expected anything.
+
+I have a criminal record, which Im sure any of you seriously investigating this have already found out.  Since nobody talks to me, and I see very little action at the book... which clearly explains what is in this article; I can only assume that there is a lack of interest because of it.  I [&hellip;]
+
+</li>
+    </ul>
+
+<p> <span class="pager_curpage">1</span> <a class="aweber_pager_link" href="06?page=2" rel="nofollow">2</a> <a class="aweber_pager_link" href="06?page=3" rel="nofollow">3</a> <a class="aweber_pager_link" href="06?page=2" rel="nofollow">Next &gt;&gt;</a></p>
+
+<div class="aweber_footer">
+    
+    <p>Powered by <a href="http://www.aweber.com/?utm_campaign=webarchive&amp;utm_medium=webarchive&amp;utm_source=AW">AWeber Email Marketing</a></p>
+</div>
+</div>
+</div>
+
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
