@@ -1,78 +1,100 @@
 <!DOCTYPE HTML>
 <html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>the_lamb_of_god.md - </title>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<base href="" />
-<link rel="stylesheet" href="book.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="favicon.png" />
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="highlight.css" />
-<link rel="stylesheet" href="tomorrow-night.css" />
-<link rel="stylesheet" href="ayu-highlight.css" />
-<!-- Custom theme -->
-<!-- Fetch Clipboard.js from CDN but have a local fallback -->
-<script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
-<script>
+    <head>
+        <meta charset="UTF-8">
+        <title>the_lamb_of_god.md - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
             if (typeof Clipboard == 'undefined') {
                 document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
             }
         </script>
-<!-- Fetch JQuery from CDN but have a local fallback -->
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
             if (typeof jQuery == 'undefined') {
                 document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
             }
         </script>
-<!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
-<script src="store.js"></script>
-<!-- Custom JS script -->
-</head>
-<body class="light">
-<!-- Set the theme before any content is loaded, prevents flash -->
-<script type="text/javascript">
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
             var theme = store.get('mdbook-theme');
             if (theme === null || theme === undefined) { theme = 'light'; }
             $('body').removeClass().addClass(theme);
         </script>
-<!-- Hide / unhide hidden before it is displayed -->
-<script type="text/javascript">
-            var hidden = store.get('mdbook-hidden');
-            if (hidden === "hidden") { $("html").addClass("hidden-hidden") }
-            else if (hidden === "visible") { $("html").addClass("hidden-visible") }
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
         </script>
-<div id="hidden" class="hidden">
-<ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./messengertour.html"><strong>115.</strong> messengertour.md</a></li><li><a href="./music_saves_all_souls.html"><strong>116.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>117.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>118.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>119.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>120.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>121.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>122.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html" class="active"><strong>123.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>124.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>125.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>126.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>127.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>128.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>129.</strong> whenistheapocalypse.md</a></li></ul>
-</div>
-<div id="page-wrapper" class="page-wrapper">
-<div class="page" tabindex="-1">
-<div id="menu-bar" class="menu-bar">
-<div class="left-buttons">
-<i id="hidden-toggle" class="fa fa-bars"></i>
-<i id="theme-toggle" class="fa fa-paint-brush"></i>
-</div>
-<h1 class="menu-title"></h1>
-<div class="right-buttons">
-<a href="matchbox.html">
-<i id="print-button" class="fa fa-print" title="Print this book"></i>
-</a>
-</div>
-</div>
-<div id="content" class="content">
-<!DOCTYPE html>
-</div></div></div></body></html><html>
-<head>
-<meta charset="utf-8" />
-<title>The Lamb of God | TIME AND CHANCE</title>
-<meta name="author" content="Adam Marshall Dobrin" />
-<link rel="stylesheet" href="/css/main.css" />
+
+        <div id="sidebar" class="sidebar"><script src="https://addsearch.com/js/?key=a6e8d4ed12078e81863f4419b97bac65"></script>
+            <ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./music_saves_all_souls.html"><strong>115.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>116.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>117.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>118.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>119.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>120.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>121.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html" class="active"><strong>122.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>123.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>124.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>125.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>126.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>127.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>128.</strong> whenistheapocalypse.md</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="matchbox.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The Lamb of God | TIME AND CHANCE</title>
+<meta name="author" content="Adam Marshall Dobrin">
+<link rel="stylesheet" href="/css/main.css" >
 <pre><code> &lt;link href='/css/base.css' rel='stylesheet'/&gt; 
    &lt;link href='/css/font-awesome.min.css'  rel='stylesheet'/&gt; 
  &lt;link href='/css/default.min.css' rel='stylesheet'/&gt; 
@@ -115,9 +137,9 @@ videoWrapper {
 
 
 </style>
-</head>
-<body>
-<eshad><center><p><a href="http://chalk.s.lamc.la/ehhZU/"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://fromthemachine.org/GATE.html/TTaRo/ppLKb/"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://www.lamc.la/2017/06/enders-game-prometheus-locke-and.html/mmdUO/"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="http://slack.reallyhim.com"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
+    </head>
+    <body>
+    <ESHAD/><center><p><a href="http://chalk.reallyhim.com"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://gate.reallyhim.com"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://ender.reallyhim.com"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /><a href="http://slack.reallyhim.com"><img src="http://i.imgur.com/jne0eNw.png" height=97 width=97></a> <br /></a></p></center><OSHAD/> 
 <table>
 <td style="width: 310px; padding: 2px; vertical-align: top;">
 <div style="padding-left: 20px; padding-top: 50px;">
@@ -125,126 +147,47 @@ videoWrapper {
 <div style="font-size: 17px;">En Pursuit of Happiness</div>
 How Jesus Christ and Rock'n Roll save every single soul.
 </a>
-<br />
-<br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
-<br /><br />
-<a href="https://matchbox20.bitbucket.io/">
+<br>
+<br>The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br><br><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
+<br><br>
+<a href="http://matchbox.lamc.la">
 <div style="font-size: 17px;">The Matchbox</div>
 </a>
 The e-mails that circled the globe, opening the doorway to the future.
 </div>
-<p><br /><br /></p>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<p><br><br></p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854"><pre><code>                                  data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+<ins class="adsbygoogle"
+     style="display:block"
+                    data-ad-client="ca-pub-9608809622006883"
+                           data-ad-slot="7054287854"
+<pre><code>                                  data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
                                           &lt;script&gt;
             
             (adsbygoogle = window.adsbygoogle || []).push({});
                                                               &lt;/script&gt;
 </code></pre>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-9608809622006883"
+           data-ad-slot="7054287854"
+                data-ad-format="auto"></ins>
+            <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
-            </script></ins></td>
+            </script></td>
 <pre><code>                                                      &lt;td&gt;
 </code></pre>
-<p><center></center></p>
-<div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
+<p><center></p>
+<div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf">Time and Chance:</a></b> The race is not to Die Bold by <a href="http://fb.me/admdbrn">Adam Marshall Dobrin</a> 
 </div>
-<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf"> [ .PDF ]</a> <a href="/time-and-chance.epub"> [ .epub ] </a> <a href="/time-and-chance.mobi"> [ .mobi ] </a> or <a href="https://www.docdroid.net/hmjNMVO/the-actual-revelation-of-jesus-christ-proof-of-creation-in-vr.pdf">view online.</a>
+<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a HREF="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf"> [ .PDF ]</a> <a href="/time-and-chance.epub"> [ .epub ] </a> <a href="/time-and-chance.mobi"> [ .mobi ] </a> or <a href="http://thebook.lamc.la">view online.</a>
 <p>Older works <a href="lit-and-why.pdf">Lit and Why</a>, <a href="hot-and-y.pdf">hot&amp;y</a>, and <a href="from-adam-to-mary.pdf">From Adam to Mary</a> are also available.</p>
 </div>
-<nav class="nav" role="navigation">
-<ul>
-<li>
-<a href="/">Preface</a>
-</li>
-<pre><code>   &lt;li&gt;
-        &lt;a  href=&quot;/holy_water,_sang_rael.html&quot;&gt;Holy Water, Sang Rael&lt;/a&gt;
-    &lt;/li&gt;
-      &lt;li&gt;
-        &lt;a  href=&quot;/chapter1.html&quot;&gt;The First Word&lt;/a&gt;
-    &lt;/li&gt;
-
-
-    &lt;li&gt;
-        &lt;a  href=&quot;/behold,_the_burning_bush.html&quot;&gt;The Burning Bush&lt;/a&gt;
-    &lt;/li&gt;
-    
-            &lt;li&gt;
-        &lt;a  href=&quot;/the_tower_of_babel.html&quot;&gt;The Tower of Babel&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_story_of_exodus.html&quot;&gt;Expect the Unexpected&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_lamb_of_god.html&quot;&gt;The Lamb of God&lt;/a&gt;
-    &lt;/li&gt;
-        &lt;li&gt;
-        &lt;a  href=&quot;/2_4_6_8_adam-who.html&quot;&gt;Adam Who?&lt;/a&gt;
-    &lt;/li&gt;
-
-    &lt;li&gt;
-        &lt;a  href=&quot;/bread_for_the_poor.html&quot;&gt;The Second Breakfast&lt;/a&gt;
-    &lt;/li&gt;
-            
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_letter_why.html&quot;&gt;The Letter Why&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_light_of_heaven.html&quot;&gt;The Light of Heaven&lt;/a&gt;
-    &lt;/li&gt;
-
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/god_and_the_big_bang.html&quot;&gt;God and the Big Bang&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/he_laughs.html&quot;&gt;He Laughs, again&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/his_heart_and_sol.html&quot;&gt;His Heart and SOL&lt;/a&gt;
-    &lt;/li&gt;
-    
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/im_single.html&quot;&gt;AD on I'm Single&lt;/a&gt;
-    &lt;/li&gt;
-    
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/music_saves_all_souls.html&quot;&gt;Music Saves All Souls&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/my_dying_breath.html&quot;&gt;My Dying Breath&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/outside_of_heaven.html&quot;&gt;Outside of Heaven&lt;/a&gt;
-    &lt;/li&gt;
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_encl.html&quot;&gt;The Encl&lt;/a&gt;
-    &lt;/li&gt;
-    
-    
-    &lt;li&gt;
-        &lt;a  href=&quot;/the_matrix_is_indexed.html&quot;&gt;The Matrix is Indexed&lt;/a&gt;
-    &lt;/li&gt;
-    
-   &lt;/ul&gt;  
-   &lt;/center&gt;
-
- &lt;/nav&gt;
-</code></pre>
 <div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
-<h1 id="the-lamb-of-god-islam">The <strong>Lamb</strong> of God… Is<strong>Lam</strong></h1>
+    <h1 id="the-lamb-of-god-islam">The <strong>Lamb</strong> of God… Is<strong>Lam</strong></h1>
 <p><em>The <strong>Lamb</strong> of God</em> explained, it’s a connection between the sacrificial Pescach Lamb in Exodus, to the Lamb of the Marriage of Revelation, and a word and idiom of our modern day.  “<strong>Lam</strong>,” like “<em>on the run,</em>” and there’s hidden message in our music and movies which highlight the already bright connection between the word “Islam” and the eventful trip around the country… where you might say God and I <em>Ko<strong>ran</strong></em>.  (For the blind, that’s co-ran.)</p>
 <p><img src="10448562_479031952234051_3695115352572540828_o.jpg" alt="" />
 For 3 years I ran around the country, from the East all the way to the shores of California.  Songs are written about this trip, and it is literally the beginning of <em>the race</em> that is spoken about in the first words of the Burning Bush.  The linguistic link between the Passover Lamb and the name Islam is a hidden emphasis that directly links to the English idiom “on the lam.”  <em>Iran</em>, like the name of the country, which hides another reference to this event.  Koran, ImRan, and the main character of Metroid: Sammas Aran.  All links between the words run, lamb and lam.  This battle between the Messiah and the land of Uncle Sam is the immediate precursor to the Trial of Christ and the cause of the <em>set up of the Beast of Revelation</em> which is prophesied in Isaiah 52:13.</p>
@@ -254,9 +197,9 @@ For 3 years I ran around the country, from the East all the way to the shores of
 Engines pumping and thumping in time. 
 The green light flashes, the flags go up. 
 Churning and burning, they yearn for the cup. 
-</code><p>He's going the distance. He's going for speed.</p>
+<p>He's going the distance. He's going for speed.</p>
 <p>-Cake, Going the Distance
-</p></pre>
+</code></pre></p>
 </div>
 <p>Live sings another song, “GAS hed Goes West,” which discusses this trip in a near parallel to the defition of the Tarot Fool Card–one more Messianic reference.  GAS hed here is an acronym for “God and Satan,” something that nobody but me would know.  In fact many people have wondered what this songs title means.  The second word, “hed” is a langolier reference to “a” not being included in the decision.  You see, like “New Testament” which tells that “a” (for Adam) didn’t mean for it to be a test, but rather a walk through to help us succeed in a controlled system whose key is following the path of Christ in the book.</p>
 <p><img src="10609507_486238324846747_6371532926902383440_n.jpg" alt="GAS hed found a sign in San Francisco" /></p>
@@ -264,28 +207,28 @@ Churning and burning, they yearn for the cup.
 <div class="highlighter-rouge"><pre class="highlight"><code>He's a bonified man, a star amongst his clan. 
 It's the memory that dies, our gas hed was right.  
 When they lanced his skull there was puss and light
-</code><p>Take your photographs back.<br />
+<p>Take your photographs back.<br />
 For the love of all Gods,<br />
 Our gas hed marches on</p>
 <p>-Live, GAS Hed goes West
-</p></pre>
+</code></pre></p>
 </div>
 <p>This mention of photographs links to the first commandment and a number of other songs which relate to the “burning of Isaac;” pictures taken of Adam naked in Eden.  I am hoping to show you that these are hidden references to a very real story; one that is secretly being sung about using the same technology which forced me to do drugs and “walk around naked in Egypt.” Chronicled in <em>Isaiah 20.</em>  These three chapters, from 20 to 22 show very clearly that mind control is responsible for nakedness of Isaiah, and lack of forgiveness in 22 the cause of destruction.</p>
 <p>There is a significant link between <em>Gas Hed</em> and another popular culture legend, <em>An American Tail.</em>  Fival is a perfect match for the Fifth-El; here also related to <a href="im_single.html">He-man (via the Fifth Hebrew letter, He)</a>, and topically through the sequel the series, <em>Fival Goes West.</em>  Anakin’s Pod race in Star Wars’ <em>Phantom Menace</em> also eerily reminiscent of a race around the country, one that was more like a game.  Anakin is, of course, Darth Vader.. the Earth Wader who didn’t walk on water, but waded.</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>Eat, Drink and be Merry... 
 for ((tomorrow the son rises again.)))  
-</code><p>-Dave Matthews &amp; ((ish))
-</p></pre>
+<p>-Dave Matthews &amp; ((ish))
+</code></pre></p>
 </div>
 <p>In our history this phenomenon of secret messages in our music is archived in the story of Nero, fiddling on the roof as the fire burns down below.  The roof is Heaven, and the fire is proof of mind control.</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>If you want beautiful, have me in a picture. 
 -The Verve Pipe, Photograph
-</code><p>“You shall not make for yourself a carved image,
+<p>“You shall not make for yourself a carved image,
 or any likeness of anything that is in heaven above,
 or that is in the earth beneath, or that is in
 the water under the earth.&quot;</p>
 <p>-Exodus 20:4
-</p></pre>
+</code></pre></p>
 </div>
 <p>This mind control was overtly shown to me, I was made to literally walk around like a robot; no small feat.  Forcing me to take drugs was the burning, the altar that nearly killed the Son.  At the same time God is chastising the Egyptians for this enslavement, he taught me how the technology works, and how it can be used for good, to help rectify the atrocities that have befallen our society.  Like I was forced, our streets are flooded with drugs, and our minds manipulated in what is nothing short of an attack on civilization itself.  The crack epidemic, and now the research chemicals flooding through the Postal Service from China shows how this war is being waged on multiple levels.  From the streets, to international drug war, to manipulation from what is the existent Heaven.</p>
 <p>Nero’s fiddling… with our minds is well portrayed in a favorite poem of mine, one that I recited in high school.  In <em>The Touch of the Master’s Hand</em> God is the auctioneer, who changes the worth of the violin he is selling, a metaphor for the salvation of our civilization coming from the Hand of God.</p>
@@ -295,18 +238,18 @@ the water under the earth.&quot;</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>Jump into the sun, 
 Dear boy what are you running from? 
 Run boy, be a man; cuz we're too weak to take a stand. 
-</code><p>-The Pretty Reckless, Absolution
-</p></pre>
+<p>-The Pretty Reckless, Absolution
+</code></pre></p>
 </div>
 <p>Taylor Momsen’s words came to me as this was happening, the song above was released.  It confirmed to me that what was happening; the run was destiny.  Just before leaving, I blasted <em>Nothing Left to Lose</em> on my car radio as I drove.  The lyrics of that song too, show reference to Nero and me.</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>Lost between (( Nero )) and ((Darth Vader)), 
                El-vis           suicide
-</code><p>After Jesus Christ and Rock 'n Roll can't save
+<p>After Jesus Christ and Rock 'n Roll can't save
 my ((immortal soul))...
 I've got Nothing Left to Lose.</p>
 <p>-The Pretty Reckless &amp; ((ish))</p>
 <p>Did you write the book of love, and do you have faith in God above?
-</p></pre>
+</code></pre></p>
 </div>
 <p>Similarly to Iran, our map of reality confirms that this story has been in the works since the beginning of time.  You see, God’s statement that he is <em>ish</em> is just about to celebrate <em>Rumspringer</em>.  Amish.  Iran.  Amoz.</p>
 <h1 id="isa-isaac-jesus-and-isaiah">Isa, Isaac, Jesus and Isaiah</h1>
@@ -319,11 +262,11 @@ I've got Nothing Left to Lose.</p>
 He said to him, “Take off the sackcloth from your body 
 and the sandals from your feet.” And he did so, going 
 around stripped and barefoot.
-</code><p>Then the Lord said, “Just as my servant Isaiah has gone
+<p>Then the Lord said, “Just as my servant Isaiah has gone
 stripped and barefoot for three years, as a sign
 and portent against Egypt.</p>
 <p>Isaiah 20
-</p></pre>
+</code></pre></p>
 </div>
 <p>Amoz brings this story into reality through cinema, our modern myth.  The stories of the Wizard of Oz and the HBO show clearly depict the Wizard being framed by the machine, whose name says that <em>the Land is Oz, and it is alive.</em>  This is a story of the Father who commanded Isaac to be burned, to imprison me in a Broward County Jail… and the reason the Emerald City is holy scripture come to life.</p>
 <h1 id="the-trial-of-jesus-christ">The Trial of Jesus Christ</h1>
@@ -340,18 +283,18 @@ and portent against Egypt.</p>
 That's some bread, now
 This one, said he wants to buy you rockets
 Ain't in his head, now
-</code><p>Marry him, marry me?
+<p>Marry him, marry me?
 I'm the one who loves you, baby... can't you see?</p>
 <p>Spin Doctors, Two Princes
 Pocket Full of Kryptonite
-</p></pre>
+</code></pre></p>
 </div>
 <p>Nearly two decades later Taylor Momsen ties <em>Two Princes</em> and Superman to the story Jim Morrison began in the 70’s; it’s a call to her, from God, to Light (this story) Up.  In <em>Heaven Knows</em> she sings about Jimmy, maybe hersenf not even knowing that it is Jim Morrison–his name no accident either.</p>
 <h3 id="more-im-the-son">More? I’m the son.</h3>
 <div class="highlighter-rouge"><pre class="highlight"><code>Jimmy's in the back with pocket full of high, 
 if you listen close, ((you will understand why.))
-</code><p>The Pretty Reckless, Heaven Knows &amp; ((ish))
-</p></pre>
+<p>The Pretty Reckless, Heaven Knows &amp; ((ish))
+</code></pre></p>
 </div>
 <p>Between my “pockets full of high” and the “hidden links” between the Lamb, Superman, and Kryptonite… I hope it is becoming clear that this story is woven through time.  I hear Jim Morrison singing to Taylor, begging on my behalf for help breaking the darkness and <em>setting the night on fire.</em></p>
 <p>These are words of God.</p>
@@ -360,7 +303,7 @@ if you listen close, ((you will understand why.))
 <p>All of these songs, Two Princes, Heaven Knows, and Kryptonite unite to tell a story about me.  All of them were written prior to the events they discuss, and all of them link Christ to Superman… not even through Kentucky, Clark Kent, or Kal-El.. but through drugs and wisdom.</p>
 <div class="highlighter-rouge"><pre class="highlight"><code>Ah keep your eyes on the road,
 Your hands upon the wheel
-</code><p>You know that it would be untrue
+<p>You know that it would be untrue
 You know that I would be a liar
 If I was to say to you
 Girl, we couldn't get much higher</p>
@@ -368,7 +311,7 @@ Girl, we couldn't get much higher</p>
 Come on baby, light my fire
 Try to set the night on fire</p>
 <p>-The Doors, Light my Fire
-</p></pre>
+</code></pre></p>
 </div>
 <h2 id="can-you-take-me-higher-to-a-place-where-blind-men-see">Can you take me <em>higher</em>, to a place where blind men see?</h2>
 <p>God held a carrot out on a stick by talking to me more, and with more vibrant audo and visual aids.  For whatever reason, when I got high, the blind could see.  People around me changed, He spoke clearly and told coherent stories that spanned from day to day.</p>
@@ -391,22 +334,22 @@ Try to set the night on fire</p>
 <p>Universal Healthcare is more than a good idea, its moral mandate to <em>heal the sick.</em>  We need to wake up and see that these things are not suggestions, they are the stuff of actually being civilized instead of in a process of “civilization.”  Greed has blinded the word the obvious truth; and coming from an insurance background it is easy for me to explain how wrong the Obamacare implentation has been.</p>
 <p>Increasing the risk pool by mandating healthcare for everyone should theoretically bring premiums to near zero.  This actuarial truth has been completely ignored in a process that has failed to show the light of rightenousness.  Homelessness and sickness are linked by seeing that eradicating them are problems of the state that are much more easily solved by actually tackling the problem than igoring it.  Salt Lake City has recently shown the world that it is not only right, but cheaper to <em>give the poor homes</em> than to see them tortured on the streets.  The  same is true of healthcare, and in a world where seeing these truths are self evident; how can we not implement the same kinds of solutions everywhere.</p>
 </div>
-
-</ul></nav></table>
+</td>
+</table>
 <script>
-&lt;p&gt;(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+<p>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');&lt;/p&gt;
-&lt;p&gt;ga('create', 'UA-74743044-1', 'auto');
-ga('send', 'pageview');&lt;/p&gt;
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');</p>
+<p>ga('create', 'UA-74743044-1', 'auto');
+ga('send', 'pageview');</p>
 </script>
 <div style="width: 60%; margin: 0 auto;">
-<br />
-Copyleft<sup>MT</sup>
-<p>This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href="http://www.lamc.la">http://www.lamc.la</a> and is written by <a href="http://www.linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
-<br />
-<br /></p>
+ <br/>
+Copyleft<sup>MT</sup> 
+<p>This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href="http://www.lamc.la">http://www.lamc.la</a> and is written by <a href="http://linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
+<br/>
+<br/></p>
 <pre>
 Adam Marshall Dobrin
 
@@ -457,32 +400,73 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-</oshad></eshad></body>
+</body>
 </html>
 
-<!-- Mobile navigation buttons -->
-<a rel="prev" href="./the_encl.html" class="mobile-nav-chapters previous">
-<i class="fa fa-angle-left"></i>
-</a>
-<a rel="next" href="./the_letter_why.html" class="mobile-nav-chapters next">
-<i class="fa fa-angle-right"></i>
-</a>
+                </div>
 
-<a href="./the_encl.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
-<i class="fa fa-angle-left"></i>
-</a>
-<a href="./the_letter_why.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
-<i class="fa fa-angle-right"></i>
-</a>
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./the_encl.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
 
-<!-- Local fallback for Font Awesome -->
-<script>
+                
+                    <a rel="next" href="./the_letter_why.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./the_encl.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./the_letter_why.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
             if ($(".fa").css("font-family") !== "FontAwesome") {
-                $('&lt;link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css"&gt;').prependTo('head');
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
             }
         </script>
-<!-- Livereload script (if served using the cli tool) -->
-<script src="highlight.js"></script>
-<script src="book.js"></script>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        
 
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74743044-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74743044-7');
+</script>
+
+<center>
+<div><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://slack.reallyhim.com/&amp;source=gmail&amp;ust=1512831788289000&amp;usg=AFQjCNF469AQ70QEBkpObpKMKsWKzrbmAg" href="http://slack.reallyhim.com/" rel="noopener" target="_blank" title="TELESPRISE"><img alt="" border="0" class="m_-4973210593361332524gmail-m_-6096670269405767939gmail-m_-1436458080550240543m_-3975089270040819763gmail-m_-2248848940621715595gmail-m_4950052768086691300gmail-m_2933957970607722850gmail-m_7483563204303838204gmail-m_-3491586818351559956gmail-m_3682735925266535707gmail-m_5731075335784145647m_3413239976406571221m_2402549402411035463m_3237557952722111901gmail-m_-8798842351942729229m_4692247605844201587m_-2492882859021407156m_-7142874903403184072m_-9133516419565872595gmail-CToWUd CToWUd" height="107" id="m_-4973210593361332524gmail-m_-6096670269405767939gmail-m_-1436458080550240543m_-3975089270040819763gmail-m_-2248848940621715595gmail-m_4950052768086691300gmail-m_2933957970607722850gmail-m_7483563204303838204gmail-m_-3491586818351559956gmail-m_3682735925266535707gmail-m_5731075335784145647m_3413239976406571221m_2402549402411035463m_3237557952722111901gmail-m_-8798842351942729229m_4692247605844201587m_-2492882859021407156m_-7142874903403184072m_-9133516419565872595gmail-m_6961657238809553818gmail-m_-1296802553737736344gmail-BLOGGER_PHOTO_ID_6494125253829947314" src="https://i.imgur.com/F8nmg2T.png" width="500" height="100" /></a></div>
+</div></center>
