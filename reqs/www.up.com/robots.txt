@@ -1,0 +1,22 @@
+# robots.txt for UP.com
+Sitemap:	http://www.up.com/sitemap.xml
+
+User-agent: *
+Disallow: /style
+Disallow: /401.htm
+Disallow: /401expired.htm
+Disallow: /401expired.html
+Disallow: /401unavailable.htm
+Disallow: /403.htm
+Disallow: /404.htm
+Disallow: /busy.shtml
+Disallow: /expired.shtml
+Disallow: /investors/aboutup/
+Disallow: /cs/idcplg 
+Disallow: /investor/request_info/index.htm
+Disallow: /messages/form_submit.cfm
+Disallow: /aboutup/community/foundation/contact/index.htm
+Disallow: /found/contact.shtml
+Disallow: /media/releases/170502*
+Disallow: /media/releases/b*
+Disallow: /media/broll/*

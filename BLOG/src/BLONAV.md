@@ -9,10 +9,10 @@
 <div style="font-size: 72px;"><span style="font-family:times new roman,times,serif;">MASC</span><strong><span style="font-family:georgia,serif;">HI</span></strong><span style="font-family:times new roman,times,serif;">ACH</span></div>
 </div>
 </center>
-<p><a href="http://bit.ly/2jIRjha"><img src="https://i.imgur.com/MJBWSB1.jpg" style="width: 88px; height: 120px;" /></a>&nbsp;<a href="http://bit.ly/2yIYFmv"><img src="https://i.imgur.com/eoQGuHb.png" style="width: 229px; height: 170px;" /></a>&nbsp;<a href="http://bit.ly/2jIYc1V"><img src="https://i.imgur.com/kTcqvZF.jpg" style="width: 98px; height: 120px;" /></a></p>
+<p><a href="http://bit.ly/2jIRjha"><img src="reqs/i.imgur.com/MJBWSB1.jpg" style="width: 88px; height: 120px;" /></a>&nbsp;<a href="http://bit.ly/2yIYFmv"><img src="reqs/i.imgur.com/eoQGuHb.png" style="width: 229px; height: 170px;" /></a>&nbsp;<a href="http://bit.ly/2jIYc1V"><img src="reqs/i.imgur.com/kTcqvZF.jpg" style="width: 98px; height: 120px;" /></a></p>
 <center><a href="/TION.html" title="AR I X? IS THIS ThE MATRIX?" ALT="AR I X?" IS thiS ThE MATRIX?">
-<img src="https://i.imgur.com/2hFKDY5.png" ALT="AR I X? IS tHIs THE MATRIX?" width=289 style="padding:3px;"></a></center>
-<p><a href="http://bit.ly/2yIYFmv"><img src="https://i.imgur.com/LiTXQLy.png" width=448 style="padding-left: 50px;" /></a></p>
+<img src="reqs/i.imgur.com/2hFKDY5.png" ALT="AR I X? IS tHIs THE MATRIX?" width=289 style="padding:3px;"></a></center>
+<p><a href="http://bit.ly/2yIYFmv"><img src="reqs/i.imgur.com/LiTXQLy.png" width=448 style="padding-left: 50px;" /></a></p>
 </div>
 <p><em><span style="font-family: 'comic sans ms', sans-serif; font-size: xx-large;">hey.</span></em></p>
 <div>&nbsp;</div>
@@ -20,8 +20,8 @@
 <div>&nbsp;</div>
 <div>
 <center>
-<a href="https://www.youtube.com/watch?v=jFg_8u87zT0"><img style="margin-left: auto; margin-right: auto;" src="https://i.imgur.com/LkHC8sG.png"  height="180" /></a>
- <a href="https://www.youtube.com/watch?v=kIDWgqDBNXA"><img style="margin-left: auto; margin-right: auto;" src="https://i.imgur.com/hEHgo1J.jpg" height="180" /></a></div>
+<a href="https://www.youtube.com/watch?v=jFg_8u87zT0"><img style="margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/LkHC8sG.png"  height="180" /></a>
+ <a href="https://www.youtube.com/watch?v=kIDWgqDBNXA"><img style="margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/hEHgo1J.jpg" height="180" /></a></div>
 </center>
 </div>
 <div>&nbsp;</div>
@@ -37,27 +37,27 @@
 </div>
 <div><em><span style="font-size: xx-small;">-<a href="http://ant.reallyhim.com/">a</a></span></em></div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="sheolyit.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/0jRGZ9z.png" alt="SHEOLYIT" width="500" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="sheolyit.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/0jRGZ9z.png" alt="SHEOLYIT" width="500" /></em></a></span></div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="HYAMDAI.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/uOhb3wt.png" /></em></a></span></div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="asmodai.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/6XThBjj.png" alt="ASOMDAI" width="500" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="HYAMDAI.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/uOhb3wt.png" /></em></a></span></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="http://b.arkho.us/OMEALFHT.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/HFA53lh.png" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="asmodai.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/6XThBjj.png" alt="ASOMDAI" width="500" /></em></a></span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div><span style="font-size: xx-small;"><a href="http://b.arkho.us/OMEALFHT.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/HFA53lh.png" /></em></a></span></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="antagonizingpainxe.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/ruQSUHK.png" alt="Antagonizing Pain" width="500" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="antagonizingpainxe.pdf"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/ruQSUHK.png" alt="Antagonizing Pain" width="500" /></em></a></span></div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="BERESHIT.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/iAFrRVy.png" width="415" height="266" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="BERESHIT.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/iAFrRVy.png" width="415" height="266" /></em></a></span></div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><a href="MEDUSA.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/qFJVLqu.png" /></em></a></span></div>
+<div><span style="font-size: xx-small;"><a href="MEDUSA.html"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/qFJVLqu.png" /></em></a></span></div>
 <div>&nbsp;</div>
 <div style="text-align: center;"><span style="font-size: xx-small;"><em>look up.</em></span></div>
 <div>&nbsp;</div>
-<div><span style="font-size: xx-small;"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/i45jttX.png" width="398" height="201" /></em></span></div>
+<div><span style="font-size: xx-small;"><em><img style="display: block; margin-left: auto; margin-right: auto;" src="reqs/i.imgur.com/i45jttX.png" width="398" height="201" /></em></span></div>
 <div>&nbsp;</div>
 <div>
 <div>&nbsp;</div>
@@ -131,6 +131,6 @@
 </tbody>
 </table>
 <br/><center>
-<a title="HEY TAY" alt="HEY TAY" href="http://ALF.S.LAMC.LA"><img src="https://i.imgur.com/E7srTNN.png" alt="HEY TAY, BIANCI RE HAS..."></a>
+<a title="HEY TAY" alt="HEY TAY" href="http://ALF.S.LAMC.LA"><img src="reqs/i.imgur.com/E7srTNN.png" alt="HEY TAY, BIANCI RE HAS..."></a>
 
 <p style="text-align: center;">T O&nbsp; &nbsp;H E L P&nbsp; &nbsp;E V E R Y O N E&nbsp; &nbsp;B E G I N N I N G</p>

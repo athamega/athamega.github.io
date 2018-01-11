@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+Allow: /robots.txt
+
+User-agent: Googlebot
+Allow: /*.jpg$
+Allow: /profile-photo-*96x96.jpg?cb=*$
+Allow: /ss_thumbnails/*-thumbnail-2.jpg?cb=*$
+
+User-agent: Twitterbot
+Allow: /*.jpg$

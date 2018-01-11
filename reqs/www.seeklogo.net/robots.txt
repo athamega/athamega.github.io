@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /wp-php/
+Disallow: /wp-tools/*
+ 
+Sitemap: https://www.seeklogo.net/sitemap.xml

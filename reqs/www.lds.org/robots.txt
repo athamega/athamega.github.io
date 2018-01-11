@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /placestovisit/location/drive
+Disallow: /institutes/calendar
+Disallow: /search
+Disallow: /services/platform
+Disallow: /tools/feedback
+
+Sitemap: https://www.lds.org/sitemaps
+Sitemap: https://www.lds.org/help/sitemap

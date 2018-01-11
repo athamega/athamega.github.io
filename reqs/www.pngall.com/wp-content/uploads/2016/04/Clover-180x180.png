@@ -379,7 +379,7 @@ body { }
         }
         </script>
         <noscript>you MUST enable javascript to be able to comment</noscript>
-        <input type="hidden" id="gasp_email" name="gasp_email" value="" /><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="10bdbb4e68" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="34"/></p>			</form>
+        <input type="hidden" id="gasp_email" name="gasp_email" value="" /><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="fb2e559201" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="45"/></p>			</form>
 			</div><!-- #respond -->
 	
 		
@@ -396,7 +396,7 @@ body { }
 			<div class="widget entry-meta entry-header">
 			
 				                 
-	            <span class="entry-views"><i class="icon-camera"></i> 28131 Total Views</span> 
+	            <span class="entry-views"><i class="icon-camera"></i> 30485 Total Views</span> 
 				
 				<span class="entry-categories"><i class="icon-folder-close"></i> <a href="http://www.pngall.com/category/nature" rel="category tag">Nature</a></span>
 				
@@ -495,6 +495,9 @@ body { }
 		</ul>
 </aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
 					<li>
+				<a href="http://www.pngall.com/disease-png">Disease PNG Transparent Images</a>
+						</li>
+					<li>
 				<a href="http://www.pngall.com/cleveland-browns-png">Cleveland Browns PNG Transparent Images</a>
 						</li>
 					<li>
@@ -502,9 +505,6 @@ body { }
 						</li>
 					<li>
 				<a href="http://www.pngall.com/doctor-needle-png">Doctor Needle PNG Transparent Images</a>
-						</li>
-					<li>
-				<a href="http://www.pngall.com/goofy-png">Goofy PNG Transparent Images</a>
 						</li>
 				</ul>
 		</aside>				
@@ -518,7 +518,7 @@ body { }
 								
 		<div id="copyright" class="container">
 				<div class="right">
-				&copy; 2017 <a href="http://www.pngall.com">PNG All</a>. All rights reserved. WordPress Theme designed by <a href="http://www.theme-junkie.com">Theme Junkie</a>                        				</div><!-- .left -->
+				&copy; 2018 <a href="http://www.pngall.com">PNG All</a>. All rights reserved. WordPress Theme designed by <a href="http://www.theme-junkie.com">Theme Junkie</a>                        				</div><!-- .left -->
 				<div class="left">
 				
 					

@@ -1,0 +1,23 @@
+# robots.txt for http://rationalwiki.com/
+
+User-agent: *
+Allow: /w/load.php?
+Disallow: /w/
+Disallow: /wiki/Special:RecentChangesLinked/
+Disallow: /wiki/Special:WhatLinksHere/
+
+# Allow Internet Archive to index action=raw and store pages' raw wikitext 
+User-agent: ia_archiver
+Allow: /*&action=raw
+
+User-agent: Apache-HttpClient
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /

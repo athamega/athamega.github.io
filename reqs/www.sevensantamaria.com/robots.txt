@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /_files/
+Disallow: /_newsletter/
+Disallow: /console/
+Disallow: /newsletter/
+Disallow: /vendor/
+Disallow: /wp-includes/

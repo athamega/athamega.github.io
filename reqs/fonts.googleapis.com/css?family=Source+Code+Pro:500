@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Source Code Pro Medium'), local('SourceCodePro-Medium'), url(../fonts.gstatic.com/s/sourcecodepro/v7/leqv3v-yTsJNC7nFznSMqU6EJOknnpZ4Yy-3LjgZKxo.ttf) format('truetype');
+}

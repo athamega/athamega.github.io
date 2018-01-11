@@ -1,0 +1,19 @@
+User-agent: *   # directed to all robots
+Disallow: /cgi-bin/sources
+Disallow: /barjoseph/
+
+Disallow: /catering/
+
+Disallow: /uri/
+
+Disallow: /rishon/
+
+Disallow: /itrigalo/
+
+User-agent: Slurp
+
+Disallow: /SlurpConfirm404/
+
+User-agent: Slurp
+
+Disallow: /SlurpConfirm404.htm

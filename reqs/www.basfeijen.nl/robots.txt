@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /catholicism/introduction.htm
+Disallow: /evolution/introduction.htm
+Disallow: /islam/introduction.htm
+Disallow: /newcoldwar/introduction.htm
+Disallow: /scriptures/introduction.htm
+Disallow: /system/introduction.htm

@@ -1,0 +1,16 @@
+User-agent: *
+
+Sitemap: https://www.shareicon.net/tag_sitemap_1.xml
+
+Sitemap: https://www.shareicon.net/pack_sitemap_1.xml
+
+Sitemap: https://www.shareicon.net/icon_sitemap_1.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_2.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_3.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_4.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_5.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_6.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_7.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_8.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_9.xml
+Sitemap: https://www.shareicon.net/icon_sitemap_10.xml

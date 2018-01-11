@@ -1,0 +1,36 @@
+#Prod Robots File
+User-agent: *
+
+Disallow: /comm/programs/commercial/
+
+Disallow: /home/
+
+Disallow: /nt/
+
+Disallow: /special-offer 
+Disallow: /web-offer
+Disallow: /media/
+Disallow: /new-media/
+Disallow: /adt-search-center
+Disallow: /cms/
+Disallow: /*thank-you/ 
+Disallow: /traditional/
+Disallow: /compact/
+Disallow: /test1234/
+Disallow: /testpages/
+Disallow: /health/rite-aid/
+Disallow: /business/webinar/
+
+#COR-1970
+Disallow: /nbs/
+
+
+#COR-1727
+Disallow: /*?*ecid=
+
+#COR-2236
+Disallow: /internal
+
+# automatic sitemap discovery 
+
+Sitemap: http://www.adt.com/sitemap.xml
