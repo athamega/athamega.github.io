@@ -4,16 +4,16 @@ cd /var/www/html/BLOG
 mdbook build
 cd /var/www/html/SHEOLYIT/ALEDOBSOP
 mdbook build
-
-cd /var/www/html/SHEOLYIT/SHEOLYIT
+cd /var/www/html/SHEOLYIT/MATCHBOX20
+mdbook build
 
 sed -i -e 's/print.html/bloback.html/g' /var/www/html/BLOG/book/*.html
 mv /var/www/html/BLOG/book/print.html /var/www/html/BLOG/book/bloback.html
 cp /var/www/html/BLOG/book/*.html /var/www/html/SHEOLYIT/pp
 
 sed -i -e 's/print.html/matchbox.html/g' /var/www/html/SHEOLYIT/MATCHBOX20/book/*.html
-mv /var/www/html/BLOG/SHEOLYIT/MATCHBOX20/print.html /var/www/html/SHEOLYIT/MATCHBOX20/book/matchbox.html
-cp /var/www/html/BLOG/SHEOLYIT/MATCHBOX20/book/*.html /var/www/html/SHEOLYIT/pp
+mv /var/www/html/SHEOLYIT/MATCHBOX20/print.html /var/www/html/SHEOLYIT/MATCHBOX20/book/matchbox.html
+cp /var/www/html/SHEOLYIT/MATCHBOX20/book/*.html /var/www/html/SHEOLYIT/pp
 
 
 sed -i -e 's/print.html/alobsop.html/g' /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html
