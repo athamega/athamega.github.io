@@ -346,6 +346,8 @@
 <div style="text-align: center;">​</div>
 
 <div style="text-align: center;">&nbsp;</div>
+<p style="text-align: center;"><a href="/NITY.html"><img id="BLOGGER_PHOTO_ID_6498786769237643010" src="https://4.bp.blogspot.com/-dP1cmJThMjI/WjBUInNrDwI/AAAAAAAALow/8NikdsXBwXs1jDSREWKc5N3YZ0bRMkhmgCK4BGAYYCw/s320/image-706374.png" alt="" /></a>&nbsp;<a href="/HADID.html"><img id="BLOGGER_PHOTO_ID_6498786773749698130" src="https://1.bp.blogspot.com/-0E6bk_on2Fk/WjBUI4BbjlI/AAAAAAAALo4/87G5s3H-JikYRCtzAoR9UdvkCZwqsLVfQCK4BGAYYCw/s320/image-707313.png" alt="" /></a></p>
+
 </div>
 </center>
 </div>
