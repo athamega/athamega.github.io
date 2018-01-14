@@ -138,20 +138,20 @@
 
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625177884719186" src="https://3.bp.blogspot.com/-aPr0L5vLKK4/WlpjGsGIeFI/AAAAAAAAOSQ/Db4ADtc1-nsu2YEMHyFouLyoMCnbCxZqwCK4BGAYYCw/s320/image-749637.png" style="border-width: 0px; border-style: solid; height: 73px; width: 403px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625177884719186" src="https://3.bp.blogspot.com/-aPr0L5vLKK4/WlpjGsGIeFI/AAAAAAAAOSQ/Db4ADtc1-nsu2YEMHyFouLyoMCnbCxZqwCK4BGAYYCw/s320/image-749637.png" style="border-width: 0px; border-style: solid; height: 73px; width: 403px;" /></a></div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-09-24-applegates-and-covenants.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625190948543090" src="https://4.bp.blogspot.com/-b13r0e1gObw/WlpjHcwymnI/AAAAAAAAOSY/77W2G6uRis4cifgheoMPeaCmLPMZPvRQQCK4BGAYYCw/s320/image-752613.png" style="border-width: 0px; border-style: solid; height: 260px; width: 400px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/2017-09-24-applegates-and-covenants.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625190948543090" src="https://4.bp.blogspot.com/-b13r0e1gObw/WlpjHcwymnI/AAAAAAAAOSY/77W2G6uRis4cifgheoMPeaCmLPMZPvRQQCK4BGAYYCw/s320/image-752613.png" style="border-width: 0px; border-style: solid; height: 260px; width: 400px;" /></a></div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-07-22-roe-v-wade.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625195218680162" src="https://2.bp.blogspot.com/-J5EVBLEOiKk/WlpjHsq3uWI/AAAAAAAAOSg/6hoKJFmzdWgoC-5LYZQc25qAOAFSeYD7wCK4BGAYYCw/s320/image-754458.png" style="border-width: 0px; border-style: solid; height: 25px; width: 400px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/2017-07-22-roe-v-wade.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625195218680162" src="https://2.bp.blogspot.com/-J5EVBLEOiKk/WlpjHsq3uWI/AAAAAAAAOSg/6hoKJFmzdWgoC-5LYZQc25qAOAFSeYD7wCK4BGAYYCw/s320/image-754458.png" style="border-width: 0px; border-style: solid; height: 25px; width: 400px;" /></a></div>
 
 <center>
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
-<div style="text-align: justify; width: 500px;">I started out writing something that I think was supposed to be &quot;his magical decoder ring to the character of Adam&quot; but I don&#39;t really feel like it&#39;s me--it seems more like his &quot;take&quot; on himself; and I don&#39;t think he&#39;s the real Dread Pirate Roberts--I think he&#39;s closer to being the fire swap.&nbsp; <em>Are you ROUSS</em> ?&nbsp; It feels like neither you nor he really care at all to give me the opportunity to be myself--and I know you are blind and he is infernally unforgiving.&nbsp; I know my writing isn&#39;t that great--but there&#39;s really <em>nothing like <a href="http://suez.fromthemachine.org/MUAH.html"><strong>this key</strong></a> in all <a href="https://en.wikipedia.org/wiki/Ham_(son_of_Noah)">the world</a></em>.</div>
+<div style="text-align: justify; width: 500px;">I started out writing something that I think was supposed to be &quot;his magical decoder ring to the character of Adam&quot; but I don&#39;t really feel like it&#39;s me--it seems more like his &quot;take&quot; on himself; and I don&#39;t think he&#39;s the real Dread Pirate Roberts--I think he&#39;s closer to being the fire swap.&nbsp; <em>Are you ROUSS</em> ?&nbsp; It feels like neither you nor he really care at all to give me the opportunity to be myself--and I know you are blind and he is infernally unforgiving.&nbsp; My writing isn&#39;t all that great--but there&#39;s really <em>nothing like <a href="http://fromthemachine.org/MUAH.html"><strong>this key</strong></a> in all <a href="https://en.wikipedia.org/wiki/Ham_(son_of_Noah)">the world</a></em>.</div>
 
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
-<div style="text-align: justify; width: 500px;">I once remarked that our victory here, your victory, was assured--but it&#39;s not.&nbsp; If you continue to do nothing, if you cannot break down this wall of censorshit,&nbsp;there&#39;s <em>nothing to win</em>...&nbsp;not for me--and not for you<em>.&nbsp;&nbsp;</em>I wish he was helping you more.</div>
+<div style="text-align: justify; width: 500px;">I once often remarked that our victory here, your victory, was assured--but it&#39;s not.&nbsp; If you continue to do nothing, if you cannot break down this wall of censorshit,&nbsp;there&#39;s <em>nothing to win</em>...&nbsp;not for me--and not for you<em>.&nbsp;&nbsp;</em>I wish he was helping you more.</div>
 
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
@@ -163,7 +163,7 @@
 
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
-<div style="text-align: center; width: 500px;"><a href="http://4.bp.blogspot.com/-kOWG7qawWqg/WlpjIIpDV9I/AAAAAAAAOSo/4H96z-OCOPsNJYaWdkr_u3wRnEaoOXiLgCK4BGAYYCw/s1600/image-756207.png"><img alt="" border="0" height="99" id="BLOGGER_PHOTO_ID_6510625202727245778" src="https://4.bp.blogspot.com/-kOWG7qawWqg/WlpjIIpDV9I/AAAAAAAAOSo/4H96z-OCOPsNJYaWdkr_u3wRnEaoOXiLgCK4BGAYYCw/s320/image-756207.png" width="198" /></a><a href="http://art.s.lamc.la">&nbsp;</a><a href="http://2.bp.blogspot.com/-R2uiECyYFWk/WlpjIgXrq5I/AAAAAAAAOSw/KIwLA6-Qij8LhqEMXU3_QLwos9MqTwQ0wCK4BGAYYCw/s1600/image-757800.png"><img alt="" id="BLOGGER_PHOTO_ID_6510625209096842130" src="https://2.bp.blogspot.com/-R2uiECyYFWk/WlpjIgXrq5I/AAAAAAAAOSw/KIwLA6-Qij8LhqEMXU3_QLwos9MqTwQ0wCK4BGAYYCw/s320/image-757800.png" style="border-width: 0px; border-style: solid; height: 100px; width: 125px;" /></a><a href="http://o.lamc.la"><img alt="" src="http://rdanderson.com/stargate/glyphs/gate.jpg" style="width: 100px; height: 100px;" /></a></div>
+<div style="text-align: center; width: 500px;"><a href="http://ho.s.lamc.la"><img alt="" id="BLOGGER_PHOTO_ID_6510625202727245778" src="https://4.bp.blogspot.com/-kOWG7qawWqg/WlpjIIpDV9I/AAAAAAAAOSo/4H96z-OCOPsNJYaWdkr_u3wRnEaoOXiLgCK4BGAYYCw/s320/image-756207.png" style="border-width: 0px; border-style: solid; width: 198px; height: 99px;" /></a><a href="http://art.s.lamc.la">&nbsp;</a><a href="http://ka.s.lamc.la"><img alt="" id="BLOGGER_PHOTO_ID_6510625209096842130" src="https://2.bp.blogspot.com/-R2uiECyYFWk/WlpjIgXrq5I/AAAAAAAAOSw/KIwLA6-Qij8LhqEMXU3_QLwos9MqTwQ0wCK4BGAYYCw/s320/image-757800.png" style="border-width: 0px; border-style: solid; height: 100px; width: 125px;" /></a><a href="http://o.lamc.la"><img alt="" src="http://rdanderson.com/stargate/glyphs/gate.jpg" style="width: 100px; height: 100px;" /></a></div>
 
 <div style="text-align: center; width: 500px;">&nbsp;</div>
 
@@ -173,7 +173,7 @@
 
 <div style="text-align: center; width: 500px;"><strong><span style="font-family: comic sans ms, sans-serif; font-size: medium;">T... I MIGHT BE </span><span style="font-family: comic sans ms, sans-serif; font-size: x-large;">R..&nbsp;</span><span style="font-family: comic sans ms, sans-serif; font-size: medium;">?</span></strong></div>
 
-<div style="text-align: center; width: 500px;"><span style="font-family: comic sans ms, sans-serif; font-size: xx-small;">IT&#39;S &quot;RIGHT&quot; NOT TO SAY <strong>WOOD, </strong>RIGHT<strong>?</strong></span></div>
+<div style="text-align: center; width: 500px;"><span style="font-family: comic sans ms, sans-serif; font-size: xx-small;">IT&#39;S &quot;RIGHT&quot; NOT TO SAY <strong>WOOD, <span style="font-size:14px;">RIGHT</span>?</strong></span></div>
 
 <div style="text-align: center; width: 500px;"><strong><span style="font-family: comic sans ms, sans-serif; font-size: xx-small;">&nbsp;</span></strong></div>
 
@@ -197,7 +197,7 @@
 
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
-<div style="text-align: center; width: 500px;"><a href="http://suez.fromthemachine.org/2017-07-15-in-beth-el-staring-at-house-of-elphaba.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625229140936226" src="https://3.bp.blogspot.com/-6UAV-dUdgho/WlpjJrCkRiI/AAAAAAAAOTI/ILn3IomcSdQD7ZztTTQ40uIe-sBRkcv_QCK4BGAYYCw/s320/image-761944.png" style="border-width: 0px; border-style: solid; width: 393px; height: 113px;" /></a></div>
+<div style="text-align: center; width: 500px;"><a href="http://fromthemachine.org/2017-07-15-in-beth-el-staring-at-house-of-elphaba.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625229140936226" src="https://3.bp.blogspot.com/-6UAV-dUdgho/WlpjJrCkRiI/AAAAAAAAOTI/ILn3IomcSdQD7ZztTTQ40uIe-sBRkcv_QCK4BGAYYCw/s320/image-761944.png" style="border-width: 0px; border-style: solid; width: 393px; height: 113px;" /></a></div>
 
 <div style="text-align: justify; width: 500px;">&nbsp;</div>
 
@@ -209,16 +209,16 @@
 
 <div style="text-align: center; width: 500px;">&nbsp;</div>
 
-<div style="text-align: center; width: 500px;"><a href="http://suez.fromthemachine.org/MYLIFE.html"><img id="BLOGGER_PHOTO_ID_6510625238300202610" src="https://4.bp.blogspot.com/-fHD0ITqUCCg/WlpjKNKTlnI/AAAAAAAAOTQ/F7AjuAsncuYMP71eulWNj3NJPmtdefY8gCK4BGAYYCw/s320/image-763797.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
+<div style="text-align: center; width: 500px;"><a href="http://fromthemachine.org/MYLIFE.html"><img id="BLOGGER_PHOTO_ID_6510625238300202610" src="https://4.bp.blogspot.com/-fHD0ITqUCCg/WlpjKNKTlnI/AAAAAAAAOTQ/F7AjuAsncuYMP71eulWNj3NJPmtdefY8gCK4BGAYYCw/s320/image-763797.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
 
-<div style="text-align: center; width: 500px;"><a href="http://suez.fromthemachine.org/CINOIZE.html"><img id="BLOGGER_PHOTO_ID_6510625242684911794" src="https://2.bp.blogspot.com/-opu5xD3VFCU/WlpjKdfs8LI/AAAAAAAAOTY/9T5Sx7BMpYE0IdpSm9JhuiIhl_FNMn7hQCK4BGAYYCw/s320/image-765415.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
+<div style="text-align: center; width: 500px;"><a href="http://fromthemachine.org/CINOIZE.html"><img id="BLOGGER_PHOTO_ID_6510625242684911794" src="https://2.bp.blogspot.com/-opu5xD3VFCU/WlpjKdfs8LI/AAAAAAAAOTY/9T5Sx7BMpYE0IdpSm9JhuiIhl_FNMn7hQCK4BGAYYCw/s320/image-765415.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
 
-<div style="text-align: center; width: 500px;"><a href="http://suez.fromthemachine.org/CINOIZE.html"><img id="BLOGGER_PHOTO_ID_6510625250696248594" src="https://4.bp.blogspot.com/-Q4Sy6hDaMsg/WlpjK7VwPRI/AAAAAAAAOTg/-je9q1TwXQ4GyrN9VlIP-ZH3BE2ZsQuzQCK4BGAYYCw/s320/image-767588.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
+<div style="text-align: center; width: 500px;"><a href="http://fromthemachine.org/CINOIZE.html"><img id="BLOGGER_PHOTO_ID_6510625250696248594" src="https://4.bp.blogspot.com/-Q4Sy6hDaMsg/WlpjK7VwPRI/AAAAAAAAOTg/-je9q1TwXQ4GyrN9VlIP-ZH3BE2ZsQuzQCK4BGAYYCw/s320/image-767588.png" style="border-width: 0px; border-style: solid; width: 400px;" /></a></div>
 
 <div style="text-align: center; width: 500px;">
 <center>
 <div style="text-align: justify; width: 500px;">&nbsp;
-<div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">My heart really isn&#39;t in still doing this if nobody is interested; the last thing I want to do is crisp us more by talking about&nbsp;<em>serpent legs</em>&nbsp;hidden in Married with Children ... but we really do need somebody to help us see that &quot;Appstore Heaven&quot; is something we should have right now; rather than the&nbsp;<em>Hell</em>&nbsp;of &quot;ha&#39;b&quot; in rehab and an AA mantra that reminds me every day how pathetic the, cough, response to illumination about mind control here really is.</span></div>
+<div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">My heart really isn&#39;t in still doing this if nobody is interested; the last thing I want to do is crisp us more by talking about&nbsp;<em>serpent legs</em>&nbsp;hidden in Married with Children ... but we really do need somebody to help us see that &quot;Appstore Heaven&quot; is something we should have right now; rather than the&nbsp;<em>Hell</em>&nbsp;of &quot;ha&#39;b&quot; in rehab and an AA mantra that reminds me every day how pathetic the, cough, response to <span style="font-family:comic sans ms,cursive;">illumination</span> about mind control here really is.</span></div>
 
 <div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">&nbsp;</span></div>
 
@@ -230,11 +230,11 @@
 
 <div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><em><span style="font-family: times new roman, serif;">&nbsp;</span></em></span></div>
 
-<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: times new roman, serif; font-size: medium;"><a href="http://suez.fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625258521925618" src="https://4.bp.blogspot.com/-6YXbqZMGkbo/WlpjLYfil_I/AAAAAAAAOTo/JO_rOYMmrFw7LvZB3bjBNzj2WRThoQ_dgCK4BGAYYCw/s320/Screenshot%2B2018-01-11%2Bat%2B6.46.47%2BPM-768622.png" style="border-width: 0px; border-style: solid;" /></a>​</span></span></div>
+<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: times new roman, serif; font-size: medium;"><a href="http://fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625258521925618" src="https://4.bp.blogspot.com/-6YXbqZMGkbo/WlpjLYfil_I/AAAAAAAAOTo/JO_rOYMmrFw7LvZB3bjBNzj2WRThoQ_dgCK4BGAYYCw/s320/Screenshot%2B2018-01-11%2Bat%2B6.46.47%2BPM-768622.png" style="border-width: 0px; border-style: solid;" /></a>​</span></span></div>
 
 <div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: times new roman, serif; font-size: medium;">&nbsp;</span></span></div>
 
-<div style="text-align: center;"><span style="font-size:22px;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: &quot;times new roman&quot;, serif;">E A S O A P &#39; S&nbsp; &nbsp; F A B <a href="http://suez.fromthemachine.org/TORCH.html"><strong>P</strong></a> K E Y S&nbsp;</span></span></span></div>
+<div style="text-align: center;"><span style="font-size:22px;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: &quot;times new roman&quot;, serif;">E A S O A P &#39; S&nbsp; &nbsp; F A B <a href="http://fromthemachine.org/TORCH.html"><strong>P</strong></a> K E Y S&nbsp;</span></span></span></div>
 
 <div style="text-align: center;">
 <center>
@@ -255,7 +255,7 @@
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: justify;"><span style="font-size: xx-small;">Adapa is summoned before the court of Anu in the heavens, and his father Ea advises him not to eat or drink anything placed before him, because he fears that this will be the food and water of death.</span></div>
+<div style="text-align: justify;"><span style="font-size: xx-small;">Adapa is summoned before the court of Anu in the heavens, and his father <span style="color:#0000CD;"><span style="font-family:comic sans ms,cursive;">Ea <a href="http://soup.reallyhim.com">advises him not to eat or drink</a> anything placed before him,</span></span>&nbsp;because he fears that this will be the food and water of death.</span></div>
 
 <div style="text-align: justify;">&nbsp;</div>
 
@@ -272,13 +272,13 @@
 
 <div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">&nbsp;</span></div>
 
-<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><a href="http://suez.fromthemachine.org/CHOPARTIN.html"><img id="BLOGGER_PHOTO_ID_6510625268614699010" src="https://2.bp.blogspot.com/-Df8tboQKrD0/WlpjL-F2GAI/AAAAAAAAOTw/6EeoYOTlSU45wGfW3AURD2MAVM9dSMw3gCK4BGAYYCw/s320/image-770646.png" style="border-width: 0px; border-style: solid; width: 500px;" /></a></span></div>
+<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><a href="http://fromthemachine.org/CHOPARTIN.html"><img id="BLOGGER_PHOTO_ID_6510625268614699010" src="https://2.bp.blogspot.com/-Df8tboQKrD0/WlpjL-F2GAI/AAAAAAAAOTw/6EeoYOTlSU45wGfW3AURD2MAVM9dSMw3gCK4BGAYYCw/s320/image-770646.png" style="border-width: 0px; border-style: solid; width: 500px;" /></a></span></div>
 
-<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><a href="http://suez.fromthemachine.org/EVERWICK.html"><img id="BLOGGER_PHOTO_ID_6510625269683587650" src="https://1.bp.blogspot.com/-fLhEr3rR_sE/WlpjMCEsCkI/AAAAAAAAOT4/ciV_cJAOO50u4mza3Cyqj5hXWvxla-_HgCK4BGAYYCw/s320/image-771744.png" style="border-width: 0px; border-style: solid; width: 500px;" /></a></span></div>
+<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><a href="http://fromthemachine.org/EVERWICK.html"><img id="BLOGGER_PHOTO_ID_6510625269683587650" src="https://1.bp.blogspot.com/-fLhEr3rR_sE/WlpjMCEsCkI/AAAAAAAAOT4/ciV_cJAOO50u4mza3Cyqj5hXWvxla-_HgCK4BGAYYCw/s320/image-771744.png" style="border-width: 0px; border-style: solid; width: 500px;" /></a></span></div>
 
 <div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">&nbsp;</span></div>
 
-<div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">I could write a whole book or an entire volume decoding&nbsp;people&#39;s names, and how the characters they have played tell a hidden story about past time lines and heroes that we appear more than happy to bury along with our freedom.&nbsp; I&#39;d probably start with Carrey and Fire Marshall Bill,&nbsp; the Reeves&#39;es, you know, if you hadn&#39;t fired me already--and maybe throw in some ...</span></div>
+<div><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">I could write a whole book or an entire volume decoding&nbsp;people&#39;s names, and how the characters they have played tell a hidden story about past time lines (or maybe what you don&#39;t see <em>ha<strong>pp</strong>ening</em> right this very moment) and heroes that we appear more than happy to bury along with our freedom.&nbsp; I&#39;d probably start with Carrey and Fire Marshall Bill,&nbsp; the Reeves&#39;es, you know, if you hadn&#39;t fired me already--and maybe throw in some ...</span></div>
 
 <div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-">&nbsp;</span></div>
 
@@ -288,9 +288,9 @@
 
 <div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><span style="font-family: arial black, sans-serif; font-size: medium; font-weight: bold;">WHO CARES </span><span style="font-family: comic sans ms, sans-serif; font-size: x-large;"><strong>RIGHT</strong></span><span style="font-family: arial black, sans-serif; font-size: x-large; font-weight: bold;">&nbsp;</span><span style="font-family: arial black, sans-serif; font-size: medium; font-weight: bold;">?</span></span></div>
 
-<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><strong><span style="font-family: arial black, sans-serif; font-size: medium;"><a href="http://1.bp.blogspot.com/-yzb9qGuRcz8/WlpjM5B5aVI/AAAAAAAAOUI/lCmCZ-VuS9gohpgYdQpPtnXMalsubI4YgCK4BGAYYCw/s1600/image-774863.png"><img alt="" border="0" height="97" id="BLOGGER_PHOTO_ID_6510625284435831122" src="https://1.bp.blogspot.com/-yzb9qGuRcz8/WlpjM5B5aVI/AAAAAAAAOUI/lCmCZ-VuS9gohpgYdQpPtnXMalsubI4YgCK4BGAYYCw/s320/image-774863.png" width="73" /></a>&nbsp;&nbsp;</span></strong><a href="http://suez.fromthemachine.org/2017-07-10-josephus-justus-and-jesus-from-elohim.html" rel="noopener" target="_blank"><img alt="http://suez.fromthemachine.org/2017-07-10-josephus-justus-and-jesus-from-elohim.html" src="http://static.iogc.org/usr64/f0ac22404e3c7462231a6c5db2549b6e-7832549.gif" style="border: 0px; color: rgb(0, 0, 0); font-family: arial; font-size: 13.3333px; line-height: 1.22em; margin-right: 0px; text-align: left; width: 96px; height: 96px;" /></a>&nbsp;&nbsp;<a href="http://suez.fromthemachine.org/2017-07-15-in-beth-el-staring-at-house-of-elphaba.html" rel="noopener" target="_blank"><img alt="" src="http://static.iogc.org/usr64/bff354a27af121fa51b8ed20d6f52f16-7725803.gif" style="border: 0px; color: rgb(0, 0, 0); font-family: arial; font-size: 13.3333px; line-height: 1.22em; margin-right: 0px; text-align: left; width: 96px; height: 96px;" /></a></span></div>
+<div style="text-align: center;"><span class="m_-4139525755851457880gmail-m_-6333790513851834392gmail-"><strong><span style="font-family: arial black, sans-serif; font-size: medium;"><a href="http://1.bp.blogspot.com/-yzb9qGuRcz8/WlpjM5B5aVI/AAAAAAAAOUI/lCmCZ-VuS9gohpgYdQpPtnXMalsubI4YgCK4BGAYYCw/s1600/image-774863.png"><img alt="" border="0" height="97" id="BLOGGER_PHOTO_ID_6510625284435831122" src="https://1.bp.blogspot.com/-yzb9qGuRcz8/WlpjM5B5aVI/AAAAAAAAOUI/lCmCZ-VuS9gohpgYdQpPtnXMalsubI4YgCK4BGAYYCw/s320/image-774863.png" width="73" /></a>&nbsp;&nbsp;</span></strong><a href="http://fromthemachine.org/2017-07-10-josephus-justus-and-jesus-from-elohim.html" rel="noopener" target="_blank"><img alt="http://fromthemachine.org/2017-07-10-josephus-justus-and-jesus-from-elohim.html" src="http://static.iogc.org/usr64/f0ac22404e3c7462231a6c5db2549b6e-7832549.gif" style="border: 0px; color: rgb(0, 0, 0); font-family: arial; font-size: 13.3333px; line-height: 1.22em; margin-right: 0px; text-align: left; width: 96px; height: 96px;" /></a>&nbsp;&nbsp;<a href="http://fromthemachine.org/2017-07-15-in-beth-el-staring-at-house-of-elphaba.html" rel="noopener" target="_blank"><img alt="" src="http://static.iogc.org/usr64/bff354a27af121fa51b8ed20d6f52f16-7725803.gif" style="border: 0px; color: rgb(0, 0, 0); font-family: arial; font-size: 13.3333px; line-height: 1.22em; margin-right: 0px; text-align: left; width: 96px; height: 96px;" /></a></span></div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-07-10-re-k.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625289627307906" src="https://2.bp.blogspot.com/--tNF2sHKbjM/WlpjNMXpD4I/AAAAAAAAOUQ/vRXBPDvWD6Efxr7H8OR39D7K2RHDAG-0wCK4BGAYYCw/s320/Screenshot%2B2018-01-12%2Bat%2B5.35.59%2BPM-776178.png" style="border-width: 0px; border-style: solid; width: 300px; height: 114px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/2017-07-10-re-k.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625289627307906" src="https://2.bp.blogspot.com/--tNF2sHKbjM/WlpjNMXpD4I/AAAAAAAAOUQ/vRXBPDvWD6Efxr7H8OR39D7K2RHDAG-0wCK4BGAYYCw/s320/Screenshot%2B2018-01-12%2Bat%2B5.35.59%2BPM-776178.png" style="border-width: 0px; border-style: solid; width: 300px; height: 114px;" /></a></div>
 
 <div style="text-align: center;">&nbsp;</div>
 
@@ -299,11 +299,11 @@
 <div style="text-align: center;">
 <center>
 <div style="text-align: justify; width: 500px;">
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-08-01-congratulations-genesiuses.html"><img id="BLOGGER_PHOTO_ID_6510625293881691058" src="https://3.bp.blogspot.com/-zjDauDCOE6Q/WlpjNcN9y7I/AAAAAAAAOUY/XSTwp5kcvngtPr_LF3o-PNxp9gb3wC2bQCK4BGAYYCw/s320/Screenshot%2B2018-01-13%2Bat%2B7.47.28%2BAM-777239.png" style="border-width: 0px; border-style: solid; width: 500px; height: 386px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/2017-08-01-congratulations-genesiuses.html"><img id="BLOGGER_PHOTO_ID_6510625293881691058" src="https://3.bp.blogspot.com/-zjDauDCOE6Q/WlpjNcN9y7I/AAAAAAAAOUY/XSTwp5kcvngtPr_LF3o-PNxp9gb3wC2bQCK4BGAYYCw/s320/Screenshot%2B2018-01-13%2Bat%2B7.47.28%2BAM-777239.png" style="border-width: 0px; border-style: solid; width: 500px; height: 386px;" /></a></div>
 
 <div>&nbsp;</div>
 
-<div>It&#39;s supposed to mean &quot;<span style="font-family: arial black, sans-serif;">Earth safely saved</span>&quot; but here we stand, staring at those words <a href="http://key.s.lamc.la/" rel="noopener" target="_blank">etched into Loch Ness</a>, not to scare you; but to ensure that if you don&#39;t start to speak up about what you believe and how you feel that you will be stuck in a future that you had absolutely no say in creating--and by that I mean you didn&#39;t take the initiative to open your mouth and try to save anything you cared about.&nbsp; That&#39;s what I&#39;m trying to save, that sparkly shiny soul inside you that wants to pipe up and chime in and march on the Wonderful Wizard&#39;s hidden closet--but you just can&#39;t seem to find my e-mail address.&nbsp; I understand, you think you and everyone else on Earth will just pile into the control center together and start shouting some useful words to everyone from the sky.&nbsp; <em>Good plan.</em></div>
+<div>It&#39;s supposed to mean &quot;<span style="font-family: arial black, sans-serif;">Earth safely saved</span>&quot; but here we stand, staring at those words <a href="http://key.s.lamc.la/" rel="noopener" target="_blank">etched into Loch Ness</a>, not to scare you; but to ensure that if you don&#39;t start to speak up about what you believe and how you feel that you will be stuck in a future that you had absolutely no say in creating--and by that I mean you didn&#39;t take the initiative to open your mouth and try to save anything you cared about.&nbsp; That&#39;s what I&#39;m trying to save, that sparkly shiny soul inside you that wants to pipe up and chime in and march on the Wonderful Wizard&#39;s hidden closet--but you just can&#39;t seem to find my e-mail address.&nbsp; I understand, you think you and everyone else on Earth will just pile into the control center together and <a href="http://fromthemachine.org/IOWA.html">start shouting</a> <a href="http://hadid.s.lamc.la">some</a> <a href="http://cure.s.lamc.la">useful</a> <a href="http://who.s.lamc.la">words</a> <a href="http://dessert.s.lamc.la">to eve</a>ryone from the sky.&nbsp; <em>Good plan.</em></div>
 
 <div><em>&nbsp;</em></div>
 
@@ -311,14 +311,14 @@
 
 <div><em><strong>&nbsp;</strong></em></div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-07-21-welcome-to-land-of-bjorg-that-means.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625294999046930" src="https://2.bp.blogspot.com/-DnzYrlx4Yx8/WlpjNgYXSxI/AAAAAAAAOUg/g5e4AqeL0ZwcwgqcV9xri25ibSG1xMJxgCK4BGAYYCw/s320/image-778218.png" style="border-width: 0px; border-style: solid;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/2017-07-21-welcome-to-land-of-bjorg-that-means.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625294999046930" src="https://2.bp.blogspot.com/-DnzYrlx4Yx8/WlpjNgYXSxI/AAAAAAAAOUg/g5e4AqeL0ZwcwgqcV9xri25ibSG1xMJxgCK4BGAYYCw/s320/image-778218.png" style="border-width: 0px; border-style: solid;" /></a></div>
 
 <div style="text-align: center;"><strong><span style="font-family: arial black, sans-serif;">D R <span style="font-size: medium;">I N </span><span style="font-size: x-large;">K</span>&nbsp; &nbsp;M Y&nbsp; &nbsp;<span style="font-size: medium;">W I N</span> <span style="font-size: x-large;">E</span></span></strong></div>
 
 <div style="text-align: center;">&nbsp;</div>
 
 <div style="text-align: center;">
-<div style="text-align: justify;">On the subject of Dave Matthews lyrics (I m<a href="https://www.youtube.com/watch?v=JSCU6PE6T_U">ean Dylan</a>) and &quot;<span style="font-family: arial narrow, sans-serif;"><a href="https://www.youtube.com/watch?v=YN7VY26aDmU">dancing together until the end of time</a></span>&quot; I&#39;ve written a little bit about some word keys to the alphabet soup of Gods or spirits encoded in everything from&nbsp;<a href="http://suez.fromthemachine.org/IOWA.html" rel="noopener" target="_blank">B AKE</a>&nbsp;to F&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;"><strong>OLE</strong></span>&nbsp;to N&nbsp;<a href="http://den.s.lamc.la/" rel="noopener" target="_blank">EAR</a>&nbsp;and R&nbsp;<a href="http://chalk.s.lamc.la/" rel="noopener" target="_blank">IN<wbr />K</a>&nbsp;where you can get some idea as to the caricatured personalities of some of our all time favorites like T, B, D, S, R, L, the <em>hallowed</em> M-W, F, N and simetimes C.&nbsp; Related, <span style="font-family: comic sans ms, sans-serif;">don&#39;t ACT</span> like you really believe &quot;&lt;TR&gt; ESS&quot; has nothing to do with &quot;<a href="http://suez.fromthemachine.org/IOWA.html">naked</a>.&quot;</div>
+<div style="text-align: justify;">On the subject of Dave Matthews lyrics (I m<a href="https://www.youtube.com/watch?v=JSCU6PE6T_U">ean Dylan</a>) and &quot;<span style="font-family: arial narrow, sans-serif;"><a href="https://www.youtube.com/watch?v=YN7VY26aDmU">dancing together until the end of time</a></span>&quot; I&#39;ve written a little bit about some word keys to the alphabet soup of Gods or spirits encoded in everything from&nbsp;<a href="http://fromthemachine.org/IOWA.html" rel="noopener" target="_blank">B AKE</a>&nbsp;to F&nbsp;<span style="font-family: 'comic sans ms' , sans-serif;"><strong>OLE</strong></span>&nbsp;to N&nbsp;<a href="http://den.s.lamc.la/" rel="noopener" target="_blank">EAR</a>&nbsp;and R&nbsp;<a href="http://chalk.s.lamc.la/" rel="noopener" target="_blank">IN<wbr />K</a>&nbsp;where you can get some idea as to the caricatured personalities of some of our all time favorites like T, B, D, S, R, L, the <em>hallowed</em> M-W, F, N and simetimes C.&nbsp; Related, <span style="font-family: comic sans ms, sans-serif;">don&#39;t ACT</span> like you really believe &quot;&lt;TR&gt; ESS&quot; has nothing to do with &quot;<a href="http://fromthemachine.org/IOWA.html">naked</a>.&quot;</div>
 
 <div style="text-align: justify;">&nbsp;</div>
 
@@ -326,18 +326,18 @@
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: justify;">For more interesting linguistic characterizations of the apparently invisible things like &quot;entire seas of past timelines&quot; you can peruse some of that here at chapter twenty &quot;<a href="http://suez.fromthemachine.org/FOUR.html" rel="noopener" target="_blank">FOUR.</a>&quot;</div>
+<div style="text-align: justify;">For more interesting linguistic characterizations of the apparently invisible things like &quot;entire seas of past timelines&quot; you can peruse some of that here at chapter twenty &quot;<a href="http://fromthemachine.org/FOUR.html" rel="noopener" target="_blank">FOUR.</a>&quot;</div>
 
 <div style="text-align: justify;">&nbsp;</div>
 </div>
 
-<div style="text-align: center;"><a href="https://www.youtube.com/watch?v=JSCU6PE6T_U"><img alt="" id="BLOGGER_PHOTO_ID_6510625304879122210" src="https://2.bp.blogspot.com/-WT_dBGjBvcc/WlpjOFL9RyI/AAAAAAAAOUo/QHevZhzwVLsGoNX3fmcbUMRw8cdpwvLEgCK4BGAYYCw/s320/image-780114.png" style="border-width: 0px; border-style: solid; width: 181px; height: 158px;" /></a>&nbsp;<a href="http://suez.fromthemachine.org/SOIS.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625311857624658" src="https://2.bp.blogspot.com/-jX-LrXwZjCw/WlpjOfLwxlI/AAAAAAAAOUw/2M_5CDphMzcF0CvHQ1QOA8mRXgGO06kmQCK4BGAYYCw/s320/image-781337.png" style="border-width: 0px; border-style: solid; width: 223px; height: 149px;" /></a></div>
+<div style="text-align: center;"><a href="https://www.youtube.com/watch?v=JSCU6PE6T_U"><img alt="" id="BLOGGER_PHOTO_ID_6510625304879122210" src="https://2.bp.blogspot.com/-WT_dBGjBvcc/WlpjOFL9RyI/AAAAAAAAOUo/QHevZhzwVLsGoNX3fmcbUMRw8cdpwvLEgCK4BGAYYCw/s320/image-780114.png" style="border-width: 0px; border-style: solid; width: 181px; height: 158px;" /></a>&nbsp;<a href="http://fromthemachine.org/SOIS.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625311857624658" src="https://2.bp.blogspot.com/-jX-LrXwZjCw/WlpjOfLwxlI/AAAAAAAAOUw/2M_5CDphMzcF0CvHQ1QOA8mRXgGO06kmQCK4BGAYYCw/s320/image-781337.png" style="border-width: 0px; border-style: solid; width: 223px; height: 149px;" /></a></div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625313671886578" src="https://3.bp.blogspot.com/-cYr8ub1lUpU/WlpjOl8UNvI/AAAAAAAAOU4/CGuZEM-7orokdich2iCGvtQhP4nttwI2ACK4BGAYYCw/s320/image-782243.png" style="border-width: 0px; border-style: solid; width: 410px; height: 164px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/SPEECH.html"><img alt="" id="BLOGGER_PHOTO_ID_6510625313671886578" src="https://3.bp.blogspot.com/-cYr8ub1lUpU/WlpjOl8UNvI/AAAAAAAAOU4/CGuZEM-7orokdich2iCGvtQhP4nttwI2ACK4BGAYYCw/s320/image-782243.png" style="border-width: 0px; border-style: solid; width: 410px; height: 164px;" /></a></div>
 
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/YAT.html"><img src="https://i.imgur.com/kI2Mzt7.png" style="height: 168px; width: 410px;" /></a></div>
+<div style="text-align: center;"><a href="http://fromthemachine.org/YAT.html"><img src="https://i.imgur.com/kI2Mzt7.png" style="height: 168px; width: 410px;" /></a></div>
 
 <div style="text-align: center;"><strong><span style="font-family: comic sans ms, sans-serif; font-size: x-large;">&nbsp;</span></strong></div>
 
