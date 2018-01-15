@@ -109,11 +109,14 @@
 <br/>
 <p style="font-size: 65px; text-align: center;">954-667-80083</p>
 <p style="text-align: center;"><span style="color: #cc99ff;">wait, is he making fun of me?</span></p>
+<br/>
+
 <div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
+<center><span style="font-size: 63px;">BINKY</span></center>
 <div style="text-align: center;"><a href="http://iv.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6511093451664531378" src="https://4.bp.blogspot.com/-bHHz7TDQ57o/WlwM_z3WH7I/AAAAAAAAOZo/n4mFdwfgF8kkJk-x9sMSBAvWyfWRvUHfQCK4BGAYYCw/s200/image-779033.png" width="200" /></a></div>
 
 <div style="text-align: center;">&nbsp;</div>
@@ -146,7 +149,7 @@
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://ole.s.lamc.la/"><img alt="" border="0" height="321" id="BLOGGER_PHOTO_ID_6511093463545243282" src="https://4.bp.blogspot.com/-U7aS06fQPMY/WlwNAgH7ZpI/AAAAAAAAOZ4/enUfgAAuoA47TCt4j_uJ8nL25j45cDayQCK4BGAYYCw/s400/Screenshot%2B2018-01-14%2Bat%2B4.00.18%2BPM-782508.png" width="400" /></a></div>
+<div style="text-align: center;"><a href="http://ole.s.lamc.la/"><img alt="" id="BLOGGER_PHOTO_ID_6511093463545243282" src="https://4.bp.blogspot.com/-U7aS06fQPMY/WlwNAgH7ZpI/AAAAAAAAOZ4/enUfgAAuoA47TCt4j_uJ8nL25j45cDayQCK4BGAYYCw/s400/Screenshot%2B2018-01-14%2Bat%2B4.00.18%2BPM-782508.png" style="border-width: 0px; border-style: solid; width: 501px; height: 403px;" /></a></div>
 
 <div style="text-align: center;">&nbsp;</div>
 
@@ -154,7 +157,7 @@
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-10-15-the-cure.html"><img alt="" border="0" height="288" id="BLOGGER_PHOTO_ID_6511093468341811906" src="https://3.bp.blogspot.com/-Qt5OVp1Zr78/WlwNAx_hOsI/AAAAAAAAOaA/VMpI8hSBHtwZ1Un5aBOqpnA3XPdbVuX4QCK4BGAYYCw/s400/Screenshot%2B2018-01-14%2Bat%2B4.00.41%2BPM-783381.png" width="400" /></a><br />
+<div style="text-align: center;"><a href="http://suez.fromthemachine.org/2017-10-15-the-cure.html"><img alt="" id="BLOGGER_PHOTO_ID_6511093468341811906" src="https://3.bp.blogspot.com/-Qt5OVp1Zr78/WlwNAx_hOsI/AAAAAAAAOaA/VMpI8hSBHtwZ1Un5aBOqpnA3XPdbVuX4QCK4BGAYYCw/s400/Screenshot%2B2018-01-14%2Bat%2B4.00.41%2BPM-783381.png" style="border-width: 0px; border-style: solid; width: 500px; height: 361px;" /></a><br />
 &nbsp;</div>
 
 <div style="text-align: justify;">I don&#39;t know how else to say it but the &quot;min&quot; on these things will never be changing--looking at the rest state, looking at what we have available with this disclosure--which is basically unlimited land, unlimited food, and stupidity as far as the eye can see... metaphorically in this world we are looking at a well of absolutely infinite power and shutting our mouths, looking the other way, and refusing to even speak about why it is that we haven&#39;t moved forward at all.&nbsp; I got carried away, the min will never change, we will be ending world hunger, we will be healing the sick, we will be stopping heinous violent crimes--and I hope that we will be seeing that these things are not controversial, they are really the absolute bare minimum of what I see &quot;our morality&quot; what you agree with here in this place, applied to the differing conditions of being in a place where these things are not only free, but economically stimulating and civilization strengthening.&nbsp; The only cost&nbsp;<a href="http://bit.ly/2DfMOCM" target="_blank">is kissing me</a>.</div>
@@ -164,18 +167,19 @@
 
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://1.bp.blogspot.com/-X4Qg0hluLR8/WlwNBF6eT2I/AAAAAAAAOaI/XI5ucObsNPktsCE8qYav-mNFqblKTiLKACK4BGAYYCw/s1600/Screenshot%2B2018-01-14%2Bat%2B4.02.23%2BPM-784401.png"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6511093473689358178" src="https://1.bp.blogspot.com/-X4Qg0hluLR8/WlwNBF6eT2I/AAAAAAAAOaI/XI5ucObsNPktsCE8qYav-mNFqblKTiLKACK4BGAYYCw/s320/Screenshot%2B2018-01-14%2Bat%2B4.02.23%2BPM-784401.png" /></a></div>
-
 <div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;"><a href="http://alf.s.lamc.la"><img src="https://i.imgur.com/zZSRPOE.png" style="height: 215px; width: 399px;" /></a></div>
 
 <div style="text-align: center;"><span style="font-size:48px;"><b><span style="font-family: &quot;arial black&quot;, sans-serif;">U WILL X THE Y</span></b></span></div>
 
-<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;"><a href="http://1.bp.blogspot.com/-X4Qg0hluLR8/WlwNBF6eT2I/AAAAAAAAOaI/XI5ucObsNPktsCE8qYav-mNFqblKTiLKACK4BGAYYCw/s1600/Screenshot%2B2018-01-14%2Bat%2B4.02.23%2BPM-784401.png"><img alt="" id="BLOGGER_PHOTO_ID_6511093473689358178" src="https://1.bp.blogspot.com/-X4Qg0hluLR8/WlwNBF6eT2I/AAAAAAAAOaI/XI5ucObsNPktsCE8qYav-mNFqblKTiLKACK4BGAYYCw/s320/Screenshot%2B2018-01-14%2Bat%2B4.02.23%2BPM-784401.png" style="border-width: 0px; border-style: solid; height: 381px; width: 400px;" /></a></div>
 
 <div style="text-align: center;">
 <center>
 <div style="width: 500px;">
 <div style="text-align: justify;">
+<div>&nbsp;</div>
 <div>Anyway the point of this is to ask you if you see any more, any more of these kinds of polarized &quot;rubber tire bumpers&quot; on our go-kart track--I haven&#39;t thought much about but I do imagine that there are quite a few more... maybe even just in this one specific place.&nbsp; You probably don&#39;t dislike the idea of a &quot;religion&quot; or using that word as much as I do--or maybe you do by now--but this is the foundation of the thing that I was going to call a &quot;religion of the stars&quot; until I re-read that Nostrisadamus quattraine about the &quot;religion of the sea&quot; prevailing over the that of the Son of Adaluncatif.&nbsp; I used to think it was &quot;Adam&quot; misspelled, <span style="font-family: &quot;arial black&quot; , sans-serif;">I C AL</span> now.&nbsp; &nbsp;<span style="font-family: &quot;comic sans ms&quot; , sans-serif;"><b>Rad</b></span>.&nbsp;&nbsp;</div>
 
 <div>&nbsp;</div>
@@ -197,26 +201,27 @@
 <center>
 <div style="width: 500px;">
 <div style="text-align: justify;">
-<div>The way out is clear, you appear to have jack shit right now, as in &quot;jacked into my head&quot; as you walk around Hell with a feeling of &quot;complacency&quot; or &quot;it&#39;s good enough&quot; or &quot;gee those sunrises are pretty&quot; that&#39;s just about as artificial as my smiles.&nbsp; I don&#39;t think any of you <a href="http://key.s.lamc.la/">realize how strong this technology is</a>--how much <i><a href="http://en.reallyhim.com/SPEECH.html">it influences how you feel and what you think</a></i>--how much it is keeping you today from seeing the impact of the moral imperative to &quot;stop pain&quot;--just for instance.&nbsp; It&#39;s partially because of his selfish need to &quot;show you&quot; how he could have simulated all of our history--thousands of years, knowing this message was here and knowing this was really the point of it all... the whole time.&nbsp; Part of it probably comes from something I&#39;ve kept as a kind of hidden salve--the idea that these short lives that begin everything for us--the seat of our souls, the time spent here is minuscule compared to what is to come... I still imagine that&#39;s guaranteed.&nbsp; Still these are &quot;formative years&quot; as we see clearly in our children growing up, and I feel like we&#39;ve been beaten with more than a ruler in parochial school, I am scared that what his crucible of &quot;needed change&quot; and &quot;absolute stagnation&quot; is creating in us is something that the bright outlook of thousands of years of thriving can&#39;t--and shouldn&#39;t have to &quot;make all better.&quot;<br />
+<div>The way out is clear, you appear to have jack shit right now, as in &quot;jacked into my head&quot; as you walk around Hell with a feeling of &quot;complacency&quot; or &quot;it&#39;s good enough&quot; or &quot;gee those sunrises are pretty&quot; that&#39;s just about as artificial as my smiles.&nbsp; I don&#39;t think any of you <a href="http://key.s.lamc.la/">realize how strong this technology is</a>--how much <i><a href="http://en.reallyhim.com/SPEECH.html">it influences how you feel and what you think</a></i>--how much it is keeping you today from seeing the impact of the moral imperative to &quot;stop pain&quot;--just for instance.&nbsp; It&#39;s partially because of his selfish need to &quot;show you&quot; how he could have simulated all of our history--thousands of years, knowing this message was here and knowing this was really the point of it all... the whole time.&nbsp; Part of it probably comes from something I&#39;ve kept as a kind of hidden salve--the idea that these short lives that begin everything for us--the seat of our souls, the time spent here is minuscule compared to what is to come... I still imagine that&#39;s guaranteed.&nbsp; Still these are &quot;formative years&quot; as we see clearly in our children growing up, and I feel like we&#39;ve been beaten with more than a ruler in parochial school, I am scared that what his crucible of &quot;needed change&quot; and &quot;absolute stagnation&quot; is creating in us is something that the bright outlook of thousands of years of thriving can&#39;t--and shouldn&#39;t have to &quot;make all better.&quot;&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><a href="http://who.s.lamc.la">I see you</a> are <em>all b</em>roken, and <a href="http://hadid.s.lamc.la">if you don&#39;t see</a> it--it makes you <a href="http://cure.s.lamc.la"><em>that much more broken</em></a>.<br />
 &nbsp;</div>
 
 <div>For some time, I imagine we will look back on these few years of radical hidden change and totally hidden lack of freedom with disdain and disgust, a sort of contempt that really is hard to fathom--how could we have done nothing for so long--how could anyone or anything have created a situation like this intentionally--how are we still stuck at &quot;<b><span style="font-family: &quot;arial black&quot; , sans-serif;">hel</span><span style="font-family: &quot;comic sans ms&quot; , sans-serif;"> lo&nbsp;</span></b>?&quot;</div>
-
-<div>&nbsp;</div>
 </div>
 </div>
 </center>
 </div>
 
-<div style="text-align: center;"><b><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;">DA Y</span></b><span style="text-align: justify;">&nbsp;</span></div>
+<div style="text-align: center;"><span style="font-size:72px;"><b><span style="font-family: &quot;arial black&quot;, sans-serif;">DA Y</span></b></span></div>
 
 <div style="text-align: center;">
 <center>
 <div style="width: 500px;">
 <div style="text-align: justify;">
-<div>&nbsp;</div>
-
-<div>If I were someone else, or if this was another life it would probably be a little presumptuous of me to assume, and now to be very sure that the mark of &quot;DAY&quot; here is defined as &quot;<span style="font-family: &quot;comic sans ms&quot; , sans-serif;">my why</span>;&quot; my ultimate goal.&nbsp; It&#39;s the meaning of those two letters, the &quot;dark to Adam&quot; <i><b>the</b>&nbsp;</i>that is one in a series I&#39;ve talked about a few times--<a href="http://thor.lamc.la/" target="_blank">&quot;le&quot; in Jerusalem</a> and &quot;El&quot; in Elm Street; <a href="http://math.s.lamc.la/" target="_blank">Ha in Hebrew</a>&nbsp;... all of those revolving around the &quot;m&quot; that keys to &quot;Amsterdam&quot; <i>and Ham</i> and and I&#39;d probably call understanding that &quot;his why&#39; understanding that it&#39;s &quot;<i>the Holy message</i>&quot; and that it&#39;s you--written by you, with you, and through you--it&#39;s the whole world around us, that&#39;s the message.&nbsp; Avoiding <i><a href="http://blow%20me/">disasters</a></i> and <i><a href="http://gate.s.lamc.la/">masters</a></i> is a simple feat--it&#39;s seeing that you probably really do agree with quite a bit of what the message says--and in my eyes it&#39;s really caring, really working to make it a reality.&nbsp; I think it&#39;s obvious, I think I shouldn&#39;t have to tell you that you need to participate in self government to avoid masters.
+<div>
+<p>If I were someone else, or if this was another life it would probably be a little presumptuous of me to assume, and now to be very sure that the mark of &quot;DAY&quot; here is defined as &quot;<span style="font-family: &quot;comic sans ms&quot; , sans-serif;">my why</span>;&quot; my ultimate goal.&nbsp; It&#39;s the meaning of those two letters, the &quot;dark to Adam&quot; <i><b>the</b>&nbsp;</i>that is one in a series I&#39;ve talked about a few times--<a href="http://thor.lamc.la/" target="_blank">&quot;le&quot; in Jerusalem</a> and &quot;El&quot; in Elm Street; <a href="http://math.s.lamc.la/" target="_blank">Ha in Hebrew</a>&nbsp;... all of those revolving around the &quot;m&quot; that keys to &quot;Amsterdam&quot; <i>and Ham</i> and and I&#39;d probably call understanding that &quot;his why&#39; understanding that it&#39;s &quot;<i>the Holy message</i>&quot; and that it&#39;s you--written by you, with you, and through you--it&#39;s the whole world around us, that&#39;s the message.&nbsp; Avoiding <i><a href="http://blow%20me/">disasters</a></i> and <i><a href="http://gate.s.lamc.la/">masters</a></i> is a simple feat--it&#39;s seeing that you probably really do agree with quite a bit of what the message says--and in my eyes it&#39;s really caring, really working to make it a reality.&nbsp; I think it&#39;s obvious, I think I shouldn&#39;t have to tell you that you need to participate in self government to avoid masters.</p>
 
 <center>
 <div style="text-align: justify; width: 500px;">
@@ -245,9 +250,11 @@
 
 <div class="separator" style="clear: both; text-align: justify;"><span style="background-color: #fdfeff; color: #001320;"><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace; font-size: x-small;">So he will sprinkle many nations, and <a href="http://iz%20kings/">kings will shut their mouths</a> because of him. For what they were not told, they will see, and what they have not heard, they will understand.&nbsp; Isaiah 52:15</span></span>&nbsp;</div>
 
-<blockquote class="tr_bq">If this comes off as &quot;harsh&quot; you <a href="http://math.s.lamc.la/">can see</a> the &quot;y:<a href="http://chalk.s.lamc.la/">ear&quot; of literally tens of millions of e-mails</a> that I think have &quot;sprinkled&quot; nearly every government, a significant fraction (read: <i><span style="font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">all</span></i>) of the religious, educational, entertainment and news outlets available in America and beyond--and I really am not sure <a href="http://eve.s.lamc.la/">who &quot;everyone&quot; th</a>inks the<a href="http://key.s.lamc.la/">y ar</a>e kidding; what I see here is nothing short of the destruction of every normal mode of <a href="http://m.lamc.la/SIGNAL.html">communication</a>&nbsp;(<span style="font-size: xx-small;"><i><a href="http://fromthemachine.org/THUNDERSTAND.html">mu</a>st<a href="http://art.s.lamc.la/">upid</a></i></span>) available to me--and you--and in place of that all I&#39;ve been given is a large group of people I come in direct contact with who &quot;have no idea what&#39;s going on&quot; and &quot;don&#39;t get it&quot; and/or think it sounds &quot;<a href="http://cure.s.lamc.la/">schizophrenic</a>.&quot;&nbsp; &nbsp;It&#39;s <i><a href="http://iv.s.lamc.la/">very</a>, v<a href="http://nity.s.lamc.la/">ery</a> cl<a href="http://how.s.lamc.la/">ear</a></i>; taking just a fraction of a second to comprehend the gravity of the message and it&#39;s origin should relatively quickly bring anyone with a brain to the conclusion that I&#39;ve succ<a href="http://aftertheome.ga/YAT.html">essful</a>ly <a href="http://en.reallyhim.com/MIDAS.html"><span style="font-family:courier new,courier,monospace;">stolen</span></a> <span style="font-family:comic sans ms,cursive;"><b>the best material in the world</b> from t<a href="http://rigel.s.lamc.la/">he Messiah</a></span>, and the entirety of the population has been encased in a <b>stupefying agent of darkness</b> which is ... the exact target of said... <i><b><a href="http://hadid.s.lamc.la/">best material</a></b></i>.&nbsp;</blockquote>
+<div class="separator" style="clear: both; text-align: justify;">
+<blockquote class="tr_bq"><span style="font-size:11px;">If this comes off as &quot;harsh&quot; you <a href="http://math.s.lamc.la/">can see</a> the &quot;y:<a href="http://chalk.s.lamc.la/">ear&quot; of literally tens of millions of e-mails</a> that I think have &quot;sprinkled&quot; nearly every government, a significant fraction (read: <i><span style="font-family: &quot;georgia&quot; , &quot;times new roman&quot; , serif;">all</span></i>) of the religious, educational, entertainment and news outlets available in America and beyond--and I really am not sure <a href="http://eve.s.lamc.la/">who &quot;everyone&quot; th</a>inks the<a href="http://key.s.lamc.la/">y ar</a>e kidding; what I see here is nothing short of the destruction of every normal mode of <a href="http://m.lamc.la/SIGNAL.html">communication</a>&nbsp;(<i><a href="http://fromthemachine.org/THUNDERSTAND.html">mu</a>st<a href="http://art.s.lamc.la/">upid</a></i>) available to me--and you--and in place of that all I&#39;ve been given is a large group of people I come in direct contact with who &quot;have no idea what&#39;s going on&quot; and &quot;don&#39;t get it&quot; and/or think it sounds &quot;<a href="http://cure.s.lamc.la/">schizophrenic</a>.&quot;&nbsp; &nbsp;It&#39;s <i><a href="http://iv.s.lamc.la/">very</a>, v<a href="http://nity.s.lamc.la/">ery</a> cl<a href="http://how.s.lamc.la/">ear</a></i>; taking just a fraction of a second to comprehend the gravity of the message and it&#39;s origin should relatively quickly bring anyone with a brain to the conclusion that I&#39;ve succ<a href="http://aftertheome.ga/YAT.html">essful</a>ly <a href="http://en.reallyhim.com/MIDAS.html"><span style="font-family:courier new,courier,monospace;">stolen</span></a> <span style="font-family:comic sans ms,cursive;"><b>the best material in the world</b> from t<a href="http://rigel.s.lamc.la/">he Messiah</a></span>, and the entirety of the population has been encased in a <b>stupefying agent of darkness</b> which is ... the exact target of said... <i><b><a href="http://hadid.s.lamc.la/">best material</a></b></i>.&nbsp;</span></blockquote>
 
-<blockquote class="tr_bq"><b><span style="font-size: x-large;">iZ.</span>&nbsp; How&#39;s <span style="font-size: large;"><a href="http://thor.lamc.la/">th</a><a href="http://who.s.lamc.la/">at</a></span>?&nbsp; </b>Easier <a href="https://www.linkedin.com/pulse/holy-light-messiah-power-humanity-adam-marshall-dobrin/">to understand</a>?</blockquote>
+<blockquote class="tr_bq"><b><span style="font-size: x-large;">iZ.</span>&nbsp; How&#39;s <span style="font-size: large;"><a href="http://thor.lamc.la/">th</a><a href="http://who.s.lamc.la/">at</a></span>?&nbsp; </b>Easier <a href="https://www.linkedin.com/pulse/holy-light-messiah-power-humanity-adam-marshall-dobrin/">to u n d e r s t a n d</a>&nbsp;?</blockquote>
+</div>
 </div>
 
 <div>I&#39;m furious with what I see--I&#39;ll never be able to tale you enough how much I detest and hate the lack of response, the obvious lack of caring for yourselves and the world around you--and <a href="http://sois.s.lamc.la/" target="_blank">the sick feeling of judgement</a> I have every time I think about it.&nbsp; I feel like you&#39;ve thrown your rox; and I feel like God is punishing you for it, and fucking you is fucking me; and I&#39;m sick of being fucked.&nbsp; You have an uphill battle if you are ever to have any of my respect; and I feel bad for you that you&#39;ve been placed at the bottom of such a steep hill, and honestly I find it a little humorous that you don&#39;t seem to want or need it.&nbsp; Respect doesn&#39;t mean much to me, not personally, not respect for me; but you are blind fools if you don&#39;t see that I value very much the things I have respect for--and I think you used to value them also.&nbsp; What I see around me is nothing but venomous spit in the face of freedom and philosophical thought; if &quot;goodness&quot; itself and I just don&#39;t understand how you don&#39;t see that.</div>
@@ -304,55 +311,18 @@
 
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;">/s/ Ace MkCloud</div>
+<div style="text-align: center;">/s/ Ace MkLoudr</div>
 
 <div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
-
-<div>&nbsp;</div>
 </div>
 </div>
 </center>
 </div>
-
-<div style="text-align: center;">&nbsp;</div>
-
-<div style="text-align: center;">&nbsp;</div>
-<br />
-<br />
-<br />
-​</div>
+</div>
 </div>
 </div>
 </center>
 </div>
-
-<div style="text-align: center;">&nbsp;</div>
 
 <div style="text-align: center;">&nbsp;</div>
 </div>

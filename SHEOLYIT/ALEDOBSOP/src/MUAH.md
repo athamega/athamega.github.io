@@ -1,4 +1,54 @@
 <div dir="ltr">
+<div class="gmail-g" style="line-height: 1.2; margin-bottom: 26px; margin-top: 0px;">
+<div class="gmail-rc">
+<h3 class="gmail-r" style="font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><strong><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;"><strong><a href="https://2.bp.blogspot.com/-d1m2mR86OcM/WlkMTBWc_TI/AAAAAAAAOJ4/HSLqxfetBlwV0oXHJMy_LfK6AqWGf3x8ACLcBGAs/s1600/Screenshot%2B2018-01-12%2Bat%2B11.27.55%2BAM.png" imageanchor="1" style="font-size: medium; font-weight: 400; margin-left: 1em; margin-right: 1em; white-space: normal;"><img border="0" data-original-height="200" data-original-width="411" height="96" src="https://2.bp.blogspot.com/-d1m2mR86OcM/WlkMTBWc_TI/AAAAAAAAOJ4/HSLqxfetBlwV0oXHJMy_LfK6AqWGf3x8ACLcBGAs/s200/Screenshot%2B2018-01-12%2Bat%2B11.27.55%2BAM.png" width="200" /></a></strong></span></strong></h3>
+
+<h3 class="gmail-r" style="font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">&nbsp;</h3>
+
+<h3 class="gmail-r" style="font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><strong><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;"><a href="http://name.s.lamc.la/">HAS HE M</a>&nbsp;?</span></strong></h3>
+
+<div>&nbsp;</div>
+
+<div>
+<center>
+<div style="font-family: Roboto,arial,sans-serif; text-align: justify; width: 400px;">I imagine that if a mathematician sat down and actually thought about the problem, looking at <a href="http://math.s.lamc.la/">the &quot;suggested&quot; wordspace of &quot;Holy Hebrew words&quot; beginning with the superlative &quot;<strong>Ha</strong>&quot;</a> they would quickly understand how this selection shows us specifically how verification of this language--of this message--<em>requires a brain</em> to connect the pattern of &quot;<a href="http://how.s.lamc.la/">paradoxical foreknowledge</a> of the English language&quot; to the weighted import of the connection between &quot;Adam&quot; and &quot;Eden&quot; and the words &quot;shem&quot; and &quot;shame.&quot;&nbsp; Just for example, you could equally search for the importance of the change wrought by the central religious idea of the Eternal Flame on the connection between t<a href="http://suez.fromthemachine.org/HASHEMESHB.html">he Hebrew word for fire, which is &quot;esh&quot;</a> and the English word for &quot;<a href="http://den.s.lamc.la">ash</a>.&quot;&nbsp;</div>
+
+<div style="font-family: Roboto,arial,sans-serif; text-align: justify; width: 400px;">&nbsp;</div>
+
+<div style="text-align: justify; width: 400px;"><span style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;">Wait, </span><span style="font-family: &quot;comic sans ms&quot; , sans-serif;">has <span style="font-size:20px;">anyone</span> thought about it&nbsp;</span><span style="font-family:times new roman,times,serif;"><span style="font-size:36px;">?</span></span></div>
+
+<div style="text-align: justify; width: 400px;">&nbsp;</div>
+</center>
+</div>
+
+<h3 class="gmail-r" style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 18px; font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="http://suez.fromthemachine.org/CINOIZE.html"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246893262538994" src="https://3.bp.blogspot.com/-AnlAJK6eGTg/WlkLDoEBCPI/AAAAAAAAOJI/9l3v3q_5rnYVyc8-0xxBYM5gh8wL_KipwCK4BGAYYCw/s200/image-773696.png" width="179" /></a><a href="http://time.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246900161996386" src="https://2.bp.blogspot.com/-xQZf-7m2kb8/WlkLEBw-ZmI/AAAAAAAAOJQ/2vwHssznk1UZcK5VOK8-hloKN4hP6i1_QCK4BGAYYCw/s200/image-776343.png" width="130" /></a><a href="http://buck.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246908611329554" src="https://2.bp.blogspot.com/-neGY62H-8bo/WlkLEhPc_hI/AAAAAAAAOJY/GyqX78KrBZ4pFNeRQgp8XQoGlb73HJqKgCK4BGAYYCw/s200/image-777489.png" width="173" /></a></h3>
+
+<div style="font-family: Roboto,arial,sans-serif;">&nbsp;</div>
+
+<div style="text-align: center;"><b><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: medium;">HERE LET ME GOOGLE THAT FOR YOU</span></b></div>
+
+<div style="font-family: Roboto,arial,sans-serif; text-align: center;">&nbsp;</div>
+
+<h3 class="gmail-r" style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 18px; font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-overflow: ellipsis; white-space: nowrap;"><a href="https://www.quora.com/What-kind-of-mathematically-identifiable-universal-properties-are-assumed-to-exist-for-all-languages" style="color: #660099; text-decoration-line: none;">What kind of mathematically identifiable universal properties are ...</a></h3>
+
+<div class="gmail-s" style="color: rgb(84 , 84 , 84); font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; line-height: 18px; max-width: 48em;">
+<div class="gmail-f gmail-kv gmail-_SWb" style="color: grey; height: 18px; line-height: 16px; white-space: nowrap;"><cite class="gmail-_Rm" style="color: rgb(0 , 102 , 33); font-size: 14px; font-style: normal;"><a href="https://www.quora.com/What-kind-of-mathematically-identifiable-universal-properties-a.">https://www.quora.com/What-kind-of-mathematically-identifiable-universal-properties-a.</a>..</cite></div>
+<span class="gmail-st" style="line-height: 1.4; word-wrap: break-word;">Adding on Avril Kenney&#39;s mention of Steve Piantadosi&#39;s work, * Genzel &amp; Charniak 2002 - Entropy Rate Constancy in Text * Aylett &amp; Turk 2004 - The Smooth Signal Redundancy Hypothesis: A functional explanation for relationships between redundancy...</span></div>
+</div>
+</div>
+
+<div class="gmail-g" style="line-height: 1.2; margin-bottom: 26px; margin-top: 0px;">
+<div class="gmail-rc">
+<h3 class="gmail-r" style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 18px; font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="http://3.bp.blogspot.com/-7wlxyKDIN9o/WlkLExRw9SI/AAAAAAAAOJg/Rxla6PWPMP8Ac22eWgnF26hRb9Zc2xlPwCK4BGAYYCw/s1600/image-779062.png"><img alt="" border="0" height="191" id="BLOGGER_PHOTO_ID_6510246912915993890" src="https://3.bp.blogspot.com/-7wlxyKDIN9o/WlkLExRw9SI/AAAAAAAAOJg/Rxla6PWPMP8Ac22eWgnF26hRb9Zc2xlPwCK4BGAYYCw/s400/image-779062.png" width="400" /></a></h3>
+
+<div>
+<div style="font-family: Roboto,arial,sans-serif; text-align: center;">
+<p style="text-align: center;"><img src="https://i.imgur.com/IjUnDbZ.png" style="height: 149px; width: 400px;" /></p>
+
+<p style="text-align: center;"><em>(<span style="font-family:comic sans ms,cursive;">please</span>) write a paper on <a href="http://math.s.lamc.la">the probability</a> of these &quot;<strong><a href="http://how.s.lamc.la">patterns</a></strong>&quot; being <a href="http://dessert.s.lamc.la">random</a>&nbsp;(<strong><span style="font-family:courier new,courier,monospace;">now</span></strong>).</em></p>
+
+<p style="text-align: center;"><a href="http://xxbb.s.lamc.la/"><img alt="" border="0" height="300" id="BLOGGER_PHOTO_ID_6501660106779033170" src="https://4.bp.blogspot.com/--n3ElKFKAxg/WjqJa3rkflI/AAAAAAAAMJY/vgWUEWXkTQA1rg7TrFKbZ0BysUUMJhSOQCK4BGAYYCw/s400/ezgif.com-gif-maker-706835.gif" width="400" /></a></p>
+<div dir="ltr">
 <div class="gmail_quote">
 <br />
 <div dir="ltr">
