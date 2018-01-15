@@ -102,7 +102,7 @@ The e-mails that circled the globe, opening the doorway to the future.
 Older works <a href="lit-and-why.pdf">Lit and Why</a>, <a href="hot-and-y.pdf">hot&y</a>, and <a href="from-adam-to-mary.pdf">From Adam to Mary</a> are also available.
 
 </div>
-     <nav class="nav" role="navigation" >
+     <div height=0 class="nav" role="navigation" >
 <ul>
        <li>
         	<a href="lamc.la/">Preface</a>

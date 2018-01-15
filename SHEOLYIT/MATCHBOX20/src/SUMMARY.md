@@ -114,7 +114,6 @@
 - [im_single.md](./im_single.md)
 - [index.md](./index.md)
 - [lamc.la.md](./lamc.la.md)
-- [messengertour.md](./messengertour.md)
 - [music_saves_all_souls.md](./music_saves_all_souls.md)
 - [my_dying_breath.md](./my_dying_breath.md)
 - [omega.md](./omega.md)

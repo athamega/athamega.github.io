@@ -134,7 +134,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
   opacity: 0.6;
 }
 
-/* sidebar */
+/* hidden */
 
 .HIaHIeFcAFFFcefA {
   display: -webkit-flex;
@@ -267,7 +267,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
   margin-bottom: 10px;
 }
 
-/* end sidebar */
+/* end hidden */
 
 /* shared parts of app id warning */
 
@@ -1003,12 +1003,12 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
   top: 4px;
 }
 
-.inboxsdk__sidebar div[role=complementary] {
+.inboxsdk__hidden div[role=complementary] {
   position: static !important;
 }
 
-/* Fix issue where sidebar causes threadview to be taller than it should */
-.inboxsdk__sidebar > div.y4,
+/* Fix issue where hidden causes threadview to be taller than it should */
+.inboxsdk__hidden > div.y4,
 .HGEFHGDGHACDAGdc > div.y4 {
   display: none;
 }
@@ -1019,9 +1019,9 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* end tabs */
 
-/* old sidebar */
+/* old hidden */
 
-.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+.inboxsdk__hidden .inboxsdk__contentPanelContainer {
   font: 12px Arial, sans-serif;
   max-width: 220px;
 }
@@ -1033,10 +1033,10 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 
-/* end old sidebar */
+/* end old hidden */
 
 
-/* sidebar */
+/* hidden */
 
 .HGEFHGDGHACDAGdc div[role=complementary] {
   position: static !important;
@@ -1044,8 +1044,8 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 .HGEFHGDGHACDAGdc {
-  /* Necessary to prevent z-indexes on sidebar items from causing them to show
-  above stuff outside of the sidebar. */
+  /* Necessary to prevent z-indexes on hidden items from causing them to show
+  above stuff outside of the hidden. */
   will-change: position;
 }
 
@@ -1065,7 +1065,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   padding-top: 0;
 }
 
-/* end sidebar */
+/* end hidden */
 
 /* custom content */
 
@@ -1721,7 +1721,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
   opacity: 0.6;
 }
 
-/* sidebar */
+/* hidden */
 
 .DcaJcHaEBCaAHJbE {
   display: -webkit-flex;
@@ -1854,7 +1854,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
   margin-bottom: 10px;
 }
 
-/* end sidebar */
+/* end hidden */
 
 /* shared parts of app id warning */
 
@@ -2592,12 +2592,12 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
   top: 4px;
 }
 
-.inboxsdk__sidebar div[role=complementary] {
+.inboxsdk__hidden div[role=complementary] {
   position: static !important;
 }
 
-/* Fix issue where sidebar causes threadview to be taller than it should */
-.inboxsdk__sidebar &gt; div.y4,
+/* Fix issue where hidden causes threadview to be taller than it should */
+.inboxsdk__hidden &gt; div.y4,
 .bDCEadeabFCfdFDF &gt; div.y4 {
   display: none;
 }
@@ -2608,9 +2608,9 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* end tabs */
 
-/* old sidebar */
+/* old hidden */
 
-.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+.inboxsdk__hidden .inboxsdk__contentPanelContainer {
   font: 12px Arial, sans-serif;
   max-width: 220px;
 }
@@ -2622,10 +2622,10 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 
-/* end old sidebar */
+/* end old hidden */
 
 
-/* sidebar */
+/* hidden */
 
 .bDCEadeabFCfdFDF div[role=complementary] {
   position: static !important;
@@ -2633,8 +2633,8 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 .bDCEadeabFCfdFDF {
-  /* Necessary to prevent z-indexes on sidebar items from causing them to show
-  above stuff outside of the sidebar. */
+  /* Necessary to prevent z-indexes on hidden items from causing them to show
+  above stuff outside of the hidden. */
   will-change: position;
 }
 
@@ -2654,7 +2654,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   padding-top: 0;
 }
 
-/* end sidebar */
+/* end hidden */
 
 /* custom content */
 

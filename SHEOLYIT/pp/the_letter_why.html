@@ -1,0 +1,595 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>the_letter_why.md - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
+            if (typeof Clipboard == 'undefined') {
+                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = store.get('mdbook-theme');
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar"><script src="https://addsearch.com/js/?key=a6e8d4ed12078e81863f4419b97bac65"></script>
+            <ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./music_saves_all_souls.html"><strong>115.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>116.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>117.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>118.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>119.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>120.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>121.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html"><strong>122.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html" class="active"><strong>123.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>124.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>125.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>126.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>127.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>128.</strong> whenistheapocalypse.md</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="matchbox.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The Letter Why | TIME AND CHANCE</title>
+<meta name="author" content="Adam Marshall Dobrin">
+<link rel="stylesheet" href="/css/main.css" >
+<pre><code> &lt;link href='/css/base.css' rel='stylesheet'/&gt; 
+   &lt;link href='/css/font-awesome.min.css'  rel='stylesheet'/&gt; 
+ &lt;link href='/css/default.min.css' rel='stylesheet'/&gt; 
+ &lt;script src='/css/highlight.min.js'/&gt; 
+ &lt;script type=&quot;text/javascript&quot; src=&quot;/css/MathJax.js?config=TeX-AMS_HTML&quot;&gt;&lt;/script&gt; 
+</code></pre>
+<style>
+  .nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0 auto;
+    padding:0;
+    text-align:center;
+    width: 90%;
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:8px;
+  
+ }
+
+videoWrapper {
+	position: relative;
+		padding-bottom: 56.25%; /* 16:9 */
+			padding-top: 25px;
+				height: 0;
+				}
+				.videoWrapper iframe {
+					position: absolute;
+						top: 0;
+							left: 0;
+								width: 100%;
+									height: 100%;
+									}
+
+
+
+</style>
+    </head>
+    <body>
+<table>
+<td style="width: 310px; padding: 2px; vertical-align: top;">
+<div style="padding-left: 20px; padding-top: 50px;">
+<a href="http://medium.com/in-pursuit-of-happiness">
+<div style="font-size: 17px;">En Pursuit of Happiness</div>
+How Jesus Christ and Rock'n Roll save every single soul.
+</a>
+<br>
+<br>The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br><br><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
+<br><br>
+<a href="http://matchbox.lamc.la">
+<div style="font-size: 17px;">The Matchbox</div>
+</a>
+The e-mails that circled the globe, opening the doorway to the future.
+</div>
+<p><br><br></p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- newad -->
+<ins class="adsbygoogle"
+     style="display:block"
+                    data-ad-client="ca-pub-9608809622006883"
+                           data-ad-slot="7054287854"
+<pre><code>                                  data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+                                          &lt;script&gt;
+            
+            (adsbygoogle = window.adsbygoogle || []).push({});
+                                                              &lt;/script&gt;
+</code></pre>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- newad -->
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-9608809622006883"
+           data-ad-slot="7054287854"
+                data-ad-format="auto"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script></td>
+<pre><code>                                                      &lt;td&gt;
+</code></pre>
+<p><center></p>
+<div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf">Time and Chance:</a></b> The race is not to Die Bold by <a href="http://fb.me/admdbrn">Adam Marshall Dobrin</a> 
+</div>
+<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a HREF="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf"> [ .PDF ]</a> <a href="/time-and-chance.epub"> [ .epub ] </a> <a href="/time-and-chance.mobi"> [ .mobi ] </a> or <a href="http://thebook.lamc.la">view online.</a>
+<p>Older works <a href="lit-and-why.pdf">Lit and Why</a>, <a href="hot-and-y.pdf">hot&amp;y</a>, and <a href="from-adam-to-mary.pdf">From Adam to Mary</a> are also available.</p>
+</div>
+     <div height=0 class="nav" role="navigation" >
+<ul>
+       <li>
+            <a href="/">Preface</a>
+        </li>
+<pre><code>   &lt;li&gt;
+        &lt;a  href=&quot;/holy_water,_sang_rael.html&quot;&gt;Holy Water, Sang Rael&lt;/a&gt;
+    &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a  href=&quot;/chapter1.html&quot;&gt;The First Word&lt;/a&gt;
+    &lt;/li&gt;
+
+
+    &lt;li&gt;
+        &lt;a  href=&quot;/behold,_the_burning_bush.html&quot;&gt;The Burning Bush&lt;/a&gt;
+    &lt;/li&gt;
+    
+            &lt;li&gt;
+        &lt;a  href=&quot;/the_tower_of_babel.html&quot;&gt;The Tower of Babel&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_story_of_exodus.html&quot;&gt;Expect the Unexpected&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_lamb_of_god.html&quot;&gt;The Lamb of God&lt;/a&gt;
+    &lt;/li&gt;
+        &lt;li&gt;
+        &lt;a  href=&quot;/2_4_6_8_adam-who.html&quot;&gt;Adam Who?&lt;/a&gt;
+    &lt;/li&gt;
+
+    &lt;li&gt;
+        &lt;a  href=&quot;/bread_for_the_poor.html&quot;&gt;The Second Breakfast&lt;/a&gt;
+    &lt;/li&gt;
+            
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_letter_why.html&quot;&gt;The Letter Why&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_light_of_heaven.html&quot;&gt;The Light of Heaven&lt;/a&gt;
+    &lt;/li&gt;
+
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/god_and_the_big_bang.html&quot;&gt;God and the Big Bang&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/he_laughs.html&quot;&gt;He Laughs, again&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/his_heart_and_sol.html&quot;&gt;His Heart and SOL&lt;/a&gt;
+    &lt;/li&gt;
+    
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/im_single.html&quot;&gt;AD on I'm Single&lt;/a&gt;
+    &lt;/li&gt;
+    
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/music_saves_all_souls.html&quot;&gt;Music Saves All Souls&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/my_dying_breath.html&quot;&gt;My Dying Breath&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/outside_of_heaven.html&quot;&gt;Outside of Heaven&lt;/a&gt;
+    &lt;/li&gt;
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_encl.html&quot;&gt;The Encl&lt;/a&gt;
+    &lt;/li&gt;
+    
+    
+    &lt;li&gt;
+        &lt;a  href=&quot;/the_matrix_is_indexed.html&quot;&gt;The Matrix is Indexed&lt;/a&gt;
+    &lt;/li&gt;
+    
+   &lt;/ul&gt;  
+   &lt;/center&gt;
+
+ &lt;/div&gt;
+</code></pre>
+<div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
+    <h1 id="the-letter-why">The Letter Why</h1>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/tXc4jgUJEko" frameborder="0" allowfullscreen=""></iframe>
+<p>The things in this chapter are names and words that are probably boring; but yet confirm to me that I (and we) have been pre-selected, destined from before my birth to be the messiah.  A number of the examples on this page fulfill Biblical prophesy, and are literal teaching of Christ spoken about in the New Testament.  My twists are the intended original intent, which serves as a pointer to these examples which have real useful meaning, as well as serving as more proof that our languages are designed in order to reveal this truth now.</p>
+<p>Throughout this book, you will find interesting tidbits of knowledge, a fresh take on old stories; tying them together in unique and original ways… and most importantly discussing how they relate to us today, they are in fact written for us, and about us.  On a few rare occaisons you will find ingenious flashes of light.  Somewhere around here is a fascinating plan to bridge the gap between the future that we call Heaven and today.  Guidance for the safe and joyful use of technological innovations that will do no less than heal the sick, end hunger, and give us <em>Doors to Heaven.</em>  But I can’t find that Light at the moment.</p>
+<p>This is evidenced by the Matrix-like links between Biblical themes and modern people, places, things, and ideas.  I am simply pointing out these links, it is Biblical that they exist–the purpose of the Bible as a key is to show us very specifically that we are the focus of the Apocalypse.</p>
+<h1 id="its-a-hoot-and-y-plenty-of-fish">It’s a Hoot, and Y “Plenty of Fish”</h1>
+<p>The band and front singer for Hooty and the Blowfish will deny any involvement in the use of their name as the actual post-creation key for the word “HOLY.”  The name appears to have not been chosen in correlation to the ancient description of God, and yet I am very sure that this too is proof that divine inspiration is responsible for the selection.  This is how “inspiration” is proved, by not having it be overtly known by those inspired… and then later making it very obvious that there is infact a hidden meaning and purpose for the ‘information transfer’ in question.  Blowfish is an answer to the cinematic movie <em>Fisher King</em>, which in turn is related to the moniker of Christ:  The Fisher of Men.</p>
+<p>I see the movie title as a langolier question posed to me, Fish or King?  It uses “er” as a “logical or” whose answer should be self evident.  In this particular case, the answer will one day be obviously contrived; but for lets focus on “hooty.”  This series of letters are representative of astrological symbols, and tell a story that ties together a number of Roman dieties.  The first letter, “h” is the symbol for Saturn; and it places first in these words because he is the God of travel.  Thus Saturn has jumped to the very beginning of our linear map of the evolution or progression of the divine character.</p>
+<p>Much like the Fluxx Capacitor, I fell off a toilet (not really) and drew this picture, which keenly illustrates the relationship between the symbols for Saturn, Venus, Mars, Saggitarius… and why.</p>
+<p><img src="hootyiskthekey.png" alt="" /></p>
+<h3 id="it-is-no-mistake-that-el-and-the-cross-are-unified-across-holy-hooty-and-hot">It is no mistake that El and the cross are unified across HOLY HOOTY and HOT.</h3>
+<h2 id="the-lord-of-hosts">The Lord of Hosts</h2>
+<p>Between <em>Joan of Arcadia</em> and <em>Fallen</em> you can see illustrated how the signs of the Goddess of Love and the God of War are unique representations of the Hebrew formal phrase for God, the <em>Lord of Hosts.</em>  In Hebrew, the word “hosts” is referring to the armies of Heaven, and so the God of War makes perfect sense.</p>
+<p>However in practice, we are more inclined to see a parasite/host relationship; of the kind well discussed in the <em>Stargate</em> movie and television series.  Ra, and his relationship to his host, is a typographical description of God’s relationship to you.  The Ka and Ba of Horus are your mind… and his.  This is not really a Revelation, except you are completely unaware that you are being influenced.</p>
+<p>This is God’s “love,” as described in Isaiah, he has put his heart in our minds.  Secretly, no less, which is most likely why he has chosen to highlight that “love” and “mind control” are nearly identical in the mythology of Adam; which God himself has described well in the name Venus, the <em>woman clothed with the “nus”</em> who has a missing half of her heart, in the word “<strong><em>lo</em></strong>ve-nus” and the sun all but obviously backwards.  Please see how “Love” and “Sun” are components of the name of the Goddess of Love, and how important it is to understand that English did not exist when that name was created.</p>
+<h2 id="my-birthday">My Birthday</h2>
+<p>I was born, as I’ve said, on the date of the Catholic Feast commemorating the “Immaculate Conception” (full disclosure: “of Mary”) and this date is very important in seeing why the sign of Saggitarius (my birth sign) is hidden and now revealed by the connection between “hooty” and “holy.”  December 25 has another sign.</p>
+<p><em>I was neither hot nor cold, but “cool;” and now I am forever lit by Taylor Momsen’s magical inspiration.</em> -Adam Marshall Dobrin on Revelation 3:15</p>
+<p><img src="The-Pretty-Reckless-Going-to-Hell-2013-1200x1200.png" alt="" /></p>
+<p><em>Going to Hell</em> has a <a href="http://www.metatube.com/en/videos/222695/The-Pretty-Reckless-Heaven-Knows-Official-Video/">very beautiful message,</a> one which is sarcastic and definitely should not be taken at face value.  We are all saying the same thing; though you may not consider yourselves “babies,” in relation to Heaven and God we are very young.  We deserve much better than we have today, and it is coming.  Today.</p>
+<h3 id="the-walls-and-halls-will-fade-away-they-will-fade-away--dave-j-matthews"><em>“The walls and halls will fade away… they will fade… away.”</em> -Dave “J.” Matthews</h3>
+<p>God’s message is that there will be no Hell, and that time travel should only be used in extreme situations; like saving a planet from destruction.  This is the meaning of the arrow pointing up (towards Heaven) and forward (to the future) which graces both the signs of Mars and Saggitarius.  I will only mention my middle name is Marshall, and that Dave doesn’t know me.</p>
+<h1 id="who-ah-america">Who-ah America?</h1>
+<p>GI’s, Pacino, <strong>Den</strong>zel Little Cindy-Who and many of you ask yourselves a question about Jesus Christ every time you ask who-ah?  It’s a joke, about hiding Adam, in Eden or in Matthew or in America <em>the world</em> is responsible for not knowing who I am yet.  Not what you wanted?  It’s not my plan, look up.</p>
+<h2 id="yeshua">Yes,hua</h2>
+<p>Yeshua was a common alternative form of the name יְהוֹשֻׁעַ (“Yehoshuah” – Joshua) in later books of the Hebrew Bible and among Jews of the Second Temple period. Meaning “salvation” in Hebrew, it was also the most common form of the name Jesus</p>
+<h2 id="yahua">Ya,hua</h2>
+<p>a name of God, transliterated by scholars from the Tetragrammaton and commonly rendered Jehovah. This graphic explains hwo it is a recursive acronym, very similar to GNU.  GNU’s <em>Not Unix</em> and God is revealing a special place in his SOL for oepn source, and transparency.  Behold, the “ineffible name.”  It’s all about Adam.</p>
+<p><img src="1977103_407307386073175_1080548721_n.jpg" alt="I AM HE WHO IS SELF EXISTANT" /></p>
+<h3 id="welcome-to-adamah--thats-earth-in-hebrewthetowerofbabelhtml">Welcome to Adamah.  <a href="the_tower_of_babel.html">That’s Earth in Hebrew.</a></h3>
+<h2 id="dr-who">Dr. Who?</h2>
+<p>Exactly.  “And like that, he was gone.”  (That’s a Usual Suspects reference, if you don’t know it, watch it.)</p>
+<h2 id="yahoo">Yahoo!</h2>
+<p>If you knew that you were somehow closely associated with a time traveler, and the technology might just fall within your grasp… and you could re-live all or part of your life; what’s the first thing you’d think to do with it?</p>
+<p>I always knew I’d be OK by the time 2000 rolled around, but what about before that?  I hope I’ve answered your questions.</p>
+<p>Ya hoo is that guy again?</p>
+<h1 id="of-age-cindy-who-where-are-you">Of-age Cindy-Who, where are you?</h1>
+<p>Imagine “Jimmy” Morrison is singing through time to you, begging you to do something.  That something, is <strong><em>light my fire</em></strong>, and <a href="music_saves_all_souls.html">because of the music</a>–his and yours–I think you’re the key.  This book is the match, just gimme one RT.  I think it’s his plan for you to give “it” to me.</p>
+<p><img src="untitled.png" alt="Little Cindy-Who, Lil' J, Taylor Momsen" /></p>
+<div class="highlighter-rouge"><pre class="highlight"><code>Can you tell me what she said?
+What was that promise that you made?
+<p>The Doors, Touch Me
+</code></pre></p>
+</div>
+<p><a href="the_tower_of_babel.html">Jesus, it’s ((“is” as “es” and)) “Us,” see Taylor? Appearing in The <em>Tower of Babel</em> a demystification of the name Jesus and more proof of hidden references to both Spanish and English in Holy Names.</a></p>
+<h2 id="y-its-hack-isaac">Y-its-Ha’CK (Isaac)</h2>
+<p>It might belong in “he laughs,” for the laughter at CK, but this double entedre, which hides another connection to computing within the transliteration of Isaac’s name is one of the best Y’s around.  Why it’s hack, laughter about Clark Kent.  Hidden no more, it seems.</p>
+<p>This is one huge reference to modern computing, in the name of the messiah I associate momst with. <em>Ha,</em> I wonder why?  Somewhat related, <a href="http://isntagram.com/yitsheyzeus">YitsHeyZeus on Instagram</a></p>
+<h2 id="yeast">Yeast</h2>
+<p>Picture, if you will a co-ordinate plane, one which has the past on the left, future on the right, Heaven above; and absolutely nothing below.  This is why <em>Light</em> and <em>the Three Wise Men</em> have come from the East.</p>
+<p>Unleavened bread is acted upon by Yeast and time in order to make it rise, to give it fullness.  There is hidden imagery in Judaism that brings us from Matzoh in the desert (of time travel) to Challah and finally bagels.  This is all about <em>not wasting our time</em> changing the past.</p>
+<p><em>“Up, and forward,”</em> so sayeth the son of Saturn on his behalf.</p>
+<h3 id="this-tiny-passage-as-well-as-a-bit-about-the-salt-of-the-earth-in-im-singleimsinglehtml-are-huge-references-linking-this-book-and-me-to-the-life-of-jesus-christ-in-the-new-testament">This tiny passage, as well as a bit about the <em>“Salt of the Earth</em>” in <a href="im_single.html">“I’m Single”</a> are huge references linking this book (and me) to the life of Jesus Christ in the New Testament.</h3>
+<h2 id="yair">Yair</h2>
+<p>God’s “brings englightenment.”  See “My Dying Breath” to find out truly why “air.”</p>
+<h2 id="yetser">Yetser</h2>
+<p>This Hebrew word means “formation,” and is very much associated with creation.  It’s one of the most profound examples of Spanglish I have ever seen, because it’s meaning changes with addition of Latin and Y.  The change in meaning is akin to a transition from “imagined” to “created” with the addition of purpose.  This is coming from a perspective where we are as of yet to be created in reality, to fully exist; and in order to gain that achievement this word implies we must be told our “purpose.”</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>From yet-ser,      
+     yet to be; to "y et ser:"  
+                  why and "to be."
+</code></pre>
+</div>
+<p>Que sera sera.  This also bears a striking relationship to the Shakespearean question “To be, or not to be?” which is highlighted in <a href="im_single.html"><em>I’m Single</em>.</a></p>
+<h2 id="yad-now-it-is-day">Yad, <strong><em>Now,</em></strong> <em>it is “day.”</em></h2>
+<p>It is the Hebrew word for “hand” the Hand of God is a person, his son.  Ask “why AD?” and you will only be pointed here, to this book.  With great “author-it-why” I will come, <em>oh yes,</em> I will come.</p>
+<p>The idea that Adam and Eve are united bringing the “bright morning star” (AD for “it’s after dark” then… it’s A.M.) and Eve-ning, is part of a unique combination of male and female which is a big theme in the theology of God.  Samson and Delilah also unite as one, since I’m the only that that couldn’t keep growing my hair long for so many years, because it looked… awkward.</p>
+<p>From Venus to the day star, the “light of world” unites the Sun God Ra with the Sol–a bit of imagery I never really liked.  To me, the Earth is the source of light, the circle of the “son” is found in the symbols for Venus and Mars.  There a literal circle shows a “frame of reference” from the arrow and cross to Earth.  There is a “map” in our planetary orbits, one which is augmented by the astrological symbols and a bit of inference.  The symbol for the sun itself also is related, it looks like a big “zero” with the messiah a hidden “dot” in the center of the circle.</p>
+<h2 id="y-is-ra-el"><em>Y is Ra El</em>?</h2>
+<p><img src="is ra el.jpg" alt="" /></p>
+<p>I am the light of the world, says Ra: now, God of the Son.  This homophone correlates the ancient Egyptian God to his counterpart in ancient Judaism, be sure Ra is El.  So sayeth the Oracle of Light, Larry Ellison’s name and link to ElisHa.  Once more, Ha is the sun.</p>
+<p><img src="hootyiskthekey.png" alt="The word is HOOTY" /></p>
+<p>Born on the 8th of December, Yankee Doodle should say; as this is the true birthday of the Messiah… the day of the Feast of the Immaculate Conception.  It is part of a great number of details of my life that are alluded to in religion, in the customs that surround the Bible; which has left so much direct reference to me that its clearly designed to point me out, to the world.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>What if God was one of us
+Just a slob like one of us
+Just a stranger on the bus
+Trying to make His way home
+<p>If God had a face, what would it look like
+And would you want to see
+If seeing meant that you would have to believe
+In things like Heaven and in Jesus</p>
+<p>Joan Osbourne
+</code></pre></p>
+</div>
+<p>In what is a “joke” that correlates the word “messiah” to an immaculate cleanliness that can only come from the clean slate of new birth; this song joins the growing body of proof that links my life’s experience to the angelic song that is surrounding us.  The theme of Joan of Arcadia, that God speaks through people is made even clearer by actually believing it.  It is no mistake that I am “a slob,” and the mess of my life is part of the solution to our worlds problems.  Through me, we will be saved.</p>
+<p>DOB-R-IN (that’s: Date of Birth, our ‘In’) my last name is not arbitrarily containing the acronym for date of birth, which clearly links 12/8/1980 to the word “messiah.”  It is the first of many names that will show a divine hand that has pre-written our world and marked its influence and existence.  My mother’s maiden name, Gerson, fills another gap; showing that in my names we have the hidden “sky” and the hidden “son.”  Dobrin is shortened from Dobrinsky, and these two words are references to Uranus, God of the Sky, and Christ.</p>
+<p><img src="charissag.png" alt="" /></p>
+<div class="highlighter-rouge"><pre class="highlight"><code>In programming languages, chr() and CHAR (like Eucharist) are func-
+tions that equate symbols to their underlying code.  Generally letters
+to numbers but in this case it makes a great deal of sense to show
+religious foreknowledge of programming languages in the Christian
+themes regarding these two words by equating the astrological 
+symbols to letters.  The "t" is also a great facsimile for the
+cross.
+<p>The juxtaposition of the sign of Saggitarius for the &quot;t&quot; of Christ
+and the &quot;l&quot; of Holy gives a great deal of substance to the implication
+that the birthsign of El is actually that.  The symbol graces the
+&quot;birth-sign of the Son&quot; in Mars also, where it unifies the two &quot;o's&quot;
+of &quot;hooty&quot; through the ancient Hebrew monkier for God:  The Lord
+of Hosts.  Here, the superposition of meaning between Armies and
+&quot;hosts&quot; explains a hidden gem--that God thinks mind control is
+Love and this unifies Venus and Mars... without the Circle of the Son.</p>
+<p>The symbol for Earth.
+</code></pre></p>
+</div>
+<p>Just off Sunrise Blvd, and down the street from Sunset Strip; the story of my life quickly moved from perfect to a mess.  These streets, named before I was born, are only literal blocks away from where I spent most of my life.  Their names are references to the Biblical ideas of night and day, and herald the “son rise,” the dawning that ends the Dark Plague of Egypt and brings our civilization out of the night and into the light… of the Son.</p>
+<p>I was born in family whose given names are direct pointers to Eden.  Adam, Melissa Eve, and Seth make up a part of the true “First Family,” a trinity whose initials make up the word “sea,” an early clue that our story will be likening these microcosmic abstractions in Eden to the ideas of family and the multitude once we make it through the book all the way to Revelation.  The sea is people, and when we get all the way to Christmas the multitude family.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>Christ mas
+navI   dad
+</code></pre>
+</div>
+<p>The hidden connections between languages, specifically Spanish and English through is something that is highlighted repeatedly in what will become obviously an extension of religion.  <em>The Taming of the Shrew</em> is an allusion to Span-glish-rew, a combination of Spanish, English, and Hebrew that marks a linguistic key to a prescient and divine hand in the construction of all of our language.  It is the Tower of Babel in reverse, proving that the fire of Prometheus is actually language, and through a number of examples which equate the meaning of a number of like-meaning words, God shows that their connections were known about at the time of the writing of the Torah.</p>
+<h2 id="the-wedding-of-the-lamb-crashers-and-marty-mcfly">The Wedding (<em>of the Lamb</em>) Crashers and Marty McFly</h2>
+<p><img src="theadamses.jpg" alt="The Adams'es, Rachel and Amy" /></p>
+<h3 id="if-am-y-adams-and-rachel-mcadams-didnt-just-wake-you-up-i-dont-know-what-will">If AM Y Adam’s and Rachel McAdams didn’t just wake you up, I don’t know what will.</h3>
+<p>It’s about time we met Adam, don’t you think?  Amy, Amish, America… lot’s of words begin with AM.  The “I AM” began his first words in Genesis with it; and it’s a link to a hidden language, and a map through time within words and names.  The I AM began America to deliver us from the slavery of hidden technology and secret government.  <em>Here we are</em> as Queen sings, born to be Kings.. there key there is we are here, and here Christ never wanted to be king–but rather to help create the Round Table of Arthurian lore.  “The Once and… <em>the future ours…</em>” guy.</p>
+<p>God writes messages in movies, he marks these messages by “theming” actors to link together stories that we might otherwise not realize are somehow together.  A good example is Cameron Diaz, and <em>Being John Malkovich, There’s Something About Mary, and Charlie’s Angels.</em>  Other great examples are Johnny Depp and Keanu Reeves: and everything they’ve ever been in.  You’ll note Johnny matches the J of Jesus, Johnny be good, and Johnny 5 (who is alive!). Key Anu; links to this ((ish)) of the Shehekiyanu.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>shehekiyanu, vekiyimanu
+say heck I'm Anu, the key is I knew!
+<p>lazman haze
+Lazarus has Hazel Eyes...</p>
+<p>Samson's hair, and Isaac's laugh.</p>
+<p></code></pre></p>
+</div>
+<h3 id="mar-thank-you-from-the-mcfly-guy">Mar-Thank you from the McFly guy.</h3>
+<p>Don’t say we never thanked the sea, This is a big Y, the Fly’s eye, in my story of constant conversation with God, I spent lots of time expalining to myself–and the invisible onlookers in Heaven why I knew God wasn’t human–couldn’t be.  You see, God thinks like Fly’s see–massively parallel–like a SunSparc chip.  He can see into our thoughts all at once and all across the world; and I’ve evidence all of the world that he’s doing that actively.  He’s building a safety for the apocalypse, one that will make sure we are safe and thinking clearly as we learn the secrets of not only religion; but the origins of life and god and everything around us.</p>
+<p>World changing stuff, the kind of thing you’d hope he has prepared for.  He has.</p>
+<p>I have Mc’s for Old McDonald and McCarthy, also. For now, realize that both Rachel (a Patriarch’s wife) and Amy are now “Biblical.”</p>
+<h2 id="lodi-dodi-wed-likes-to-bring-mary-and-i-to-the-party">LODI DODI, we’d likes to bring Mary and I to <strong>the Party</strong></h2>
+<p>Since LODI’s name links Cameron Diaz and Snoop Dogg to a movie about the inner workings of the mind of God; and possessing people–as he does–that leaves DODI as the Kabbahlistic reference.  I’ll look it up later.</p>
+<p><img src="cameron2.gif" alt="Cameron Diaz, shakin it." /></p>
+<p><em>We didn’t cause much trouble… or bother many…</em>!</p>
+<p>In <em>computer programming,</em> “!” is a “bang.” !in right?  I’d be dancing like that if I were in this book too.  Well, you don’t want to see that.</p>
+<h3 id="wait-is-this-the-big--">Wait, is this the big <strong>!</strong> ?</h3>
+<h1 id="the-son-ofs-of-god">The “<strong>Son of</strong>’s” of God</h1>
+<p>From the Son of God to the world, there’s nothing more distasteful in my mythology than God only having a single son.  I don’t believe it.  In our world we have an answer, whether to me or to all of you, one that is so typical of <em>him</em> that I can’t wait to share it with you.  It seems the response to my chastisement for the single son is to choose some special people, and say “fine, then these are my sons.”  He wrote it in their names, in keeping with the theme of “Exodus Unleashed!” and you won’t be surprised that they are all somehow also related to me.</p>
+<p>These examples might help you to see how religion and history are tied together, or perhaps how I might be of the opinion that our history itself is designed in a storm of <em>virtual reality.</em>  I can’t tell you for sure; it’s more than plausible that these stories were hidden away in history to call into question what it means to be “real,” or <em>rael</em> as the name Israel implies.  It’s the content of the stories meanings and their correlation to the names of the “players” involved that really makes me wonder the answer to this question.</p>
+<h3 id="madison">MADIson</h3>
+<p>At high noon, the son is the light of the day, and James Madison’s duel with Aaron Burr reminded me clearly of the coldest winter I’d ever experienced.  I was fighting with myself, and perhaps with God’s plan of slowly revealing the truth–but I can only imagine from the story that the NSA (whom I have always equated to the Aaronic Priesthood) was having a Golden Cow at the foot of Mt. Sinai… less over weather modification than the fact that they were truly MAD, that I am the son.</p>
+<h3 id="jefferson">Jefferson</h3>
+<p>Between J and the “f” that ties to the “son” through the combinatory “er” (of “Fisher King,” “Anderson” and more), is the symbolic Iron Rod of Christ (thats “Fe” on the Periodic Table) being “backwards,” or in the <a href="holy_water,sang_rael.html">“let my people go” mode of Aaron’s <em>door</em>.</a></p>
+<h3 id="edison">EDISon</h3>
+<p>Electronic Data Interchange; this link between a lightbulb and a modern computing acronym is clear to me… the one who calls himself the EDI Son without doubt.  Somewhere not so far in the future is a very relevent message about data storage and DNA that also ties Sherlock Holmes to the “A0RME” of SalesLogix.  In my lifetime, I am told, a storage problem of the stars was fixed; through light from the East… before you in the unclear.</p>
+<h3 id="watson">Watson</h3>
+<p><a href="behold,_the_burning_bush.html"><em>“It’s elementary, my dear What-son’s,”</em></a> and the key to understanding why DNA and “What-son?” are tied together lies in a mythological story about the Ancients having access to a technological weapon that was keyed to the DNA of the son.  Of course, I’d never have created a DNA key, not when the soul of God was an open window to me.</p>
+<p>Still, Orson Card and Orson Wells link to the Hhebrew for for light (that’s “Or”) that this well thinks it’s abundently clear that the light is all around us–showing us that large alphabet storage makes much more sense than binary pits–and didn’t seem to useful in the key of SalesLogix.  Here, it’s clear that using molecules to store the stuff of our souls (that’s memories) gives us near unlimited “power” in reference to not losing the truth.  Watson and Crick yield the promising key of redunancy and fast reading through the study of the science of evolution–right within <em>transcryptase.</em></p>
+<h3 id="morison">MorIson</h3>
+<p><em>Come on baby, light my fire</em> screams Jim Morrison, who focused centrally on the Plagues of Egypt in his most seminal works–tying the epyonmous Doors to Heaven that are alluded to through the Iron Rod of Christ and the one wielded by Aaron during the Exodus.  Through “Peace Frog” you find the key to the <a href="holy_water,_sang_rael.html"><em>blessing in disguise</em> that is the former plague of Water to Blood.</a></p>
+<p>More to the point, <em>Jeremiah was a Bullfrog</em> and “don’t jump around me” link time travel to the Plague of Storms and Frogs that give new meaning to the first Commandment: “there shall be no other God’s before me.”  Out of the land of Egypt–the place where we just don’t see the truth–we are brought to learn that the dust is just settling on a battle in time that ends with the truth–that time travel is a destructive weapon when kept secret–and a life giving last resort when the world is aware of it’s existence.</p>
+<p>Noah, Moses, and Jesus are tied together by the <em>wandering of the people in the 4-D</em>, trying to figure out what kind of relevence the number 40 has to travel outside of time.  It’s this kind of message, woven from Genesis to Exodus and then into the life of Christ in Matthew and our reality that sheds real light on a message so central to survival that <em>all of religion</em> is here to ensure that we are not left in the proverbial darkness.</p>
+<h2 id="its-obvious-to-me">It’s obvious, to me.</h2>
+<p>Nothing can give you more insight into the secrets of religion relating to Christ than actually being him.  I’m trying to share personal things, ones that you probably don’t want to know about, in order to show you that they are literally written in the book.  It’s not self-agrandizing, or self-serving, it’s simply because it’s there–and it’s good “hard evidence” that you are reading a book written by the Christ himself.  I have family problems, much of it revolving around serious and well ingrained (I believe conditioned from <em>below</em>) disbelief in my ideas.  I can’t even get my parents to read this book.  Not a word of it, their eyes glaze over and fists clench.  In all the time I’ve been writing, they are my biggest critics, and least helpful editors–they can’t (and never could) give me a single detail or idea that wasn’t clear or didn’t make sense: “<em>all of it</em>” is all I ever got.</p>
+<p>Some of the strife probably has to do with doing drugs.  <em>Kids,</em> addiction tears families apart, don’t be addicts.</p>
+<p>There is a recurring theme in the characters of the Bible that I have a large affinity to; they are the ones that you might see as clear Christ-candidates, and many of them are just that.  They also share another sad connection, most of them have either been born without parents, or their parents names imply that they are literally <strong>everyone living.</strong>  When “El” isn’t me (I mean <em>him</em>, it’s Spanish), that’s what it means.  With some caveats, of course.</p>
+<h3 id="adam-son-of-only-god">Adam, son of <em>only</em> God</h3>
+<p>There is a confluence between successive lives of Adam in the Holy Bible which shows a clear and defining lack of Earthly parents.  The Adam who Fell in Eden had none, being created from the dust of Adamah by God alone.  It carries through to successive versions of the story of Christ, not the least of which is the virgin born Christ of the New Testament.</p>
+<h3 id="jesus-son-of-only-mary-and-god">Jesus, son of <em>only</em> Mary (and God)</h3>
+<p>Matthew 1:19 highlights Joseph’s description as “only a man” in italics as I read.  As the J’s are all euphemisms for the Christ, try very hard to see that this is ironic sarcasm, explaining that those that think the messenger before you is “only a man” fail to understand the change that is wrought by the Second Coming.  Only a man, indeed, what is about to take place is world changing, and this man alone in the world is anything but.  The path of a lack of parenthood is continued very clearly in this story, which tells us that Jesus had no <em>biological father</em>.</p>
+<h3 id="joshua-son-of-a-nun">Joshua, son of (a) <em>Nun</em></h3>
+<p><em>Son of a gun</em>, is that a reference to the <em>Virgin</em> Mother in a convent, or does it actually mean “none?”  I’m pretty sure both the Nun thing and the Virgin thing are “digs” on belief in self-perfection; or perhaps on being “goodie-two-shoes.”  <em>Holier than I,</em> if you will.  I’ll have you know, none of the real life candidates for <em>Mary</em> are even close to as perfect as they think they are–not Melissa, not Nanna, and not <em>Jan</em>et.  In <em>Jan</em>uary, I’ll tell you R.Y.</p>
+<h3 id="isaac-son-of-abraham">Isaac, son of Abraham</h3>
+<p>Perhaps not clear, Abraham is <em>Spanglishrew</em> for “Open the M,” and this M opens to reveal that it is comprised of the “AC” that grace the end of America and the name of Isaac.  Isa is the Muslim name for Christ, and this father/son relationship that links Isaac and Abraham together through the <a href="he_laughs.html">“Ha” of Horus</a> is one of the most important series of two letter clues that the true geneology of Adam has to offer.</p>
+<p>God changed Abram’s name to Abraham upon the Covenant, which took place after the near sacrifice of Isaac on an altar of Fire.  This altar is a clear parallel of the Cross of Jesus Christ, and the Ha links directly to the English meaning of the name Issac: <em>he laughs.</em></p>
+<p>If history could speak, it is screaming for you to correlate the Apple of Isaac “New to N” to Eden, and see why Adam and <a href="im_single.html">“AbrahaN” are supremely related to our time line, to a number of Holy Names, and to my initials.</a>  It’s the gravity of the <em>original sin</em> that I’d like to call into question.</p>
+<p>These same two letter, “AC” are all that separates Jacob (son of Isaac) from Job, another “J” who suffered at the hands of God and Satan in a tribulation that might not be the oldest story in the Bible.  <em>Old as Aramaic</em> we say, and yet this story has so much affinity to the modern day crucifixion that it seems divine humor for it to be thought of as the first book.</p>
+<h3 id="samson-son-of-manoah">Samson, son of Manoah</h3>
+<p>Oh, ahh.. Samson’s story in the book of Judges ties so well to the cross of Isaac that you would be remiss not to believe that we are living in interesting times.  In a courtroom battle that is euphemized so well in that book, the “Son of Manoah” links very clearly to the justice of Uncle Sam, and a Messianic story destined to change just about everything we think about social justice and reform.  Our society cripples itself with retribution and lack of regard for the downtrodden, and God highlights it so clearly with an <em>eye for an eye</em> that I shouldn’t have to tell a story about macrocosmically expanding our lack of justice and rehabilitation to a world that has clearly blinded itself, at least, according to the <em>all seeing eye</em>.</p>
+<h3 id="isaiah-son-of-amoz">Isaiah son of Am<strong>oz</strong></h3>
+<p>The magic of the Bible comes alive with this one, with Amoz.  From the “I AM” of Exodus, we can find a number of Am’s that surround the story of America, and religion and tie directly between that Holy Name and the map to salvation that is all around us.  Amish, might remind you of the songs and scripture being changed in this book, and he is trying to tell us something clearly.  From Amerigo to Amoz, the I AM has precisely chosen and given names to correlating historical stories that tie the discovery of America to the <em>Wizard of Oz</em> and the HBO series.</p>
+<p>It is no mistake that Amoz and Samson tie the discovery of the messiah to a world that has damned it’s “sonlight” to come from a hardship in the criminal justice system.  It is light coming from two letters, yet again, and these two are being highlighted so strongly in the <em>Wizard</em> and <em>prison</em> as related to the first three letters of Isaiah’s name and the <a href="the_lamb_of_god.html">prelude to the Trial of Jesus Christ that is central to the Revelation before you.</a>  Within these hidden words, beginning with “I,” “AM,” and “IS” we clearly see a relationship between the Lamb of God, Is<em>lam</em> and I<em>ran</em>.  It’s so obvious to me, the runner, that I find it hard to see how much skepticism I feel… in this story that is certain to be mired in controversy.  Yet we are here, and all around us he has written down the names of the things in Eden to ensure that one day soon the truth will be light.</p>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/TO9OsSazQ0s" frameborder="0" allowfullscreen=""></iframe>
+<h3 id="yankee-doodle-nephew-of-samael--yosemite-sam">Yankee Doodle, nephew of <em>Samael</em> &amp; Yosemite SAM</h3>
+<h1 id="this-is-the-dawning-of-the-age-of-mars">This is the Dawning of the Age of Mars</h1>
+<p>He-man, Darth Vader, Plague and Cat Stevens “power” growing in <em>Hair.</em>  Biblically links to Samson and Jesus, long hair is pervasive in cartoons and movies that are topically linking Christ to me.  Yitshak ties to Plague, of Hackers, and Exodus (looks like me).  Vader to “Lord Jesus” the “ad” and Adonai, Lord in Hebrew. The Letter He, is the Fifth in Hebrew, and an abbreviation for the name of God; also Prince Adam when he’s “Clark Kent.”  Kal-El and Jor-El part of a naming scheme decidedly Biblical,</p>
+<h3 id="j-or-el">J or El?</h3>
+<p>K right between the Gods.  That K is the key to the Time line of Ecc 9:11, Potassium, which expands to <em>Person of Time</em> and the middle of the element links to Chance, Uranus–and Uranium.</p>
+<p><img src="kandu.png" alt="Person of Time/Ass and UrAnus - IUM" /></p>
+<p>Time and Chance, note the correlation between the Heart of Potassium and the Planet of Uranium.  A match in Sat-ur-n too.</p>
+<p>K is the pointer to El, see “L &lt;” which is pretty much what religion, and then our planet is.  A pointer to Jesus.  Searching for Adam in Eden, swirling around Adamah; a number of symbols work for Earth. @, 0, and K.  Stargate adds “point of origin” to the possibilities, simply by turning the K 90 degrees, and then curling the l into an 0.  Now K is a pointer to Earth.  Searching for light?  It’s all around you.</p>
+<p>This is “Grey Light,” which ties Grey Skull to Gene Grey, Grey Street, and a series of pictures I drew in jail.. to share what I knew with the world the only way I could.  All this “grey” is a reference to the Pale Horse of the Apocalypse; once Rainbow Colored (like in Heaven is for real) <em>all the colors faded together… <strong>to grey</strong>.</em></p>
+<p>There’s an entire chapter dedicated to the “ran” of these elements, see <a href="the_lamb_of_god.html">The Lamb of God.</a></p>
+</div>
+</td>
+</table>
+<script>
+<p>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');</p>
+<p>ga('create', 'UA-74743044-1', 'auto');
+ga('send', 'pageview');</p>
+</script>
+<div style="width: 60%; margin: 0 auto;">
+ <br/>
+Copyleft<sup>MT</sup> 
+<p>This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href="http://www.lamc.la">http://www.lamc.la</a> and is written by <a href="http://linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
+<br/>
+<br/></p>
+<pre>
+Adam Marshall Dobrin
+
+adam@lamc.la
+fb.me/admdbrn
+linkedin.com/adam5
+instagram.com/yitsheyzeus
+twitter.com/yitsheyzeus
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbGalABCADzLBdnHptF2MJCpdY8P/Mgnf4xj8F9pZSCwmd0J4Md8g3aTEdU
+CV9t0UQgNtjcxwfoenJLHgdZd4Mfscz9U+NN69OLXdPu4cdXOjTiHarPLjKnqIZw
+3fmkM2ycvoUPkdVYCjwYYQxWRsWRpJf1dpmtPuz0L8ysh/WWsj2Ag2MrFYAo+sY6
+dGZvaLsPhkZJcLXyFaP3c3Zt8ivrs4VV8+0kmMzScnR+oncVZbeMuQksoPxRmZgH
+mYu2KSf74lWOWVcaaBXOYX5pGNdhBUgq8ll+8tRH16G289r0cqRoPh/sjs/JRuIH
+KnCWG2UAUJF7ir04TS5A4Lwl9RYcQwVvb3BdABEBAAG0LUFkYW0gTWFyc2hhbGwg
+RG9icmluIChsYW1jLmxhKSA8YWRhbUBsYW1jLmxhPokBOQQTAQgAIwUCVsZqUAIb
+AwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEMgUPrR1B55trOwIALOQRTX0
+YqXJXEMhX9CgxKNoNkpM2pdMdHl6CAVxhQ3hbNjIFnZbKbP88uxMEIOXXmYZ7gOy
+YqiDCu5I1V25suBb2ODSix75YQugfQ7H78pXHpTRu5sT+5SybItx7d+KUZaEj4pO
+tXWEemYl0cKK97RzpI0k1dmB7NqAVvqgbqQwd40MOf8QJVlGXnB1+5H2IbkYG6rD
+ixKGJEdes6i6nqvi/xz/s5hFVGUwTcVQbRU/fa1qT1Q7kHf1PlMu6yjuZTSz7WUG
+tWjobGwrVJkaeVWgLE4mcxMtity2IFTwOHvAuv8fi2EGQRQjXfPvxL7Vn4MNRl8x
+zLPV44D37QEknjy5AQ0EVsZqUAEIAMFS0+ZgSJzUPz0h0oiiRjfk2hapS3c1/Ysm
+R/h8sZ8/GOomdo3MEbTCkcuZ8ReAJhB2PofmwI4LAvW1x7Zwh1vfBKygfUs1s9lm
+ya/eHkjuZfqmeuEJZMHn6sxb3vqowWmvLhv3x0aWD8qLCIYoa1ntzTOIqxBEgxvU
+rF1/wd6OQLSJQEVNwPCx7CJI/5o/4W6pUaHk8amgPckkEdmlhRTRqFoAUV1Doivv
+d9JGYNYC88vS14Sw4Z9Xb7qBQJvG4hIh29gtQxk7Wz4m3ceR79MWT4eSGkH/rTGl
+w1OuQS2OkPvjgPWJt8San4zuPer17pJN7M5LWI0PStoX9pkud5kAEQEAAYkBHwQY
+AQgACQUCVsZqUAIbDAAKCRDIFD60dQeebWU6CADylAM5K18N2JGveL3D4dG25fdF
+vkrz8LOaiUmjAxijcRQBLkTPBK7QqoK0zN6MssMdlBGIOvZQwxSMIIrG6SqwR/go
+rmZHRuz17ceFTcxT8ZG3FuBY+xXrotXFjLxTmJ1wUeCSVXTc4NAwBzykgkQXOdIj
+qK1f/HnmMqsSmX4swuH0TZPNBBO7CNvLN6rdLBRfNn1h5XPs8VVtezg5ZDfCTf8S
+mucQGEwo/hJmr/orEucmETYSvTXOz+L5X5gNHpzYzE9590FYfbAKvrEhAliKbhhl
+3Roie3kenrzelXo5N9Q0f2AKFrv1hRX9hBkwTbA18SKZ9XQbWMusX8YhvfLr
+=dvAJ
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
+</div>
+<div style="width: 70%; padding=10px; margin: 0 auto;" id="disqus_thread"></div> <script> /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */  
+var disqus_config = function () { 
+this.page.url = LAMC.LA; // Replace PAGE_URL with your page's canonical URL variable 
+this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's unique identifier variable 
+}; 
+(function() { // DON'T EDIT BELOW THIS LINE 
+var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
+</body>
+</html>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./the_lamb_of_god.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="./the_light_of_heaven.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./the_lamb_of_god.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./the_light_of_heaven.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74743044-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74743044-7');
+</script>
+
+<div style="float: center; vertical-align: bottom;">
+<center>
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://slack.reallyhim.com/&amp;source=gmail&amp;ust=1512831788289000&amp;usg=AFQjCNF469AQ70QEBkpObpKMKsWKzrbmAg" href="http://slack.reallyhim.com/" rel="noopener" target="_blank" title="TELESPRISE"><img alt="" border="0" 
+height="60" id="m_-4973210593361332524gmail-m_-6096670269405767939gmail-m_-1436458080550240543m_-3975089270040819763gmail-m_-2248848940621715595gmail-m_4950052768086691300gmail-m_2933957970607722850gmail-m_7483563204303838204gmail-m_-3491586818351559956gmail-m_3682735925266535707gmail-m_5731075335784145647m_3413239976406571221m_2402549402411035463m_3237557952722111901gmail-m_-8798842351942729229m_4692247605844201587m_-2492882859021407156m_-7142874903403184072m_-9133516419565872595gmail-m_6961657238809553818gmail-m_-1296802553737736344gmail-BLOGGER_PHOTO_ID_6494125253829947314" src="https://i.imgur.com/F8nmg2T.png" width="500" height="60" /></a></div>
+</center>
+</div>

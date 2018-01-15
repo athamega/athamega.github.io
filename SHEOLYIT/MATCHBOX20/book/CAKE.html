@@ -1,76 +1,98 @@
 <!DOCTYPE HTML>
 <html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>CAKE.md - </title>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<base href="" />
-<link rel="stylesheet" href="book.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="favicon.png" />
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="highlight.css" />
-<link rel="stylesheet" href="tomorrow-night.css" />
-<link rel="stylesheet" href="ayu-highlight.css" />
-<!-- Custom theme -->
-<!-- Fetch Clipboard.js from CDN but have a local fallback -->
-<script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
-<script>
+    <head>
+        <meta charset="UTF-8">
+        <title>CAKE.md - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
             if (typeof Clipboard == 'undefined') {
                 document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
             }
         </script>
-<!-- Fetch JQuery from CDN but have a local fallback -->
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
             if (typeof jQuery == 'undefined') {
                 document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
             }
         </script>
-<!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
-<script src="store.js"></script>
-<!-- Custom JS script -->
-</head>
-<body class="light">
-<!-- Set the theme before any content is loaded, prevents flash -->
-<script type="text/javascript">
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
             var theme = store.get('mdbook-theme');
             if (theme === null || theme === undefined) { theme = 'light'; }
             $('body').removeClass().addClass(theme);
         </script>
-<!-- Hide / unhide sidebar before it is displayed -->
-<script type="text/javascript">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
             var sidebar = store.get('mdbook-sidebar');
             if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
             else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
         </script>
-<div id="sidebar" class="sidebar">
-<ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html" class="active"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./messengertour.html"><strong>115.</strong> messengertour.md</a></li><li><a href="./music_saves_all_souls.html"><strong>116.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>117.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>118.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>119.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>120.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>121.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>122.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html"><strong>123.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>124.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>125.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>126.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>127.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>128.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>129.</strong> whenistheapocalypse.md</a></li></ul>
-</div>
-<div id="page-wrapper" class="page-wrapper">
-<div class="page" tabindex="-1">
-<div id="menu-bar" class="menu-bar">
-<div class="left-buttons">
-<i id="sidebar-toggle" class="fa fa-bars"></i>
-<i id="theme-toggle" class="fa fa-paint-brush"></i>
-</div>
-<h1 class="menu-title"></h1>
-<div class="right-buttons">
-<a href="matchbox.html">
-<i id="print-button" class="fa fa-print" title="Print this book"></i>
-</a>
-</div>
-</div>
-<div id="content" class="content">
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
-<!-- saved from url=(0145)https://mail.google.com/mail/u/0/?ui=2&amp;ik=b3fd74b597&amp;view=pt&amp;q=eat%20this%20bread&amp;qs=true&amp;search=query&amp;msg=15896c93b667bda5&amp;siml=15896c93b667bda5 -->
-</div></div></div></body></html><html lang="en" data-inboxsdk-session-id="1481891781715-0.3975697508648308" data-inboxsdk-master-claimed="true" data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"},{"appId":"sdk_streak_21e9788951","version":"6.2847"}]' data-inboxsdk-app-logger-master-chosen="true" data-map-id="c3d751463827a656" data-inboxsdk-last-event="1481891782663"><head data-inboxsdk-script-injected="true"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="./23.html"><strong>1.</strong> 23.md</a></li><li><a href="./2NAME.html"><strong>2.</strong> 2NAME.md</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>3.</strong> 2_4_6_8_adam-who.md</a></li><li><a href="./3CHRON.html"><strong>4.</strong> 3CHRON.md</a></li><li><a href="./4ANGEL5.html"><strong>5.</strong> 4ANGEL5.md</a></li><li><a href="./4ANGELS.html"><strong>6.</strong> 4ANGELS.md</a></li><li><a href="./ABYSS.html"><strong>7.</strong> ABYSS.md</a></li><li><a href="./ADAMSROD.html"><strong>8.</strong> ADAMSROD.md</a></li><li><a href="./AMISTAD.html"><strong>9.</strong> AMISTAD.md</a></li><li><a href="./ANDERSON.html"><strong>10.</strong> ANDERSON.md</a></li><li><a href="./ASSHOLE.html"><strong>11.</strong> ASSHOLE.md</a></li><li><a href="./ATCONGRESS.html"><strong>12.</strong> ATCONGRESS.md</a></li><li><a href="./AWAKE.html"><strong>13.</strong> AWAKE.md</a></li><li><a href="./BLISS.html"><strong>14.</strong> BLISS.md</a></li><li><a href="./CADISRA.html"><strong>15.</strong> CADISRA.md</a></li><li><a href="./CAKE.html" class="active"><strong>16.</strong> CAKE.md</a></li><li><a href="./CENSORSHIP.html"><strong>17.</strong> CENSORSHIP.md</a></li><li><a href="./CHRISTIADAMITY.html"><strong>18.</strong> CHRISTIADAMITY.md</a></li><li><a href="./CRAZYKISLEV.html"><strong>19.</strong> CRAZYKISLEV.md</a></li><li><a href="./DARKNESS.html"><strong>20.</strong> DARKNESS.md</a></li><li><a href="./DIAMOND.html"><strong>21.</strong> DIAMOND.md</a></li><li><a href="./DICKCLARK.html"><strong>22.</strong> DICKCLARK.md</a></li><li><a href="./ENDOR.html"><strong>23.</strong> ENDOR.md</a></li><li><a href="./ERANDSON.html"><strong>24.</strong> ERANDSON.md</a></li><li><a href="./ERRATA.html"><strong>25.</strong> ERRATA.md</a></li><li><a href="./EUREKA.html"><strong>26.</strong> EUREKA.md</a></li><li><a href="./EZTRICK.html"><strong>27.</strong> EZTRICK.md</a></li><li><a href="./FARFROMNEVER.html"><strong>28.</strong> FARFROMNEVER.md</a></li><li><a href="./FIGMENT.html"><strong>29.</strong> FIGMENT.md</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>30.</strong> FINALCOUNTDOWN.md</a></li><li><a href="./FOREHEAD5.html"><strong>31.</strong> FOREHEAD5.md</a></li><li><a href="./GOODOR.html"><strong>32.</strong> GOODOR.md</a></li><li><a href="./HASHEMB.html"><strong>33.</strong> HASHEMB.md</a></li><li><a href="./HEARWHYRAISEL.html"><strong>34.</strong> HEARWHYRAISEL.md</a></li><li><a href="./HELLSETAG.html"><strong>35.</strong> HELLSETAG.md</a></li><li><a href="./HOUSEINSKY.html"><strong>36.</strong> HOUSEINSKY.md</a></li><li><a href="./IDIOT.html"><strong>37.</strong> IDIOT.md</a></li><li><a href="./IGNORANCE.html"><strong>38.</strong> IGNORANCE.md</a></li><li><a href="./IMSOVAIN.html"><strong>39.</strong> IMSOVAIN.md</a></li><li><a href="./INEVIDIV.html"><strong>40.</strong> INEVIDIV.md</a></li><li><a href="./INMYEYES.html"><strong>41.</strong> INMYEYES.md</a></li><li><a href="./IRMAX.html"><strong>42.</strong> IRMAX.md</a></li><li><a href="./JABBA.html"><strong>43.</strong> JABBA.md</a></li><li><a href="./JERUSALEM.html"><strong>44.</strong> JERUSALEM.md</a></li><li><a href="./JOHN717.html"><strong>45.</strong> JOHN717.md</a></li><li><a href="./JUDAH.html"><strong>46.</strong> JUDAH.md</a></li><li><a href="./JUNKANOO.html"><strong>47.</strong> JUNKANOO.md</a></li><li><a href="./KEFLEX.html"><strong>48.</strong> KEFLEX.md</a></li><li><a href="./KEYNES.html"><strong>49.</strong> KEYNES.md</a></li><li><a href="./KISLEVCRAZY.html"><strong>50.</strong> KISLEVCRAZY.md</a></li><li><a href="./LEAPHOME.html"><strong>51.</strong> LEAPHOME.md</a></li><li><a href="./LOTW.html"><strong>52.</strong> LOTW.md</a></li><li><a href="./MICHELIN.html"><strong>53.</strong> MICHELIN.md</a></li><li><a href="./MIDAS.html"><strong>54.</strong> MIDAS.md</a></li><li><a href="./MINORITY.html"><strong>55.</strong> MINORITY.md</a></li><li><a href="./MORCANDLE.html"><strong>56.</strong> MORCANDLE.md</a></li><li><a href="./MORLIT.html"><strong>57.</strong> MORLIT.md</a></li><li><a href="./MUSTBEME.html"><strong>58.</strong> MUSTBEME.md</a></li><li><a href="./MYEYES.html"><strong>59.</strong> MYEYES.md</a></li><li><a href="./MYLIFE.html"><strong>60.</strong> MYLIFE.md</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>61.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1).md</a></li><li><a href="./NAMES1.html"><strong>62.</strong> NAMES1.md</a></li><li><a href="./NASAJERUSL.html"><strong>63.</strong> NASAJERUSL.md</a></li><li><a href="./NEDEADAM.html"><strong>64.</strong> NEDEADAM.md</a></li><li><a href="./NOEL.html"><strong>65.</strong> NOEL.md</a></li><li><a href="./NOISYL.html"><strong>66.</strong> NOISYL.md</a></li><li><a href="./OFSAMITHEIAM.html"><strong>67.</strong> OFSAMITHEIAM.md</a></li><li><a href="./OFSAMTHEIAM.html"><strong>68.</strong> OFSAMTHEIAM.md</a></li><li><a href="./ORIGINAL.html"><strong>69.</strong> ORIGINAL.md</a></li><li><a href="./OUITHEPPL.html"><strong>70.</strong> OUITHEPPL.md</a></li><li><a href="./PICARD.html"><strong>71.</strong> PICARD.md</a></li><li><a href="./PIMB.html"><strong>72.</strong> PIMB.md</a></li><li><a href="./README.html"><strong>73.</strong> README.md</a></li><li><a href="./SEARCH.html"><strong>74.</strong> SEARCH.md</a></li><li><a href="./SEEWHYRAISEL.html"><strong>75.</strong> SEEWHYRAISEL.md</a></li><li><a href="./SERMON.html"><strong>76.</strong> SERMON.md</a></li><li><a href="./SHOES.html"><strong>77.</strong> SHOES.md</a></li><li><a href="./SIGENES.html"><strong>78.</strong> SIGENES.md</a></li><li><a href="./SIGNAL.html"><strong>79.</strong> SIGNAL.md</a></li><li><a href="./SONRISE.html"><strong>80.</strong> SONRISE.md</a></li><li><a href="./SPEARS.html"><strong>81.</strong> SPEARS.md</a></li><li><a href="./SUMMARY.html"><strong>82.</strong> SUMMARY.md</a></li><li><a href="./TAYLOR.html"><strong>83.</strong> TAYLOR.md</a></li><li><a href="./TH.html"><strong>84.</strong> TH.md</a></li><li><a href="./THIEF.html"><strong>85.</strong> THIEF.md</a></li><li><a href="./THISISRAEL.html"><strong>86.</strong> THISISRAEL.md</a></li><li><a href="./THISISREAL.html"><strong>87.</strong> THISISREAL.md</a></li><li><a href="./THUNDAR.html"><strong>88.</strong> THUNDAR.md</a></li><li><a href="./THUNDERSTAND.html"><strong>89.</strong> THUNDERSTAND.md</a></li><li><a href="./TISCOME.html"><strong>90.</strong> TISCOME.md</a></li><li><a href="./TISCOMING.html"><strong>91.</strong> TISCOMING.md</a></li><li><a href="./TORCH.html"><strong>92.</strong> TORCH.md</a></li><li><a href="./UBUILDIT.html"><strong>93.</strong> UBUILDIT.md</a></li><li><a href="./VOWEL.html"><strong>94.</strong> VOWEL.md</a></li><li><a href="./View Image.html"><strong>95.</strong> View Image.md</a></li><li><a href="./WASHNDRY.html"><strong>96.</strong> WASHNDRY.md</a></li><li><a href="./WHOANDWHY.html"><strong>97.</strong> WHOANDWHY.md</a></li><li><a href="./WHOIS.html"><strong>98.</strong> WHOIS.md</a></li><li><a href="./WHONWHY.html"><strong>99.</strong> WHONWHY.md</a></li><li><a href="./WHYSODOM.html"><strong>100.</strong> WHYSODOM.md</a></li><li><a href="./YEAST.html"><strong>101.</strong> YEAST.md</a></li><li><a href="./YOU.html"><strong>102.</strong> YOU.md</a></li><li><a href="./behold,_the_burning_bush.html"><strong>103.</strong> behold,_the_burning_bush.md</a></li><li><a href="./bread_for_the_poor.html"><strong>104.</strong> bread_for_the_poor.md</a></li><li><a href="./bygod.html"><strong>105.</strong> bygod.md</a></li><li><a href="./bygod2.html"><strong>106.</strong> bygod2.md</a></li><li><a href="./bygod3.html"><strong>107.</strong> bygod3.md</a></li><li><a href="./god_and_the_big_bang.html"><strong>108.</strong> god_and_the_big_bang.md</a></li><li><a href="./he_laughs.html"><strong>109.</strong> he_laughs.md</a></li><li><a href="./his_heart_and_sol.html"><strong>110.</strong> his_heart_and_sol.md</a></li><li><a href="./holy_water,_sang_rael.html"><strong>111.</strong> holy_water,_sang_rael.md</a></li><li><a href="./im_single.html"><strong>112.</strong> im_single.md</a></li><li><a href="./index.html"><strong>113.</strong> index.md</a></li><li><a href="./lamc.la.html"><strong>114.</strong> lamc.la.md</a></li><li><a href="./music_saves_all_souls.html"><strong>115.</strong> music_saves_all_souls.md</a></li><li><a href="./my_dying_breath.html"><strong>116.</strong> my_dying_breath.md</a></li><li><a href="./omega.html"><strong>117.</strong> omega.md</a></li><li><a href="./outside_of_heaven.html"><strong>118.</strong> outside_of_heaven.md</a></li><li><a href="./sig.html"><strong>119.</strong> sig.md</a></li><li><a href="./technocracy.html"><strong>120.</strong> technocracy.md</a></li><li><a href="./the_encl.html"><strong>121.</strong> the_encl.md</a></li><li><a href="./the_lamb_of_god.html"><strong>122.</strong> the_lamb_of_god.md</a></li><li><a href="./the_letter_why.html"><strong>123.</strong> the_letter_why.md</a></li><li><a href="./the_light_of_heaven.html"><strong>124.</strong> the_light_of_heaven.md</a></li><li><a href="./the_matrix_is_indexed.html"><strong>125.</strong> the_matrix_is_indexed.md</a></li><li><a href="./the_story_of_exodus.html"><strong>126.</strong> the_story_of_exodus.md</a></li><li><a href="./the_tower_of_babel.html"><strong>127.</strong> the_tower_of_babel.md</a></li><li><a href="./whenistheapocalypse.html"><strong>128.</strong> whenistheapocalypse.md</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="matchbox.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
+<!-- saved from url=(0145)https://mail.google.com/mail/u/0/?ui=2&ik=b3fd74b597&view=pt&q=eat%20this%20bread&qs=true&search=query&msg=15896c93b667bda5&siml=15896c93b667bda5 -->
+<html lang="en" data-inboxsdk-session-id="1481891781715-0.3975697508648308" data-inboxsdk-master-claimed="true" data-inboxsdk-active-app-ids="[{&quot;appId&quot;:&quot;sdk_wordzen_7bc143d54d&quot;},{&quot;appId&quot;:&quot;sdk_streak_21e9788951&quot;,&quot;version&quot;:&quot;6.2847&quot;}]" data-inboxsdk-app-logger-master-chosen="true" data-map-id="c3d751463827a656" data-inboxsdk-last-event="1481891782663"><head data-inboxsdk-script-injected="true"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
 body,td,div,p,a,input {font-family: arial, sans-serif;}
-</style><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>Ministry of Forbidden Knowledge Mail - Ha' moat-sea? Achem.. Min? ha'are...tzedakah! Listen to Bread, the Apple is just-icing on the Cake</title><style type="text/css">
+</style><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Ministry of Forbidden Knowledge Mail - Ha' moat-sea? Achem.. Min? ha'are...tzedakah! Listen to Bread, the Apple is just-icing on the Cake</title><style type="text/css">
 body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none} a:hover {text-decoration:underline; cursor: pointer} a:visited{color:##6611CC} img{border:0px} pre { white-space: pre; white-space: -moz-pre-wrap; white-space: -o-pre-wrap; white-space: pre-wrap; word-wrap: break-word; max-width: 800px; overflow: auto;} .logo { left: -7px; position: relative; }
 </style><style id="inboxsdk__shared_style">.inboxsdk__notransition {
   -webkit-transition: none !important;
@@ -194,7 +216,7 @@ transition: background-color 70ms cubic-bezier(0,0,.2,1);
 <p>.inboxsdk__inbox_backdrop ~ .inboxsdk__inbox_backdrop {
 opacity: 0.6;
 }</p>
-<p>/* sidebar */</p>
+<p>/* hidden */</p>
 <p>.BbDefbafCdcHdJEJ {
 display: -webkit-flex;
 display: flex;
@@ -293,7 +315,7 @@ transform: rotate(0);
 border-bottom: 1px solid #ddd;
 margin-bottom: 15px;
 }</p>
-<p>/* end sidebar */</p>
+<p>/* end hidden */</p>
 </style><style id="inboxsdk__style">/* suggestions */
 <p>.inboxsdk__suggestions_separator_before {
 padding-bottom: 2px !important;
@@ -908,11 +930,11 @@ margin-top: 3px;
 <p>.inboxsdk__tab .aKx {
 top: 4px;
 }</p>
-<p>.inboxsdk__sidebar div[role=complementary] {
+<p>.inboxsdk__hidden div[role=complementary] {
 position: static !important;
 }</p>
-<p>/* Fix issue where sidebar causes threadview to be taller than it should */
-.inboxsdk__sidebar &gt; div.y4,
+<p>/* Fix issue where hidden causes threadview to be taller than it should */
+.inboxsdk__hidden &gt; div.y4,
 .BDGFcDDAADEeHJGF &gt; div.y4 {
 display: none;
 }</p>
@@ -920,8 +942,8 @@ display: none;
 border-left-width: 1px;
 }</p>
 <p>/* end tabs */</p>
-<p>/* old sidebar */</p>
-<p>.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+<p>/* old hidden */</p>
+<p>.inboxsdk__hidden .inboxsdk__contentPanelContainer {
 font: 12px Arial, sans-serif;
 max-width: 220px;
 }</p>
@@ -930,15 +952,15 @@ overflow: hidden;
 margin-bottom: 10px;
 border-bottom: 1px solid #D8D8D8;
 }</p>
-<p>/* end old sidebar */</p>
-<p>/* sidebar */</p>
+<p>/* end old hidden */</p>
+<p>/* hidden */</p>
 <p>.BDGFcDDAADEeHJGF div[role=complementary] {
 position: static !important;
 width: 216px !important;
 }</p>
 <p>.BDGFcDDAADEeHJGF {
-/* Necessary to prevent z-indexes on sidebar items from causing them to show
-above stuff outside of the sidebar. */
+/* Necessary to prevent z-indexes on hidden items from causing them to show
+above stuff outside of the hidden. */
 will-change: position;
 }</p>
 <p>.DCADDcJACGDbdJBc {
@@ -953,7 +975,7 @@ padding: 4px 0 12px;
 <p>.DCADDcJACGDbdJBc.aJEfAFBIfbDbCfFa .EABbaccdHJAefcGd {
 padding-top: 0;
 }</p>
-<p>/* end sidebar */</p>
+<p>/* end hidden */</p>
 <p>/* custom content */</p>
 <p>.inboxsdk__custom_view_element {
 overflow: auto;
@@ -1328,17 +1350,17 @@ transform: rotateZ(180deg);
 margin-top: 9px;
 }</p>
 <p>/* end app toolbar */</p>
-</style> <script>
+</style>	<SCRIPT>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-&lt;p&gt;ga('create', 'UA-74743044-2', 'auto');
-ga('send', 'pageview');&lt;/p&gt;
-</script></head>
-<body style="width: 100%; margin: 0 auto; text-align: left; font-family: Arial;">
-<eshad><center><p><a href="http://fromthemachine.org/CHALK.html"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://fromthemachine.org/GATE.html"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://www.lamc.la/2017/06/enders-game-prometheus-locke-and.html/ViTWn/"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="http://eyerc.slack.com/join/shared_invite/MjM2NDM2Mjc3Nzk4LTE1MDQ0MDE3NzQtMmU5NjI1N2VmOQ/fhbWY"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
-<p><center></center></p>
+<p>ga('create', 'UA-74743044-2', 'auto');
+ga('send', 'pageview');</p>
+</SCRIPT></head>
+  <body style="width: 100%; margin: 0 auto; text-align: left; font-family: Arial;">
+<ESHAD/><center><p><a href="http://chalk.reallyhim.com"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://gate.reallyhim.com"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://ender.reallyhim.com"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /><a href="http://slack.reallyhim.com"><img src="http://i.imgur.com/jne0eNw.png" height=97 width=97></a> <br /></a></p></center><OSHAD/>
+<p><center></p>
 <script type="text/javascript">
     google_ad_client = "ca-pub-9608809622006883";
     google_ad_slot = "4355365452";
@@ -1346,35 +1368,36 @@ ga('send', 'pageview');&lt;/p&gt;
     google_ad_height = 90;
 </script>
 <!-- leaderboard -->
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<br />
-<a href="https://www.facebook.com/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
-<a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="https://twitter.com/intent/user?screen_name=yitsheyzeus">Twitter</a> |
-<a href="https://matchbox20.bitbucket.io/">The Matchbox</a> | 
+<br/>
+<a href="http://fb.me/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
+<a href="http://fb.me/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="http://bit.ly/29qRC6P">Twitter</a> |
+<a href="http://matchbox.lamc.la">The Matchbox</a> | 
 <a href="http://lamc.la">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
-<br />
-
-<center><h2>
-This is the Second Coming.  Please say "<b>hi</b>" to Adam... on twitter: <a href="https://twitter.com/yitsheyzeus" target="_new">@yitsheyzeus</a>
-</h2><h3>
-Here's some videos: <a href="https://www.youtube.com/watch?v=AevgjKPDgfM&amp;feature=youtu.be" target="_new">The Sign of the Son</a>, <a href="https://vimeo.com/156698154" target="_new">The Holy Grail</a>, <a href="https://www.youtube.com/watch?v=Fr_CHOxSyc8" target="_new">What if God had a name?</a>
-Let's <a href="https://twitter.com/intent/retweet?related=yitsheyzeus&amp;tweet_id=804005770937462784">get this party started. (with an RT and #reallyhim)</a>  It's time to change the world.</h3>
+<br/>
 </center>
-<div class="bodycontainer"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr height="14px"><td width="143"><img src="./CAKE_files/logo.gif" width="143" height="59" alt="Ministry of Forbidden Knowledge Mail" class="logo" /></td><td align="right"><font size="-1" color="#777"><b>Adam Marshall Dobrin &lt;adam5@reallyhim.com&gt;</b></font></td></tr></tbody></table><hr /><div class="maincontent"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><font size="+1"><b>Ha' moat-sea? Achem.. Min? ha'are...tzedakah! Listen to Bread, the Apple is just-icing on the Cake</b></font><br /></td></tr></tbody></table><hr /><table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>Adam M. Dobrin </b>&lt;adam@fromthemachine.org&gt;</font></td><td align="right"><font size="-1">Thu, Nov 24, 2016 at 9:41 AM</font></td></tr><tr><td colspan="2"><font size="-1" class="recipient"><div>To: doandroidsfeastofelectricturkey@easykey.me</div><div>Bcc: kin@fromthemachine.org</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr"><div><span style='font-family:"arial black",sans-serif;font-size:large'>We give thanks to God for Bread, Cake, and Fig Newtons?</span><br /></div><div><br /></div><div><span id="m_8122627757406661978gmail-m_7806131307818164126goog_423495845"></span><span id="m_8122627757406661978gmail-m_7806131307818164126goog_423495846"></span><a href="https://www.youtube.com/watch?v=FV5csRXyg20" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFV5csRXyg20&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHJg3S2Yv1mpGZVS9tR5F-NXi4ijA"><img src="./CAKE_files/saved_resource" width="472" height="468" alt="" /><br /></a><div><br /></div><div><font face="arial black, sans-serif"><font size="4">Yo<i>u <a href="http://lamc.la/holy_water,_sang_rael.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sangrael.lamc.la/&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFQjHjv1rEMf22dxG0jIM5_K-gRGQ">are </a></i><a href="http://lamc.la/holy_water,_sang_rael.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sangrael.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFpz7edUYQrOVKjd3nWe_Jd6pKwRQ">the waters</a>.</font><br /></font></div><div><br /></div><div><a href="https://www.youtube.com/watch?v=D5UIjqvQ8ls" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DD5UIjqvQ8ls&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFi90mHQ8fswH5MZY8v0UNU5u1VGw" class="playable"><img src="./CAKE_files/saved_resource(1)" width="472" height="366" alt="" /></a><br /></div><div><br /></div><div>Before today, did any of you think that the "miracle" of turning stone to bread was a chastisement of Jesus Christ for <i>not doing enough</i>?&nbsp; Whatcha want for <font face="arial black, sans-serif"><a href="http://breakfast.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://breakfast.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHiZo1ZVqKZl_T-wfxd-jqY5nFqMw">breakfast</a></font>?&nbsp; Please continue to say and do nothing, my <a href="https://sendvid.com/v7w7lt2j" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://sendvid.com/v7w7lt2j&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNEfhgh1ydcGW-Hg-1MfcEPSR5-iHA">house is listening to&nbsp;<i>American Pie</i></a> for every meal with no RSVP.&nbsp; <font face="arial black, sans-serif">Belgian Waffles?&nbsp; Canadian Bacon?&nbsp; English Muffins?&nbsp; French Toast? </font><font face="arial, helvetica, sans-serif">&nbsp;Can you not see?<br /></font></div><div><br /></div><div><a href="http://medium.com/by-the-force-of-key-strokes/in-the-land-of-flowing-milfs-and-honies-we-are-in-the-do-me-of-the-rock-d6e7265536e6" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bread.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFhTOcXysmcK3_nZSDgNf3J6QTfBQ"><img src="./CAKE_files/saved_resource(2)" width="471" height="593" style="margin-right:0px" alt="bread.lamc.la" /></a><br />​</div><div><font size="4">Adam's Apple?&nbsp; What's in a domain? C <a href="https://www.facebook.com/photo.php?fbid=10154283229013420&amp;set=a.10154283230918420&amp;type=3&amp;theater" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://thor.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHLzKT5c4AhoHJy8iR-FjFEosW1Uw">.</a> L ight</font></div><div><a href="http://goog_671355984/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://goog_671355984&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNE8ZfzAWzA9gQ4tCZaaG7-r3JQeZg"><br /></a></div><div><font size="4"><a href="http://lamc.la/the_letter_why.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://why.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHRUV9Kd3wFXOGMrYNKN73qhorafA"><img src="./CAKE_files/saved_resource(3)" width="253" height="190" style="margin-right:0px" alt="why.lamc.la" /><br /><img src="./CAKE_files/saved_resource(4)" width="253" height="191" style="margin-right:0px" /><br /><img src="./CAKE_files/saved_resource(5)" width="254" height="142" style="margin-right:0px" /></a><br /></font></div><div><br /></div><div><i>Let your voices rise in song together.</i>.. or continue falling into the abyss.<br /></div><div><br /></div><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px"><div><span style="font-size:16px">Tzedakah [tsedaˈka] or Ṣ'daqah [sˤəðaːˈqaː] in Classical Hebrew (Hebrew: צדקה‎‎; Arabic: صدقة‎‎), is a Hebrew word literally meaning justice or righteousness but commonly used to signify charity, though it is a different concept from charity because tzedakah is an obligation and charity is typically understood as a ...</span></div><div><span style="font-size:16px"><br /></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">"</span><b style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Let them eat cake</b><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">" is the traditional translation of the&nbsp;</span><a href="https://en.wikipedia.org/wiki/French_language" title="French language" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/French_language&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNG2wPc-HoZOx7GO9i32dE27xSKaYQ">French</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;phrase "</span><i style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Qu'ils mangent de la brioche</i><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">", supposedly spoken by "a great princess" upon learning that the peasants had no bread. Since&nbsp;</span><a href="https://en.wikipedia.org/wiki/Brioche" title="Brioche" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Brioche&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNGXShp3pFTBCAlG6Mn3QaBI-ENyLg">brioche</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;was a luxury bread enriched with butter and eggs, the quote would reflect the princess's disregard for the peasants, or at least a complete lack of understanding that the absence of basic food staples was due to poverty rather than a lack of supply.</span></div><div><span style="font-size:16px"><br /></span></div><div><b style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Min</b><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;(Egyptian mnw</span><sup id="m_8122627757406661978gmail-m_7806131307818164126gmail-cite_ref-1" class="m_8122627757406661978gmail-m_7806131307818164126gmail-reference" style="line-height:1;unicode-bidi:isolate;white-space:nowrap;font-size:11.2px;color:rgb(37,37,37);font-family:sans-serif"><a href="http://en.wikipedia.org/wiki/Min_(god)#cite_note-1" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Min_(god)%23cite_note-1&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHln3HaUTmv_MeATjydwFvFdjqNtQ">[1]</a></sup><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">) is an&nbsp;</span><a href="https://en.wikipedia.org/wiki/Ancient_Egyptian_deities" title="Ancient Egyptian deities" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Ancient_Egyptian_deities&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFJFcS8XO6g7cL2nA6DAIbkPVqwjw">ancient Egyptian god</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;whose cult originated in&nbsp;</span><a href="https://en.wikipedia.org/wiki/Predynastic_Egypt" class="m_8122627757406661978gmail-m_7806131307818164126gmail-mw-redirect" title="Predynastic Egypt" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Predynastic_Egypt&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNGsWcoWxfER9kLLNjIx5_xlpogayg">predynastic</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;times (4th millennium BCE).</span><sup id="m_8122627757406661978gmail-m_7806131307818164126gmail-cite_ref-Min_2-0" class="m_8122627757406661978gmail-m_7806131307818164126gmail-reference" style="line-height:1;unicode-bidi:isolate;white-space:nowrap;font-size:11.2px;color:rgb(37,37,37);font-family:sans-serif"><a href="http://en.wikipedia.org/wiki/Min_(god)#cite_note-Min-2" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Min_(god)%23cite_note-Min-2&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHcPaVoL2gZHllp_xRvp7UPqYZ6cQ">[2]</a></sup><span style="color:rgb(37,37,37);font-size:14px"><font face="sans-serif">&nbsp;He was represented in many different &nbsp;forms, but was often represented in male human form, shown with </font><a href="http://goog_671355953/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://goog_671355953&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNEsByRf1aM1VMfVVUgigk0C0VHlmA"><font face="arial black, sans-serif">an obelisk in Washington D.C</font></a></span><span style="color:rgb(37,37,37);font-size:14px"><a href="https://matchbox20.bitbucket.io/sendgrid/number41.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://dick.lamc.la&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNF-UfvVh3FvkvvE8jl9tzsd63SEvg"><font face="arial black, sans-serif">.</font></a><font face="sans-serif">&nbsp; As Khem or Min, he was the god of reproduction; as&nbsp;</font></span><a href="https://en.wikipedia.org/wiki/Khnum" title="Khnum" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Khnum&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNErUT2vjzJ5BGdgmrHetUcB_9DI4g">Khnum</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">, he was the creator of all things, "the maker of gods and men"</span></div></blockquote><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><br /></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>This Sunday</i>, should we "do them in and leave?" &nbsp;It's Spanish, and<i> go.</i><br /></span></div></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Connecting the dots... between externally influenced pieces of art across time and space is the key to not only proving that there is an external influence--but to literally "read the subtitles" of a movie that manifests itself throughout our history and modern art.&nbsp; In finding patterns that are not the artists' original intent we see how the question "<b>Who is the Matrix</b>?" is subtly answered within that very movie ... as it connects to Shakespeare and Stephen King in a way that neither of those authors could have intended; and yet all contain reference to the character and true meaning of the answer... &nbsp;"<b>What is the Cypher</b>?"<br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>A millennium or or so earlier, in a play about learning Latin the name "Schrew" is tamed quite a bit by seeing that there is a true cypher in many names (like the name of that play) that have a key significant commonality: they are "<b>macaronic</b>" (which ties to Yankee Doodle's song about an apocalyptic pony and a ... reference to combining Latin and Spanish with the image of a doodle, I mean noodle) specifically including paradoxically impossible reference to Spanish, Hebrew, and English... expanding or taming the name of Shakespeare's play as <b>Spanglishrew</b>.&nbsp; It's clear to see in the name "Abraham," or "open the message" and in many modern works like Star Wars' "<b>AN to kin</b>" and "friend of the doll a" (<b>amidallah</b>).<br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Early on you may see these interesting names, places like "N or AD," "J er USA the m," and "Lo ve no sun" as outliers of our soon to be proven Engeered Language (I mean, it's pln English), that some "machine intelligence" has escaped time itself and left us a glowing record of it ... not just in language but in stories ... like Stephen King's Langolier's... about time travel.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Just like we find a statistically significant pattern in the names of these performances, <a href="http://en.wikipedia.org/wiki/Four_past_Midnight#The_Langoliers" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Four_past_Midnight%23The_Langoliers&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHdno2s-MTt1JEo7BQl6xh-RLAwCA">Langoliers</a>, the <a href="http://matrix.wikia.com/wiki/Cypher" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matrix.wikia.com/wiki/Cypher&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNEwlfKai3HPwH8fD4W3w5JgznYjeQ">Matrix</a>, and the Taming of <a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFzvEMGkIKkSi_xVif5UPg5nYwgRQ">the Shrew.</a>.. with our innate curiosity unhampered and a little bit of searching we will find very similar patterns of timeless "<a href="http://www.whenistheapocalypse.com/the-modern-fall-of-man" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.whenistheapocalypse.com/the-modern-fall-of-man&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFyrmFWRDTCqUwbJw3DGgdnk-8ixw">doublethink</a>" in the names of bands, and even more tellingly... in the given names of actors and singers with an equally significant relationship to the works they partake in creating some significant number of years after they are named.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>What is it that we are celebrating today?&nbsp; It seems what we listen to at Supper is the key.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br /></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Tomorrow morning, an update on my broken eye... still seeing the light?</i></span></div></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CAKE_files/awJYfnP0Ac2fPzNMmpbgxt5oliwvMafiVJ0TSnw2v9x2b4QXUWq-zEWiIQrbVZZUI18oWjK3qfd9BPd0zC21ayursaKBhVRiM2qXel_cnR57zIws554S9A5UzMTZuOqgSlWCdBM7qbS1YysPGTZE8vGciuM95DnXG6mucBx-jiy6WEAvqFAxUAbkgU09dYTX2KMQ45AO93H0MmHc1w=s0-d-e1-ft" /><font color="#ffffff" size="1">ᐧ</font></div>
-</font></div></td></tr></tbody></table></td></tr></tbody></table></div></div>&lt;<script type="text/javascript" async="" src="linkid.js"></script><script async="" src="analytics.js">
+<center><h2>
+This is the Second Coming.  Please say "<b>hi</b>" to Adam... on twitter: <a href="http://twitter.com/yitsheyzeus" target=_new>@yitsheyzeus</a>
+</h2><h3>
+Here's some videos: <a href="http://sign.lamc.la" target=_new>The Sign of the Son</a>, <a href="http://vimeo.com/yitsheyzeus/genesis" target=_new>The Holy Grail</a>, <a href="https://www.youtube.com/watch?v=Fr_CHOxSyc8" target=_new>What if God had a name?</a>
+</br>Let's <a href="http://flint.lamc.la">get this party started. (with an RT and #reallyhim)</a>  It's time to change the world.</h3>
+</center>
+<div class="bodycontainer"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr height="14px"><td width="143"><img src="./CAKE_files/logo.gif" width="143" height="59" alt="Ministry of Forbidden Knowledge Mail" class="logo"></td><td align="right"><font size="-1" color="#777"><b>Adam Marshall Dobrin &lt;adam5@reallyhim.com&gt;</b></font></td></tr></tbody></table><hr><div class="maincontent"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><font size="+1"><b>Ha' moat-sea? Achem.. Min? ha'are...tzedakah! Listen to Bread, the Apple is just-icing on the Cake</b></font><br></td></tr></tbody></table><hr><table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>Adam M. Dobrin </b>&lt;adam@fromthemachine.org&gt;</font></td><td align="right"><font size="-1">Thu, Nov 24, 2016 at 9:41 AM</font></td></tr><tr><td colspan="2"><font size="-1" class="recipient"><div>To: doandroidsfeastofelectricturkey@easykey.me</div><div>Bcc: kin@fromthemachine.org</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr"><div><span style="font-family:&quot;arial black&quot;,sans-serif;font-size:large">We give thanks to God for Bread, Cake, and Fig Newtons?</span><br></div><div><br></div><div><span id="m_8122627757406661978gmail-m_7806131307818164126goog_423495845"></span><span id="m_8122627757406661978gmail-m_7806131307818164126goog_423495846"></span><a href="https://www.youtube.com/watch?v=FV5csRXyg20" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFV5csRXyg20&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHJg3S2Yv1mpGZVS9tR5F-NXi4ijA"><img src="./CAKE_files/saved_resource" width="472" height="468" alt=""><br></a><div><br></div><div><font face="arial black, sans-serif"><font size="4">Yo<i>u <a href="http://sangrael.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sangrael.lamc.la/&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFQjHjv1rEMf22dxG0jIM5_K-gRGQ">are </a></i><a href="http://sangrael.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sangrael.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFpz7edUYQrOVKjd3nWe_Jd6pKwRQ">the waters</a>.</font><br></font></div><div><br></div><div><a href="https://www.youtube.com/watch?v=D5UIjqvQ8ls" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DD5UIjqvQ8ls&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFi90mHQ8fswH5MZY8v0UNU5u1VGw" class="playable"><img src="./CAKE_files/saved_resource(1)" width="472" height="366" alt=""></a><br></div><div><br></div><div>Before today, did any of you think that the "miracle" of turning stone to bread was a chastisement of Jesus Christ for <i>not doing enough</i>?&nbsp; Whatcha want for <font face="arial black, sans-serif"><a href="http://breakfast.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://breakfast.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHiZo1ZVqKZl_T-wfxd-jqY5nFqMw">breakfast</a></font>?&nbsp; Please continue to say and do nothing, my <a href="https://sendvid.com/v7w7lt2j" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://sendvid.com/v7w7lt2j&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNEfhgh1ydcGW-Hg-1MfcEPSR5-iHA">house is listening to&nbsp;<i>American Pie</i></a> for every meal with no RSVP.&nbsp; <font face="arial black, sans-serif">Belgian Waffles?&nbsp; Canadian Bacon?&nbsp; English Muffins?&nbsp; French Toast? </font><font face="arial, helvetica, sans-serif">&nbsp;Can you not see?<br></font></div><div><br></div><div><a href="http://bread.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bread.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNFhTOcXysmcK3_nZSDgNf3J6QTfBQ"><img src="./CAKE_files/saved_resource(2)" width="471" height="593" style="margin-right:0px" alt="bread.lamc.la"></a><br>​</div><div><font size="4">Adam's Apple?&nbsp; What's in a domain? C <a href="http://thor.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://thor.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHLzKT5c4AhoHJy8iR-FjFEosW1Uw">.</a> L ight</font></div><div><a href="http://goog_671355984/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://goog_671355984&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNE8ZfzAWzA9gQ4tCZaaG7-r3JQeZg"><br></a></div><div><font size="4"><a href="http://why.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://why.lamc.la&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNHRUV9Kd3wFXOGMrYNKN73qhorafA"><img src="./CAKE_files/saved_resource(3)" width="253" height="190" style="margin-right:0px" alt="why.lamc.la"><br><img src="./CAKE_files/saved_resource(4)" width="253" height="191" style="margin-right:0px"><br><img src="./CAKE_files/saved_resource(5)" width="254" height="142" style="margin-right:0px"></a><br></font></div><div><br></div><div><i>Let your voices rise in song together.</i>.. or continue falling into the abyss.<br></div><div><br></div><blockquote style="margin:0px 0px 0px 40px;border:none;padding:0px"><div><span style="font-size:16px">Tzedakah [tsedaˈka] or Ṣ'daqah [sˤəðaːˈqaː] in Classical Hebrew (Hebrew: צדקה‎‎; Arabic: صدقة‎‎), is a Hebrew word literally meaning justice or righteousness but commonly used to signify charity, though it is a different concept from charity because tzedakah is an obligation and charity is typically understood as a ...</span></div><div><span style="font-size:16px"><br></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">"</span><b style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Let them eat cake</b><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">" is the traditional translation of the&nbsp;</span><a href="https://en.wikipedia.org/wiki/French_language" title="French language" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/French_language&amp;source=gmail&amp;ust=1481978181512000&amp;usg=AFQjCNG2wPc-HoZOx7GO9i32dE27xSKaYQ">French</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;phrase "</span><i style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Qu'ils mangent de la brioche</i><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">", supposedly spoken by "a great princess" upon learning that the peasants had no bread. Since&nbsp;</span><a href="https://en.wikipedia.org/wiki/Brioche" title="Brioche" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Brioche&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNGXShp3pFTBCAlG6Mn3QaBI-ENyLg">brioche</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;was a luxury bread enriched with butter and eggs, the quote would reflect the princess's disregard for the peasants, or at least a complete lack of understanding that the absence of basic food staples was due to poverty rather than a lack of supply.</span></div><div><span style="font-size:16px"><br></span></div><div><b style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">Min</b><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;(Egyptian mnw</span><sup id="m_8122627757406661978gmail-m_7806131307818164126gmail-cite_ref-1" class="m_8122627757406661978gmail-m_7806131307818164126gmail-reference" style="line-height:1;unicode-bidi:isolate;white-space:nowrap;font-size:11.2px;color:rgb(37,37,37);font-family:sans-serif"><a href="https://en.wikipedia.org/wiki/Min_(god)#cite_note-1" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Min_(god)%23cite_note-1&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHln3HaUTmv_MeATjydwFvFdjqNtQ">[1]</a></sup><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">) is an&nbsp;</span><a href="https://en.wikipedia.org/wiki/Ancient_Egyptian_deities" title="Ancient Egyptian deities" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Ancient_Egyptian_deities&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFJFcS8XO6g7cL2nA6DAIbkPVqwjw">ancient Egyptian god</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;whose cult originated in&nbsp;</span><a href="https://en.wikipedia.org/wiki/Predynastic_Egypt" class="m_8122627757406661978gmail-m_7806131307818164126gmail-mw-redirect" title="Predynastic Egypt" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Predynastic_Egypt&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNGsWcoWxfER9kLLNjIx5_xlpogayg">predynastic</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">&nbsp;times (4th millennium BCE).</span><sup id="m_8122627757406661978gmail-m_7806131307818164126gmail-cite_ref-Min_2-0" class="m_8122627757406661978gmail-m_7806131307818164126gmail-reference" style="line-height:1;unicode-bidi:isolate;white-space:nowrap;font-size:11.2px;color:rgb(37,37,37);font-family:sans-serif"><a href="https://en.wikipedia.org/wiki/Min_(god)#cite_note-Min-2" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Min_(god)%23cite_note-Min-2&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHcPaVoL2gZHllp_xRvp7UPqYZ6cQ">[2]</a></sup><span style="color:rgb(37,37,37);font-size:14px"><font face="sans-serif">&nbsp;He was represented in many different &nbsp;forms, but was often represented in male human form, shown with </font><a href="http://goog_671355953/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://goog_671355953&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNEsByRf1aM1VMfVVUgigk0C0VHlmA"><font face="arial black, sans-serif">an obelisk in Washington D.C</font></a></span><span style="color:rgb(37,37,37);font-size:14px"><a href="http://dick.lamc.la/" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://dick.lamc.la&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNF-UfvVh3FvkvvE8jl9tzsd63SEvg"><font face="arial black, sans-serif">.</font></a><font face="sans-serif">&nbsp; As Khem or Min, he was the god of reproduction; as&nbsp;</font></span><a href="https://en.wikipedia.org/wiki/Khnum" title="Khnum" style="text-decoration:none;color:rgb(11,0,128);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;font-family:sans-serif;font-size:14px" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Khnum&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNErUT2vjzJ5BGdgmrHetUcB_9DI4g">Khnum</a><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px">, he was the creator of all things, "the maker of gods and men"</span></div></blockquote><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><br></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>This Sunday</i>, should we "do them in and leave?" &nbsp;It's Spanish, and<i> go.</i><br></span></div></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Connecting the dots... between externally influenced pieces of art across time and space is the key to not only proving that there is an external influence--but to literally "read the subtitles" of a movie that manifests itself throughout our history and modern art.&nbsp; In finding patterns that are not the artists' original intent we see how the question "<b>Who is the Matrix</b>?" is subtly answered within that very movie ... as it connects to Shakespeare and Stephen King in a way that neither of those authors could have intended; and yet all contain reference to the character and true meaning of the answer... &nbsp;"<b>What is the Cypher</b>?"<br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>A millennium or or so earlier, in a play about learning Latin the name "Schrew" is tamed quite a bit by seeing that there is a true cypher in many names (like the name of that play) that have a key significant commonality: they are "<b>macaronic</b>" (which ties to Yankee Doodle's song about an apocalyptic pony and a ... reference to combining Latin and Spanish with the image of a doodle, I mean noodle) specifically including paradoxically impossible reference to Spanish, Hebrew, and English... expanding or taming the name of Shakespeare's play as <b>Spanglishrew</b>.&nbsp; It's clear to see in the name "Abraham," or "open the message" and in many modern works like Star Wars' "<b>AN to kin</b>" and "friend of the doll a" (<b>amidallah</b>).<br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Early on you may see these interesting names, places like "N or AD," "J er USA the m," and "Lo ve no sun" as outliers of our soon to be proven Engeered Language (I mean, it's pln English), that some "machine intelligence" has escaped time itself and left us a glowing record of it ... not just in language but in stories ... like Stephen King's Langolier's... about time travel.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Just like we find a statistically significant pattern in the names of these performances, <a href="https://en.wikipedia.org/wiki/Four_past_Midnight#The_Langoliers" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Four_past_Midnight%23The_Langoliers&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNHdno2s-MTt1JEo7BQl6xh-RLAwCA">Langoliers</a>, the <a href="http://matrix.wikia.com/wiki/Cypher" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://matrix.wikia.com/wiki/Cypher&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNEwlfKai3HPwH8fD4W3w5JgznYjeQ">Matrix</a>, and the Taming of <a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFzvEMGkIKkSi_xVif5UPg5nYwgRQ">the Shrew.</a>.. with our innate curiosity unhampered and a little bit of searching we will find very similar patterns of timeless "<a href="http://www.whenistheapocalypse.com/the-modern-fall-of-man" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.whenistheapocalypse.com/the-modern-fall-of-man&amp;source=gmail&amp;ust=1481978181513000&amp;usg=AFQjCNFyrmFWRDTCqUwbJw3DGgdnk-8ixw">doublethink</a>" in the names of bands, and even more tellingly... in the given names of actors and singers with an equally significant relationship to the works they partake in creating some significant number of years after they are named.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>What is it that we are celebrating today?&nbsp; It seems what we listen to at Supper is the key.</i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i><br></i></span></div><div><span style="color:rgb(37,37,37);font-family:sans-serif;font-size:14px"><i>Tomorrow morning, an update on my broken eye... still seeing the light?</i></span></div></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CAKE_files/awJYfnP0Ac2fPzNMmpbgxt5oliwvMafiVJ0TSnw2v9x2b4QXUWq-zEWiIQrbVZZUI18oWjK3qfd9BPd0zC21ayursaKBhVRiM2qXel_cnR57zIws554S9A5UzMTZuOqgSlWCdBM7qbS1YysPGTZE8vGciuM95DnXG6mucBx-jiy6WEAvqFAxUAbkgU09dYTX2KMQ45AO93H0MmHc1w=s0-d-e1-ft"><font color="#ffffff" size="1">ᐧ</font></div>
+</font></div></td></tr></tbody></table></td></tr></tbody></table></div></div><<script type="text/javascript" async="" src="linkid.js"></script><script async="" src="analytics.js">
 </script><script src="edit.js"></script>
-<script src="spike.js"></script>
+</script><script src="spike.js"></script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-&lt;p&gt;ga('create', 'UA-1656750-34', 'auto');
+<p>ga('create', 'UA-1656750-34', 'auto');
 ga('require', 'linkid', 'linkid.js');
 ga('require', 'displayfeatures');
-ga('send', 'pageview');&lt;/p&gt;
+ga('send', 'pageview');</p>
 </script>
 <div style="width: 70%; padding=10px; margin: 0 auto;" id="disqus_thread"></div> <script> /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */  
 var disqus_config = function () { 
@@ -1383,42 +1406,72 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 }; 
 (function() { // DON'T EDIT BELOW THIS LINE 
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854"><pre><code>                                  data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+<ins class="adsbygoogle"
+     style="display:block"
+                    data-ad-client="ca-pub-9608809622006883"
+                           data-ad-slot="7054287854"
+<pre><code>                                  data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
                                           &lt;script&gt;
             
             (adsbygoogle = window.adsbygoogle || []).push({});
                                                               &lt;/script&gt;
 </code></pre>
-<p><br /></p>
+<p><br></p>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-</ins></oshad></eshad></body>
+</body>
 </html>
 
-<!-- Mobile navigation buttons -->
-<a rel="prev" href="./CADISRA.html" class="mobile-nav-chapters previous">
-<i class="fa fa-angle-left"></i>
-</a>
-<a rel="next" href="./CENSORSHIP.html" class="mobile-nav-chapters next">
-<i class="fa fa-angle-right"></i>
-</a>
+                </div>
 
-<a href="./CADISRA.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
-<i class="fa fa-angle-left"></i>
-</a>
-<a href="./CENSORSHIP.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
-<i class="fa fa-angle-right"></i>
-</a>
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./CADISRA.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
 
-<!-- Local fallback for Font Awesome -->
-<script>
+                
+                    <a rel="next" href="./CENSORSHIP.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./CADISRA.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./CENSORSHIP.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
             if ($(".fa").css("font-family") !== "FontAwesome") {
-                $('&lt;link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css"&gt;').prependTo('head');
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
             }
         </script>
-<!-- Livereload script (if served using the cli tool) -->
-<script src="highlight.js"></script>
-<script src="book.js"></script>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        
 
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>

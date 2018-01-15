@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
+
+        <meta charset="utf-8" dearbianca="hey">
         <title>AD on I'm Single | TIME AND CHANCE</title>
 <meta name="author" content="Adam Marshall Dobrin">
 <link rel="stylesheet" href="/css/main.css" >
@@ -102,93 +103,6 @@ The e-mails that circled the globe, opening the doorway to the future.
 Older works <a href="lit-and-why.pdf">Lit and Why</a>, <a href="hot-and-y.pdf">hot&y</a>, and <a href="from-adam-to-mary.pdf">From Adam to Mary</a> are also available.
 
 </div>
-     <nav class="nav" role="navigation" >
-<ul>
-       <li>
-        	<a href="/">Preface</a>
-        </li>
-
-       <li>
-        	<a  href="/holy_water,_sang_rael.html">Holy Water, Sang Rael</a>
-        </li>
-          <li>
-        	<a  href="/chapter1.html">The First Word</a>
-        </li>
-
-
-        <li>
-        	<a  href="/behold,_the_burning_bush.html">The Burning Bush</a>
-        </li>
-        
-                <li>
-        	<a  href="/the_tower_of_babel.html">The Tower of Babel</a>
-        </li>
-        <li>
-        	<a  href="/the_story_of_exodus.html">Expect the Unexpected</a>
-        </li>
-        <li>
-        	<a  href="/the_lamb_of_god.html">The Lamb of God</a>
-        </li>
-            <li>
-        	<a  href="/2_4_6_8_adam-who.html">Adam Who?</a>
-        </li>
-
-        <li>
-        	<a  href="/bread_for_the_poor.html">The Second Breakfast</a>
-        </li>
-                
-        <li>
-        	<a  href="/the_letter_why.html">The Letter Why</a>
-        </li>
-        
-        <li>
-        	<a  href="/the_light_of_heaven.html">The Light of Heaven</a>
-        </li>
-
-        
-        <li>
-        	<a  href="/god_and_the_big_bang.html">God and the Big Bang</a>
-        </li>
-        
-        <li>
-        	<a  href="/he_laughs.html">He Laughs, again</a>
-        </li>
-        
-        <li>
-        	<a  href="/his_heart_and_sol.html">His Heart and SOL</a>
-        </li>
-        
-        
-        <li>
-        	<a  href="/im_single.html">AD on I'm Single</a>
-        </li>
-        
-        
-        <li>
-        	<a  href="/music_saves_all_souls.html">Music Saves All Souls</a>
-        </li>
-        
-        <li>
-        	<a  href="/my_dying_breath.html">My Dying Breath</a>
-        </li>
-        
-        <li>
-        	<a  href="/outside_of_heaven.html">Outside of Heaven</a>
-        </li>
-        
-        <li>
-        	<a  href="/the_encl.html">The Encl</a>
-        </li>
-        
-        
-        <li>
-        	<a  href="/the_matrix_is_indexed.html">The Matrix is Indexed</a>
-        </li>
-        
-       </ul>  
-       </center>
-
-     </nav>
 
 
 <div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">

@@ -854,12 +854,12 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
   top: 4px;
 }
 
-.inboxsdk__sidebar div[role=complementary] {
+.inboxsdk__hidden div[role=complementary] {
   position: static !important;
 }
 
-/* Fix issue where sidebar causes threadview to be taller than it should */
-.inboxsdk__sidebar > div.y4 {
+/* Fix issue where hidden causes threadview to be taller than it should */
+.inboxsdk__hidden > div.y4 {
   display: none;
 }
 
@@ -869,9 +869,9 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* end tabs */
 
-/* sidebar */
+/* hidden */
 
-.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+.inboxsdk__hidden .inboxsdk__contentPanelContainer {
   font: 12px Arial, sans-serif;
   max-width: 220px;
 }
@@ -886,7 +886,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 
-/* end sidebar */
+/* end hidden */
 
 
 /* custom content */

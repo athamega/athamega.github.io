@@ -135,7 +135,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
   opacity: 0.6;
 }
 
-/* sidebar */
+/* hidden */
 
 .EJcEAGGFBdAddFfd {
   display: -webkit-flex;
@@ -253,7 +253,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
   margin-bottom: 15px;
 }
 
-/* end sidebar */
+/* end hidden */
 </style><style id="inboxsdk__style">/* suggestions */
 
 .inboxsdk__suggestions_separator_before {
@@ -988,12 +988,12 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
   top: 4px;
 }
 
-.inboxsdk__sidebar div[role=complementary] {
+.inboxsdk__hidden div[role=complementary] {
   position: static !important;
 }
 
-/* Fix issue where sidebar causes threadview to be taller than it should */
-.inboxsdk__sidebar > div.y4,
+/* Fix issue where hidden causes threadview to be taller than it should */
+.inboxsdk__hidden > div.y4,
 .bJAHbdbAbJFeDGDc > div.y4 {
   display: none;
 }
@@ -1004,9 +1004,9 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* end tabs */
 
-/* old sidebar */
+/* old hidden */
 
-.inboxsdk__sidebar .inboxsdk__contentPanelContainer {
+.inboxsdk__hidden .inboxsdk__contentPanelContainer {
   font: 12px Arial, sans-serif;
   max-width: 220px;
 }
@@ -1018,10 +1018,10 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 
-/* end old sidebar */
+/* end old hidden */
 
 
-/* sidebar */
+/* hidden */
 
 .bJAHbdbAbJFeDGDc div[role=complementary] {
   position: static !important;
@@ -1029,8 +1029,8 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 }
 
 .bJAHbdbAbJFeDGDc {
-  /* Necessary to prevent z-indexes on sidebar items from causing them to show
-  above stuff outside of the sidebar. */
+  /* Necessary to prevent z-indexes on hidden items from causing them to show
+  above stuff outside of the hidden. */
   will-change: position;
 }
 
@@ -1050,7 +1050,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   padding-top: 0;
 }
 
-/* end sidebar */
+/* end hidden */
 
 /* custom content */
 
