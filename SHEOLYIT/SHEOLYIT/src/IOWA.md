@@ -127,7 +127,7 @@
 
 <div style="text-align: center;">&nbsp;</div>
 
-<div style="text-align: center;"><a href="http://rigel.s.lamc.la/"><img alt="" border="0" height="318" id="BLOGGER_PHOTO_ID_6511093459469747282" src="https://4.bp.blogspot.com/-Fe3g19ewAbs/WlwNAQ8QRFI/AAAAAAAAOZw/01xzfyPOVGcFVKhMfNZDgoleTVbqCir4QCK4BGAYYCw/s400/image-780954.png" width="400" /></a></div>
+<div style="text-align: center;"><a href="http://rigel.s.lamc.la/"><img alt="" border="0" height="318" id="BLOGGER_PHOTO_ID_6511093459469747282" src="https://i.imgur.com/2oWyaIb.png" width="500" /></a></div>
 
 <div style="text-align: center;">&nbsp;</div>
 
