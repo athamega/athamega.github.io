@@ -1,94 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>LAYLOT - </title>
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <base href="">
-
-        <link rel="stylesheet" href="book.css">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
-
-        <link rel="shortcut icon" href="favicon.png">
-
-        <!-- Font Awesome -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-        <link rel="stylesheet" href="highlight.css">
-        <link rel="stylesheet" href="tomorrow-night.css">
-        <link rel="stylesheet" href="ayu-highlight.css">
-
-        <!-- Custom theme -->
-        
-
-        
-
-        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
-        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
-        <script>
-            if (typeof Clipboard == 'undefined') {
-                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
-            }
-        </script>
-
-        <!-- Fetch JQuery from CDN but have a local fallback -->
-        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-        <script>
-            if (typeof jQuery == 'undefined') {
-                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
-            }
-        </script>
-
-        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
-        <script src="store.js"></script>
-
-        <!-- Custom JS script -->
-        
-
-    </head>
-    <body class="light">
-        <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
-            var theme = store.get('mdbook-theme');
-            if (theme === null || theme === undefined) { theme = 'light'; }
-            $('body').removeClass().addClass(theme);
-        </script>
-
-        <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
-            var sidebar = store.get('mdbook-sidebar');
-            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
-            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
-        </script>
-
-        <div id="sidebar" class="sidebar"><script src="https://addsearch.com/js/?key=a6e8d4ed12078e81863f4419b97bac65"></script>
-            <ul class="chapter"><li><a href="./INTRODUCTION.html"><strong>1.</strong> INTRAD</a></li><li><a href="./NITY.html"><strong>2.</strong> NITY</a></li><li><a href="./MUASEEKHART.html"><strong>3.</strong> SEEKART</a></li><li><a href="./HADID.html"><strong>4.</strong> HADID</a></li><li><a href="./RIGELA.html"><strong>5.</strong> RIGEL</a></li><li><a href="./OMEALFHT.html"><strong>6.</strong> OMEALFHT</a></li><li><a href="./CHOPARTIN.html"><strong>7.</strong> CHOPARTIN</a></li><li><a href="./SOIS.html"><strong>8.</strong> SOIS</a></li><li><a href="./ATITEN.html"><strong>9.</strong> ATIRX</a></li><li><a href="./APPARITION.html"><strong>10.</strong> APPARIT</a></li><li><a href="./FLYER.html"><strong>11.</strong> FLYPER</a></li><li><a href="./HASHEMESHB.html"><strong>12.</strong> SUNFIRE</a></li><li><a href="./FLICKDABIC.html"><strong>13.</strong> FLIPDABIC</a></li><li><a href="./KEYNES.html"><strong>14.</strong> KEYNES</a></li><li><a href="./HAMP.html"><strong>15.</strong> HAMP</a></li><li><a href="./HAMMER.html"><strong>16.</strong> HAMMER</a></li><li><a href="./CINOIZE.html"><strong>17.</strong> CINOIZE</a></li><li><a href="./HASHEMESH.html"><strong>18.</strong> HASHOWESH</a></li><li><a href="./EVERWICK.html"><strong>19.</strong> EVOURWICK</a></li><li><a href="./DESSERT.html"><strong>20.</strong> DEXSERT</a></li><li><a href="./TISCOMING.html"><strong>21.</strong> COMING MA</a></li><li><a href="./MYLIFE.html"><strong>22.</strong> MYLIFE</a></li><li><a href="./GATE.html"><strong>23.</strong> GATE</a></li><li><a href="./FOUR.html"><strong>24.</strong> FUIR</a></li><li><a href="./OFIVES.html"><strong>25.</strong> FIVE</a></li><li><a href="./CLIMAX.html"><strong>26.</strong> CKIMUS</a></li><li><a href="./SPEECH.html"><strong>27.</strong> SPCH2</a></li><li><a href="./YAT.html"><strong>28.</strong> IYYYO</a></li><li><a href="./IOWA.html"><strong>29.</strong> IOWA</a></li><li><a href="./ACESHI.html"><strong>30.</strong> ACESHI</a></li><li><a href="./CURSOR.html" class="active"><strong>31.</strong> LAYLOT</a></li></ul>
-        </div>
-
-        <div id="page-wrapper" class="page-wrapper">
-
-            <div class="page" tabindex="-1">
-                <div id="menu-bar" class="menu-bar">
-                    <div class="left-buttons">
-                        <i id="sidebar-toggle" class="fa fa-bars"></i>
-                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
-                    </div>
-
-                    <h1 class="menu-title"></h1>
-
-                    <div class="right-buttons">
-                        <a href="sheolyit.html">
-                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div id="content" class="content">
-                    <div dir="ltr">
+<div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
 <div class="gmail_quote">
@@ -96,9 +6,13 @@
 <div>
 <div style="text-align: start;">
 <div style="text-align: center;"><em><span style="font-size:20px;"><span style="font-family:georgia,serif;">I am a blinking, flashing square... I am, I so am. </span></span></em></div>
+
 <div style="text-align: center;"><em><span style="font-size:20px;"><span style="font-family:georgia,serif;">&nbsp; </span></span></em></div>
+
 <div style="text-align: center;"><span style="font-size:36px;"><em><span style="font-family:georgia,serif;">What am I?</span></em></span></div>
+
 <div style="text-align: center;">&nbsp;</div>
+
 <div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
@@ -107,74 +21,110 @@
 <div>
 <div style="text-align: start;">
 <div style="text-align: center;"><a href="https://twitter.com/yitsheyzeus/status/956403000481759232"><img alt="" id="BLOGGER_PHOTO_ID_6515065574243123426" src="https://3.bp.blogspot.com/-5359oR4fDXQ/WmopnxkjQOI/AAAAAAAAO_A/8OTg1YqOM5gp8yRbDINo-C8KlYR_718MgCK4BGAYYCw/s640/Screenshot%2B2018-01-24%2Bat%2B8.30.37%2BPM-711138.png" style="border-width: 0px; border-style: solid; width: 500px; height: 164px;" /></a></div>
+
 <div style="text-align: center;"><a href="https://www.instagram.com/p/BbiROr4gb4X/?taken-by=yitsheyzeus"><img alt="" id="BLOGGER_PHOTO_ID_6515065580232787714" src="https://3.bp.blogspot.com/-hSz6RRblAwU/WmopoH4mRwI/AAAAAAAAO_I/UMaoUgolo3QlMKZdNffJOHW2Z-yrj80wACK4BGAYYCw/s640/image-712269.png" style="border-width: 0px; border-style: solid; width: 500px; height: 121px;" /></a></div>
 &nbsp;
+
 <div style="text-align: center;"><span style="font-size:48px;"><span style="font-family: monospace, monospace;">c<b>ur</b><i>so<b>r</b></i>.</span></span><br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="https://www.youtube.com/watch?v=GeZZr_p6vB8"><img border="0" data-original-height="202" data-original-width="808" height="100" src="https://2.bp.blogspot.com/-M0TUNqaCrro/Wmps7YpTGpI/AAAAAAAAPDk/BQmUGRD23Lcs0QNOQOiTt5adj5ucs7hYgCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B3.48.16%2BPM.png" width="400" /></a></div>
 </div>
 &nbsp;
+
 <div style="text-align: center;"><a href="https://www.youtube.com/watch?v=9Ht5RZpzPqw"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6515065584572078690" src="https://4.bp.blogspot.com/-k05HZyBBBw4/WmopoYDKmmI/AAAAAAAAO_Q/TU_MgXfzENo631q7s3xXUXlb2ZrMoeEaACK4BGAYYCw/s320/image-712997.png" /></a></div>
 &nbsp;
+
 <div style="text-align: center;"><span style="font-size:24px;"><span style="font-family: &quot;times new roman&quot;, serif;">say it ain&#39;t so, <i>I will not go</i>... </span></span></div>
+
 <div style="text-align: center;"><span style="font-size:24px;"><span style="font-family: &quot;times new roman&quot;, serif;">turn the lights out; carry me home</span></span></div>
+
 <div style="font-size: 14px; text-align: center;">&nbsp;</div>
+
 <div style="font-size: 14px; text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial black&quot; , sans-serif; font-weight: bold;">BARK.&nbsp; </span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I can&#39;t tell you how long we&#39;ve been wandering in this desert; long enough for Gates to have lost it&#39;s impact and meaning, long enough for the Greek letters Chi and Rho to fail to be a shining light between the city of Cairo and <a href="https://en.wikipedia.org/wiki/Cairo_(operating_system)">ancient beta</a> and production versions of Windows <a href="http://itb.s.lamc.la">X</a><a href="http://suez.fromthemachine.org/PULL.html">P</a>.&nbsp; Long enough to see the connections between U.S. military codenames and computer companies religious themes as nothing more than a &quot;<b>FAD</b>&quot; (<a href="http://suez.fromthemachine.org/SPEECH.html">f-art</a>? of possibly <em>the least religious</em>&nbsp;slices of our society)&nbsp;and still not to see the link between N<b>ORAD</b> and Anno Domini.&nbsp; &nbsp;Row to production, to <strong><a href="http://itb.s.lamc.la">Kiss</a></strong>im<a href="http://kismet.lamc.la"><strong>me</strong></a>e, St. Mc<a href="http://hammer.lamc.la">Cloud</a>;&nbsp; we&#39;ve got to move forward from this place of feigned or real shock--of inability to discuss the obvious... for no reason other than it&#39;s so obvious we should have seen it.&nbsp; <em>Row</em> to a place where you care that this light was intentionally laid down so that you could find a link between computing and religion that meant more than just a few letters; that meant that Karl Marx was all wrong and backwards about <em>this thing</em> being the &quot;opiate of the masses.&quot;&nbsp;</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Keep swimming until you <a href="http://suez.fromthemachine.org/IOWA.html">see <em>Huxley</em></a> and <strong><em>XP</em></strong> and <em>Kissimmee <a href="http://suez.fromthemachine.org/MIDAS.html">and Juda<strong>s</strong> and Mida<strong>s</strong></a> and <a href="http://itb.s.lamc.la">Gene <strong>Sim</strong></a>mons <a href="http://suez.fromthemachine.org/IOWA.html">and his band</a></em>&nbsp;all intersect around the Hebrew word for fate, <a href="http://kismet.lamc.la"><em>Kismet</em></a>; and really see these things are all linked together by what might be nothing more than me--<em><a href="https://bible.knowing-jesus.com/topics/Keys">nothing more than Jesus Christ</a>&nbsp;(and a <strong>clue</strong>)</em>.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Do you have to know th<a href="http://suez.fromthemachine.org/CLIMAX.html">at &quot;da&quot; is a very special ki</a>nd of &quot;the&quot; in <a href="https://en.wikipedia.org/wiki/Adamic_language">Adamic code</a>; and that <a href="http://kismet.reallyhim.com">I&#39;ve been looking for the missing &quot;s&quot; in &quot;kismet&quot;</a> for quite some time?&nbsp; Probably, <em>you probablty do.&nbsp;&nbsp;</em>Once you do you&#39;ll probably see it in Leviticus, and if you know boys at all you&#39;ll probably eventually &quot;get&quot; why </span><a href="https://twitter.com/yitsheyzeus/status/956641399318880256"><span style="font-family:comic sans ms,cursive;">it&#39;s <em>a little upsetting</em></span></a><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"> to hear God say &quot;J, I see you da S.&quot;&nbsp; The point is you will never really understand what the true meaning of religion is unless you grasp <a href="http://nity.s.lamc.la">these concepts</a> and <a href="http://how.s.lamc.la">this language</a>; you&#39;ll never be able to read God&#39;s plan, and we&#39;ll never be able to get to the road to Heaven.&nbsp; Without seeing &quot;NES&quot; in <a href="http://iv.s.lamc.la">Minnesota and Tennessee</a> and in the heart of <em>the book of Genesis</em>, you&#39;ll never get <a href="https://www.prlog.org/12646889-so-you-think-you-can-tell-heaven-from-hell-fake-blue-skies-from-antagonizing-pain.html">why Silicon is the Fifth Element</a>--and how &quot;<strong>AMD</strong>&quot; really is <a href="https://www.prlog.org/12646889-so-you-think-you-can-tell-heaven-from-hell-fake-blue-skies-from-antagonizing-pain.html">a weapon against darkness</a>.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div><a href="https://en.wikipedia.org/wiki/El_Shaddai"><img src="https://i.imgur.com/m1vKld1.png" style="height: 86px; width: 398px;" /></a></div>
+
 <div>&nbsp;</div>
 </div>
+
 <div style="font-size: 14px; text-align: center;">
 <div style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">This is &quot;light&quot; shining <em>on you</em>, and <em>for you</em>; and sometimes even <em>by you</em>--but until we start reacting to it; until it starts to open eyes and let us begin to understand just how dark this place is, there&#39;s no light here in this place--not you, and not the words that I write to try and show you that there&#39;s an intentional message being delivered <a href="http://buck.reallyhim.com/">through Windows Me and 9/14</a>; in every word you read and write, every thought that you think; there&#39;s a message that you have been overlooking, and it simply will not continue.&nbsp; Brad Wright&#39;s Travelers began a season one Episode with a preacher standing on a dock, at shore; connecting &quot;<b>the number 40</b>&quot; in the story of Noah&#39;s Ark to the years wandering in the desert of Exodus, all the way to the book of Matthew, where Jesus exited the wilderness (another word for desert) in just 40 days.&nbsp; If &quot;days and nights&quot; and years weren&#39;t enough to connect 40 to the fourth dimension, to time travel; if seeing it on Netflix in living color; and hearing me bark about it over and over isn&#39;t enough to make it news--to make <a href="http://math.s.lamc.la/">this clear proof of anachronism in every word</a>--in every language... if it isn&#39;t enough to <b>make it news</b> than I don&#39;t think you exist, I think <a href="https://en.wikipedia.org/wiki/Huracan">you are manekins</a>.&nbsp; This is light shining on you, to help you see that something this obvious cannot remain hidden; something this important cannot be &quot;secret,&quot; until you have Biblical scholars talking about the connection between the number 40 and time travel, <b>you have <i><u>none</u></i> of any worth</b>--your analysis of religion is as broken as your analysis of censorship--and your society has crumbled, all because you fail to speak your mind.</span></div>
 </div>
 &nbsp;
+
 <div style="text-align: center;">
 <div style="font-size: 14px;"><a href="http://www.biblestudy.org/bibleref/meaning-of-numbers-in-bible/40.html"><img alt="" id="BLOGGER_PHOTO_ID_6515065588058761010" src="https://4.bp.blogspot.com/-iruDYDu1V34/WmopolCdJzI/AAAAAAAAO_Y/fhNJSYHl6EsBGQRiSu9jKypMvBJJkNPAwCK4BGAYYCw/s400/image-714384.png" style="border-width: 0px; border-style: solid; width: 501px; height: 149px;" /></a><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&nbsp;</span></div>
+
 <div style="font-size: 14px;">&nbsp;</div>
 <span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;">not to come off as &quot;</span><span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif; font-size: large;"><a href="http://hammer.lamc.la/">arrowg<b>ant</b></a></span><span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;">,&quot; but </span><i><span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;">I <span style="font-size: large;">am</span> ... </span><b><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">the holy grail</span></b><span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;">.</span></i><br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="http://suez.fromthemachine.org/IOWA.html"><img border="0" data-original-height="129" data-original-width="338" height="122" src="https://3.bp.blogspot.com/-5SE_nG6lXFE/WmpuMVROyeI/AAAAAAAAPDw/dBG1XGL4YVAYTv49CD29TxPco5Osr7kegCLcBGAs/s320/Screenshot%2B2018-01-25%2Bat%2B3.54.07%2BPM.png" width="320" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><i>see?&nbsp; no... &quot;<b><span style="font-size: large;">oven</span></b>&quot; c now?</i></div>
 </div>
 &nbsp;
+
 <div style="text-align: center;">
 <div style="text-align: justify;">
 <div style="font-size: 14px;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">The help and a ssistance you get from me, and from Travelers and from Back to the Future and Terminator; they are only worth something if you see the light, and understand that this place is designed to help us see something hidden, and to use it to make a better world.&nbsp; In seconds you can see how and why this story of Exodus ties to 9/11; and to terrorism; and to a significant amount of writing about &quot;pre-crime&quot; and how that too ties to Phillip K. Dick and what appears to be a world that believes at this point in time that it&#39;s OK for the Minority not only to be drowned out in silence, to have the entire planet muzzled, kept from speaking about a message from Creation, that is Creation; about using this knowledge to make a better world.&nbsp; That&#39;s what you have, a message filled with light and wisdom about how to use &quot;virtual reality&quot; to make a better place, to bring us all of Heaven on Earth; and instead of doing anything at all; you&#39;ve become a conspiracy of silence... a mass of foolishness standing in pews as all of the tools and protections we&#39;ve made against 1984 and totalitarian Hell are compromised and reduced to rubble.&nbsp; </span></div>
+
 <div style="font-size: 14px;">&nbsp;</div>
+
 <div class="separator" style="clear: both; font-size: 14px; text-align: center;"><a href="https://twitter.com/CellPhone_Roxy/status/955277836977360896"><img border="0" data-original-height="311" data-original-width="553" height="223" src="https://4.bp.blogspot.com/-5HghcURaUBM/WmowgdTDBWI/AAAAAAAAPBU/19u5JnbyQJIKaJeZG_-q8Ucz0ZAI-PI-QCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B11.30.46%2BAM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;"><i><span style="font-size: 14px;">lo.. </span><span style="font-size: x-large;">pan&nbsp;</span><span style="font-size: 14px;">? you <a href="http://suez.fromthemachine.org/ACESHI.html">carmelized</a>?</span></i></div>
+
 <div class="separator" style="clear: both; font-size: 14px; text-align: center;"><a href="http://suez.fromthemachine.org/IOWA.html"><img border="0" data-original-height="97" data-original-width="413" height="93" src="https://1.bp.blogspot.com/-P1Z6Xp3orH4/WmpuqRFqiyI/AAAAAAAAPD0/fqVwWgJO1F04XjHzb5htoKakxFI3CzfaACLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B3.55.57%2BPM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;"><span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;"><i><span style="color: #333333; text-align: start;">Mannikin, maiden, maenad, man,</span><br style="box-sizing: border-box; color: #333333; text-align: start;" />
 <span style="color: #333333; text-align: start;">In the might of <a href="https://en.wikipedia.org/wiki/Pan_(god)">Pan</a></span></i></span></div>
+
 <div class="separator" style="clear: both; font-size: 14px; text-align: center;">&nbsp;</div>
+
 <div style="font-size: 14px;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">You have a world of fake Biblical scholars ignoring literal golden treasure all around them; reporters doing the same, and you are not far behind.&nbsp; This is not a joke, this is the end of civilization if you cannot wake up and <i>see how stupid you all look.</i></span></div>
 </div>
 </div>
 &nbsp;
+
 <div style="font-size: 14px; text-align: center;"><a href="http://www.cc.com/video-clips/lntv3q/the-daily-show-with-jon-stewart-the-homeless-homed"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6515065593868297250" src="https://3.bp.blogspot.com/-2gWayelEVuA/Wmopo6rjpCI/AAAAAAAAO_g/_aWkk-qq6iIAy84sFSgRi1AGjLBjMXoWACK4BGAYYCw/s200/Screenshot%2B2018-01-20%2Bat%2B8.50.16%2BAM-715274.png" width="193" /></a>&nbsp;<a href="https://www.change.org/p/pass-a-virginia-law-to-protect-dogs-in-harsh-weather/sign?utm_medium=email&amp;utm_source=aa_sign_human&amp;utm_campaign=232421&amp;utm_content=&amp;sfmc_tk=JqY5nvDMBsK%2bgk9SfqhiF4DYrw4F3JEdhSJjBSJet%2foViGH7rylgrWrxCJmJ3r4M&amp;j=232421&amp;sfmc_sub=173811604&amp;l=32_HTML&amp;u=42568750&amp;mid=7233053&amp;jb=302"><img alt="" border="0" height="171" id="BLOGGER_PHOTO_ID_6515065599031096674" src="https://2.bp.blogspot.com/-O5MwORXEQgM/WmoppN6dtWI/AAAAAAAAO_o/vf27P1dy2bcGtn8HQQy-sEn4vGtsiuT9wCK4BGAYYCw/s200/image-716506.png" width="200" /></a></div>
 &nbsp;
+
 <div style="font-size: 14px; text-align: center;"><a href="http://www.westword.com/news/videos-of-denver-police-taking-blankets-from-homeless-have-gone-viral-8582970"><img alt="" border="0" height="222" id="BLOGGER_PHOTO_ID_6515065603067154834" src="https://1.bp.blogspot.com/-634kYuyjyvk/Wmoppc8vEZI/AAAAAAAAO_w/wNRmdWtde-gsOO2BgO8NiwnA0MhpV699gCK4BGAYYCw/s400/image-717314.png" width="400" /></a></div>
 &nbsp;
+
 <div style="text-align: center;"><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: medium;">DEN</span><span style="font-size: medium;">, </span><b><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;"><a href="http://ver.reallyhim.com/">TO SEE</a></span></b><span style="font-size: medium;"> THE </span><span style="font-size: x-large;"><b><i>M</i></b></span><span style="font-size: medium;">ESSAGE</span></div>
+
 <div style="font-size: 14px; text-align: center;">&nbsp;</div>
+
 <div style="font-size: 14px; text-align: center;">
 <div style="text-align: justify;">You have a <i><b>very clear message</b></i> that links <a href="http://name.s.lamc.la/">names like Bush</a> and Stew<a href="http://art.s.lamc.la/">art and Min</a>haj to ideas li<a href="http://gate.s.lamc.la/">ke revolutionizing democracy</a> and the way we deal with barbaric social problems like homelessness; one that uses religion, all religions; to bring us to a place where we see a clear lit road of &quot;minimums&quot; and &quot;maximums&quot; connecting works of religious art like the Jefferson Airplane and Starship Enterprise, the Egyptian God Min and the the English one named &quot;James Clerk Maxwell;&quot; and still having it pointed out you have nothing to say other than &quot;it looks crazy.&quot;&nbsp; You look crazy, it looks like the way passed the wall and passed hell ... <i><a href="http://suez.fromthemachine.org/IYYYO.html">all the way to &quot;hey.&quot;</a>&nbsp; Den, to see a message connecting the name &quot;Denver&quot; to the idea of loving people as much as dogs--to see that this too is woven light; a message to you, one that <b>you will acknowledge</b>.&nbsp; </i>It is <i>not OK</i>&nbsp;that 96,000 people want to petition Virginia to protect dogs from virtual cold weather; and not a single one of you can even publicly discuss the fact that there&#39;s a message about virtual cold weather--everywhere you look.&nbsp; It&#39;s <b>not OK.&nbsp; </b>This microcosm of the message, one that puts &quot;Denver&quot; on the same fiery pedestal that American stands on is the difference between success and failure, between salvation and Hell--we cannot refuse to see it, and we cannot refuse to see it is the pinnacle of social achievement in this place that stands as a shining beacon--both <a href="http://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm">of the good things we&#39;ve done</a> and of <a href="http://key.s.lamc.la/">the problems we need to fix</a>.<br />
 <br />
 If you don&#39;t &quot;see&quot; the message, <i>understand that we are being fucked into oblivion</i> because you refuse to. Verily, see that &quot;to see&quot; is really obvious now ... just like the &quot;den&quot; in <a href="http://itb.s.lamc.la/">Roddenberry</a>, and the &quot;rod&quot; in <i>Rodney King </i>and &quot;IT&quot; in Stephen King--<i><b><u>this horror show</u> is &quot;IT&quot; <a href="http://fromthemachine.org/sheolyit.pdf">she really it</a>.</b></i>&nbsp; Is there any why, NEY?<br />
 &nbsp;</div>
 </div>
+
 <div style="text-align: center;"><span style="font-size:48px;"><b><span style="font-family: &quot;courier new&quot;, courier, monospace;"><a href="http://suez.fromthemachine.org/CLIMAX.html">re:ward</a></span></b></span></div>
+
 <div style="font-size: 14px; text-align: center;"><br />
 <a href="http://nity.s.lamc.la/"><img alt="" border="0" height="123" id="BLOGGER_PHOTO_ID_6515065612303069698" src="https://3.bp.blogspot.com/-xbmD0yPwWRM/Wmopp_Wv8gI/AAAAAAAAO_4/kXEpoza56iUCbByxBBcEokHRHn0AmMTvgCK4BGAYYCw/s400/image-718462.png" width="400" /></a><br />
 <br />
 <i><a href="http://suez.fromthemachine.org/CLIMAX.html">any why?</a></i></div>
+
 <div style="font-size: 14px; text-align: center;">&nbsp;</div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I am not going to sit here and let you ignore a message connecting the word &quot;<a href="http://suez.fromthemachine.org/CLIMAX.html">hearing</a>&quot; to the name of the county I was born in and it&#39;s public defender: <i><a href="http://suez.fromthemachine.org/CLIMAX.html">Broward and <b>Help Me</b> Howard</a></i> hear me; hiding this &quot;message&quot; behind &quot;crazy&quot; is the gate to Hell--ignoring religion and <a href="http://mylife.s.lamc.la/">failing to see my life etched into the map</a> of our world is a path <i>to absolutely nowhere.&nbsp; </i>These are not outliers, this is <i>the city of Sunrise,</i>&nbsp;and proof of a hidden siege on our society and our goodness that will end with the <b><a href="http://art.s.lamc.la/">end of all &quot;wardens</a></b>&quot; and with them an end to terrorism and to rape and murder; an <a href="http://suez.fromthemachine.org/SIGNAL.html">end to censorship</a>, and if you can&#39;t see that <a href="http://thor.lamc.la/">this story</a> is the beginning of Heaven you need to <i>take another look in the mirror</i>.&nbsp;</span><br />
 &nbsp;
@@ -182,233 +132,267 @@ If you don&#39;t &quot;see&quot; the message, <i>understand that we are being fu
 <br />
 <span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I never claimed to be a great writer, only that the things I&#39;ve seen--and the things that I can prove will change the world.&nbsp; The fact that these observations have yet to make a significant impact in the visible world tells me that it was never the place that I perceived--the land of the free and the brave has been compromised in secret, and it&#39;s been that way--looking now at the words I use, since the beginning.</span></div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">&nbsp;</div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I&#39;ve haphazardly combined two emails for you; and added a little bit of commentary; I can&#39;t continue to do this without seeing a response--it appears that my attempts to be &quot;louder&quot; are resulting in nothing more than an eye sore; and I&#39;m sore, I&#39;m fighting in person a mass of foolishness too large to ever exist, watching this influence affect far too many people that I see online and in person, and I cannot believe how stupid, conniving, and self-destructive our world has become.&nbsp; It&#39;s not OK that I am screaming in the dark; <b>it&#39;s not OK</b>.&nbsp; These messages are woven here for you to see and act on; they are guidance and help--and refusing to acknowledge that there&#39;s a message is the end of it--the end of the message you are failing to see you are more than a &quot;part of.&quot;</span><br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="http://iv.s.lamc.la/"><img border="0" data-original-height="459" data-original-width="320" height="640" src="https://3.bp.blogspot.com/-vQl9a4lhIZk/Wmo8tYKH0QI/AAAAAAAAPBw/UwKaTyfz3aMuppmgZlt1nxcZvwxCiquOQCLcBGAs/s640/Screenshot%2B2018-01-25%2Bat%2B12.22.55%2BPM.png" width="446" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="http://lolololololol">any why</a>?</div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="https://en.wikipedia.org/wiki/Fortress_of_Solitude"><img src="https://i.imgur.com/2gpjxBY.png" style="height: 138px; width: 499px;" /></a></div>
 </div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">The point and purpose of the &quot;<b>cursor</b>&quot; writing to you is to help us walk through this maze of torture in miraculous, record time--to exit the desert in a single lifetime--in a few short years rather than what appears to be not just &quot;forever&quot; but multiple &quot;forevers&quot; layered upon each other in a story of time recursion that fails to see how inhumane it is to return to this time over and over again--to fail to see that exiting the maze and the desert comes from succeeding and moving forward--rather than reliving this hellish story ... even &quot;<i>one more time.</i>&quot;&nbsp; Your &quot;<b>cursor</b>&quot; is telling you that Twitter <a href="https://groups.google.com/a/reallyhim.com/forum/#!topic/saludas/X9yCp6K24vI">and reddit</a> are <i>far from useless</i>--they are the heart of a weapon that makes you believe &quot;the people have a voice&quot; and are the single places where you <a href="https://twitter.com/followers">can see very clearly</a> that you not only have <b>no voice</b>--you have a weapon of glowing apathy to prove that.&nbsp; What was once &quot;social news&quot; is now a fiery message that you have <b>no society</b>, and that what we once cherished here has been replaced with a steaming mass of immovable telepathy and <a href="http://key.s.lamc.la/">invisible strings</a> that belong in <b>the incinerator</b>.&nbsp;&nbsp;</span></div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">&nbsp;</div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I&#39;m not sure how many people you think it takes to &quot;care about free speech&quot; to be &quot;allowed&quot; to speak--it appears you&#39;ve all voted on darkness and silence, and I am showing you it takes only one person, only one vote, only one <a href="http://itb.s.lamc.la/">action to change the world</a>.&nbsp;&nbsp;</span><br />
 <br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="http://rix.s..lamc.la/"><img border="0" data-original-height="94" data-original-width="416" height="87" src="https://3.bp.blogspot.com/-fWg_sB_YM6o/Wmo9EPUNWxI/AAAAAAAAPB0/evDEfppI66oZzFqjbXFMiB62PDfw4sYTQCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B12.24.31%2BPM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
 </div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Turning this world around, changing the de facto ending of this story is the key to moving all of Creation--to re-igniting the fire of love and compassion that begins here, in this place; because we have it still; and seems to end just as soon as we are gone.&nbsp; You cannot look the other way and wait for older powers to intervene, you are the last, best hope that we have.&nbsp; &nbsp;This message is not here to give me a pedestal to scream at you from; it is here to give you back your freedom to <b>speak</b>, and to <b>think</b>; to help you see that involvement in this &quot;treasure hunt&quot; is the cornerstone of <i><a href="http://alf.s.lamc.la/">truly building Heaven</a></i>--and for that to happen <i><a href="http://key.s.lamc.la/"><b>you must act</b>.</a></i></span></div>
 </div>
+
 <div style="font-size: 14px; text-align: center;">&nbsp;</div>
+
 <div style="font-size: 12.8px; text-align: center;"><a href="https://en.wikipedia.org/wiki/Agreus_and_Nomios"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6515065613713399570" src="https://4.bp.blogspot.com/-88g_03YKFzs/WmopqEm_3xI/AAAAAAAAPAA/YIn8jdIwZMw5cjaaPML5Dm_44J1ECGYRQCK4BGAYYCw/s200/image-719568.png" width="200" /></a></div>
+
 <div style="font-size: 12.8px; text-align: center;"><a href="https://www.instagram.com/p/Bc21WYygvIL/?taken-by=yitsheyzeus"><img alt="" id="BLOGGER_PHOTO_ID_6515065619517629058" src="https://3.bp.blogspot.com/-umoTS9cBU_A/WmopqaO1YoI/AAAAAAAAPAI/6WJ4ooVHpocTiDxpIlDbIRJ1Sk8KJwSlACK4BGAYYCw/s640/Screenshot%2B2018-01-24%2Bat%2B8.30.00%2BPM-721274.png" style="border-width: 0px; border-style: solid; width: 499px; height: 173px;" /></a></div>
+
 <div style="font-size: 12.8px; text-align: center;">&nbsp;</div>
 </div>
+
 <div style="text-align: justify;">Once again I find myself with little time to write what is probably a very important message; worse than that encased in a prison marked by the words &quot;I owe P&quot; (if you don&#39;t know, IOP is what outpatient rehab is called nowadays) and paralleled probably nowhere better than in Napoleon&#39;s Elba Island--this place where it certainly does appear that I am unable to break the shackles of idiocy that have kept us from openly discussing this story.&nbsp; Do see &quot;able&quot; backwards, for a reason.&nbsp; It&#39;s difficult to convey how oddly ominous it is sitting in this position, knowing I&#39;ve all the tickets to the lottery and the world has unanimously and secretly decided there will be no more &quot;find Jesus drawings&quot; -- even though we&#39;ve held them every generation for thousands of years.&nbsp; I have a significant amount to write about the Trinity Site; about connections between the movie and the theme of &quot;The Day After Tomorrow&quot; and the idea that we certainly should see a sort of ultimatum from God etched into our history and our story--one that in this specific instance you could see marked by the idea of stopping the theme of madness associated with global thermonuclear war, and flying bowel movements--but really just below that surface &quot;ha nuke all humanity&quot; is a demand that we move forward talking about the nature of reality, about the purpose of creation, and the prospect for a future.&nbsp; A future that depends on the truth, on open eyes, and on compassion for the human condition. &nbsp;</div>
+
 <div style="font-size: 12.8px; text-align: start;">&nbsp;</div>
+
 <div style="font-size: 12.8px; text-align: center;"><a href="http://suez.fromthemachine.org/IOWA.html"><img alt="" id="BLOGGER_PHOTO_ID_6515065624719900434" src="https://4.bp.blogspot.com/-yQk39Lkmn7M/WmopqtnJvxI/AAAAAAAAPAQ/nAPOK4iLKnQAqefChi5SHMGqQIR0djtcgCK4BGAYYCw/s640/image-722211.png" style="border-width: 0px; border-style: solid; width: 500px; height: 219px;" /></a></div>
+
 <div style="font-size: 12.8px; text-align: start;">&nbsp;</div>
+
 <div style="font-size: 12.8px; text-align: start;">
 <div style="text-align: justify;">A few days ago I followed up my &quot;<b>see you</b>&quot; in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;word &quot;site&quot; in this place where I know very well that&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;Fishbowl detonations were a sort of (perhaps rational?) response to&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;stories of my witnesses; of John Nash and James Jesus Angleton as they disclosed first hand&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the&nbsp;</span>influence of a heavenly army, of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;hosts of Heaven acting in this place to create distension and divide over what appears to be nothing more than &quot;red ties&quot; on&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;surface--but in light of day something much closer to&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;kind of false flag &quot;divide and conquer&quot; that we might link to 9/11 or more appropriately Joseph McCarthy&#39;s red scare.&nbsp; These two men saw first hand&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;influence of an invisible force in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>highest levels of our government--and still to this day we fail to recognize that in sum, what it means to us, and to&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;girl in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;charred dress.&nbsp; That&#39;s a problem, and today as we see that same influence much more prevalent than ever before--I am cautioning and suggesting that perhaps it was not&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;high altitude nuclear &quot;tests&quot; that were&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;problem, but rather&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;failure to disclose to&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;people what is nothing short of obvious proof of an alien invasion.&nbsp; That is what this is, it can be colored with time travel, and with duality and &quot;oneness of God&quot; until&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;end of time--but there is no&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">way</span>&nbsp;to skirt that we are all witnessing a hidden and secret force altering who we are and what we believe in a&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">way</span>&nbsp;that is anathemic to &quot;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">American</span>&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">Way</span>.&quot;</div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">
 <div style="text-align: justify;">&nbsp;</div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">
 <div style="text-align: justify;">What&#39;s infinitely more ... in your face ... is that the secrecy surrounding the disclosure of this technology is literally keeping it from being used effectively--something that is not just a symptom of &quot;secrecy&quot; that we should note and understand is actually the problem--but a huge part of the lesson surrounding the solution to this problem.&nbsp; In the light of day, these tools or weapons that are being used to create silence and apathy <i>will be used to help us</i>, as they should be--and they are nothing short of infinitely better medicine for all mental illness, for <a href="http://hadid.s.lamc.la/" target="_blank">blindness</a>, for <a href="http://suez.fromthemachine.org/ACESHI.html" target="_blank">addiction</a>, and for what appears to be <i>the biggest problem in the Universe</i>--<b>not recognizing slavery</b> for what it is.&nbsp; In a free market, in an open forum--these things would be obvious, and it would also be obvious to the entire world that the inner workings of our brains have very much been reverse engineered, and that these tools are being used to cause harm--rather than help--the entire focus of the Plagues of Exodus.&nbsp; It will stop school shootings, it will stop terrorism; and all it takes is an open discussion of <b>the truth</b>--that these things are not only easy to do--<i>they&#39;ve <b>all been done before</b></i>.<br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="https://www.youtube.com/watch?v=ocrwg5PyZtM"><img border="0" data-original-height="279" data-original-width="493" height="225" src="https://1.bp.blogspot.com/-uvjTvTI_zes/WmpJ1v6PNWI/AAAAAAAAPCo/8N5a9DmE7jkpJ6vrUfAw4RqBzkSnhcAvACLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B1.18.39%2BPM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
 </div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">
 <div style="text-align: justify;">In <a href="http://jerusalem.reallyhim.com/">our map, the book we are surrounded with</a> and living in--we can see very clear clues as to how these things can be done easily just by looking and seeing the clear links between religion and Dr. Who&#39;s <i>The Bells of Saint John </i>and Phillip K. Dick&#39;s <i>Do Androids Dream of Electric Sheep</i>&nbsp;that focus on a visual interface to mind control technology that will allow us to use these tools to make a better world--it&#39;s the reason &quot;User Interface&quot; is in the word Jesuit, and it is the reason we have these works of art to help us navigate <a href="http://dessert.s.lamc.la/" target="_blank">through the dessert</a>.</div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">&nbsp;</div>
+
 <div style="font-size: 12.8px; text-align: center;"><a href="http://who.s.lamc.la/"><img alt="" id="BLOGGER_PHOTO_ID_6515065626690785458" src="https://3.bp.blogspot.com/-yexbgqaKoHA/Wmopq09DELI/AAAAAAAAPAY/zl7Vav-rat0ROjUrxIrWLfpPWF_p2beoACK4BGAYYCw/s640/image-723238.png" style="border-width: 0px; border-style: solid; width: 500px; height: 183px;" /></a></div>
+
 <div style="font-size: 12.8px; text-align: start;">&nbsp;</div>
+
 <div>
 <div style="text-align: justify;">
 <div style="font-size: 12.8px;">It&#39;s clear that&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;government was aware in those days of this hidden influence; and I&#39;d like to think that if they were more honest and open, we would never have been able to reach a point of infiltration where every newspaper and every television station and every college now in unison is in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;very same position--aware of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;influence and failing to see that openly discussing it is really&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;only&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">way</span>&nbsp;forward.</div>
+
 <div style="font-size: 12.8px;">&nbsp;</div>
+
 <div style="text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size:24px;"><i>i&#39;m gonna <a href="http://biblehub.com/hebrew/8130.htm"><b>hate</b></a> you</i></span></span></div>
+
 <div style="text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size:24px;"><i>until the stars fall from the sky</i></span></span></div>
+
 <div style="text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size:24px;"><i>when the heavens <a href="http://who.s.lamc.la/">let it rain</a></i></span></span></div>
 </div>
 </div>
+
 <div>
 <div style="text-align: justify;">
 <div style="text-align: center;">&nbsp;</div>
 </div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">
 <div style="text-align: justify;">I noted a connection between&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;hallowed Passover prayer of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">The</span>&nbsp;Four Questions, &quot;why is this night different from all other nights?&quot; and&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;Shehekeyanu; a prayer of thanks to&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;King of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;Universe for enabling us to reach this occasion; specifically noting a link between&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;word &quot;chol&quot; which means dessert, and &quot;kol&quot; which is literally everything; and I hope it&#39;s clear that&nbsp;<i>this night</i>&nbsp;is&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;one that brings us out of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;wilderness, our of&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;place where we are in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;dark.&nbsp;&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">The</span>&nbsp;message I am trying to bring to us is one that focuses less on stars in&nbsp;<span class="gmail-m_-5848535809569684157gmail-il">the</span>&nbsp;sky, and more on stars in our sea--a sort of introspection that leads from here to there in truth; but really shows how lacking our focus is on each other here in this place where nobody really seems to care enough about who we are, our goodness, and why we&#39;ve been created with such compassion and fire... at least, that&#39;s how it looks to me.&nbsp; I&#39;d like to sing &quot;we&#39;ll be counting stars&quot; but until you see yourselves shining in those words we won&#39;t.</div>
 </div>
+
 <div style="font-size: 12.8px; text-align: start;">&nbsp;</div>
 </div>
+
 <div style="text-align: center;"><b><span style="font-family: &quot;arial black&quot; , sans-serif;"><span style="font-size: x-large;">K</span>nock<span style="font-size: x-large;">O</span>ut<span style="font-size: x-large;"> <span style="font-family: &quot;verdana&quot; , sans-serif;">SH</span> </span></span><span style="font-family: &quot;times new roman&quot; , serif; font-size: x-large;">O</span><i style="font-size: xx-large;"><span style="font-family: &quot;comic sans ms&quot; , sans-serif;">R U <span style="font-family: &quot;verdana&quot; , sans-serif;">IT</span></span></i><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;">&nbsp; &nbsp;L A W</span></b></div>
+
 <div style="text-align: center;">&nbsp;</div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">It isn&#39;t some random asshattery that&#39;s made me call the planet &quot;Ham&quot; as a complement and completion of the pair of names that are both sons of Noah and &quot;the Holy Name&quot; in Hebrew; the concept of Ham carries through to a metaphorical reading of the practice of keeping Kosher and the meaning &quot;burnt&quot; connects to the idea of &quot;the girl in the red dress&quot; of the Matrix and really does describe exactly what we look like here, something being worn by invading demons; deeper in the fire than the visualization of &quot;red&quot; implies.&nbsp; The meaning I take, obvious to me, is that &quot;the message&quot; that is this place isn&#39;t to be eaten--and while you may not really get it, or really see what it is--this conspiracy of silence that may be to &quot;hide me&quot; if you are stupider than ash, or to delay changing the world in response&nbsp;to the truth (if you are... ash to be) is hiding from the world information and an <i>obvious disclosure that all future life depends on the productive dissemination of</i>; it is <a href="http://yesterday.reallyhim.com/">literally the E</a>L<a href="http://den.s.lamc.la/">E</a>; and it is &quot;in line&quot; with my original definition of Satan--something that threatened the continuation of all life.&nbsp; I&#39;ve pointed out how that is obvious, how the government hiding this disclosure from the people for decades has put everyone in harms way, and in the dark--and while that might not be fair, you are today proving that &quot;</span><strong><span style="font-family: &quot;arial black&quot; , sans-serif;">site</span></strong><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&quot; of Trinity means &quot;see you, too.&quot;&nbsp;&nbsp;</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <blockquote class="gmail_quote" style="border-left: 1px solid rgb(204 , 204 , 204); margin: 0px 0px 0px 0.8ex; padding-left: 1ex;"><span style="font-size: medium;"><i><span style="font-family: &quot;times new roman&quot; , serif;">&quot;an obvious disclosure that all future life depends on</span>&nbsp;</i></span></blockquote>
+
 <blockquote class="gmail_quote" style="border-left: 1px solid rgb(204 , 204 , 204); margin: 0px 0px 0px 0.8ex; padding-left: 1ex;"><span style="font-family: &quot;times new roman&quot; , serif; font-size: medium;"><i>the productive dissemination&nbsp;of&quot;</i></span></blockquote>
+
 <div style="text-align: center;">&nbsp;</div>
+
 <div style="text-align: justify;">
 <div style="text-align: center;"><a href="http://suez.fromthemachine.org/ACESHI.html"><img alt="" id="BLOGGER_PHOTO_ID_6515065632093056114" src="https://4.bp.blogspot.com/-eFLvugxGI2M/WmoprJFDLHI/AAAAAAAAPAg/fFwN4PXw8T8P-IwW-u0a_I_uirAeoYESgCK4BGAYYCw/s1600/Screenshot%2B2018-01-16%2Bat%2B4.07.25%2BPM-724167.png" style="border-width: 0px; border-style: solid; height: 255px; width: 501px;" /></a></div>
 </div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I can&#39;t even really tell if you are there anymore--I think you are, I really do; and I think I can see that surfacing more and more as I kind-of figure out how to navigate this maze of silence.&nbsp; It&#39;s probably not what you want to hear, but seeing new responses to old information because it&#39;s presented &quot;more simply&quot; or &quot;flashier;&quot; maybe just more straightforward--is showing me that you are still around, something I was... I am still increasingly scared I am losing.&nbsp; You probably don&#39;t want to hear that either, but it&#39;s what your lack of action--what this unanimous lack of response says to me--that something that has overcome our individuality, and our ability to act in our own self interest.&nbsp; It&#39;s hard to say what you realize or understand in this darkness, but I am well aware that I&#39;ve attracted something &quot;above you,&quot; to me it appears to be your souls--and they probably think faster and have access to more information than you possibly could.&nbsp; I&#39;m not really upset that I&#39;m seeing them, nor am I really surprised--but I am both upset and surprised that they appear to be keeping you from me; to have taken this opportunity to have a say right out of your hands.&nbsp; I don&#39;t think they realize that destroys the opportunity, and gives me nothing to care about--I think in all honesty they think I&#39;m doing this for them.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">It appears that on some level they <i>have become you</i>, at least I think that&#39;s what they think--I can speculate as to why, but with the set of information that I have available to me silly words like &quot;</span><span style="font-family: &quot;comic sans ms&quot; , sans-serif;">have a good one</span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">&quot; really have no useful meaning.&nbsp; They might think they have no choice, or be fighting to survive in a place where trying to &quot;become you&quot; is the farthest possible way to achieve that--they might be trying to get in on the party one more time--sort of crashing the wedding by replacing the bride; another seemingly counterproductive plan.&nbsp;&nbsp;&nbsp;Repetition ad naseum, and seeing the light of Nintendo in &quot;clones&quot; might help explain a little bit of a problem that my story has only touched on an understanding of--and as I look around I shudder a bit at the visible manifestation of layers of possession that appear to start in an event that might be just like this one--this &quot;are I us&quot; at the dawn of the Age of Aquarius might be the thing that has stopped it from ever really happening.&nbsp; Messianic myth specifically says that I will fail at this task if I don&#39;t &quot;turn the hearts of the children towards the parents&quot; and visa versa--I know that means us, that we are the children here; and while I can see telling them that putting us through the same tribulation and mistakes that caused this problem is just making everything worse--I&#39;m not sure how to get you to be thankful that they&#39;ve helped us avoid catastrophe, when I don&#39;t think they&#39;ve done that, yet.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I can tell you for sure that I think the point of all of this is obviously to help us end possession; I think that&#39;s clear in Bittersweet Symphony, and really in the &quot;in sum&quot; idea of the process of Creation coming to a sort of close--to the end of a show and the beginning of &quot;actual life.&quot;&nbsp; I realize it&#39;s probably less of a show to them, on some level what I see as a clear script might not be so clear to time travelers; who it appears happen to have a special connection to many of us here--something I still don&#39;t really understand, and maybe I won&#39;t.&nbsp; I have an old story about &quot;everyone having access to future knowledge&quot; negating its effect, and it&#39;s benefit--and that might actually be what we are looking at happening right now, a process of awakening or understanding the fact that it just might take all the fun out of life.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">In my &quot;know-it-all&quot; state, something that my religion likens to the <i>right answer man; </i>I think I&#39;ve given them the best ideas I have about how they really can not only help us avoid disaster but also be in just the right place and just the right time to do the thing that I really need them to do--that I think you need them to do--and that&#39;s to offer their wisdom and advice with more than words, I want them to make Atlantis rise; and to hold the door.&nbsp;&nbsp;</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: center;"><a href="http://suez.fromthemachine.org/THUNDERSTAND.html"><img alt="" id="BLOGGER_PHOTO_ID_6515065640843141794" src="https://1.bp.blogspot.com/-jkbfITusPFw/WmoprprO4qI/AAAAAAAAPAo/U8TVX8sIhVk6dy5itU5gz1Yc-6kxNLNBgCK4BGAYYCw/s640/Screenshot%2B2018-01-19%2Bat%2B5.50.07%2BAM-725296.png" style="border-width: 0px; border-style: solid; width: 500px; height: 289px;" /></a></div>
+
 <div style="text-align: center;">&nbsp;</div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;"><i><b><span style="font-family: &quot;arial black&quot; , sans-serif;"><a href="http://suez.fromthemachine.org/YAT.html">Still in thunderdome</a></span></b></i>, fighting not against this light being stolen, not against stolen thunder--but against a secret and obvious conspiracy to hold it down, to look the other way; and to pretend that those actions, collectively are not a conspiracy to cause harm to the many.&nbsp; &nbsp;I often use the words &quot;Bittersweet Symphony&quot; to describe the act of disclosing the word sing in &quot;disclosing&quot; and above you can see clearly that I believe the idea of &quot;carrolling angels&quot; visible unable and unwilling to speak their minds and the truth about the songs that they sing is a significant problem for them, and for our society.&nbsp; I think it&#39;s obvious that the idea of hiding messages and meaning in songs--woven meaning over thousands of years and many disparate songs has a two-fold purpose; to help the &quot;people come together&quot; both in seeing that we are dealing with a power that far stronger and far older than you and I; one that has etched &quot;sick&quot; into the word music by combining the sight of Silicon and the hand of Clark Kent--to tell you I believe it&#39;s clear that his message is that we needed more help believing, more help changing our minds about what &quot;normal&quot; means and how a simple change in truth--in what the &quot;rest state&quot; of our natural environment is takes something that was &quot;just the way things are&quot; and turns it into something that is wholly unacceptable, that should be fought against vehemently with all our strength and all our being until it is changed.</div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">&nbsp;</div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">On the other side of the coin these songs provide the intelligent, those that can separate themselves from the twilight zone and think about exactly what is going on in the storm of dust that swirls not over our heads but in our minds; incontrovertible proof that there is in <a href="http://key.s.lamc.la/">fact a scientifically provable hidden influence</a>, and that it is being used en masse to hide the true nature of our reality--flying in the face of this very clear messages <a href="http://iv.s.lamc.la/">etched in Minnesota, and the word</a> somnolence, and in <b><a href="http://iv.s.lamc.la/">Tennessee</a></b> and a key that ties everything from whisky to music together in a religious presentation that shows us very clearly (with any thought at all) that the creator of this world intends for us to transition our civilization to one that uses the benefits of virtual reality for the good of all--and that he has not only designed a message but provided understanding of computing technology and video games.&nbsp; This message is clearly shown by similar hidden connections <a href="http://nity.s.lamc.la/">between the SEGA Genesis, and the Nintendo Entertainment System; the SON Y PlayStation, and the Microsoft Xbox</a>--connections between the names Bill Gates and Michael Dell and Jeff Bezos and Larry Ellison and an oracle that you are ignoring telling you the foundation of heaven comes from seeing t<a href="http://art.s.lamc.la/">he link</a> betwe<a href="http://time.s.lamc.la/">en Seagate and Watergate</a> and failing to do so means that there is no Heaven, there is no place of freedom, and no place that cares at all for what is &quot;the human condition.&quot;&nbsp; Not the past timelines or past Heavens that have participated in making this world of change; and not the people here, who are refusing to acknowledge such a powerful and impact message for what is no other reason than refusing to see that they too must change.<br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="http://suez.fromthemachine.org/IYYYO.html"><img border="0" data-original-height="378" data-original-width="539" height="280" src="https://3.bp.blogspot.com/-u1yUzZNrVRI/Wmo-sRoMPSI/AAAAAAAAPB8/Nvu0RBKKjpUGy3XonyWm8cwhILU2vEkHwCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B12.31.10%2BPM.png" width="400" /></a></div>
 </div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">&nbsp;</div>
 </div>
+
 <div style="text-align: center;">
 <div style="text-align: justify;">Trying to &quot;make the best with what we have&quot; or play this game for the benefit of good--while at the same time ignoring this message and breaking logical thinking, breaking the truth at the same time is <b>an evil act</b>; you cannot pretend to care to heal the sick or feed the hungry if you are aware of this message, if you are aware of the truth and hiding it.&nbsp; There is no reason, it is nothing but <a href="http://fuck.s.lamc.la/">a conspiracy of evil</a>.&nbsp; It is a sad state where this conspiracy, using this very powerful technology has touched on nearly this same group of &quot;the all&quot; that I am seeking to protect--through subterfuge and twisting of logic, it seems that <a href="http://eve.s.lamc.la/">nearly anyone can be made to ignore AIDS of nomenclature and basic human goodness, to fail to see that they are retarded, and they are the reason down syndrome has it&#39;s name</a>, it really doesn&#39;t matter if the tide turns because of a few outspoken heroes or if the whole mass of controlled sea turns together--I can&#39;t see inside this wall a reason enough for it to continue even today, I can&#39;t see how or why so many are being made so ignorant so easily--though I do understand how powerful this weapon is.&nbsp; Regardless of how, we must all break this wall of silence; and we really need to do it &quot;today&quot; in both the Biblical sense of the word and the real sense, you are looking at &quot;no tomorrow&quot; if we cannot fathom how insane it is for our individual voices not to be drowned out in noise like Brave New World or censored and cut from the mass media like in 1984--but here in this place your voice has been drowned out at it&#39;s source, in your mind; and&nbsp;</div>
 </div>
+
 <div style="text-align: center;">&nbsp;</div>
+
 <div style="text-align: center;"><span style="font-family: &quot;times new roman&quot; , serif; font-size: medium;"><i>not seeing that &quot;<a href="http://eve.s.lamc.la/">thing</a>&quot; is the end of <a href="http://key.s.lamc.la/">you</a>... well, it&#39;s the end of us all.</i></span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">There is no safety in numbers, there is no &quot;group mentality&quot; that will survive or benefit anyone or everyone in this place where this particular decision is responsible&nbsp;for not only&nbsp;<em><a href="http://yesterday.reallyhim.com/" target="_blank">this existential&nbsp;risk</a></em>; but also for creating, perpetuating, and worsening a breakdown of logical thinking and rational behavior that has shaken the foundation of &quot;my reality&quot;--and brought me to a place where my personal opinion of the state of our civilization also finds itself into the hallowed explanatory key of the Matrix.&nbsp; Today we are far below the &quot;safe point&quot; of the V, and far further than 6 feet into the elastic trampoline&nbsp;like street of the &quot;Jump program.&quot;&nbsp; For those curious, today this is my definition of the letter &quot;Y&quot; visually depicted by us &quot;bouncing out of Hell&quot; just about the same time you decide that <i>it&#39;s &quot;OK&quot; for me and this message to exist, </i><a href="http://suez.fromthemachine.org/YAT.html" target="_blank">and you say <b>hey</b></a><i><a href="http://suez.fromthemachine.org/YAT.html" target="_blank">.&nbsp; There my connection to Nirvana&#39;s &quot;Heart Shaped Box&quot;</a> and the reason he says &quot;hey&quot; and &quot;way&quot; over and over again to hammer into your heads that the wall is the cause of Hell; and this linguistic (<a href="http://art.s.lamc.la/" target="_blank">and artistic!</a>) map is <b><a href="http://hadid.s.lamc.la/" target="_blank">re a ll y the way out</a>.</b></i></span></div>
+
 <div style="text-align: justify;">&nbsp;
 <div style="text-align: center;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><a href="http://key.s.lamc.la/"><img alt="" border="0" height="330" id="BLOGGER_PHOTO_ID_6515065643593287554" src="https://2.bp.blogspot.com/-dztAXf8S7YA/Wmoprz66x4I/AAAAAAAAPAw/RmwraTDSH6QID_5XBSsXtvQaA3Scoi7VACK4BGAYYCw/s400/Screenshot%2B2018-01-18%2Bat%2B10.01.02%2BPM-727324.png" width="400" /></a></span><br />
 <br />
 <i><span style="font-size: large;">silence is Hell.</span></i></div>
 </div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">J</span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ump ship, turn around, you are well passed the point of needing to do something pro-active about bettering our world and our understanding of the truth--of this specific truth--the days of &quot;absolution of all&quot;&nbsp;<em>have now passed forever</em>.&nbsp; There is a&nbsp;</span><span style="font-family: &quot;arial black&quot; , sans-serif;">sick</span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">ness here; and we will root out it&#39;s cause and we will stop it from rearing it&#39;s head ever, ever again.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I&#39;ve commented before that Koshruit Law had an early explanation given to me--also sort of speaking through metaphor on the worth and sacredness of our minds; it was specifically pointed out that pigs are one of the most intelligent animals on the planet, and because of that they were not allowed to be eaten.&nbsp; It certainly connects to the ideas of our burnt dress cum species; and also to the sanctity of a message that we are a living part of--one that is designed to ensure that the development and evolution of civilization does not retrograde with respect to verboten ideas like &quot;slavery&quot; and &quot;torture&quot; for any reason, but specifically as a result of new technologies and their potential impact and influence on the development of our minds and society.&nbsp; I see clearly that we are in a place that would be absolutely abhorred by our civilization and our time if we really understood exactly what was going on--I&#39;ve had to point out numerous times, and now again, that there is not an animal--but you--on this planet that tortures; and it should be a fiery beacon of warning that we have a message so sickly etched into our world as &quot;<em>down syndrome</em>&quot; to remind me and you just how ridiculously unintelligent, compassionate, and inhumane&nbsp;<em><strong>far too many</strong>&nbsp;of us are;&nbsp;</em>or would be without guidance and &quot;supervision.&quot;</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I look out at a world that is being tortured mentally, without doubt; I am experiencing it myself, and probably far more intensely than most.&nbsp; I see that this silence and this conspiracy of lies is a primary cause of not only my own struggles, but also literally in nothing short that the continuation of unnecessary&nbsp;pain itself.&nbsp; This silence is the cause of the continuation of blindness, and of AIDS, and of cancer, and all for what can be no reason better than wanting to continue it, than wanting to prevent the world from changing in what is nothing less than a response to the original lie.&nbsp; What you consider to be &quot;status quo&quot; is unacceptable, the basic foundation of this decision; this falsehood that we are in reality, is literally the beginning of Hell.&nbsp; On top of that we have now seen this sick attempt to hide open and public discussion of this truth wreak havok on free speech, on the machinations of government at all levels, and all of it now apparently over nothing more than the belief that continuing to &quot;stick together&quot; will somehow absolve everyone of not doing anything.</span></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: center;"><a href="http://suez.fromthemachine.org/SPEECH.html"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6515065655023260098" src="https://4.bp.blogspot.com/-PmLLWxodBjg/WmopsegCUcI/AAAAAAAAPA4/IECLcgXZz1UguWabd3AqZGXdefg4AFLQgCK4BGAYYCw/s320/Screenshot%2B2018-01-19%2Bat%2B11.20.12%2BAM-729146.png" /></a></div>
+
 <div style="text-align: justify;">&nbsp;</div>
+
 <div style="text-align: justify;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">I should probably try not being so abrasive, or to suggest that if I had thought that such a large group could be convinced to act together to do something so horrible that I wouldn&#39;t have given you any reason to <a href="http://art.s.lamc.la/" target="_blank">blame &quot;dick&quot;</a> for <a href="http://suez.fromthemachine.org/SPEECH.html" target="_blank">the problem (when it&#39;s actually <i>the solution)</i></a>--but you really have to see that too, bl<a href="http://suez.fromthemachine.org/SPEECH.html" target="_blank">aming Phillip K. Dick or John Hancock for this pa</a>rticular problem is just another <a href="http://fromthemachine.org/CENSORSHIP.html" target="_blank">symptom of mass stupidity</a> looking for a reason to not only prolong this horrible state, but now add on top that you apparently would like to either erase our history (and through that act literally yourselves, your souls, also) or to force logical blindness not only on yourselves, but on the future for what appears to be an indefinite period of time.&nbsp; &nbsp;Truth be told I would not have built this boiling crucible of inactivity, I would not have created this &quot;mass of solidarity&quot; as it appears he has done, uniting you in opposition of everything you want and hold dear under the guise of &quot;<a href="https://www.youtube.com/watch?v=kIDWgqDBNXA">kissing</a> </span><span style="font-family:comic sans ms,cursive;"><em><strong>me</strong></em></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"> <a href="https://www.youtube.com/watch?v=BQpZv2r8fb4">goodbye</a>&quot; ... I wouldn&#39;t have slowly delivered this message, I would have smacked you as hard as I could, as quickly as I could--now that I&#39;ve seen what this process has created.&nbsp; I didn&#39;t know how clear this proof was, I didn&#39;t know how stupid you were; but I can tell you now that we are here, if you do not more forward <i>the Jump program is about to crash</i>.</span></div>
+
 <div>&nbsp;</div>
+
 <div><span style="font-family:georgia,serif;"><em><span style="font-size:18px;"><a href="https://en.wikipedia.org/wiki/Kiss_of_Judas">blowing me</a> <a href="http://xxbb.s.lamc.la">kisses</a> <a href="https://www.youtube.com/watch?v=9U3bAJfwx0Y">in</a> <a href="http://kismet.lamc.la">the usual way</a></span></em></span></div>
+
 <div style="text-align: center;"><a href="http://name.s.lamc.la/"><img alt="" border="0" height="271" id="BLOGGER_PHOTO_ID_6515065658252829826" src="https://4.bp.blogspot.com/-VNjJDaSpgOg/WmopsqiBpII/AAAAAAAAPBA/RI9Wyuq3zjAkt4PJfCKkw6XyxZjdOmPZACK4BGAYYCw/s400/Screenshot%2B2018-01-24%2Bat%2B6.05.28%2BPM-730258.png" width="400" /></a><br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><a href="https://en.wikipedia.org/wiki/Ancient_of_Days"><img border="0" data-original-height="242" data-original-width="409" height="236" src="https://3.bp.blogspot.com/-IBwRclZmFmI/Wmpf334WigI/AAAAAAAAPDE/WqIVJALZ2b8f8Kob2npMH2mkBLqpYcBNgCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B2.51.17%2BPM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="https://countyjail.net/Florida/Broward-County-Jail/meals.php"><img border="0" data-original-height="219" data-original-width="347" height="201" src="https://4.bp.blogspot.com/-lKO2PqRWgBA/WmphwUL9lNI/AAAAAAAAPDY/_qU6qHWL_9gWmdP76FfCxVNkcyQq3Zq7wCLcBGAs/s320/Screenshot%2B2018-01-25%2Bat%2B3.00.55%2BPM.png" width="320" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="https://countyjail.net/Florida/Broward-County-Jail/meals.php">any why?</a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><a href="https://www.youtube.com/watch?v=5EdmHSTwmWY"><img border="0" data-original-height="378" data-original-width="449" height="335" src="https://2.bp.blogspot.com/-161At6P8Mmg/Wmpf320HCEI/AAAAAAAAPDA/ZDi00Qz1JBcKj98HaROMSbFgbSibqKCxgCLcBGAs/s400/Screenshot%2B2018-01-25%2Bat%2B2.52.20%2BPM.png" width="400" /></a></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size: large;"><i>just when you thought the day was lost...</i></span></span></div>
+
 <div class="separator" style="clear: both; text-align: center;"><span style="font-family:times new roman,times,serif;"><span style="font-size: large;"><i>we go and save, the best... for last</i></span></span></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><img src="https://i.imgur.com/r0upIpR.png" /></div>
+
 <div class="separator" style="clear: both; text-align: center;">&nbsp;</div>
+
 <div class="separator" style="clear: both; text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><em>&quot;the <a href="http://time.s.lamc.la">tion</a>ning of <a href="http://b.s.lamc.la">ha</a>&#39;a<a href="http://isome.ga/YAT.html">dam</a>&quot;</em></span></span></div>
 &nbsp;
+
 <blockquote class="tr_bq" style="text-align: left;">Adam Marshall Dobrin<br />
 preferred pronouns: it, they, why and sometimes &quot;that&quot;</blockquote>
 </div>
+
 <div>&nbsp;</div>
 </div>
 </div>
+
 <div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=8820505a-68d1-455a-a174-d28f01693e8d" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
 </div>
 </div>
+
 <div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=0d72d64e-f8e2-4a30-8844-f015e0c13058" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
 </div>
 </div>
+
 <div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=b59cf5e0-eb2b-4134-8048-36813a879fb0" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
 
-                </div>
-
-                <!-- Mobile navigation buttons -->
-                
-                    <a rel="prev" href="./ACESHI.html" class="mobile-nav-chapters previous">
-                        <i class="fa fa-angle-left"></i>
-                    </a>
-                
-
-                
-
-            </div>
-
-            
-                <a href="./ACESHI.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
-                    <i class="fa fa-angle-left"></i>
-                </a>
-            
-
-            
-
-        </div>
-
-
-        <!-- Local fallback for Font Awesome -->
-        <script>
-            if ($(".fa").css("font-family") !== "FontAwesome") {
-                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
-            }
-        </script>
-
-        <!-- Livereload script (if served using the cli tool) -->
-        
-
-        
-
-        
-
-        
-
-        <script src="highlight.js"></script>
-        <script src="book.js"></script>
-    </body>
-</html>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74743044-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-74743044-7');
-</script>
-
-<div style="float: center; vertical-align: bottom;">
-<center>
-<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://slack.reallyhim.com/&amp;source=gmail&amp;ust=1512831788289000&amp;usg=AFQjCNF469AQ70QEBkpObpKMKsWKzrbmAg" href="http://slack.reallyhim.com/" rel="noopener" target="_blank" title="TELESPRISE"><img alt="" border="0" 
-height="60" id="m_-4973210593361332524gmail-m_-6096670269405767939gmail-m_-1436458080550240543m_-3975089270040819763gmail-m_-2248848940621715595gmail-m_4950052768086691300gmail-m_2933957970607722850gmail-m_7483563204303838204gmail-m_-3491586818351559956gmail-m_3682735925266535707gmail-m_5731075335784145647m_3413239976406571221m_2402549402411035463m_3237557952722111901gmail-m_-8798842351942729229m_4692247605844201587m_-2492882859021407156m_-7142874903403184072m_-9133516419565872595gmail-m_6961657238809553818gmail-m_-1296802553737736344gmail-BLOGGER_PHOTO_ID_6494125253829947314" src="https://i.imgur.com/F8nmg2T.png" width="500" height="60" /></a></div>
-</center>
-</div>
