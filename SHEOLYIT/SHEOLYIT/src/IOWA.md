@@ -16,7 +16,7 @@
 <div style="text-align: center;">
 <center>
 <div style="width: 500px;">
-<div style="text-align: justify;">I was just walking down the street pondering the date, on Corbin Ave... and trying to project something useful to the world around me.&nbsp; &nbsp;Artificially smiling and connecting &quot;Corbin Dallas&quot; to the 14th Element... and thinking a little bit about what I&#39;m planning on doing instead of e-mailing you five times a day until you call a reporter.<br />
+<div style="text-align: justify;">I was just walking down the street pondering the date, on Corbin Ave... and trying to project something useful to the world around me.&nbsp; &nbsp;Artificially smiling and connecting &quot;<a href="/NITY.html">Corbin Dall</a>ass&quot; to t<a href="/CURSOR.html">he 14th Element</a>... and thinking a little bit about what I&#39;m planning on doing instead of e-mailing you five times a day until you call a reporter.<br />
 &nbsp;
 <div class="separator" style="clear: both; text-align: center;"><img data-original-height="325" data-original-width="744" src="https://i.imgur.com/AsS1bRd.jpg" style="border-width: 0px; border-style: solid; width: 500px; height: 218px;" /></div>
 </div>
