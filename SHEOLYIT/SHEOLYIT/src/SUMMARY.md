@@ -41,3 +41,6 @@
 - [ACESHI](./ACESHI.md)
 - [LAYLOT](./CURSOR.md)
 - [THUNDERSTAND](./THUNDERSTAND.md)
+- [PER SE YOU](./PERSEUS.md)
+- [M U AH](./MUAH.md)
+- [PULL](./PULL.md)

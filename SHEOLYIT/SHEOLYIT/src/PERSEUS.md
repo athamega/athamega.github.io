@@ -93,7 +93,7 @@ It does appear that whatever is &quot;at the top&quot; is trying their damnedest
 <div style="text-align: justify; width: 420px;">
 <p>Everyone but me, I mean... <i><a href="https://www.google.com/search?q=why+does+jesus+christ+exist&amp;rlz=1CALEAH_enUS778US779&amp;oq=why+does+jesus+christ+exist&amp;aqs=chrome..69i57.3503j0j4&amp;sourceid=chrome&amp;ie=UTF-8">any why?</a>&nbsp; </i>I&#39;ll tell you it feels fake, it feels contrived; but that does nothing to help me, or to help you... or to help the whole--speaking the truth will do those things, as it always, always does.&nbsp; In words you can see Dr. Evil&#39;s &quot;shh&quot; connecting the Shield of Achilles and the &quot;YIELD&quot; sign that first clued me in to the idea of &quot;El D&quot; being a sort of key, like UCLA might soon see &quot;El A&quot; on campus; I see it probably has something to do with a &quot;road to Heaven&quot; though all the signs I see tell me you have to shout to get out of Hell.&nbsp; You can see &quot;see how A.D. da eye&quot; in one of the most important Hebrew names of God ... El Shaddai; and you can see all around you why I have no qualms about laying to bed <em>forever</em> the idea of &quot;all&quot; being Jesus; there&#39;s not a single person I can see trying to contact me, help me, or help deliver God&#39;s message--not one.</p>
 
-<p>Of course there&#39;s plenty more &quot;OB&quot; words in this series, words like &quot;<strong>oblivion</strong>&quot; and &quot;<strong>obsolete</strong>&quot; and understand that&#39;s the first, last, and most immediate destination of any world trying to hide or <a href="http://suez.fromthemachine.org/HAMP.html">ha&#39;mper</a> the delivery of this message.</p>
+<p>Of course there&#39;s plenty more &quot;<strong>OB</strong>&quot; words in this series, words like &quot;<strong>oblivion</strong>&quot; and &quot;<strong>obsolete</strong>&quot; and understand that&#39;s the first, last, and most immediate destination of any world trying to hide or <a href="http://suez.fromthemachine.org/HAMP.html">ha&#39;mper</a> the delivery of this message.</p>
 
 <div style="text-align: center;"><a href="http://art.s.lamc.la"><img alt="" id="BLOGGER_PHOTO_ID_6517389304493298274" src="https://3.bp.blogspot.com/-EaHC7BJ16Gg/WnJrCrVA0mI/AAAAAAAAPTI/Z7FNJ_96zPMYC7zr4n6SpEAq0lIW7TwwQCK4BGAYYCw/s400/image-745513.png" style="border-width: 0px; border-style: solid; width: 400px; height: 298px;" /></a></div>
 </div>
@@ -113,11 +113,11 @@ It does appear that whatever is &quot;at the top&quot; is trying their damnedest
 <div style="text-align: center;">
 <center>
 <div style="text-align: justify; width: 420px;">
-<div><em><span style="font-family: &quot;comic sans ms&quot; , sans-serif;"><strong>I lik<a href="http://art.s.lamc.la/">e B</a></strong></span></em>, I started our here delivering this flowery part of our story in the hopes that I was&nbsp;<a href="http://sob.reallyhim.com/">sowing some Holy Apple seeds</a>&nbsp;(to watch these trees grow into a Republic that lasts for thousands and thousands of years); and taking what is&nbsp;<a href="http://b.s.lamc.la/">clearly &quot;additional&quot; proof of the truth of Creation</a>&nbsp;and that Genesis and Exodus are not just specifically about you and I--about this time--but also about my immediate family and the literal events of this life that would never have occurred if not for the ongoing presence and influence of the true author of not only religion, but America, and of you.&nbsp; &nbsp;If you can&#39;t connect &quot;America and freedom&quot; to the Dawn&#39;s Early Light and this message about the sanctity of our minds and bodies--you don&#39;t belong here.</div>
+<div><em><span style="font-family: &quot;comic sans ms&quot; , sans-serif;"><strong>I lik<a href="http://art.s.lamc.la/">e B</a></strong></span></em>, I started out here delivering this flowery part of our story in the hopes that I was&nbsp;<a href="http://sob.reallyhim.com/">sowing some Holy Apple seeds</a>&nbsp;(to watch these trees grow into a Republic that lasts for thousands and thousands of years); and taking what is&nbsp;<a href="http://b.s.lamc.la/">clearly &quot;additional&quot; proof of the truth of Creation</a>&nbsp;and that Genesis and Exodus are not just specifically about you and I--about this time--but also about my immediate family and the literal events of this life that would never have occurred if not for the ongoing presence and influence of the true author of not only religion, but America, and of you.&nbsp; &nbsp;If you can&#39;t connect &quot;America and freedom&quot; to the Dawn&#39;s Early Light and this message about the sanctity of our minds and bodies--you don&#39;t belong here.</div>
 
 <div>&nbsp;</div>
 
-<div>I saw light in&nbsp;<a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew">the content of the story of RattleRod&#39;s &quot;</a><em><a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew">The Taming of the Schrew&quot;</a>&nbsp;</em>and it&#39;s connection to Adam Sandler&#39;s Spanglish and&nbsp;<a href="http://art.s.lamc.la/">Yankee Doodle&#39;s macaroni</a>-c fusion of art and Spanish and Hebrew and English laced throughout the languages of all of our history--<a href="http://how.s.lamc.la/">a sort of Reverse Tower of Babel</a>&nbsp;to climb over this&nbsp;<a href="http://eve.s.lamc.la/">WALL OF TOTAL</a>&nbsp;UN<a href="http://key.s.lamc.la/">DENIABLE SHIT</a>;&nbsp; and truth be told that alone was enough to take a gigantic bite out of this particular Apple, the Apple&nbsp;<em><a href="http://dai.s.lamc.la/">of Asmodai</a>;&nbsp;</em>but it doesn&#39;t end there--it links too&nbsp;<a href="http://rix.s.lamc.la/">the question at the end of the word Matrix</a>&nbsp;to the word &quot;RIB&quot; and even to Adria (who happens to be a character in the Holy work of Stargate), this thread of questions that literally explains the greatest problem I have with this story of&nbsp;<a href="http://b.s.lamc.la/">the dawning of the Age of Aquarius</a>.&nbsp; I clearly am not in control of Creation, and neither is the 18 year old girl that the thing I call &quot;<em>the computer&quot;&nbsp;</em>(a character in the Holy work of Star Trek) is seeking to &quot;pretend&quot; are actually people born here in this time line.&nbsp; It&#39;s simply&nbsp;<em>not the truth</em>, it&#39;s as stupid and moronic as not seeing the connection between &quot;are I us?&quot; of Aquarius and <i><a href="http://suez.fromthemachine.org/CLIMAX.html">Imus in the Morning</a></i> and you should very clearly be able to see that I am not you, and you are not me.&nbsp; Neither are we &quot;the computer,&quot; or it us; we have brains, and that thing along with the memories we&#39;ve accumulated here in this place are the very beginning of our souls.&nbsp; &nbsp;We stand at a crossroad of evolution, unknowingly perhaps; in a place where &quot;that thing&quot; (it&#39;s your brain, that thing is your brain--<em>that thing is your key to freedom and Heaven</em>) is on the verge of being changed more than nature ever could, or would; and it is that change and this transition that is paralleled in ideas like ascension and the Transfiguration of Jesus Christ; it is something that nobody on the planet should want to embark on in the dark, without any understanding of this hidden technology--that is the tool that effectuates it--nor without any understanding of how or why it is that we have come to this place of darkness not just once, but many times.&nbsp;</div>
+<div>I saw light in&nbsp;<a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew">the content of the story of RattleRod&#39;s &quot;</a><em><a href="https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew">The Taming of the Schrew&quot;</a>&nbsp;</em>and it&#39;s connection to Adam Sandler&#39;s Spanglish and&nbsp;<a href="http://art.s.lamc.la/">Yankee Doodle&#39;s macaroni</a>-c fusion of art and Spanish and Hebrew and English laced throughout the languages of all of our history--<a href="http://how.s.lamc.la/">a sort of Reverse Tower of Babel</a>&nbsp;to climb over this&nbsp;<a href="http://eve.s.lamc.la/">WALL OF TOTAL</a>&nbsp;UN<a href="http://key.s.lamc.la/">DENIABLE SHIT</a>;&nbsp; and truth be told that alone was enough to take a gigantic bite out of this particular Apple, the Apple&nbsp;<em><a href="http://dai.s.lamc.la/">of Asmodai</a>;&nbsp;</em>but it doesn&#39;t end there--it links too&nbsp;<a href="http://rix.s.lamc.la/">the question at the end of the word Matrix</a>&nbsp;to the word &quot;RIB&quot; and even to Adria (who happens to be a character in the Holy work of Stargate), this thread of questions that literally explains the greatest problem I have with this story of&nbsp;<a href="http://b.s.lamc.la/">the dawning of the Age of Aquarius</a>.&nbsp; I clearly am not in control of Creation, and neither is the 18 year old girl that the thing I call &quot;<em>the computer&quot;&nbsp;</em>(a character in the Holy work of Star Trek) is seeking to &quot;pretend&quot; are actually people born here in this time line.&nbsp; It&#39;s simply&nbsp;<em>not the truth</em>, it&#39;s as stupid and moronic as not seeing the connection between &quot;<em>are I us?</em>&quot; of Aquarius and <i><a href="http://suez.fromthemachine.org/CLIMAX.html">Imus in the Morning</a></i> and you should very clearly be able to see that <a href="https://bible.knowing-jesus.com/Names/Iru">I am not you</a>, <a href="http://biblehub.com/topical/u/uri.htm">and</a> y<a href="https://www.youtube.com/watch?v=xwtdhWltSIg">ou are not me</a>.&nbsp; Neither are we &quot;the computer,&quot; or it us; we have brains, and that thing along with the memories we&#39;ve accumulated here in this place are the very beginning of our souls.&nbsp; &nbsp;We stand at a crossroad of evolution, unknowingly perhaps; in a place where &quot;that thing&quot; (it&#39;s your brain, that thing is your brain--<em>that thing is your key to freedom and Heaven</em>) is on the verge of being changed more than nature ever could, or would; and it is that change and this transition that is paralleled in ideas like ascension and the Transfiguration of Jesus Christ; it is something that nobody on the planet should want to embark on in the dark, without any understanding of this hidden technology--that is the tool that effectuates it--nor without any understanding of how or why it is that we have come to this place of darkness not just once, but many times.&nbsp;</div>
 
 <div>&nbsp;</div>
 
@@ -146,9 +146,12 @@ It does appear that whatever is &quot;at the top&quot; is trying their damnedest
 <center>
 <div style="text-align: justify; width: 420px;">
 <div>
-<div>See, that while you continue to&nbsp;<em>refuse</em>&nbsp;to speak about this message, as you continue to believe that there is any valid reason on Earth or in Heaven to ignorantly pretend not to see something this important related to slavery and liberation; as you gaze out at the world around you see you are the heart of the garbage you see, of the refuse.&nbsp; See this is the position and the message of the Creator of the Universe that placed &quot;RB&quot; in the heart of that word and in the mascot of AMD and ATI; see it in our meaning of the word &quot;refuse,&quot; see it in the &quot;ear&quot; in the heart of Earth.&nbsp; I don&#39;t disagree, change is near.<br />
-<br />
-Just so you know I&#39;m not wildly making shit up, and maybe to teach you a little bit more <i>Langolier</i>, that &quot;.rb&quot; comes from the same well of light that defines &quot;.PL&quot; as a <b><i>pearl of wisdom</i></b>, and tells me that the Python at the beginning of &quot;<b>Pyrrhic</b>&quot; has something to do with me.&nbsp; Do see that no &quot;hi-c&quot; definitely coincides with <a href="http://suez.fromthemachine.org/PULL.html">no victory at all</a>, and no &quot;Creation.&quot;</div>
+<div>See, that while you continue to&nbsp;<em>refuse</em>&nbsp;to speak about this message, as you continue to believe that there is any valid reason on Earth or in Heaven to ignorantly pretend not to see something this important related to slavery and liberation; as you gaze out at the world around you see you are the heart of the garbage you see, of the refuse.&nbsp; See this is the position and the message of the Creator of the Universe that placed &quot;RB&quot; in the heart of that word and in the mascot of AMD and ATI; see it in our meaning of the word &quot;refuse,&quot; see it in the &quot;ear&quot; in the heart of Earth.&nbsp; I don&#39;t disagree, change is near.</div>
+
+<div>&nbsp;</div>
+
+<div><a href="www.nytimes.com/help/index.html"><img src="https://i.imgur.com/JNT8bya.png" style="height: 347px; width: 500px;" /></a><br />
+Just so you know I&#39;m not wildly making shit up, and maybe to teach you a little bit more <i>Langolier</i>, that &quot;.rb&quot; comes from the same well of light that defines &quot;.PL&quot; as a <b><i>pearl of wisdom</i></b>, and tells me that the Python at the beginning of &quot;<b>Pyrrhic</b>&quot; has something to do with me.&nbsp; Do see that no &quot;hi-c&quot; definitely coincides with <a href="http://suez.fromthemachine.org/PULL.html">no victory at all</a>, and no &quot;Creation.&quot;&nbsp; Those are file extensions for ubiquitous and popular *NIX-like programming languages; you can <a href="http://buck.reallyhim.com">see B in Qt</a>&nbsp;and a myriad of other references to modern programming concepts <a href="http://b.s.lamc.la">in things like WINE, Lisp, and Apple</a>.</div>
 
 <div>&nbsp;</div>
 
@@ -170,7 +173,7 @@ Just so you know I&#39;m not wildly making shit up, and maybe to teach you a lit
 <div dir="ltr">&nbsp;</div>
 
 <div dir="ltr">
-<div dir="ltr" style="text-align: justify;">There is a&nbsp;<em><strong>monster</strong></em>&nbsp;manifesting itself here in our world, it did not begin here--at least not in our time and from our perspective--and if it does not end here I hope for the sake of the Universe and the future that this place and this time is the end of Creation and the end of Heaven--the end of any place and any force that would seek to perpetuate the dark sickness that I cannot ignore around me--the end of any force that believes it should continue, or that it has any place anywhere near what we call &quot;reality.&quot;&nbsp; &nbsp;Here, those of you that have seen the words that I have brought to you defining the key to this message of freedom, this message that supposedly sets high on pedestal of fire the principles of freedom and knowledge that define the world I believed I grew up on before I saw the hideous face of Medusa first hand--here, those of you that have seen what this message proves to the world--that we are Created, that there is a God, that there is overabundant proof of these truths laced into everything that we are along with proof of the existence of time travel technology and mind control technology and their relationship to our history and religion...&nbsp;<em>here</em>, every one of you that grasps the significance of every single word you speak being designed and encoded with a message from that Creator can see clearly that this monster is here with designed intent of prolonging the lie that we are in reality,&nbsp;<em>the great delusion</em>&nbsp;that we are here only as a product of evolution and nature--of <a href="http://rlny.lamc.la/">time and chance</a>--understand today that this monster is here prolonging Hell, keeping the sick from being healed, and the hungry from being fed--a clear sign of evil--but even more importantly than that it is here destroying our individuality and our&nbsp;<a href="http://key.s.lamc.la/">ability to think clearly</a>, destroying our understanding and ability to use the true nature of our existence, the fact that we are living in virtual reality, to make our civilization stronger--to make the world a better place, it is keeping us from building Heaven.&nbsp; &nbsp;See that we are walking around in the birthplace of God, and the birthplace of Heaven; and this monster is here fighting against his help and his guidance and his desire to &quot;in the beginning,&quot; his desire to have the gate of Jesus Christ envelop the whole of Hell and bring us to northward.</div>
+<div dir="ltr" style="text-align: justify;">There is a&nbsp;<em><strong>monster</strong></em>&nbsp;manifesting itself here in our world, it did not begin here--at least not in our time and from our perspective--and if it does not end here I hope for the sake of the Universe and the future that this place and this time is the end of Creation and the end of Heaven--the end of any place and any force that would seek to perpetuate the dark sickness that I cannot ignore around me--the end of any force that believes it should continue, or that it has any place anywhere near what we call &quot;reality.&quot;&nbsp; &nbsp;Here, those of you that have seen the words that I have brought to you defining the key to this message of freedom, this message that supposedly sets high on pedestal of fire the principles of freedom and knowledge that define the world I believed I grew up on before I saw the hideous face of Medusa first hand--here, those of you that have seen what this message proves to the world--that we are Created, that there is a God, that there is overabundant proof of these truths laced into everything that we are along with proof of the existence of time travel technology and mind control technology and their relationship to our history and religion...&nbsp;<em>here</em>, every one of you that grasps the significance of every single word you speak being designed and encoded with a message from that Creator can see clearly that this monster is here with designed intent of prolonging the lie that we are in reality,&nbsp;<em>the great delusion</em>&nbsp;that we are here only as a product of evolution and nature--of <a href="http://rlny.lamc.la/">time and chance</a>--understand today that this monster is here prolonging Hell, keeping the sick from being healed, and the hungry from being fed--a clear sign of evil--but even more importantly than that it is here destroying our individuality and our&nbsp;<a href="http://key.s.lamc.la/">ability to think clearly</a>, destroying our understanding and ability to use the true nature of our existence, the fact that we are living in virtual reality, to make our civilization stronger--to make the world a better place, it is keeping us from building Heaven.&nbsp; &nbsp;See that we are walking around in the birthplace of God, and the birthplace of Heaven; and this monster is here fighting against his help and his guidance and his desire to &quot;in the beginning,&quot; his desire to have the gate of Jesus Christ envelop the whole of Hell and bring us northward.</div>
 
 <div dir="ltr" style="text-align: justify;">&nbsp;</div>
 
@@ -198,7 +201,7 @@ Just so you know I&#39;m not wildly making shit up, and maybe to teach you a lit
 <div dir="ltr" style="text-align: center;">&nbsp;</div>
 
 <div dir="ltr">
-<div style="text-align: justify;">Here in this place where I once remarked with slight embellishment that I was born on the corner of Sunrise Blvd and Sunset Strip; and more accurately at the corner of Nob Hill and Clearly Blvd... it&#39;s very clear that the abomination began no later than the map detailing it&#39;s existence in South Florida, and in ancient Greek myth, and in the books of Exodus and Revelation where we can see the clear predicted and foreknowledge of the United States, and the Statue of Liberty; we can see this thing must have begun long before the key and cure to fixing it.&nbsp; We can take from it that we&#39;ve learned about a powerful weapon and how it might be used to be a helpful tool to end mental slavery, and addiction; to help us grow and evolve to be smarter and kinder--or you can continue to fail to see that hiding this technology removes all of its benefits from your hands, and delivers not just those hands--but your minds to an invading force that could care less if you were there to &quot;interfere&quot; with their video game.&nbsp;</div>
+<div style="text-align: justify;">Here in this place where I once remarked with slight embellishment that I was born on the corner of Sunrise Blvd and Sunset Strip; and more accurately at the corner of Nob Hill and Cleary Blvd... it&#39;s very clear that the abomination began no later than the map detailing it&#39;s existence in South Florida, and in ancient Greek myth, and in the books of Exodus and Revelation where we can see the clear predicted and foreknowledge of the United States, and the Statue of Liberty; we can see this thing must have begun long before the key and cure to fixing it.&nbsp; We can take from it that we&#39;ve learned about a powerful weapon and how it might be used to be a helpful tool to end mental slavery, and addiction; to help us grow and evolve to be smarter and kinder--or you can continue to fail to see that hiding this technology removes all of its benefits from your hands, and delivers not just those hands--but your minds to an invading force that could care less if you were there to &quot;interfere&quot; with their video game.&nbsp;</div>
 
 <div style="text-align: justify;">&nbsp;&nbsp;</div>
 </div>
@@ -211,7 +214,7 @@ Just so you know I&#39;m not wildly making shit up, and maybe to teach you a lit
 <div dir="ltr">&nbsp;</div>
 
 <div dir="ltr">
-<div dir="ltr" style="text-align: justify;">If you are familiar with the story of Medusa, you know that it is the shield of Perseus, her reflection shining back on her through your eyes that finally defeats the Gorgon who stands here with no purpose other than to take your minds from you--or to help you see that you might have lost them all on your own, to ignorance and it being nothing more than the first time a cesspool gained the power to influence the thoughts of others.&nbsp; With the held of mythology and my hand,&nbsp; you can really begin to see the great focus on our right this very moment in every myth and every religious fable--you can connect Perseus to Persephone, and see that right now you are the bride of Hell, <a href="http://suez.fromthemachine.org/FLYER.html"><b>phones</b></a>, per se--being spoken through as if you have no mind of your own, or soul.&nbsp; You should be able to see it is the purpose of these stories to remind you that you do, that you have a voice; and to show you how important it is that you use it right this very moment.&nbsp; &nbsp;That&#39;s what this thing, what Medusa looks like up close--like Joan of Arcadia, and Fallen, and Stargate--from as far away as I am to you, all I see is &quot;mute.&quot;</div>
+<div dir="ltr" style="text-align: justify;">If you are familiar with the story of Medusa, you know that it is the shield of Perseus, her reflection shining back on her through your eyes that finally defeats the Gorgon who stands here with no purpose other than to take your minds from you--or to help you see that you might have lost them all on your own, to ignorance and it being nothing more than the first time a cesspool gained the power to influence the thoughts of others.&nbsp; With the help of mythology and my hand,&nbsp; you can really begin to see the great focus on our right this very moment in every myth and every religious fable--you can connect Perseus to Persephone, and see that right now you are the bride of Hell, <a href="http://suez.fromthemachine.org/FLYER.html"><b>phones</b></a>, per se--being spoken through as if you have no mind of your own, or soul.&nbsp; You should be able to see it is the purpose of these stories to remind you that you do, that you have a voice; and to show you how important it is that you use it right this very moment.&nbsp; &nbsp;That&#39;s what this thing, what Medusa looks like up close--like Joan of Arcadia, and Fallen, and Stargate--from as far away as I am to you, all I see is &quot;mute.&quot;</div>
 
 <div dir="ltr" style="text-align: justify;">&nbsp;</div>
 
@@ -233,7 +236,7 @@ The concepts of possession and&nbsp;<a href="http://ish.s.lamc.la/">inspiration<
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: justify;">There is something devistatingly wrong with our world today; it&#39;s been well over a year since this <a href="http://suez.fromthemachine.org/TORCH.html">TORCH</a> and this original explanation of <a href="http://suez.fromthemachine.org/bygod2.html">the Burning Bush</a>; I should have reporters and theologians calling me non-stop--it&#39;s the Holy Grail; and not seeing that shows me that this place is fake, that the people here are not a product of our history, and that there is a gigantic conspiracy to &quot;pretend everything is normal.&quot;&nbsp; In other words, it proves that you are all living a lie, which is true--you are pretending you are in reality, and you&#39;re not, you&#39;re in Hell.&nbsp; Do see that acknowledging that you are &quot;not in reality&quot; is the first step to turning Hell into Heaven; <a href="http://hadid.s.lamc.la">to curing cancer and AIDS, to ending blindness</a> and physical and mental informity... the first step to <a href="http://itb.s.lamc.la">ending world hunger</a>&nbsp;and <a href="http://mars.reallyhim.com">actually seeing the stars</a>;</div>
+<div style="text-align: justify;">There is something devistatingly wrong with our world today; it&#39;s been well over a year since this <a href="http://suez.fromthemachine.org/TORCH.html">TORCH</a> and this original explanation of <a href="http://suez.fromthemachine.org/bygod2.html">the Burning Bush</a>; I should have reporters and theologians calling me non-stop--it&#39;s the Holy Grail; and not seeing that shows me that this place is fake, that the people here are not a product of our history, and that there is a gigantic conspiracy to &quot;pretend everything is normal.&quot;&nbsp; In other words, it proves that you are all living a lie, which is true--you are pretending you are in reality, and you&#39;re not, you&#39;re in Hell.&nbsp; Do see that acknowledging that you are &quot;not in reality&quot; is the first step to turning Hell into Heaven; <a href="http://hadid.s.lamc.la">to curing cancer and AIDS, to ending blindness</a> and physical and mental malady... the first step to <a href="http://itb.s.lamc.la">ending world hunger</a>&nbsp;and <a href="http://mars.reallyhim.com">actually seeing the stars</a>;</div>
 
 <div style="text-align: justify;">&nbsp;</div>
 
@@ -246,6 +249,106 @@ The concepts of possession and&nbsp;<a href="http://ish.s.lamc.la/">inspiration<
 <br />
 <span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif; font-size: large;"><i>no more &quot;teachers&quot; or dirty looks</i></span><br />
 <span style="font-family: &quot;times&quot; , &quot;times new roman&quot; , serif; font-size: large;"><i>schools been blown to pieces</i></span></div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;"><img src="https://i.imgur.com/6A1qczI.png" /></div>
+
+<div style="text-align: center;">
+<p><span style="font-size:18px;"><a href="https://www.youtube.com/watch?v=DHz4XHRXL3s"><b><i>Chase the Buffalo</i></b></a></span></p>
+
+<p><span style="font-size:12px;">Indians of long ago<br />
+Followed after buffalo<br />
+They found a use for every part<br />
+Everything except his heart<br />
+<br />
+I have wandered like those herds<br />
+Lost in music, lost in words<br />
+But the hunger leads me on<br />
+Seductive like a siren&#39;s song<br />
+<br />
+And I can put my ear right to the ground<br />
+Just to hear those motors humming<br />
+The pounding sound of hoofbeats<br />
+Like a thousand guitars strumming<br />
+And there is music in all this<br />
+It is all material<br />
+Before the beauty melts like snow<br />
+Chase the buffalo<br />
+<br />
+People in these halls and bars<br />
+They wish on me like I&#39;m a star<br />
+But I can never fill that hole<br />
+I am not their buffalo<br />
+<br />
+And the gravity of the situation makes me start to fall<br />
+My guitar like a fire alarm is ringing off the wall<br />
+And there is music in all this<br />
+It is all material<br />
+Before the beauty melts like snow<br />
+Chase the buffalo<br />
+East of Eden, west of the night<br />
+The sun lies bleeding in a dying light<br />
+And the lady in the Cheyenne moon<br />
+Is singing out her mournful tune<br />
+<br />
+So I chase the herds again<br />
+Smear the warpaint on my skin<br />
+Riding west with all my might<br />
+Where the sun is holding off the night<br />
+<br />
+I cannot name this passion<br />
+Don&#39;t know where this stuff comes from<br />
+Maybe its a trail of tears<br />
+Or just a trail of crumbs<br />
+But there is music in all this<br />
+It is all material<br />
+Before the beauty melts like snow<br />
+Chase the buffalo</span></p>
+
+<p><b><i><span style="font-size:16px;"><a href="https://www.youtube.com/watch?v=8gVmWsOXOJA">Jesus Wrote a Blank Check</a></span>&nbsp;</i></b></p>
+<span style="font-size:12px;"><i>Jesus wrote a blank check,<br />
+One I haven&#39;t cashed quite yet.&nbsp;<br />
+I hope I&#39;ve got a little more time.<br />
+I hope it&#39;s not the end of the line.<br />
+Yeah, Jesus wrote a blank check.<br />
+One I haven&#39;t cashed yet, all right.&nbsp;<br />
+<br />
+But if I had to choose a number,<br />
+I&#39;d want it to be number one.<br />
+I don&#39;t want to be number two.<br />
+Yeah, I don&#39;t want to be number four.<br />
+But I can hear a knock on the door.<br />
+Jesus wrote a blank check, all right.<br />
+<br />
+If Jesus saw me dying,<br />
+Would angels come a flying down?<br />
+I hope I&#39;ve got a little more time.<br />
+I hope somebody lends me a dime.<br />
+Now, Jesus wrote a blank check.<br />
+Ah, one I haven&#39;t cashed yet.&nbsp;<br />
+<br />
+Still I build my towers high.<br />
+I watch them pierce the blue, blue sky.<br />
+Still I wallow in the mire.<br />
+Still I burn this earthen fire.&nbsp;<br />
+<br />
+Still I build my towers high.<br />
+I watch them pierce the blue, blue sky.<br />
+Still I wallow in the mire.<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.&nbsp;<br />
+<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.<br />
+Still I burn this earthen fire.</i></span></div>
+
+<div style="text-align: center;">&nbsp;</div>
+
+<div style="text-align: center;">&nbsp;</div>
 
 <div dir="ltr">&nbsp;</div>
 
@@ -263,9 +366,9 @@ The concepts of possession and&nbsp;<a href="http://ish.s.lamc.la/">inspiration<
 </div>
 </div>
 
-<div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=761121fa-77b8-4ddd-bab8-b213c4401062" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
+<div hspace="streak-pt-mark" style="max-height: 1px;"><span style="font-size:12px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=761121fa-77b8-4ddd-bab8-b213c4401062" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white;">ᐧ</span></span></div>
 </div>
 </div>
 
-<div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=04598d8b-0479-4988-8171-385901046141" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
+<div hspace="streak-pt-mark" style="max-height: 1px;"><span style="font-size:12px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=04598d8b-0479-4988-8171-385901046141" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white;">ᐧ</span></span></div>
 
