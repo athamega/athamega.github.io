@@ -18,7 +18,6 @@
 - [RD 2 RR Y](./ERICHOW.md)
 - [HELLO WORLD](./HYAMDAI.md)
 - [ME AN U STAGE](./SAUSAGE.md)
-#- [APPARIT](./APPARITION.md)
 - [FLYPER](./FLYER.md)  
 - [SUNFIRE](./HASHEMESHB.md)  
 - [ATIRX](./ATITEN.md)      
@@ -41,3 +40,4 @@
 - [IOWA](./IOWA.md)
 - [ACESHI](./ACESHI.md)
 - [LAYLOT](./CURSOR.md)
+- [THUNDERSTAND](./THUNDERSTAND.md)
