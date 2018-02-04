@@ -44,3 +44,8 @@
 - [PER SE YOU](./PERSEUS.md)
 - [M U AH](./MUAH.md)
 - [PULL](./PULL.md)
+- [SERENADE](./SERENADE.md)
+- [CONFESSION](./CONFESSION.md)
+- [FUCK](./FUCK.md)
+- [CHALK](./CHALK.md)
+- [JERUSALEM](./CHALK.md)

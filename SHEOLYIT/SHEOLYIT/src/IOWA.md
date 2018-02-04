@@ -247,6 +247,6 @@
 <p><a href="https://www.youtube.com/watch?v=uxpDa-c-4Mc"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/m5l5npk.png" /></a></p>
 
 <br/>
-<p style="font-size: 65px; text-align: center;">954-667-80083</p>
+<p style="font-size: 65px; text-align: center;">954-667-8083</p>
 <p style="text-align: center;"><span style="color: #cc99ff;">wait, is he making fun of me?</span></p>
 <br/>
