@@ -1,0 +1,167 @@
+| Vonage-Network Account                                                            |                      6 |       14 |
+| University of Reading                                                             |                      6 |       10 |
+| Eolo S.p.A.                                                                       |                      6 |       24 |
+| University of Iowa                                                                |                      6 |        9 |
+| The Vindicator                                                                    |                      6 |      103 |
+| Anu.edu.au                                                                        |                      6 |       34 |
+| M.W. Sullivan DBA El Paso Properties                                              |                      6 |        6 |
+| San Francisco Chronicle                                                           |                      6 |       14 |
+| ITV-3 Inc.                                                                        |                      6 |       15 |
+| Cuny Graduate Center                                                              |                      6 |       17 |
+| NBCUniversal                                                                      |                      6 |       29 |
+| The University of Texas Health Science Center at Houston                          |                      6 |       20 |
+| Centre des technologies de l'information de l'Etat                                |                      6 |       12 |
+| Bonneville Power Administration                                                   |                      6 |       33 |
+| California State University Long Beach                                            |                      6 |        9 |
+| Actionaid.org                                                                     |                      6 |        8 |
+| Woods Hole Oceanographic Institution                                              |                      6 |       12 |
+| University of California Santa Barbara                                            |                      6 |       17 |
+| University of Texas at Austin                                                     |                      6 |       10 |
+| University of Miami                                                               |                      6 |       12 |
+| The Paducah Sun                                                                   |                      6 |       36 |
+| Princeton Theological Seminary                                                    |                      6 |        6 |
+| University of California San Francisco                                            |                      6 |        7 |
+| University of Technology Sydney                                                   |                      6 |        8 |
+| The University of Nottingham                                                      |                      6 |       11 |
+| Seongnam                                                                          |                      6 |       16 |
+| Wesleyan University                                                               |                      6 |       16 |
+| University of Leeds                                                               |                      6 |       24 |
+| Gonzaga University                                                                |                      6 |       15 |
+| Amt der Salzburger Landesregierung                                                |                      6 |        8 |
+| Louisiana State University                                                        |                      6 |       11 |
+| University of California Riverside                                                |                      6 |        8 |
+| The University of Manchester                                                      |                      6 |       16 |
+| James Madison University                                                          |                      6 |       25 |
+| PMG Acquisition Group                                                             |                      6 |       50 |
+| Centacareballarat.org.au                                                          |                      6 |       14 |
+| Charite - Universitaetsmedizin Berlin                                             |                      6 |        9 |
+| CAC America Corp.                                                                 |                      6 |        6 |
+| Cite Internationale Universitaire de Paris                                        |                      6 |       10 |
+| Washington University                                                             |                      7 |       10 |
+| University of Southern California                                                 |                      7 |       34 |
+| Nlci.com                                                                          |                      7 |       12 |
+| Toronto Star                                                                      |                      7 |       36 |
+| Colorado State University                                                         |                      7 |       16 |
+| University of Florida/University Medical Center                                   |                      7 |      110 |
+| Education and Research in Oregon                                                  |                      7 |       11 |
+| University College London                                                         |                      7 |       13 |
+| University of Liverpool                                                           |                      7 |       11 |
+| Times Courier                                                                     |                      7 |       13 |
+| Alan Tanenbaum                                                                    |                      7 |       16 |
+| Ohio University                                                                   |                      7 |       13 |
+| Kingsport Times News                                                              |                      7 |       35 |
+| Time Warner Enterprise Infrastructure Services LLC                                |                      7 |       14 |
+| University of Bristol                                                             |                      7 |       15 |
+| SUNY College at Potsdam                                                           |                      7 |       26 |
+| The Detroit Medical Center                                                        |                      7 |        7 |
+| Cornellu Niversity                                                                |                      7 |       11 |
+| Johns Hopkins University                                                          |                      7 |       23 |
+| Galveston Newspapers                                                              |                      7 |       26 |
+| Diocese of Cleveland                                                              |                      7 |       27 |
+| Florida International University                                                  |                      7 |       18 |
+| University of Virginia                                                            |                      7 |       15 |
+| Michigan Technological University                                                 |                      7 |        8 |
+| University of Massachusetts - Lowell                                              |                      7 |       23 |
+| Michigan State University                                                         |                      7 |       76 |
+| University of California Merced                                                   |                      7 |       12 |
+| Zipper Films                                                                      |                      7 |       17 |
+| APOGEE- Slippery Rock University SRU                                              |                      7 |       19 |
+| New York University                                                               |                      7 |       12 |
+| University of Keele                                                               |                      7 |        8 |
+| Saxony Apartments                                                                 |                      7 |       33 |
+| University of California Irvine                                                   |                      8 |       12 |
+| Aberystwyth University                                                            |                      8 |        8 |
+| The Alan Turing Institute                                                         |                      8 |       13 |
+| Boston University                                                                 |                      8 |       24 |
+| U.S. House of Representatives                                                     |                      8 |      430 |
+| University of New Brunswick                                                       |                      8 |       18 |
+| University of Michigan                                                            |                      8 |       15 |
+| University of Oregon                                                              |                      8 |       72 |
+| ASPStation Inc.                                                                   |                      8 |        8 |
+| Buffalo.edu                                                                       |                      8 |       28 |
+| United States Senate                                                              |                      8 |      139 |
+| University of Bath                                                                |                      8 |       35 |
+| Economic and Social Committee                                                     |                      8 |       40 |
+| Northwestern University                                                           |                      8 |       30 |
+| UNM Gallup Branch                                                                 |                      8 |       11 |
+| Citizens Cablevision Inc.                                                         |                      8 |        8 |
+| Iowa State University                                                             |                      8 |       28 |
+| Albuquerque Public Schools                                                        |                      9 |       10 |
+| European Parliament                                                               |                      9 |       20 |
+| York University                                                                   |                      9 |       15 |
+| Seoul                                                                             |                      9 |       45 |
+| University of Western Ontario                                                     |                      9 |       32 |
+| College of Wooster                                                                |                      9 |       54 |
+| My.com                                                                            |                      9 |       36 |
+| University of Southern Indiana                                                    |                      9 |       19 |
+| University of Utah                                                                |                      9 |       34 |
+| University of New Mexico Health Sciences Center                                   |                     10 |       58 |
+| Florida State University                                                          |                     10 |      162 |
+| Unix Networks Ltd.                                                                |                     10 |       28 |
+| Daily Sentinel                                                                    |                     10 |       12 |
+| University of Georgia                                                             |                     11 |       41 |
+| University of Central Oklahoma                                                    |                     11 |       22 |
+| Virginia Polytechnic Institute and State Univ.                                    |                     11 |       51 |
+| Western Kentucky University                                                       |                     11 |      385 |
+| Texas A&M University                                                              |                     11 |      195 |
+| North Park University                                                             |                     11 |       29 |
+| Indiana University                                                                |                     11 |       48 |
+| University of California Davis                                                    |                     12 |       23 |
+| Drexel University                                                                 |                     12 |       43 |
+| Williams College                                                                  |                     12 |       16 |
+| Rutgers University                                                                |                     12 |       53 |
+| Lamont Doherty Geological Observatory                                             |                     12 |       53 |
+| Universiteit van Amsterdam                                                        |                     12 |       52 |
+| The City of New York                                                              |                     12 |      136 |
+| Tum Info LAN                                                                      |                     12 |       52 |
+| Carthage College                                                                  |                     12 |       34 |
+| Oregon State University                                                           |                     13 |       90 |
+| Caltech.edu                                                                       |                     13 |       48 |
+| University of Maryland                                                            |                     13 |       34 |
+| University of Florida                                                             |                     13 |      334 |
+| ANU                                                                               |                     13 |       41 |
+| Carnegie Mellon University                                                        |                     13 |      345 |
+| Harvard University                                                                |                     13 |       65 |
+| Syracuse Academy of Science                                                       |                     13 |       28 |
+| Southern Community Newsp                                                          |                     13 |       45 |
+| University of California Los Angeles                                              |                     13 |      128 |
+| University of Rhode Island                                                        |                     13 |       19 |
+| Mit.edu                                                                           |                     14 |      172 |
+| State University of New York at Buffalo                                           |                     14 |      193 |
+| Oxford University                                                                 |                     14 |      200 |
+| Ohio State University                                                             |                     14 |       52 |
+| Canisius College                                                                  |                     14 |       32 |
+| University of Salford                                                             |                     14 |      182 |
+| University of Guelph                                                              |                     14 |       74 |
+| Columbia University                                                               |                     14 |       62 |
+| National Aeronautics and Space Administration                                     |                     15 |      109 |
+| Arthrex Inc.                                                                      |                     15 |       30 |
+| The Internexus Group Limited                                                      |                     15 |       22 |
+| University of North Carolina at Chapel Hill                                       |                     16 |       43 |
+| Berklee College of Music                                                          |                     17 |      122 |
+| Dartmouth College                                                                 |                     17 |      178 |
+| Florida Gulf Coast University                                                     |                     17 |       32 |
+| Duke University                                                                   |                     18 |      339 |
+| Washington State University                                                       |                     19 |      105 |
+| University of New Mexico                                                          |                     19 |      224 |
+| Syracuse University                                                               |                     19 |      344 |
+| University of Houston                                                             |                     19 |       59 |
+| Yale University                                                                   |                     19 |      225 |
+| University of Washington                                                          |                     19 |      273 |
+| Stanford University                                                               |                     19 |      425 |
+| University of Wisconsin Madison                                                   |                     20 |      601 |
+| Vienna University Computer Center                                                 |                     20 |       74 |
+| University of California San Diego                                                |                     20 |      159 |
+| University of Chicago                                                             |                     20 |      528 |
+| University of Illinois                                                            |                     21 |      160 |
+| University of Massachusetts                                                       |                     21 |      180 |
+| Wayne State University                                                            |                     22 |       62 |
+| Cornell University                                                                |                     22 |      105 |
+| Uva.nl                                                                            |                     25 |      141 |
+| Ludwig-Maximilians-Universitaet Muenchen                                          |                     26 |      152 |
+| Board of Regents of the University System of Georgia                              |                     27 |      643 |
+| University of Mary Washington                                                     |                     28 |      172 |
+| Princeton University                                                              |                     28 |     1059 |
+| University of Toronto                                                             |                     30 |      153 |
+| University of Cambridge                                                           |                     36 |     1049 |
+| University of Vermont                                                             |                     44 |      574 |

@@ -48,4 +48,5 @@
 - [CONFESSION](./CONFESSION.md)
 - [FUCK](./FUCK.md)
 - [CHALK](./CHALK.md)
-- [JERUSALEM](./CHALK.md)
+- [JERUSALEM](./JESHOW.md)
+- [HAWAII](./HOWIE.md)
