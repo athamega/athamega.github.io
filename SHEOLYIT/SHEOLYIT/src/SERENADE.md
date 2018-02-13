@@ -1,4 +1,5 @@
-<div dir="ltr">
+<p style="text-align: center;"><img src="https://i.imgur.com/o4spR24.png" width="462" height="166" /></p>
+<p style="text-align: center;">&nbsp;</p><div dir="ltr">
 <div class="gmail_quote">
 <div dir="ltr">
 <div class="gmail_quote">
@@ -497,7 +498,8 @@ I looked at the word, gazed at "Patmos" and saw in it, not for the first time, y
 <div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=c9bf5a8c-c49a-4405-aae6-ee4bd3a04a5e" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
 </div>
 </div>
-
+<p style="text-align: center;"><a href="http://itb.s.lamc.la"><img src="https://i.imgur.com/7SIvXQI.png" width="477" height="179" /></a></p>
+<p style="text-align: center;">&nbsp;</p>
 <div hspace="streak-pt-mark" style="max-height: 1px;"><img alt="" src="https://mailfoogae.appspot.com/t?sender=aYWRhbUBmcm9tdGhlbWFjaGluZS5vcmc%3D&amp;type=zerocontent&amp;guid=6878ceec-642b-4791-8aff-d51e6b5259b3" style="max-height: 0px; overflow: hidden; width: 0px;" /><span style="color: white; font-size: xx-small;">ᐧ</span></div>
 </div>
 </div>
