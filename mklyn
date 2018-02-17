@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for file in *.html; do
+#echo "- [$file](./$file)" >> SUMMARY.md
+python /home/adam/lyn.py $file
+done
