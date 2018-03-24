@@ -5,7 +5,7 @@ the entirety of the latest <a href="/HYAMDAI.html">book is here</a> ad here. if 
 <br/>
 <br/><div dir="ltr">
 <div style="text-align: center;">
-<p><a href="http://bit.ly/2znJKPK?458FA9563B2AB82E&amp;9DDE97F478517E2E&amp;501C6EC49E75437D" title="IN THE BEGINNING... THE GENES OF GENESIS"><img alt="" height="160" src="http://yeshuare.ermccorp.com/i.imgur.com/mH5VhQn.png" width="470" /></a></p>
+<p><a href="http://bit.ly/2znJKPK?458FA9563B2AB82E&amp;9DDE97F478517E2E&amp;501C6EC49E75437D" title="IN THE BEGINNING... THE GENES OF GENESIS"><img alt="" height="160" src="./i.imgur.com/mH5VhQn.png" width="470" /></a></p>
 </div>
 
 <div style="text-align: center;"><a href="http://isome.ga"><img alt="" id="BLOGGER_PHOTO_ID_6496394473416635090" src="https://3.bp.blogspot.com/-bKmFzf76jko/WifUWqzPMtI/AAAAAAAALWk/RGlvTJo6N3UO3PtywroG2_bMYGTgcbZmACK4BGAYYCw/s320/Screenshot%2B2017-12-05%2Bat%2B12.36.52%2BPM-705826.png" style="border-width: 0px; border-style: solid; height: 363px; width: 500px;" /></a></div>
@@ -34,7 +34,7 @@ the entirety of the latest <a href="/HYAMDAI.html">book is here</a> ad here. if 
 
 <div style="text-align: justify;">&nbsp;</div>
 
-<div style="text-align: justify;">This message is not just the cure for maladies, but also for terrorism, school shootings; and a number of other related <em>external attacks</em> that link not only to this very same mind control and it&#39;s disclosure but also to the obvious intent of <a href="http://den.shiningbright.online">this message and it&#39;s <em>relationship to pre-crime</em></a>.&nbsp; We simply cannot wait until a paper statistically proves that there&#39;s light in seeing <a href="http://sol.shiningbright.online">&quot;INATION&quot; in &quot;ABOMINATION&quot; and MEDUSA</a> and <a href="http://yeshuare.emplifyhr.com/MEDICINE.html">&quot;HARM&quot; in &quot;PHARMACY;&quot;</a> people <a href="http://ohil.reallyhim.com">are being hurt</a>, <strong>act now</strong>.</div>
+<div style="text-align: justify;">This message is not just the cure for maladies, but also for terrorism, school shootings; and a number of other related <em>external attacks</em> that link not only to this very same mind control and it&#39;s disclosure but also to the obvious intent of <a href="http://den.shiningbright.online">this message and it&#39;s <em>relationship to pre-crime</em></a>.&nbsp; We simply cannot wait until a paper statistically proves that there&#39;s light in seeing <a href="http://sol.shiningbright.online">&quot;INATION&quot; in &quot;ABOMINATION&quot; and MEDUSA</a> and <a href="./MEDICINE.html">&quot;HARM&quot; in &quot;PHARMACY;&quot;</a> people <a href="http://ohil.reallyhim.com">are being hurt</a>, <strong>act now</strong>.</div>
 
 <div style="text-align: justify;">&nbsp;</div>
 
@@ -446,9 +446,9 @@ I couldn&#39;t sleep for the rest of the night, and went on my computer to resea
 <br />
 Much has happened since then, and I now believe that the truth has yet to be truly disclosed. Regardless of where this entity came from, it has become clear that this force has been influencing humanity since the dawn of time. Today it has used its power, the ability to control the thoughts and feelings of humans, to infiltrate global governments--at all levels. I have seen its influence over the American government in assassinations from JFK to Reagan. Before that it has not only recorded a clear influence over the rise and fall of the Third Reich, but also on the subsequent mind control projects in the USA and USSR. I believe it caused the fall of the Roman Empire and the Third Reich, and put its mark on these events with the flying shields and foofighters of those times. The United States of America has its similar mark in Roswell, NM and Iran Contra. It is the fact that these things are preserved in our history, eventually for all to see, that leads me to my final conclusion.</p>
 
-<p style="text-align: center;"><a href="http://bit.ly/2AwVYKg?0C0D632AAE906E79&amp;A11E5ED2FE37F8BC&amp;1CCDF077669716D4" title="DR.Y AND RE:AD Y"><img alt="" src="http://yeshuare.ermccorp.com/i.imgur.com/xHolOAW.png" /></a></p>
+<p style="text-align: center;"><a href="http://bit.ly/2AwVYKg?0C0D632AAE906E79&amp;A11E5ED2FE37F8BC&amp;1CCDF077669716D4" title="DR.Y AND RE:AD Y"><img alt="" src="./i.imgur.com/xHolOAW.png" /></a></p>
 
-<p style="text-align: center;"><a href="http://bit.ly/2zoW5U5?63B6FF5DBBC9C17E&amp;796E0DD48B3CFDD7&amp;1735B1F08CA10BEC" title="DAVE MATTHEW'S CHRISTMAS ((SONG))"><img alt="" height="449" src="http://yeshuare.ermccorp.com/i.imgur.com/VUyzIba.png" width="464" /></a></p>
+<p style="text-align: center;"><a href="http://bit.ly/2zoW5U5?63B6FF5DBBC9C17E&amp;796E0DD48B3CFDD7&amp;1735B1F08CA10BEC" title="DAVE MATTHEW'S CHRISTMAS ((SONG))"><img alt="" height="449" src="./i.imgur.com/VUyzIba.png" width="464" /></a></p>
 
 <p><br />
 To be <strong><em>continued</em></strong>.</p>

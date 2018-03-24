@@ -1,5 +1,8 @@
 # Summary
 
+- [MALOVIOUS](./MALOVIOUS.md)
+- [KISMET](./KISMET.md)
+- [CMUIT](./cmi.md)
 - [23](./23.md)
 - [2NAME](./2NAME.md)
 - [2_4_6_8_adam-who](./2_4_6_8_adam-who.md)

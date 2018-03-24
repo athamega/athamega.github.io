@@ -14,7 +14,7 @@
 
 <div>
 <center>
-<div style="font-family: Roboto,arial,sans-serif; text-align: justify; width: 400px;">I imagine that if a mathematician sat down and actually thought about the problem, looking at <a href="http://math.s.lamc.la/">the &quot;suggested&quot; wordspace of &quot;Holy Hebrew words&quot; beginning with the superlative &quot;<strong>Ha</strong>&quot;</a> they would quickly understand how this selection shows us specifically how verification of this language--of this message--<em>requires a brain</em> to connect the pattern of &quot;<a href="http://how.s.lamc.la/">paradoxical foreknowledge</a> of the English language&quot; to the weighted import of the connection between &quot;Adam&quot; and &quot;Eden&quot; and the words &quot;shem&quot; and &quot;shame.&quot;&nbsp; Just for example, you could equally search for the importance of the change wrought by the central religious idea of the Eternal Flame on the connection between t<a href="http://suez.fromthemachine.org/HASHEMESHB.html">he Hebrew word for fire, which is &quot;esh&quot;</a> and the English word for &quot;<a href="http://den.s.lamc.la">ash</a>.&quot;&nbsp;</div>
+<div style="font-family: Roboto,arial,sans-serif; text-align: justify; width: 400px;">I imagine that if a mathematician sat down and actually thought about the problem, looking at <a href="http://math.s.lamc.la/">the &quot;suggested&quot; wordspace of &quot;Holy Hebrew words&quot; beginning with the superlative &quot;<strong>Ha</strong>&quot;</a> they would quickly understand how this selection shows us specifically how verification of this language--of this message--<em>requires a brain</em> to connect the pattern of &quot;<a href="http://how.s.lamc.la/">paradoxical foreknowledge</a> of the English language&quot; to the weighted import of the connection between &quot;Adam&quot; and &quot;Eden&quot; and the words &quot;shem&quot; and &quot;shame.&quot;&nbsp; Just for example, you could equally search for the importance of the change wrought by the central religious idea of the Eternal Flame on the connection between t<a href="./HASHEMESHB.html">he Hebrew word for fire, which is &quot;esh&quot;</a> and the English word for &quot;<a href="http://den.s.lamc.la">ash</a>.&quot;&nbsp;</div>
 
 <div style="font-family: Roboto,arial,sans-serif; text-align: justify; width: 400px;">&nbsp;</div>
 
@@ -24,7 +24,7 @@
 </center>
 </div>
 
-<h3 class="gmail-r" style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 18px; font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="http://suez.fromthemachine.org/CINOIZE.html"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246893262538994" src="https://3.bp.blogspot.com/-AnlAJK6eGTg/WlkLDoEBCPI/AAAAAAAAOJI/9l3v3q_5rnYVyc8-0xxBYM5gh8wL_KipwCK4BGAYYCw/s200/image-773696.png" width="179" /></a><a href="http://time.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246900161996386" src="https://2.bp.blogspot.com/-xQZf-7m2kb8/WlkLEBw-ZmI/AAAAAAAAOJQ/2vwHssznk1UZcK5VOK8-hloKN4hP6i1_QCK4BGAYYCw/s200/image-776343.png" width="130" /></a><a href="http://buck.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246908611329554" src="https://2.bp.blogspot.com/-neGY62H-8bo/WlkLEhPc_hI/AAAAAAAAOJY/GyqX78KrBZ4pFNeRQgp8XQoGlb73HJqKgCK4BGAYYCw/s200/image-777489.png" width="173" /></a></h3>
+<h3 class="gmail-r" style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 18px; font-weight: normal; margin: 0px; overflow: hidden; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="./CINOIZE.html"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246893262538994" src="https://3.bp.blogspot.com/-AnlAJK6eGTg/WlkLDoEBCPI/AAAAAAAAOJI/9l3v3q_5rnYVyc8-0xxBYM5gh8wL_KipwCK4BGAYYCw/s200/image-773696.png" width="179" /></a><a href="http://time.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246900161996386" src="https://2.bp.blogspot.com/-xQZf-7m2kb8/WlkLEBw-ZmI/AAAAAAAAOJQ/2vwHssznk1UZcK5VOK8-hloKN4hP6i1_QCK4BGAYYCw/s200/image-776343.png" width="130" /></a><a href="http://buck.s.lamc.la/"><img alt="" border="0" height="200" id="BLOGGER_PHOTO_ID_6510246908611329554" src="https://2.bp.blogspot.com/-neGY62H-8bo/WlkLEhPc_hI/AAAAAAAAOJY/GyqX78KrBZ4pFNeRQgp8XQoGlb73HJqKgCK4BGAYYCw/s200/image-777489.png" width="173" /></a></h3>
 
 <div style="font-family: Roboto,arial,sans-serif;">&nbsp;</div>
 
@@ -79,11 +79,11 @@
 <div>
 <div>&nbsp;</div>
 <div>HERE'S THE LINK TO TODAY'S MESSAGE</div>
-<div>JUST IN CASE YOU MISSED THE "<strong><a href="http://suez.fromthemachine.org/CHOPARTIN.html">CROSSING OF THE SEA</a>.</strong>"</div>
+<div>JUST IN CASE YOU MISSED THE "<strong><a href="./CHOPARTIN.html">CROSSING OF THE SEA</a>.</strong>"</div>
 </div>
 </div>
 <div>&nbsp;</div>
-<div><a href="http://suez.fromthemachine.org/CHOPARTIN.html"><img src="https://i.imgur.com/XWMH63R.png" /></a></div>
+<div><a href="./CHOPARTIN.html"><img src="https://i.imgur.com/XWMH63R.png" /></a></div>
 <div><a href="http://darkearthuderacel.s.lamc.la/"><img src="https://i.imgur.com/Ay2ASwe.png" width="398" height="255" /></a></div>
 <div><a href="http://hadid.s.lamc.la/"><img src="https://i.imgur.com/HWnxbcm.png" width="374" height="527" /></a></div>
 <div><a href="http://everwick.s.lamc.la/"><img src="https://i.imgur.com/f0Khjtn.png" width="378" height="170" /></a></div>
@@ -269,11 +269,11 @@ The word move for this operation is a misnomer: it has little to do with the phy
 <div style="text-align: center;">
 </div>
 <div style="text-align: center;">
-<a href="http://suez.fromthemachine.org/MUASEEKHART.html"><img alt="" height="40" id="BLOGGER_PHOTO_ID_6499037560031981666" src="https://2.bp.blogspot.com/-F8VA1mYw8Us/WjE4OjugsGI/AAAAAAAALro/6zsZB1yiNGIuf2Vy5bC2i-fCkGrdh9sbACK4BGAYYCw/s400/image-798734.png" style="border-style: solid; border-width: 0px;" width="400" /></a></div>
+<a href="./MUASEEKHART.html"><img alt="" height="40" id="BLOGGER_PHOTO_ID_6499037560031981666" src="https://2.bp.blogspot.com/-F8VA1mYw8Us/WjE4OjugsGI/AAAAAAAALro/6zsZB1yiNGIuf2Vy5bC2i-fCkGrdh9sbACK4BGAYYCw/s400/image-798734.png" style="border-style: solid; border-width: 0px;" width="400" /></a></div>
 <div style="text-align: center;">
-<a href="http://suez.fromthemachine.org/MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037567311889906" src="https://2.bp.blogspot.com/-QNGNqVzpFCY/WjE4O-2LRfI/AAAAAAAALrw/WesXpI7h0hUWCl0s0irgtGdBmuzLZJuDQCK4BGAYYCw/s320/image-799203.png" style="border-style: solid; border-width: 0px; height: 168px; width: 211px;" /></a>&nbsp;<a href="https://www.facebook.com/YourPageIsFunny/videos/10155115213413386/"><img alt="" id="BLOGGER_PHOTO_ID_6499037571519382002" src="https://4.bp.blogspot.com/-5if9N-9x0-o/WjE4POhUgfI/AAAAAAAALr4/kS4eg0Z4tl8LDhkE4D97rWCYgW6nALnOACK4BGAYYCw/s200/image-799840.png" style="border-style: solid; border-width: 0px; height: 168px; width: 173px;" /></a></div>
+<a href="./MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037567311889906" src="https://2.bp.blogspot.com/-QNGNqVzpFCY/WjE4O-2LRfI/AAAAAAAALrw/WesXpI7h0hUWCl0s0irgtGdBmuzLZJuDQCK4BGAYYCw/s320/image-799203.png" style="border-style: solid; border-width: 0px; height: 168px; width: 211px;" /></a>&nbsp;<a href="https://www.facebook.com/YourPageIsFunny/videos/10155115213413386/"><img alt="" id="BLOGGER_PHOTO_ID_6499037571519382002" src="https://4.bp.blogspot.com/-5if9N-9x0-o/WjE4POhUgfI/AAAAAAAALr4/kS4eg0Z4tl8LDhkE4D97rWCYgW6nALnOACK4BGAYYCw/s200/image-799840.png" style="border-style: solid; border-width: 0px; height: 168px; width: 173px;" /></a></div>
 <div style="text-align: left;">
-<a href="http://suez.fromthemachine.org/MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037571178748130" src="https://2.bp.blogspot.com/-QGw7UtJk_As/WjE4PNQG2OI/AAAAAAAALsA/OspFYeXZyV0A4ZfQYBgmKDx_8P5DwXlVACK4BGAYYCw/s400/image-700665.png" style="border-style: solid; border-width: 0px; height: 71px; width: 389px;" /></a>​
+<a href="./MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037571178748130" src="https://2.bp.blogspot.com/-QGw7UtJk_As/WjE4PNQG2OI/AAAAAAAALsA/OspFYeXZyV0A4ZfQYBgmKDx_8P5DwXlVACK4BGAYYCw/s400/image-700665.png" style="border-style: solid; border-width: 0px; height: 71px; width: 389px;" /></a>​
 
 <br />
 <br />
@@ -314,7 +314,7 @@ The word move for this operation is a misnomer: it has little to do with the phy
 </div>
 <div>
 <div>
-<pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="color: black; text-align: center;"><a href="https://youtu.be/u9Dg-g7t2l4"><img alt="" id="BLOGGER_PHOTO_ID_6499037572656311282" src="https://1.bp.blogspot.com/-hD4fFKSOl9Y/WjE4PSwYq_I/AAAAAAAALsI/hHBOpChr9-EHqPt_-t_FuJxt-vDHiwuDgCK4BGAYYCw/s320/image-701098.png" style="border-style: solid; border-width: 0px; height: 195px; width: 214px;" /></a> <a href="http://suez.fromthemachine.org/HADID.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037573758480530" src="https://3.bp.blogspot.com/-IAj9-G9LJJM/WjE4PW3KcJI/AAAAAAAALsQ/dmAo6NaOVMMrYmHjXunTrJOcpR97qUJ3wCK4BGAYYCw/s320/image-701751.png" style="border-style: solid; border-width: 0px; height: 195px; width: 164px;" /></a></pre>
+<pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="color: black; text-align: center;"><a href="https://youtu.be/u9Dg-g7t2l4"><img alt="" id="BLOGGER_PHOTO_ID_6499037572656311282" src="https://1.bp.blogspot.com/-hD4fFKSOl9Y/WjE4PSwYq_I/AAAAAAAALsI/hHBOpChr9-EHqPt_-t_FuJxt-vDHiwuDgCK4BGAYYCw/s320/image-701098.png" style="border-style: solid; border-width: 0px; height: 195px; width: 214px;" /></a> <a href="./HADID.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037573758480530" src="https://3.bp.blogspot.com/-IAj9-G9LJJM/WjE4PW3KcJI/AAAAAAAALsQ/dmAo6NaOVMMrYmHjXunTrJOcpR97qUJ3wCK4BGAYYCw/s320/image-701751.png" style="border-style: solid; border-width: 0px; height: 195px; width: 164px;" /></a></pre>
 <pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="color: black; text-align: center;">
 </pre>
 <div style="text-align: left;">
@@ -352,7 +352,7 @@ The word move for this operation is a misnomer: it has little to do with the phy
 <pre id="m_6851278409561705055m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source"><span style="font-size: 10px;">
 </span></pre>
 </div>
-<pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="text-align: center;"><a href="http://suez.fromthemachine.org/MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037580067194306" src="https://3.bp.blogspot.com/-vqlsUitAsBo/WjE4PuXRxcI/AAAAAAAALsY/LpZ9Ku1y7z0JswNsg129xkSZusY6d2ZHwCK4BGAYYCw/s200/image-702509.png" style="border-style: solid; border-width: 0px; height: 137px; width: 157px;" /></a> <a href="http://heyad.reallyhim.com/"><img alt="" id="BLOGGER_PHOTO_ID_6499037584417730114" src="https://4.bp.blogspot.com/-YoXJQph7mDU/WjE4P-khrkI/AAAAAAAALsg/KK_JMmTAQBwlbjatYeTr7ADfoDhInVY-gCK4BGAYYCw/s320/image-703780.png" style="border-style: solid; border-width: 0px; height: 138px; width: 221px;" /></a>&nbsp;</pre>
+<pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="text-align: center;"><a href="./MUASEEKHART.html"><img alt="" id="BLOGGER_PHOTO_ID_6499037580067194306" src="https://3.bp.blogspot.com/-vqlsUitAsBo/WjE4PuXRxcI/AAAAAAAALsY/LpZ9Ku1y7z0JswNsg129xkSZusY6d2ZHwCK4BGAYYCw/s200/image-702509.png" style="border-style: solid; border-width: 0px; height: 137px; width: 157px;" /></a> <a href="http://heyad.reallyhim.com/"><img alt="" id="BLOGGER_PHOTO_ID_6499037584417730114" src="https://4.bp.blogspot.com/-YoXJQph7mDU/WjE4P-khrkI/AAAAAAAALsg/KK_JMmTAQBwlbjatYeTr7ADfoDhInVY-gCK4BGAYYCw/s320/image-703780.png" style="border-style: solid; border-width: 0px; height: 138px; width: 221px;" /></a>&nbsp;</pre>
 <pre id="m_3784541261231359445m_-6869223061647482846m_-7748271506845624302gmail-hterm:copy-to-clipboard-source" style="text-align: center;">
 </pre>
 </div>

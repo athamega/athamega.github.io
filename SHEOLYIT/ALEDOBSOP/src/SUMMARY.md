@@ -1,5 +1,6 @@
 # ALPHABET SOUP, AKA THE EWHODAM OF KABEL
 
+- [MALOVIOUS](./MALOVIOUS.md)
 - [ADAM](./ADAM.md)
 - [BIANCA](./BIANCA.md)
 - [DICK](./DICK.md)
@@ -17,3 +18,4 @@
 - [QUI](./QUI.md)
 - [XIRAM](./XIRAM.md)
 - [YW](./YW.md)
+- [RESWOH](./RESWOH.md)
