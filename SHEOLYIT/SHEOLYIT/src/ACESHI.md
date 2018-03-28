@@ -41,7 +41,7 @@
 <div><span style="font-family: &quot;arial black&quot; , sans-serif; font-size: x-large;"><a href="http://nity.s.lamc.la/"><img alt="" border="0" height="195" id="BLOGGER_PHOTO_ID_6511729718734113570" src="https://2.bp.blogspot.com/-Gn8ezVu6ygg/Wl5PrbaASyI/AAAAAAAAOhc/jKgyjSU3OQ0OoIrhXcwsJvu_UANcyLbGQCK4BGAYYCw/s400/Screenshot%2B2018-01-16%2Bat%2B9.03.07%2BAM-720841.png" width="400" /></a></span></div>
 
 <div>
-<div style="color: #333333; font-family: &quot;Open Sans&quot;,sans-serif; font-size: 16px;"><a href="http://wick.s.lamc.la/"><img alt="Related image" height="160" src="https://s-media-cache-ak0.pinimg.com/736x/ec/59/42/ec5942ce0e99106f46e943b70ed1a20c.jpg" style="max-width: 100%;" width="108" /></a><a href="http://key.s.lamc.la/"><img alt="Image result for stewie" height="120" src="https://vignette.wikia.nocookie.net/familyguy/images/7/72/Stewie_Griffin.jpg/revision/latest?cb=20130812175654" style="max-width: 100%;" width="107" /></a></div>
+<div style="color: #333333; font-family: &quot;Open Sans&quot;,sans-serif; font-size: 16px;"><a href="http://wick.s.lamc.la/"><img alt="Related image" height="160" src="https://s-media-cache-ak0.pinimg.com/736x/ec/59/42/ec5942ce0e99106f46e943b70ed1a20c.jpg" style="max-width: 100%;" width="108" /></a><a href="http://key.s.lamc.la/"><img alt="Image result for stewie" height="120" src="./stewie.jpg" style="max-width: 100%;" width="107" /></a></div>
 
 <div style="color: #333333; font-family: &quot;Open Sans&quot;,sans-serif; font-size: 16px;">&nbsp;</div>
 
