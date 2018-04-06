@@ -1,5 +1,0 @@
-#!/bin/bash
-
-for file in *.md; do
-echo "- [$file](./$file)" >> SUMMARY.md
-done

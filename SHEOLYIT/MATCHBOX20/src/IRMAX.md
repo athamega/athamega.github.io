@@ -1,1 +1,0 @@
-# IRMAX.md
