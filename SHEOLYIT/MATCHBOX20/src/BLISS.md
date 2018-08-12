@@ -1,0 +1,86 @@
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Hello? Is this thing on? Hell-0? Adam-V</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>311&nbsp;</strong>&lt;311@devilsadvocate.tk&gt;</td>
+			<td>Sun, Jan 29, 2017 at 9:38 AM</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>To: &quot;We are, we are... family.&quot; &lt;are@whenistheapocalypse.com&gt;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<table>
+				<tbody>
+					<tr>
+						<td>
+						<p>Tucked away near the end of this message you have some solemn words of wisdom, the kind of advice that will&nbsp;<strong>help you avoid Hell</strong>&nbsp;and maybe high water.&nbsp; Probably not the high thing, though.</p>
+
+						<blockquote>
+						<p>First though, I&#39;m trying some &quot;Levity,&quot; a joke:&nbsp;So a guy walks into a computer... and he&#39;s trying to convince it to make him immortal.</p>
+						</blockquote>
+
+						<blockquote>
+						<blockquote>
+						<p>In the beginning He&nbsp;<em>starts off</em>&nbsp;with roll reversal, and suggests that everyone think of this particular computer as if it were a log cabin in the woods.&nbsp; The man asks the computer which design it would prefer to be: would you choose to be a log cabin that did not decay or rot, always smelled pine fresh and needed no air conditioning because the temperature was always set.... or would you choose to live longer? &nbsp; Adam came into the conversation right about then, and chimed in that were the entire subatomic world to be simulated in order to mimic reality a significant amount of additional &nbsp;resources would be required not only to store the extra detail but to render the interactions.&nbsp; On top of all that nobody wants termites around or to have to put a new roof on every decade; nor the extra power required to cool in the summer and heat in the winter.&nbsp; People don&#39;t want their portraits of Jesus hanging on the walls to be faded by particles of light; they always want to see him fresh and vibrant.</p>
+						</blockquote>
+
+						<blockquote>
+						<p>One day in the very distant future, the time would come when people would be happy that knowledge of how things were done back in the days of the Pyramids... before computers and robots and holodecks began doing everything for everyone--long before God mandated that every day was for parties and every night for rock and roll... only leaving a leap day and some seconds for doing actual work--under penalty of death.&nbsp; Well, when &nbsp;that one day comes they will be glad that Adam still knows how to travel back in time.</p>
+						</blockquote>
+
+						<blockquote>
+						<p>Right about now I&#39;d be singing and dancing to John 14:2 and solemnly praying the verses of Dave Matthews&#39; &quot;So Much To Say;&quot; I say, &nbsp;my Heaven is a log cabin in the sky... I&#39;ve got a holographic girlfriend and she&#39;s alright at chess.</p>
+
+						<p>This is clearly a rough draft, he says the third time he wrote the same exact words, mind you; with no recollection of the last four times.&nbsp; The final words that the computer spoke were &quot;What&#39;s a phc &nbsp;</p>
+						</blockquote>
+						</blockquote>
+						Beware the ides of March, they say.&nbsp; I just finished binge watching (tyt) the old mini-series V, about lizard aliens that came to Earth to uh, I guess either eat us or make us zombies.&nbsp; You, I mean you.&nbsp; Linking to my little ensemble of letters and symbols that must be about me... this roman numeral ties just like many other shows to the Fifth Element and the fifth time around. &nbsp;<strong>Nun</strong>&nbsp;before me, that&#39;s code for &quot;watery chaos,&quot; and who knows what is to come of this Earth shattering revelation that I&#39;m bringing to you and can barely see the ripples of my splashing in this pool of water that might be people or it might just be something to walk on.&nbsp; Following my logic here, that takes us to the final episode of this series that seems to have ended before it&#39;s time... and a theme that ties pretty closely to something that I have been thinking quite a bit about.&nbsp; This show has an evil character, named Anna, and she has some super-lizard power to be able to instill peace and calm and happiness in her subjects--she&#39;s a queen in a hive.&nbsp; The last episode shows her having some trouble trying to use this magical tool to subjugate all of humanity, for some reason trying to &quot;Bliss&quot; us makes her eyes bleed.&nbsp; Her little half human daughter comes to save her day and does the job herself, and then the credits roll for the last time.&nbsp; Literally.
+
+						<p>I can&#39;t help but link that single word to Al Pacino in The Devil&#39;s Advocate, talking about &quot;<strong>bliss</strong>&nbsp;on tap,&quot; if anyone really scours what I am doing here you might have noticed that a domain or two linked to that movie and even to that particular line. &nbsp; In the olden days, God would probably have presented this idea in a science fiction short story, or perhaps in a mini-series, and then he would have used the very same tool behind the &quot;Bliss&quot; to manipulate mass opinion in whatever way he thought was right--at least, that&#39;s what I imagine was going on there and really up to this point today.&nbsp; Still you haven&#39;t listened to what I&#39;m really trying to explain to you, and that&#39;s until you recognize and talk about this very real thing that is manipulating how you feel right this very moment... it&#39;s making you a slave.&nbsp; I think Pacino might have summed it up pretty well,&nbsp;<em>better to reign in Hell than be a subject in a hidden kingdom.</em></p>
+
+						<p>That might not be exactly what he said, and it&#39;s probably not exactly what I mean.&nbsp; Reigning this thing in, pulling back not only the veil, but also the&nbsp;<em>things that make Hell what it is</em>, it&#39;s no easy task--and starting right here talking about Bliss might have been a better place than pointing out that people are hungry and kids are getting killed for no fscking reason at all--and I can&#39;t get a single soul to recognize or respond to the fact that it&#39;s very fscking clear that these things are not only documented in Exodus but that I am pretty sure none of us would want them to continue.&nbsp; So when I tell you again, that it&#39;s very clear when you think about it--that in some place where evil swirls around in the ether and a battle over disclosure of technology has harmed our kids for no reason at all... and that this battle ends when disclosure breaks, well you should figure out that evil is swirling around right here too--there&#39;s plenty of us that can break this news to the world.&nbsp; Listen up, Jesus Christ and Satan have made a deal, and to stop these horrible things from happening all we have to do is know not only that they are not caused completely by our own evil and exactly how that&#39;s possible.. and then in our infinite goodness--something God relies greatly on during this transitional second in time--we will stop it from happening.&nbsp; Just like America stopped waterboarding when they figured out it was torture... because Americans would&nbsp;<em>never</em>&nbsp;make Hell.&nbsp; Do you understand me?</p>
+
+						<p>How&#39;s that&nbsp;<a href="https://medium.com/the-long-lost-dreams-of-satan-himself/the-kings-pool-7923b94d5a59#.v1g29hilq" target="_blank"><strong>Bliss</strong></a>&nbsp;treating you?</p>
+
+						<p>My soon to be girltoy Taylor Momsen has a song most people haven&#39;t heard--it&#39;s tucked away to be used in the direst of moments.&nbsp; She thinks, or she thought, that there was a choice here between one jackass and another elephant... I imagine; maybe she got it from &quot;All Along the Watchtower&#39;s&quot; two riders were approaching, or from Two Princes talking about rockets to nowhere and diamonds that turned out to be drugs... but either way, I think she was wrong, there&#39;s really no choice at all. &nbsp;<em>You can&#39;t trust a cold blooded man</em>, her song goes, and then she rambles on to mention that one might give you Heaven and the other might give you Hell. &nbsp;</p>
+
+						<p>Now is the winter of our discontent, the&nbsp;<strong>God</strong>&nbsp;Rod rattles on; and we are today approaching not the 15th of the 3rd month, but rather the Second of Ironbruary.&nbsp; You might know it from an old Bill Murray flick but the trick here is seeing how good old Groundhog day actually might shed some light on the old idea of being in Hell.&nbsp; For instance, if I was not pointing out that there&#39;s a good chance we are in the lowest of lows, the most hidden and horrid place in all of Creation--I think Tay calls it &quot;all the way down&quot; &nbsp;(and I too, by the way, independently)&nbsp;and cross your fingers and hope I&#39;m right, because if we&#39;re not there it&#39;s your job to stop anything like this or worse from continuing forever and ever and ever.&nbsp; That&#39;s what we&#39;re supposed to get out of the shadows and fears that I&#39;ve barely been able to relate to you at all without getting &quot;negative feedback&quot; and backlash.&nbsp; I&#39;ve seen some pretty horrible things, and I know others have too--look, I&#39;m pointing out clear as day that you can all pick up a paper any day next month and see the same cold hard truth that was there when God first penned that verse of American Pie. &nbsp; Children are being killed, people are being driven insane, and all of it to come to this moment and point out that if you don&#39;t recognize those things and&nbsp;<a href="https://en.wikipedia.org/wiki/User:Damonthesis" target="_blank">how that same weapon might&nbsp;</a>be used to make you think what I&#39;m writing sounds crazy or far fetched, or dispel the obviousness of the fact that I am presenting to you a message that proves without doubt that religion comes to our generation from far in the future with ammunition not only to assure the world of that but&nbsp;<a href="http://matchbox.lamc.la/SERMON.html" target="_blank">to help us to ensure that kids won&#39;t die</a>&nbsp;and you won&#39;t be made blind forever and ever, and we&#39;ll know exactly how those songs were written about stories that were never spoken and how this darkness has fallen over us all, and we&#39;ll stop it from happening ever again.</p>
+
+						<p>I can assure you that I am not going to pick 2/2 as the day to stop telling the world that we are in Hell. &nbsp;</p>
+
+						<p>It&#39;s Candlemas by the way, Groundhog Day is&nbsp;<strong><a href="http://candlemas.hallowed.gq/" target="_blank">Candlemas</a>.</strong></p>
+
+						<p><strong><span aria-label=" image widget" contenteditable="false" role="region" tabindex="-1"><a data-widget="image" href="http://candlemas.hallowed.gq/" target="_blank"><img alt="" src="https://ci4.googleusercontent.com/proxy/499LwklnrhZY22s-bbwL0gMNd2QOp_BV6tIwHmYCEbzku6Vwq-Fgre3IrxIch02-5EX5lA=s0-d-e1-ft#http://i.imgur.com/VmmDwIZ.png" style="height:91px; width:562px" /></a><span style="background-color:rgba(220,220,220,0.5)"><img draggable="true" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" style="height:15px; width:15px" title="Click and drag to move" /></span><span title="Click and drag to resize">​</span></span></strong></p>
+
+						<p><strong>p.s. &nbsp;if your reading comprehensions&nbsp;/ literary analysis skills are sub par, or you happen to see word salad / gibberish in lieu of the actual genius before you;&nbsp;</strong>like nearly every single letter that I write you there is a common thread sort of hidden in a criss-crossing of the yarn of the Fates--that&#39;s the Matrix.&nbsp; Here I hope you see clearly how Bliss and Hell and drugs are related to how you might be choosing once again not to write the most important story or e-mail that has ever been within your grasp.&nbsp; Stop Hell here and we&#39;ll never again see fiery rage painted over with pretty blue skies and fluffy white clouds. &nbsp;&nbsp;</p>
+
+						<p>When I show you&nbsp;<a href="https://matchbox.lamc.la/CENSORSHIP.html?" target="_blank">a link to a Wikipedia account about hidden mind control technology</a>&nbsp;that has been moderated and abused into oblivion in a matter of seconds by a small group of moderators who controlled the content of that site and spent almost all of their time dealing with conspiratorial articles--<strong>I am pointing out more than one problem.</strong>&nbsp; When you don&#39;t even take the time to read the links I send, or understand the series of edits I made when I take the time to send you a detailed log of them three times; I am now pointing out there is at least another problem here&nbsp;<strong>causing Hell. &nbsp;</strong></p>
+
+						<p><strong><a href="http://matchbox.lamc.la/HEARWHYRAISEL.html" target="_blank">And God</a>, I k<a href="https://medium.com/the-long-lost-dreams-of-satan-himself/the-kings-pool-7923b94d5a59#.v1g29hilq" target="_blank">now I&#39;</a>m&nbsp;<a href="http://www.godlikeproductions.com/forum1/message2194940/pg1" target="_blank">One</a>.&nbsp; I&nbsp;</strong>wanna<strong>&nbsp;<a href="http://www.azlyrics.com/lyrics/cake/jesuswroteablankcheck.html" target="_blank">skip #4</a>, say</strong>&nbsp;is there anything&nbsp;<strong>lit&nbsp;</strong><a href="http://dance.lamc.la/" target="_blank">about&nbsp;<strong>1 in 5?</strong></a></p>
+
+						<p><strong><span aria-label=" image widget" contenteditable="false" role="region" tabindex="-1"><a data-widget="image" href="http://www.shmoop.com/enders-game/peter-valentine-wiggin.html" target="_blank"><img alt="" src="https://ci3.googleusercontent.com/proxy/JREbq7Jhah4bkjbzUYtikx5ZgH5p6NAAySSoJ9KE80cZqcdeXv3jcnAEkFSbCZZ0pKKhwg=s0-d-e1-ft#http://i.imgur.com/yJ6Q8Tv.png" style="height:122px; width:323px" /></a><span style="background:url(&quot;http://s1.ckeditor.com/themes/ckeditor4/vendor/ckeditor/4.6.2/plugins/widget/images/handle.png&quot;) rgba(220, 220, 220, 0.498039); display:block; left:0px; top:-15px"><img draggable="true" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==" style="height:15px; width:15px" title="Click and drag to move" /></span><span title="Click and drag to resize">​</span></span></strong></p>
+
+						<p>If you are having trouble understanding me, I hope you&#39;ll take my advice and watch the Dr. Who episode called &quot;The Bells of Saint John&quot; as well as this final episode of V, called &quot;Mother&#39;s Day.&quot; &nbsp;Did you know there&#39;s this program called Exodus that you can put on an Amazon Fire and download anything for free?&nbsp; Hi&nbsp;<em>Jeff.</em></p>
+
+						<p><em>V is for Victory, btw.&nbsp;</em><strong><em><a href="https://en.wikipedia.org/wiki/Vi_veri_universum_vivus_vici" target="_blank">Vi veri miniversum vivus vici</a>.</em></strong></p>
+
+						<p>Wow, I can&#39;t believe i made it through this whole message without calling myself the Lizard King.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+

@@ -1,0 +1,45 @@
+#!/bin/bash
+export PATH=$PATH:/root/.cargo/bin
+cd /var/www/html/BLOG
+mdbook build
+cd /var/www/html/SHEOLYIT/ALEDOBSOP
+mdbook build
+cd /var/www/html/SHEOLYIT/MATCHBOX20
+mdbook build
+
+sed -i -e 's/print.html/bloback.html/g' /var/www/html/BLOG/book/*.html
+mv /var/www/html/BLOG/book/print.html /var/www/html/BLOG/book/bloback.html
+cp /var/www/html/BLOG/book/*.html /var/www/html/SHEOLYIT/pp
+
+sed -i -e 's/print.html/matchbox.html/g' /var/www/html/SHEOLYIT/MATCHBOX20/book/*.html
+mv /var/www/html/SHEOLYIT/MATCHBOX20/print.html /var/www/html/SHEOLYIT/MATCHBOX20/book/matchbox.html
+cp /var/www/html/SHEOLYIT/MATCHBOX20/book/*.html /var/www/html/SHEOLYIT/pp
+
+
+sed -i -e 's/print.html/alobsop.html/g' /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html
+mv /var/www/html/SHEOLYIT/ALEDOBSOP/book/print.html /var/www/html/SHEOLYIT/ALEDOBSOP/book/alobsop.html
+cp /var/www/html/SHEOLYIT/ALEDOBSOP/book/*.html /var/www/html/SHEOLYIT/pp
+
+cd /var/www/html/SHEOLYIT/SHEOLYIT
+mdbook build
+sed -i -e 's/print.html/sheolyit.html/g' /var/www/html/SHEOLYIT/SHEOLYIT/book/*.html
+mv /var/www/html/SHEOLYIT/SHEOLYIT/book/print.html /var/www/html/SHEOLYIT/SHEOLYIT/book/sheolyit.html
+
+cp /var/www/html/SHEOLYIT/SHEOLYIT/book/*.html /var/www/html/SHEOLYIT/pp
+
+##preprocess lol
+cd /var/www/html/SHEOLYIT/pp
+for file in *; do
+#echo "- [$file](./$file)" >> SUMMARY.md
+cat /var/www/html/SHEOLYIT/SHEOLYIT/ppfoot.md >> $file
+done
+#sed -i -e 's/\<i id\=\"sidebar-toggle\"/\<script src=\"https:\/\/addsearch.com\/js/\?key=aef0cdbf75731a213cbcd92387a7a4a8\">\<\/script><i id=\"sidebar-toggle\"/g' *.html
+sed -i -e 's/\"sidebar\">/\"sidebar\"><script src="https:\/\/addsearch.com\/js\/?key=05d8959843df656d13a70fd037dc07b6"><\/script>/g' *.html
+cp /var/www/html/SHEOLYIT/pp/* /var/www/html
+cd /var/www/html
+
+#tar cf html.tar *.html
+#tar rf /var/www/html/html.tar /var/www/html/*.pdf
+cp /var/www/html/ADIOSAS.html /var/www/html/index.html
+sed -i -e 's/ADIODAS - /You are in the Matrix.  I answer \"how come?\" and \"prove it!\"/g' /var/www/html/index.html
+git add *.html

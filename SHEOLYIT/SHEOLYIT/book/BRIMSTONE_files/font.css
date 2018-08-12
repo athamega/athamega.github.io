@@ -1,0 +1,16 @@
+/* fallback */
+
+@font-face {
+  font-family: 'Streak Icons';
+  font-style: normal;
+  font-weight: 400;
+  src:  url('https://mailfoogae.appspot.com/style/font/font.eot');
+  src:  url('https://mailfoogae.appspot.com/style/font/font.woff') format('woff'),
+        url('https://mailfoogae.appspot.com/style/font/font.svg') format('svg'),
+        url('https://mailfoogae.appspot.com/style/font/font.eot') format('embedded-opentype'),
+        url('https://mailfoogae.appspot.com/style/font/font.ttf') format('truetype');
+}
+
+.streak-icons.streak-icons {
+  font-family: 'Streak Icons';
+}
