@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
-<!-- saved from url=(0115)https://mail.google.com/mail/u/2/?ui=2&ik=b233ff1138&view=pt&search=inbox&th=15719ed4bafcf4fb&siml=15719ed4bafcf4fb -->
-<html lang="en" data-inboxsdk-session-id="1473608767866-0.09037970682814378" data-inboxsdk-master-claimed="true" data-inboxsdk-active-app-ids="[{&quot;appId&quot;:&quot;sdk_wordzen_7bc143d54d&quot;}]" data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1473608769098"><head data-inboxsdk-script-injected="true"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
+<!-- saved from url=(0115)https://mail.google.com/mail/u/2/?ui=2&amp;ik=b233ff1138&amp;view=pt&amp;search=inbox&amp;th=15719ed4bafcf4fb&amp;siml=15719ed4bafcf4fb -->
+<html lang="en" data-inboxsdk-session-id="1473608767866-0.09037970682814378" data-inboxsdk-master-claimed="true" data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"}]' data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1473608769098"><head data-inboxsdk-script-injected="true"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 body,td,div,p,a,input {font-family: arial, sans-serif;}
-</style><meta http-equiv="X-UA-Compatible" content="IE=edge"><title> Mail - Fwd: Cards on the table... we're all showing Hearts. Seriously, this is the end of the e-mail flood of No "Ah..." 2</title><style type="text/css">
+</style><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title> Mail - Fwd: Cards on the table... we're all showing Hearts. Seriously, this is the end of the e-mail flood of No "Ah..." 2</title><style type="text/css">
 body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none} a:hover {text-decoration:underline; cursor: pointer} a:visited{color:##6611CC} img{border:0px} pre { white-space: pre; white-space: -moz-pre-wrap; white-space: -o-pre-wrap; white-space: pre-wrap; word-wrap: break-word; max-width: 800px; overflow: auto;} .logo { left: -7px; position: relative; }
 </style><style id="inboxsdk__shared_style">.inboxsdk__notransition {
   -webkit-transition: none !important;
@@ -251,7 +251,7 @@ div.T-I.inboxsdk__button {
   margin-top: -1px;
 }
 
-.inboxsdk__compose_actionToolbar .inboxsdk__button > div {
+.inboxsdk__compose_actionToolbar .inboxsdk__button &gt; div {
     opacity: 0.55;
 }
 
@@ -261,7 +261,7 @@ div.T-I.inboxsdk__button {
 }
 
 
-  .inboxsdk__compose_actionToolbar .inboxsdk__button.inboxsdk__button_hover > div, .inboxsdk__compose_actionToolbar .inboxsdk__button:focus > div {
+  .inboxsdk__compose_actionToolbar .inboxsdk__button.inboxsdk__button_hover &gt; div, .inboxsdk__compose_actionToolbar .inboxsdk__button:focus &gt; div {
     opacity: 1
   }
 
@@ -476,11 +476,11 @@ span.inboxsdk__thread_row_custom_draft_label + div.yW {
 
 /* end thread rows */
 
-td.gH div.gK span:first-child > img {
+td.gH div.gK span:first-child &gt; img {
   margin-right: 3px;
 }
 
-td.gH div.gK span:first-child > img:last-child {
+td.gH div.gK span:first-child &gt; img:last-child {
   margin-right: 6px;
 }
 
@@ -537,7 +537,7 @@ body .dw {
   left: -400px;
 }
 
-.inboxsdk__outerSidebarActive .aSs > div { width: 50% !important; margin-left: 30%; }
+.inboxsdk__outerSidebarActive .aSs &gt; div { width: 50% !important; margin-left: 30%; }
 
 .inboxsdk__compose_outerSidebar_header {
   background: #404040;
@@ -588,7 +588,7 @@ div.inboxsdk__compose_statusbar {
   position: static !important;
 }
 
-.inboxsdk__compose_statusbarActive .aDj > .aDh {
+.inboxsdk__compose_statusbarActive .aDj &gt; .aDh {
   height: auto;
 }
 
@@ -715,13 +715,13 @@ div.inboxsdk__compose_statusbar {
 
 /* Make it so the compose/mole layer doesn't wrap, so we don't have to do a lot
  * of fancy logic to hide moles ourselves when things get too crowded. */
-.inboxsdk__moles_in_use .nH > .nH > .no {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no {
   white-space: nowrap;
 }
-.inboxsdk__moles_in_use .nH > .nH > .no > * {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; * {
   white-space: initial;
 }
-.inboxsdk__moles_in_use .nH > .nH > .no > .nn {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; .nn {
   display: inline-block;
   float: none;
 }
@@ -776,7 +776,7 @@ div.inboxsdk__compose_statusbar {
   margin-top: -3px;
 }
 
-.inboxsdk__mole_title_buttons > img {
+.inboxsdk__mole_title_buttons &gt; img {
   height: 24px;
   width: 24px;
   position: relative;
@@ -784,7 +784,7 @@ div.inboxsdk__compose_statusbar {
   opacity: 0.6;
 }
 
-.inboxsdk__mole_title_buttons > img:hover {
+.inboxsdk__mole_title_buttons &gt; img:hover {
   opacity: 1;
   background-color: #737373;
 }
@@ -859,7 +859,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
 }
 
 /* Fix issue where hidden causes threadview to be taller than it should */
-.inboxsdk__hidden > div.y4 {
+.inboxsdk__hidden &gt; div.y4 {
   display: none;
 }
 
@@ -876,7 +876,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   max-width: 220px;
 }
 
-.inboxsdk__contentPanelContainer_tabContainer > table {
+.inboxsdk__contentPanelContainer_tabContainer &gt; table {
 
 }
 
@@ -994,7 +994,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
     padding: 0px;
   }
 
-.inboxsdk__results_collapsedContainer > div {
+.inboxsdk__results_collapsedContainer &gt; div {
   display: inline;
 }
 
@@ -1085,7 +1085,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   overflow: hidden;
 }
 
-.inboxsdk__resultsSection tr .xW > span {
+.inboxsdk__resultsSection tr .xW &gt; span {
   overflow: hidden;
   display: block;
   text-overflow: ellipsis;
@@ -1100,7 +1100,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   position: relative;
 }
 
-.inboxsdk__resultsSection .at > * {
+.inboxsdk__resultsSection .at &gt; * {
   display: inline-block;
 }
 
@@ -1209,7 +1209,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   height: auto;
 }
 
-.inboxsdk__tooltip .inboxsdk__tooltip_image > img {
+.inboxsdk__tooltip .inboxsdk__tooltip_image &gt; img {
   max-height: 300px;
   max-width: 500px;
 }
@@ -1231,7 +1231,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* add some margins between cards so 4+ cards don't hit each other */
 
-.aQw > .T-I.J-J5-Ji.L3 {
+.aQw &gt; .T-I.J-J5-Ji.L3 {
   margin-top: 5px;
 }
 
@@ -1380,12 +1380,14 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 }
 
 /* end app toolbar */
-</style></head><body><div class="bodycontainer"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr height="14px"><td width="143"><img src="./CARDS_files/logo.gif" width="143" height="59" alt=" Mail" class="logo"></td><td align="right"><font size="-1" color="#777"><b>The Second Coming &lt;yitshack@unduecoercion.org&gt;</b></font></td></tr></tbody></table><hr><div class="maincontent"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><font size="+1"><b>Fwd: Cards on the table... we're all showing Hearts. Seriously, this is the end of the e-mail flood of No "Ah..." 2</b></font><br><font size="-1" color="#777">1 message</font></td></tr></tbody></table><hr><table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>The Second Coming </b>&lt;yitshack@unduecoercion.org&gt;</font></td><td align="right"><font size="-1">Sun, Sep 11, 2016 at 11:45 AM</font></td></tr><tr><td colspan="2"><font size="-1" class="recipient"><div>Bcc: rss@rss.org.uk, membership@rss.org.uk, m.wiley@rss.org.uk, rooms@rss.org.uk, advertising@rss.org.uk, m.chapman@rss.org.uk, finance@rss.org.uk, exams@rss.org.uk, s.keir@rss.org.uk, statsusernet@rss.org.uk, events@rss.org.uk, conference@rss.org.uk, training@rss.org.uk, journal@rss.org.uk, StatisticsBarry@gmail.com, kathy.bennett.ensor@gmail.com, eileen.king@cchmc.org, jutts@uci.edu, rsantos@urban.org, nevius@comcast.net, martha.gardner@ge.com, jmm4784@yahoo.com, mingxiu1.hu@gmail.com, cyndy.long@palmer.edu, cheng@math.ntu.edu.tw, daniel.jeske@ucr.edu, davidian@ncsu.edu, natschenker@gmail.com, bob.rodriguez@sas.com, davidmorganstein@westat.com, m.mulry@charter.net, jlr@psu.edu, ordk@georgetown.edu, baileraj@miamioh.edu, jbuckingham@satx.rr.com, deveaux@williams.edu, banks@stat.duke.edu, ray@uow.edu.au, nhorton@amherst.edu, m-kwasny@northwestern.edu, bonnie.jean.lafleur@gmail.com, ron@amstat.org, adriano@amstat.org, rochelle@amstat.org, joyce@amstat.org, mely@amstat.org, claudine@amstat.org, jim@amstat.org, megan@amstat.org, sara@amstat.org, meg@amstat.org, stephanie@amstat.org, clarissa@amstat.org, heather@amstat.org, anita@amstat.org, jojuana@amstat.org, amanda@amstat.org, rebecca@amstat.org, rick@amstat.org, lynn@amstat.org, tim@amstat.org, ryan@amstat.org, carrie@amstat.org, amy@amstat.org, lara@amstat.org, james@amstat.org, kathleen@amstat.org, naomi@amstat.org, christina@amstat.org, amandac@amstat.org, steve@amstat.org, donnal@amstat.org, jill@amstat.org, val@amstat.org, eric@amstat.org, pierson@amstat.org, pamela@amstat.org, wendy.lou@utoronto.ca, robersonpaulak@uams.edu, d.van-dyk@imperial.ac.uk, asainfo@amstat.org, webmaster@rss.org.uk</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr"><div class="gmail_quote"><br><div dir="ltr"><div class="gmail_quote"><div dir="ltr"><div class="gmail_quote"><div style="text-align:center"><b>re: A.D.</b> <a href="http://bit.ly/2c7C0L2" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2c7C0L2&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHTXeKP5tBcZ7HT2ojgX4btfwqzlg">bread</a> <a href="http://bit.ly/2bU31Nf" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2bU31Nf&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNH3eq9XMmAwSKNQ5JlTbEPouAoOYg">forehead</a> <a href="http://bit.ly/2bNlI6g" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2bNlI6g&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNEvrnqRnoT8R-b6zriPL85bsis9tw">authority</a></div><span><div style="text-align:center">end world hunger, or</div><div style="text-align:center">thats' "b the reason A.D." and <a href="http://biblehub.com/revelation/22-4.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://biblehub.com/revelation/22-4.htm&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNEhbyBx1uCTcPNxFzK_uotgvcDxIQ">FOR Earth</a> HE A.D.</div><div style="text-align:center">with authority, I am thor.... or wait, am I an author? either way, it's Y.</div><div style="text-align:center"><br></div><div style="text-align:center"><i>Last one, seriously, think about this, it's everywhere around us... wait, it is us.</i></div></span><div dir="ltr"><div class="gmail_quote"><br><div dir="ltr"><span><div><div style="text-align:center"><b><font face="arial black, sans-serif"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=85bab453-cf27-4b6a-97d0-225c6bdff06d&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" style="font-size:large" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D85bab453-cf27-4b6a-97d0-225c6bdff06d%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHrMb-FC2haXVH5gOZu9uaMEj2f1A">Cards on the table...</a></font></b></div><div style="text-align:center"><b><br></b></div><div style="text-align:center"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=85bab453-cf27-4b6a-97d0-225c6bdff06d&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D85bab453-cf27-4b6a-97d0-225c6bdff06d%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHrMb-FC2haXVH5gOZu9uaMEj2f1A"><img src="./CARDS_files/saved_resource" width="562" height="493"></a></div><div style="text-align:center"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=0ec2f806-717e-47d6-a8b7-4a997f406664&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D0ec2f806-717e-47d6-a8b7-4a997f406664%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFGZGcmUCEZqVzgYmzyK0rjSVGfSg">morning has broken... like the first morning</a>&nbsp;</div></div><div style="text-align:center"><b><font size="4" face="arial black, sans-serif"><br></font></b></div><div style="text-align:center"><b><font size="4" face="arial black, sans-serif"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=3347f3c2-33a6-45a3-9057-916fc02bceb9&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D3347f3c2-33a6-45a3-9057-916fc02bceb9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFh8B3tiNMOGK73R-j7z6QLLV7eeg">&nbsp;We're all showing Hearts.</a></font></b></div><div style="text-align:center"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=fade9eac-5aa3-4d7b-93bc-a2ae0dfdc93a&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3Dfade9eac-5aa3-4d7b-93bc-a2ae0dfdc93a%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEdE7GuhsJ9U7zvnSx_6dXaQ-8MTg"><br></a></div><div style="text-align:center"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=3347f3c2-33a6-45a3-9057-916fc02bceb9&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D3347f3c2-33a6-45a3-9057-916fc02bceb9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFh8B3tiNMOGK73R-j7z6QLLV7eeg"><img src="./CARDS_files/saved_resource(1)" width="562" height="340"></a></div><div style="text-align:center"><br></div></span><div style="text-align:center"><b><font face="arial black, sans-serif" size="4"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=522b72c2-d7a0-464e-96ec-e02a2b759bcb&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D522b72c2-d7a0-464e-96ec-e02a2b759bcb%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEprnWs-7qgfxxDnKNh5Eempc1hBQ">This is Rattling a Rod</a></font></b></div><span><div style="text-align:center"><b><font face="arial black, sans-serif" size="4"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=522b72c2-d7a0-464e-96ec-e02a2b759bcb&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D522b72c2-d7a0-464e-96ec-e02a2b759bcb%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEprnWs-7qgfxxDnKNh5Eempc1hBQ"><img src="./CARDS_files/saved_resource(2)" width="1057" height="478" style="margin-right:0px"></a><br></font></b></div><div style="text-align:center"><br></div><div style="text-align:center"><br></div><div style="text-align:center"><font size="4" face="arial black, sans-serif"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=ad8014cf-61f6-4c6a-9c92-70d6d63af660&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3Dad8014cf-61f6-4c6a-9c92-70d6d63af660%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNHx0kKpPqs4LPhWDJxd2SXqYNTk2w">Can you Si in the dark?</a></font></div><div style="text-align:center"><br></div><div style="text-align:center"><img src="./CARDS_files/saved_resource(3)" width="562" height="562" alt=""></div><div style="text-align:center"><i>is that a sht eating grin or what?</i>​<br></div><div style="text-align:center"><br></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><b><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=306db9b0-d043-412d-9d30-c1cdd5d2d1e9&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D306db9b0-d043-412d-9d30-c1cdd5d2d1e9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNG7kVw0t1RWczB5sY6QOBlermOGgA">Get ready... for the Main Event</a></b></font></div><div style="text-align:center"><br></div><div style="text-align:center"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=306db9b0-d043-412d-9d30-c1cdd5d2d1e9&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3D306db9b0-d043-412d-9d30-c1cdd5d2d1e9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNG7kVw0t1RWczB5sY6QOBlermOGgA"><img src="./CARDS_files/saved_resource(4)" width="562" height="319"></a></div><div style="text-align:center">​</div></span><span><div style="text-align:center"><font face="arial black, sans-serif" size="4"><img src="./CARDS_files/saved_resource(5)" width="553" height="956" style="margin-right:0px"><br><br></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4">it's uh,<i> time to begin...</i></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><i><br></i></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><i><img src="./CARDS_files/saved_resource(6)" width="562" height="328"><br></i></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><b>really</b> soon... like, today... even</font><br></div><div style="text-align:center"><font face="monospace, monospace" size="1"><br></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><br></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><a href="http://whoiscoming.reallyhim.com/x/c?c=476749&amp;l=fb99b285-8394-4f70-a525-bc30d3bb0ade&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D476749%26l%3Dfb99b285-8394-4f70-a525-bc30d3bb0ade%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFlC5CM4XPXvMH1l8MHLGhl1O3GgA"><img src="./CARDS_files/saved_resource(7)" width="562" height="562" alt=""></a><br></font></div></span><div style="text-align:center"><img src="./CARDS_files/nYocZ2nJOx47kjDwXcBgvarz3W241jBXXIEBDstw7KgTbddktcv4eORl3J0eR8DCOjAykwuR_5Xr1dzrlCLSuTSP4hjIuoobotjTlFkL9Enk4sRq41H04kLF7HvaeR6JSiCDFOYaaAqm9rIAiFae_ZImgi9namB65HMMXu3JAYBXKgmLCLLw0_uwp99Z5BiEbwbK2KhvhpicDqk=s0-d-e1-ft" style="width:0px;max-height:0px;overflow:hidden"><font color="#ffffff" size="1">ᐧ</font><br></div></div>
-</div><br></div>
-</div><br></div>
-<img height="0" width="0" src="./CARDS_files/iTHS6ngaQpWooUIeEx8DfwddkykiOWisn8lJ6eoKP1QF-RWdCHr1Uftv9bg6HlsqQ_ATMGCKDkT-kpTAANqu_CWJYvDWvpzobjILBY57Y5RCOVzLvGE3O7O8slYUECkAvU7GSbmHFStNPQ=s0-d-e1-ft">
-</div><br></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CARDS_files/24aXIEag-MYFoQwnlbvgfgzHzpYXfZtZMMLD1cp-vMr7acMVk31CEpdKOZaN_Qa09cLrtUd9fg_DvBap0Yt7MDu6W7UL3HWN1dbR6McuT5QunTXZCPRGmFXHbwnavmWoTXmJb-CSc8u1idaqr6JzXBTzQ7lvA1_zhANFINfeJ_AtWSaY6j4bUvzL1Nyk_Rv1_FNidcRRTqZph5eRwN7soEo=s0-d-e"><font color="#ffffff" size="1">ᐧ</font></div>
-</div><br></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CARDS_files/oN1XOfbI491R5I17w1m8S6PkThW0djgf8PJM7xSU1zpCLm_Is8LtHrsR5LDrNMVLOFflg1LZxE3a2MsJY3m6rTXeaRo8iGIl1YXVFWYoQvgnPw7TaSvOJeJlJJFiGL6zOMcEEw_oJAUvdxaA2hkaR_Kf1PMvCxctVruEJBDm7Ql474n4KzcL3ja5qHXZCBOxIQ6hhmAXB6TB76kzavJWdyo=s0-d-e"><font color="#ffffff" size="1">ᐧ</font></div>
-</font></div></td></tr></tbody></table></td></tr></tbody></table></div></div><script type="text/javascript">// <![CDATA[
+</style></head><body><div class="bodycontainer"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr height="14px"><td width="143"><img src="./CARDS_files/logo.gif" width="143" height="59" alt=" Mail" class="logo" /></td><td align="right"><font size="-1" color="#777"><b>The Second Coming &lt;yitshack@fromthemachine.org&gt;</b></font></td></tr></tbody></table><hr /><div class="maincontent"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><font size="+1"><b>Fwd: Cards on the table... we're all showing Hearts. Seriously, this is the end of the e-mail flood of No "Ah..." 2</b></font><br /><font size="-1" color="#777">1 message</font></td></tr></tbody></table><hr /><table width="100%" cellpadding="0" cellspacing="0" border="0" class="message"><tbody><tr><td><font size="-1"><b>The Second Coming </b>&lt;yitshack@fromthemachine.org&gt;</font></td><td align="right"><font size="-1">Sun, Sep 11, 2016 at 11:45 AM</font></td></tr><tr><td colspan="2"><font size="-1" class="recipient"><div>Bcc: rss@rss.org.uk, membership@rss.org.uk, m.wiley@rss.org.uk, rooms@rss.org.uk, advertising@rss.org.uk, m.chapman@rss.org.uk, finance@rss.org.uk, exams@rss.org.uk, s.keir@rss.org.uk, statsusernet@rss.org.uk, events@rss.org.uk, conference@rss.org.uk, training@rss.org.uk, journal@rss.org.uk, StatisticsBarry@gmail.com, kathy.bennett.ensor@gmail.com, eileen.king@cchmc.org, jutts@uci.edu, rsantos@urban.org, nevius@comcast.net, martha.gardner@ge.com, jmm4784@yahoo.com, mingxiu1.hu@gmail.com, cyndy.long@palmer.edu, cheng@math.ntu.edu.tw, daniel.jeske@ucr.edu, davidian@ncsu.edu, natschenker@gmail.com, bob.rodriguez@sas.com, davidmorganstein@westat.com, m.mulry@charter.net, jlr@psu.edu, ordk@georgetown.edu, baileraj@miamioh.edu, jbuckingham@satx.rr.com, deveaux@williams.edu, banks@stat.duke.edu, ray@uow.edu.au, nhorton@amherst.edu, m-kwasny@northwestern.edu, bonnie.jean.lafleur@gmail.com, ron@amstat.org, adriano@amstat.org, rochelle@amstat.org, joyce@amstat.org, mely@amstat.org, claudine@amstat.org, jim@amstat.org, megan@amstat.org, sara@amstat.org, meg@amstat.org, stephanie@amstat.org, clarissa@amstat.org, heather@amstat.org, anita@amstat.org, jojuana@amstat.org, amanda@amstat.org, rebecca@amstat.org, rick@amstat.org, lynn@amstat.org, tim@amstat.org, ryan@amstat.org, carrie@amstat.org, amy@amstat.org, lara@amstat.org, james@amstat.org, kathleen@amstat.org, naomi@amstat.org, christina@amstat.org, amandac@amstat.org, steve@amstat.org, donnal@amstat.org, jill@amstat.org, val@amstat.org, eric@amstat.org, pierson@amstat.org, pamela@amstat.org, wendy.lou@utoronto.ca, robersonpaulak@uams.edu, d.van-dyk@imperial.ac.uk, asainfo@amstat.org, webmaster@rss.org.uk</div></font></td></tr><tr><td colspan="2"><table width="100%" cellpadding="12" cellspacing="0" border="0"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr"><div class="gmail_quote"><br /><div dir="ltr"><div class="gmail_quote"><div dir="ltr"><div class="gmail_quote"><div style="text-align:center"><b>re: A.D.</b> <a href="http://medium.com/by-the-force-of-key-strokes/in-the-land-of-flowing-milfs-and-honies-we-are-in-the-do-me-of-the-rock-d6e7265536e6" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2c7C0L2&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHTXeKP5tBcZ7HT2ojgX4btfwqzlg">bread</a> <a href="https://groups.google.com/a/whenistheapocalypse.com/forum/#!searchin/are/forehead/are/Ub0DOdq2150/m5kUMeOCBAAJ" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2bU31Nf&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNH3eq9XMmAwSKNQ5JlTbEPouAoOYg">forehead</a> <a href="https://fromthemachine.org/awlist4296878/NAwd4/h/With_authority_.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2bNlI6g&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNEvrnqRnoT8R-b6zriPL85bsis9tw">authority</a></div><span><div style="text-align:center">end world hunger, or</div><div style="text-align:center">thats' "b the reason A.D." and <a href="https://biblehub.com/revelation/22-4.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://biblehub.com/revelation/22-4.htm&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNEhbyBx1uCTcPNxFzK_uotgvcDxIQ">FOR Earth</a> HE A.D.</div><div style="text-align:center">with authority, I am thor.... or wait, am I an author? either way, it's Y.</div><div style="text-align:center"><br /></div><div style="text-align:center"><i>Last one, seriously, think about this, it's everywhere around us... wait, it is us.</i></div></span><div dir="ltr"><div class="gmail_quote"><br /><div dir="ltr"><span><div><div style="text-align:center"><b><font face="arial black, sans-serif"><a href="./awlist4296878/MsCJa/h/It_s_in_the_word_begin_nin_g_.htm?ITSNOW" style="font-size:large" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D85bab453-cf27-4b6a-97d0-225c6bdff06d%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHrMb-FC2haXVH5gOZu9uaMEj2f1A">Cards on the table...</a></font></b></div><div style="text-align:center"><b><br /></b></div><div style="text-align:center"><a href="./awlist4296878/MsCJa/h/It_s_in_the_word_begin_nin_g_.htm?ITSNOW" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D85bab453-cf27-4b6a-97d0-225c6bdff06d%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174849000&amp;usg=AFQjCNHrMb-FC2haXVH5gOZu9uaMEj2f1A"><img src="./CARDS_files/saved_resource" width="562" height="493" /></a></div><div style="text-align:center"><a href="https://sendvid.com/v7w7lt2j" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D0ec2f806-717e-47d6-a8b7-4a997f406664%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFGZGcmUCEZqVzgYmzyK0rjSVGfSg">morning has broken... like the first morning</a>&nbsp;</div></div><div style="text-align:center"><b><font size="4" face="arial black, sans-serif"><br /></font></b></div><div style="text-align:center"><b><font size="4" face="arial black, sans-serif"><a href="./CHALK.html
+" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D3347f3c2-33a6-45a3-9057-916fc02bceb9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFh8B3tiNMOGK73R-j7z6QLLV7eeg">&nbsp;We're all showing Hearts.</a></font></b></div><div style="text-align:center"><a href="http://gmass.co/x/c?c=476749&amp;l=fade9eac-5aa3-4d7b-93bc-a2ae0dfdc93a&amp;r=db23393c-d37a-4857-b0c3-aec6ddf8a49b" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3Dfade9eac-5aa3-4d7b-93bc-a2ae0dfdc93a%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEdE7GuhsJ9U7zvnSx_6dXaQ-8MTg"><br /></a></div><div style="text-align:center"><a href="./CHALK.html
+" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D3347f3c2-33a6-45a3-9057-916fc02bceb9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFh8B3tiNMOGK73R-j7z6QLLV7eeg"><img src="./CARDS_files/saved_resource(1)" width="562" height="340" /></a></div><div style="text-align:center"><br /></div></span><div style="text-align:center"><b><font face="arial black, sans-serif" size="4"><a href="./awlist4296878/J_WTa/h/The_Light_of_Jesus_Christ_.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D522b72c2-d7a0-464e-96ec-e02a2b759bcb%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEprnWs-7qgfxxDnKNh5Eempc1hBQ">This is Rattling a Rod</a></font></b></div><span><div style="text-align:center"><b><font face="arial black, sans-serif" size="4"><a href="./awlist4296878/J_WTa/h/The_Light_of_Jesus_Christ_.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D522b72c2-d7a0-464e-96ec-e02a2b759bcb%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNEprnWs-7qgfxxDnKNh5Eempc1hBQ"><img src="./CARDS_files/saved_resource(2)" width="1057" height="478" style="margin-right:0px" /></a><br /></font></b></div><div style="text-align:center"><br /></div><div style="text-align:center"><br /></div><div style="text-align:center"><font size="4" face="arial black, sans-serif"><a href="https://www.youtube.com/watch?v=TO9OsSazQ0s" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3Dad8014cf-61f6-4c6a-9c92-70d6d63af660%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNHx0kKpPqs4LPhWDJxd2SXqYNTk2w">Can you Si in the dark?</a></font></div><div style="text-align:center"><br /></div><div style="text-align:center"><img src="./CARDS_files/saved_resource(3)" width="562" height="562" alt="" /></div><div style="text-align:center"><i>is that a sht eating grin or what?</i>​<br /></div><div style="text-align:center"><br /></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><b><a href="http://sendvid.com/3bng57zk" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D306db9b0-d043-412d-9d30-c1cdd5d2d1e9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNG7kVw0t1RWczB5sY6QOBlermOGgA">Get ready... for the Main Event</a></b></font></div><div style="text-align:center"><br /></div><div style="text-align:center"><a href="http://sendvid.com/3bng57zk" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3D306db9b0-d043-412d-9d30-c1cdd5d2d1e9%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNG7kVw0t1RWczB5sY6QOBlermOGgA"><img src="./CARDS_files/saved_resource(4)" width="562" height="319" /></a></div><div style="text-align:center">​</div></span><span><div style="text-align:center"><font face="arial black, sans-serif" size="4"><img src="./CARDS_files/saved_resource(5)" width="553" height="956" style="margin-right:0px" /><br /><br /></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4">it's uh,<i> time to begin...</i></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><i><br /></i></font></div><div style="text-align:center"><font face="arial black, sans-serif" size="4"><i><img src="./CARDS_files/saved_resource(6)" width="562" height="328" /><br /></i></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><b>really</b> soon... like, today... even</font><br /></div><div style="text-align:center"><font face="monospace, monospace" size="1"><br /></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><br /></font></div><div style="text-align:center"><font face="monospace, monospace" size="1"><a href="https://www.docdroid.net/x6wJfqC/time-and-chance-rlny-by-adam-marshall-dobrin.pdf" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D476749%26l%3Dfb99b285-8394-4f70-a525-bc30d3bb0ade%26r%3Ddb23393c-d37a-4857-b0c3-aec6ddf8a49b&amp;source=gmail&amp;ust=1473695174850000&amp;usg=AFQjCNFlC5CM4XPXvMH1l8MHLGhl1O3GgA"><img src="./CARDS_files/saved_resource(7)" width="562" height="562" alt="" /></a><br /></font></div></span><div style="text-align:center"><img src="./CARDS_files/nYocZ2nJOx47kjDwXcBgvarz3W241jBXXIEBDstw7KgTbddktcv4eORl3J0eR8DCOjAykwuR_5Xr1dzrlCLSuTSP4hjIuoobotjTlFkL9Enk4sRq41H04kLF7HvaeR6JSiCDFOYaaAqm9rIAiFae_ZImgi9namB65HMMXu3JAYBXKgmLCLLw0_uwp99Z5BiEbwbK2KhvhpicDqk=s0-d-e1-ft" style="width:0px;max-height:0px;overflow:hidden" /><font color="#ffffff" size="1">ᐧ</font><br /></div></div>
+</div><br /></div>
+</div><br /></div>
+<img height="0" width="0" src="./CARDS_files/iTHS6ngaQpWooUIeEx8DfwddkykiOWisn8lJ6eoKP1QF-RWdCHr1Uftv9bg6HlsqQ_ATMGCKDkT-kpTAANqu_CWJYvDWvpzobjILBY57Y5RCOVzLvGE3O7O8slYUECkAvU7GSbmHFStNPQ=s0-d-e1-ft" />
+</div><br /></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CARDS_files/24aXIEag-MYFoQwnlbvgfgzHzpYXfZtZMMLD1cp-vMr7acMVk31CEpdKOZaN_Qa09cLrtUd9fg_DvBap0Yt7MDu6W7UL3HWN1dbR6McuT5QunTXZCPRGmFXHbwnavmWoTXmJb-CSc8u1idaqr6JzXBTzQ7lvA1_zhANFINfeJ_AtWSaY6j4bUvzL1Nyk_Rv1_FNidcRRTqZph5eRwN7soEo=s0-d-e" /><font color="#ffffff" size="1">ᐧ</font></div>
+</div><br /></div><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./CARDS_files/oN1XOfbI491R5I17w1m8S6PkThW0djgf8PJM7xSU1zpCLm_Is8LtHrsR5LDrNMVLOFflg1LZxE3a2MsJY3m6rTXeaRo8iGIl1YXVFWYoQvgnPw7TaSvOJeJlJJFiGL6zOMcEEw_oJAUvdxaA2hkaR_Kf1PMvCxctVruEJBDm7Ql474n4KzcL3ja5qHXZCBOxIQ6hhmAXB6TB76kzavJWdyo=s0-d-e" /><font color="#ffffff" size="1">ᐧ</font></div>
+</font></div></td></tr></tbody></table></td></tr></tbody></table></div></div><script type="text/javascript">// &lt;![CDATA[
 document.body.onload=function(){document.body.offsetHeight;window.print()};
-// ]]></script></body></html>
+// ]]&gt;</script></body></html>

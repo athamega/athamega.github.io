@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">
-<!-- saved from url=(0153)https://mail.google.com/mail/u/2/?ui=2&ik=b3fd74b597&view=pt&q=who%20knew%20i%20mean%20it&qs=true&search=query&msg=159018bd5e8e8601&siml=159018bd5e8e8601 --><html data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"},{"appId":"sdk_streak_21e9788951","version":"6.2864"}]' data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1482347915557" data-inboxsdk-master-claimed="true" data-inboxsdk-session-id="1482347404397-0.6150793875481095" data-map-id="1be4e7b7ffe24342" lang="en"><head data-inboxsdk-script-injected="true"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><style type="text/css">
+<!-- saved from url=(0153)https://mail.google.com/mail/u/2/?ui=2&amp;ik=b3fd74b597&amp;view=pt&amp;q=who%20knew%20i%20mean%20it&amp;qs=true&amp;search=query&amp;msg=159018bd5e8e8601&amp;siml=159018bd5e8e8601 --><html data-inboxsdk-active-app-ids='[{"appId":"sdk_wordzen_7bc143d54d"},{"appId":"sdk_streak_21e9788951","version":"6.2864"}]' data-inboxsdk-app-logger-master-chosen="true" data-inboxsdk-last-event="1482347915557" data-inboxsdk-master-claimed="true" data-inboxsdk-session-id="1482347404397-0.6150793875481095" data-map-id="1be4e7b7ffe24342" lang="en"><head data-inboxsdk-script-injected="true"><meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><style type="text/css">
 body,td,div,p,a,input {font-family: arial, sans-serif;}
-</style><meta content="IE=edge" http-equiv="X-UA-Compatible"/><title>Ministry of Forbidden Knowledge Mail - Give my regards to ol' broad Way... tell 'em I'll be coming home.</title><style type="text/css">
+</style><meta content="IE=edge" http-equiv="X-UA-Compatible" /><title>Ministry of Forbidden Knowledge Mail - Give my regards to ol' broad Way... tell 'em I'll be coming home.</title><style type="text/css">
 body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none} a:hover {text-decoration:underline; cursor: pointer} a:visited{color:##6611CC} img{border:0px} pre { white-space: pre; white-space: -moz-pre-wrap; white-space: -o-pre-wrap; white-space: pre-wrap; word-wrap: break-word; max-width: 800px; overflow: auto;} .logo { left: -7px; position: relative; }
 </style><style id="inboxsdk__shared_style">.inboxsdk__notransition {
   -webkit-transition: none !important;
@@ -143,7 +143,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
   flex-direction: column;
 }
 
-.GFAbBBEAbBFcIfcD > .inboxsdk__close_button {
+.GFAbBBEAbBFcIfcD &gt; .inboxsdk__close_button {
   position: absolute;
   bottom: 10px;
   right: 20px;
@@ -205,7 +205,7 @@ body, td {font-size:13px} a:link, a:active {color:#1155CC; text-decoration:none}
 }
 
 .eGFBdGacbFaJeHbf,
-.eGFBdGacbFaJeHbf > img {
+.eGFBdGacbFaJeHbf &gt; img {
   width: 20px;
   height: 20px;
 }
@@ -381,7 +381,7 @@ div.T-I.inboxsdk__button {
   margin-top: -1px;
 }
 
-.inboxsdk__compose_actionToolbar .inboxsdk__button > div {
+.inboxsdk__compose_actionToolbar .inboxsdk__button &gt; div {
     opacity: 0.55;
 }
 
@@ -391,7 +391,7 @@ div.T-I.inboxsdk__button {
 }
 
 
-  .inboxsdk__compose_actionToolbar .inboxsdk__button.inboxsdk__button_hover > div, .inboxsdk__compose_actionToolbar .inboxsdk__button:focus > div {
+  .inboxsdk__compose_actionToolbar .inboxsdk__button.inboxsdk__button_hover &gt; div, .inboxsdk__compose_actionToolbar .inboxsdk__button:focus &gt; div {
     opacity: 1
   }
 
@@ -606,11 +606,11 @@ span.inboxsdk__thread_row_custom_draft_label + div.yW {
 
 /* end thread rows */
 
-td.gH div.gK span:first-child > img {
+td.gH div.gK span:first-child &gt; img {
   margin-right: 3px;
 }
 
-td.gH div.gK span:first-child > img:last-child {
+td.gH div.gK span:first-child &gt; img:last-child {
   margin-right: 6px;
 }
 
@@ -667,7 +667,7 @@ body .dw {
   left: -400px;
 }
 
-.inboxsdk__outerSidebarActive .aSs > div { width: 50% !important; margin-left: 30%; }
+.inboxsdk__outerSidebarActive .aSs &gt; div { width: 50% !important; margin-left: 30%; }
 
 .inboxsdk__compose_outerSidebar_header {
   background: #404040;
@@ -718,7 +718,7 @@ div.inboxsdk__compose_statusbar {
   position: static !important;
 }
 
-.inboxsdk__compose_statusbarActive .aDj > .aDh {
+.inboxsdk__compose_statusbarActive .aDj &gt; .aDh {
   height: auto;
 }
 
@@ -845,13 +845,13 @@ div.inboxsdk__compose_statusbar {
 
 /* Make it so the compose/mole layer doesn't wrap, so we don't have to do a lot
  * of fancy logic to hide moles ourselves when things get too crowded. */
-.inboxsdk__moles_in_use .nH > .nH > .no {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no {
   white-space: nowrap;
 }
-.inboxsdk__moles_in_use .nH > .nH > .no > * {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; * {
   white-space: initial;
 }
-.inboxsdk__moles_in_use .nH > .nH > .no > .nn {
+.inboxsdk__moles_in_use .nH &gt; .nH &gt; .no &gt; .nn {
   display: inline-block;
   float: none;
 }
@@ -906,7 +906,7 @@ div.inboxsdk__compose_statusbar {
   margin-top: -3px;
 }
 
-.inboxsdk__mole_title_buttons > img {
+.inboxsdk__mole_title_buttons &gt; img {
   height: 24px;
   width: 24px;
   position: relative;
@@ -914,7 +914,7 @@ div.inboxsdk__compose_statusbar {
   opacity: 0.6;
 }
 
-.inboxsdk__mole_title_buttons > img:hover {
+.inboxsdk__mole_title_buttons &gt; img:hover {
   opacity: 1;
   background-color: #737373;
 }
@@ -992,8 +992,8 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab .aAy[role=tab] {
 }
 
 /* Fix issue where hidden causes threadview to be taller than it should */
-.inboxsdk__hidden > div.y4,
-.EFacdAHaDFAeDDAG > div.y4 {
+.inboxsdk__hidden &gt; div.y4,
+.EFacdAHaDFAeDDAG &gt; div.y4 {
   display: none;
 }
 
@@ -1156,7 +1156,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
     padding: 0px;
   }
 
-.inboxsdk__results_collapsedContainer > div {
+.inboxsdk__results_collapsedContainer &gt; div {
   display: inline;
 }
 
@@ -1247,7 +1247,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   overflow: hidden;
 }
 
-.inboxsdk__resultsSection tr .xW > span {
+.inboxsdk__resultsSection tr .xW &gt; span {
   overflow: hidden;
   display: block;
   text-overflow: ellipsis;
@@ -1262,7 +1262,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   position: relative;
 }
 
-.inboxsdk__resultsSection .at > * {
+.inboxsdk__resultsSection .at &gt; * {
   display: inline-block;
 }
 
@@ -1371,7 +1371,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
   height: auto;
 }
 
-.inboxsdk__tooltip .inboxsdk__tooltip_image > img {
+.inboxsdk__tooltip .inboxsdk__tooltip_image &gt; img {
   max-height: 300px;
   max-width: 500px;
 }
@@ -1393,7 +1393,7 @@ table.aKk .inboxsdk__contentTabContainer .inboxsdk__tab:first-child .aAy[role=ta
 
 /* add some margins between cards so 4+ cards don't hit each other */
 
-.aQw > .T-I.J-J5-Ji.L3 {
+.aQw &gt; .T-I.J-J5-Ji.L3 {
   margin-top: 5px;
 }
 
@@ -1542,7 +1542,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 }
 
 /* end app toolbar */
-</style>	<SCRIPT>
+</style> <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -1551,12 +1551,8 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
   ga('create', 'UA-74743044-2', 'auto');
   ga('send', 'pageview');
 
-</SCRIPT></head>
-
-  <body style="width: 100%; margin: 0 auto; text-align: left; font-family: Arial;">
-
-
-
+</script></head>
+<body style="width: 100%; margin: 0 auto; text-align: left; font-family: Arial;">
 <center>
 <script type="text/javascript">
     google_ad_client = "ca-pub-9608809622006883";
@@ -1565,28 +1561,26 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
     google_ad_height = 90;
 </script>
 <!-- leaderboard -->
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-<br/>
-<a href="http://fb.me/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
-<a href="http://fb.me/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="http://bit.ly/29qRC6P">Twitter</a> |
-<a href="http://matchbox.lamc.la">The Matchbox</a> | 
-<a href="http://lamc.la">The Revelation of Christ</a> | 
+<br />
+<a href="https://www.facebook.com/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
+<a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="https://twitter.com/intent/user?screen_name=yitsheyzeus">Twitter</a> |
+<a href="https://fromthemachine.org/">The Matchbox</a> | 
+<a href=".">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
-<br/>
+<br />
 </center>
 <center><h2>
-This is the Second Coming.  Please say "<b>hi</b>" to Adam... on twitter: <a href="http://twitter.com/yitsheyzeus" target=_new>@yitsheyzeus</a>
+This is the Second Coming.  Please say "<b>hi</b>" to Adam... on twitter: <a href="https://twitter.com/yitsheyzeus" target="_new">@yitsheyzeus</a>
 </h2><h3>
-Here's some videos: <a href="http://sign.lamc.la" target=_new>The Sign of the Son</a>, <a href="http://vimeo.com/yitsheyzeus/genesis" target=_new>The Holy Grail</a>, <a href="https://www.youtube.com/watch?v=Fr_CHOxSyc8" target=_new>What if God had a name?</a>
-</br>Let's <a href="http://flint.lamc.la">get this party started. (with an RT and #reallyhim)</a>  It's time to change the world.</h3>
+Here's some videos: <a href="https://www.youtube.com/watch?v=AevgjKPDgfM&amp;feature=youtu.be" target="_new">The Sign of the Son</a>, <a href="https://vimeo.com/156698154" target="_new">The Holy Grail</a>, <a href="https://www.youtube.com/watch?v=Fr_CHOxSyc8" target="_new">What if God had a name?</a>
+Let's <a href="https://twitter.com/intent/retweet?related=yitsheyzeus&amp;tweet_id=804005770937462784">get this party started. (with an RT and #reallyhim)</a>  It's time to change the world.</h3>
 </center>
-
-<div class="bodycontainer"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr height="14px"><td width="143"><img alt="Ministry of Forbidden Knowledge Mail" class="logo" height="59" src="http://i.imgur.com/S5yPQ7g.gif" width="143"/></td><td align="right"><font color="#777" size="-1"><b>Adam Marshall Dobrin &lt;adam5@reallyhim.com&gt;</b></font></td></tr></tbody></table><hr/><div class="maincontent"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><font size="+1"><b>Give my regards to ol' broad Way... tell 'em I'll be coming home.</b></font><br/></td></tr></tbody></table><hr/><table border="0" cellpadding="0" cellspacing="0" class="message" width="100%"><tbody><tr><td><font size="-1"><b>Adam Marshall Dobrin </b>&lt;adam5@reallyhim.com&gt;</font></td><td align="right"><font size="-1">Thu, Dec 15, 2016 at 3:14 AM</font></td></tr><tr><td colspan="2"><font class="recipient" size="-1"><div>To: re.vel@lev.it.i.c.us, givinglaw@question.mark</div><div>Bcc: Amicus Mundi &lt;AM@fromthemachine.org&gt;, are@whenistheapocalypse.com, kin &lt;kin@fromthemachine.org&gt;, WE ARE &lt;are@fromthemachine.org&gt;, "More... family" &lt;mor@fromthemachine.org&gt;</div></font></td></tr><tr><td colspan="2"><table border="0" cellpadding="12" cellspacing="0" width="100%"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr">Who knew!  <i>Seriously</i>... who knew?<div><br/></div><div style="text-align:center"><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DMRSgvfNZcWA&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNHqL1ORgRtXcaYP_MHoPU9Up3-j-A" href="http://bit.ly/2ibyukQ" target="_blank"><img alt="" height="245" src="http://i.imgur.com/EA8pUSS.png" style="margin-right:0px" width="426"/></a></div><div style="text-align:center"><i><br/></i></div><div style="text-align:center"><i>Rolling Stone?  </i>Did you want to do this <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2hlAu6P&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNHc8Pim79mRLSd4geYvS3BSjPB3ow" href="http://bit.ly/2h2EIhE" target="_blank">standing up</a>?</div><div style="text-align:center"><i><br/></i></div><div><div style="text-align:center"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Sons_of_God&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNFnDdHkqFEneKghciQAGl5GyiqtXQ" href="http://bit.ly/2ibycub" target="_blank">https://en.wikipedia.org/wiki/<wbr>Sons_of_God</wbr></a></div><div style="text-align:center"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.usingenglish.com/forum/threads/30217-Morning-has-broken&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNE8RBNE7TuYaHAo7gsPIdj5QP6ybg" href="http://bit.ly/2ibwAAm" target="_blank">https://www.usingenglish.com/<wbr>forum/threads/30217-Morning-<wbr>has-broken<br/></wbr></wbr></a></div><div style="text-align:center"><br/></div><div style="text-align:center"><br/></div><font size="4"><div style="text-align:center"><i>​Have a ...</i></div></font></div><div><div style="text-align:center"><i><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DUyKlIF5Q8ws&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGzFShnWeZnxJVhIBzCYYcZUOw_IA" href="http://bit.ly/2ibjl2H" target="_blank"><img alt="" height="221" src="http://i.imgur.com/p4ONTBx.jpg" style="margin-right:0px" width="221"/></a></i></div><div style="text-align:center"><i><font size="4">man</font>.</i></div><div style="text-align:center"><br/></div><div style="text-align:center"><br/></div><div style="text-align:center">Speaking of the Simpson, did anyone else notice that the "Hidey Ho" guy has "Eden" hidden in his name?  I'm pretty sure all this stuff is light; or maybe <b>not seeing i</b>t is brighter?</div><div style="text-align:center"><br/></div><div style="text-align:center"><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFg0a7aXUXvw&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNE2PofdgCFPGIQBOGKyWGknIKIUfA" href="http://bit.ly/2h2xmLf" target="_blank"><img alt="" height="231" src="http://i.imgur.com/UfrJe77.jpg" style="margin-right:0px" width="371"/></a></div></div><div style="text-align:center"><br/></div><div style="text-align:center">Did I mention my name is <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wiktionary.org/wiki/ad&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNF4b1A5MZe4-KAaaE4ffj_FupQBjw" href="http://bit.ly/2h2DdQB" target="_blank">Ad</a>am, and we are moving towards <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wiktionary.org/wiki/ad&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNF4b1A5MZe4-KAaaE4ffj_FupQBjw" href="http://bit.ly/2h2DdQB" target="_blank">morning</a>?</div><div style="text-align:center"><br/></div><div style="text-align:center">Honestly, I think you people don't think about the implications of what I'm sharing, and I'm just screaming at the top of my lungs that my name is written on everything.  Do you understand what that means?  He's trying to set us free.</div><div style="text-align:center"><br/></div><div style="text-align:center"><font size="4">I just happen to be the key.</font></div><div style="text-align:center"><br/></div><div style="text-align:center">Do you understand that everything I am providing to you has come to me through the use of a form of <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Divine_inspiration&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGW0VcgWqdsaGtVPVtHkl2LDqoNKg" href="http://bit.ly/2h2EsiQ" target="_blank">hidden communication</a>; everything that I am <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Doublethink&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGHVoTTExKCNK6yb4UXHpp4Hbaj1Q" href="http://bit.ly/2h2Fsnf" target="_blank">writing about also</a>... all the hidden light--planted predominantly with this same hidden communication, just a little more hidden.  <i><b>Losing</b></i> <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/w/index.php?title%3DSpecial:Contributions/Damonthesis%26offset%3D%26limit%3D500%26target%3DDamonthesis&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNFEOQSFV05YjzY8m64FeV47e_XkPQ" href="http://bit.ly/2h2xnih" target="_blank">public knowledge</a> of this technology is the equivalent of <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.nytimes.com/2016/06/11/health/gang-stalking-targeted-individuals.html&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNGauaLsVVcWsrt3qmiz5j3l-V0H6A" href="http://nyti.ms/2ibnwMb" target="_blank">entering Hell.</a></div><div style="text-align:center"><br/></div><div style="text-align:center">Who did you vote for?  Are you sure that's what you wanted to do?  Heaven or Hell?</div><div style="text-align:center"><br/></div><div style="text-align:center">My name is written on everything.  Like, the... or a future.</div><div style="text-align:center"><br/></div><div style="text-align:center"><br/></div><div style="text-align:center"><font face="times new roman, serif" size="4">Once upon a time, there was <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.imdb.com/title/tt5595688/&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNGpKSGE9g4PB4aQEebFKA9Dm9AKpw" href="http://imdb.to/2h2KjEM" target="_blank">no <span style="background-color:rgb(0,0,0)">tomorrow</span></a>.  We need to do something to alter the course of history.  That's really what religion is... and it's really what the Second Coming is all about.  From the bottom of my heart, all of scripture and <span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:rgb(153,153,153)">our history</span> behind that.... <i>it is <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D652514%26l%3D58baa86e-041d-4a3d-8389-533925b5aa51%26r%3D3245637a-feb2-454f-8774-71b01833a6b0&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNH1Zp8eyclCfmvJlooDCv9lLKQolg" href="http://bit.ly/2ibuZup" target="_blank">time to begin.</a>  Take a chance, make a stand, know <span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:rgb(204,204,204)">you did something</span> amazing to make the world a better place, continue <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://whoiscoming.reallyhim.com/x/c?c%3D652514%26l%3D4251e57c-d4dc-4aa0-aed6-7bcbbf2077d1%26r%3D3245637a-feb2-454f-8774-71b01833a6b0&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNENlkXC0QdUD9jH3n7wBBD-xyMBRw" href="http://bit.ly/2h1qEFb" target="_blank">to shine</a> bright.... and it's <span style="background-color:rgb(255,255,0)"><span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial">you</span>.</span></i></font></div><div style="text-align:center"><i style="font-size:12.8px"><br/></i></div><div style="text-align:center"><i style="font-size:12.8px">You might be just smart enough to realize that our history is a map--and that we are in the heat of the Crusades... for Jerusalem.  Are you smart enough to know that He always plays both sides?  </i></div><div style="text-align:center"><i style="font-size:12.8px"><br/></i></div><div style="text-align:center"><i style="font-size:12.8px">This is our time to win, there are no sides.  <b>Let the light shine.</b></i></div><div style="text-align:center"><i style="font-size:12.8px"><b><br/></b></i></div><div style="text-align:center"><i style="font-size:12.8px"><b><br/></b></i></div><div style="text-align:center"><h1 class="m_6967029084146508162gmail-firstHeading" id="m_6967029084146508162gmail-firstHeading" lang="en" style='color:rgb(0,0,0);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial;font-weight:normal;margin:0px 0px 0.25em;overflow:visible;padding:0px;border-bottom:1px solid rgb(170,170,170);font-size:1.8em;line-height:1.3;font-family:"linux libertine",georgia,times,serif;text-align:start'><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DNwu6X5Rfp00&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNFmbcwdE23bY-i-PO2UpzKrNNzOyA" href="http://bit.ly/2ibsBUA" target="_blank">The Bells</a> of Saint John</h1></div><div style="text-align:center"><span style="font-size:12.8px">In unrelated news, I saw this episode of Dr. Who last night, and oh my God.  Mind uploading and electronic emotion altering all in one episode.  I thought I had original ideas, I'd say that slider was lifted right out of my dreams--except they did it first.  <i>The name though</i>, I mean, come on.</span></div><div style="text-align:center"><span style="font-size:12.8px"><br/></span></div><div style="text-align:center"><span style="font-size:12.8px"><br/></span></div><div style="text-align:center"><span style="font-size:12.8px"><img height="197" src="http://i.imgur.com/MheFYNX.jpg" width="350"/><br/></span></div><div style="text-align:center"><span style="font-size:12.8px"><br/></span></div><div style="text-align:center"><span style="font-size:12.8px"><img height="283" src="http://i.imgur.com/mdYJ0NV.png" style="margin-right:0px" width="443"/><br/>​<br/></span></div><div style="text-align:center"><span style="font-size:12.8px"><font face="comic sans ms, sans-serif">Out of curiosity, what year are <i>you</i> from?</font></span></div><div style="text-align:center"><font face="comic sans ms, sans-serif" size="1"><br/></font></div><div style="text-align:center"><font face="comic sans ms, sans-serif" size="1">I guess there's a Dr. Who series now.</font></div><div style="text-align:center"></div><div style="text-align:center"></div><blockquote style="font-size:12.8px;margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><p class="MsoNormal"><u></u><u></u></p></blockquote></blockquote></blockquote></blockquote><div style="font-size:12.8px"><blockquote style="margin-left:30pt;margin-right:0in"><div></div></blockquote></div></div>
-<div hspace="streak-pt-mark" style="max-height:1px"><img src="http://i.imgur.com/l0hy36S.gif" style="width:0px;max-height:0px;overflow:hidden"/><font color="#ffffff" size="1">ᐧ</font></div></font></div><br clear="all"/><div style="width:50%;border-top:2px #AAAAAA solid"></div><table border="0" cellpadding="5" cellspacing="0" class="att"><tbody><tr><td colspan="2"><b style="padding-left:3">2 attachments</b></td></tr><tr><td><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><a href="http://bit.ly/2h2FtaN" target="_blank"><img class="thi" src="http://i.imgur.com/knUQQkk.jpg"/></a></td><td width="7"></td><td><b>234678.jpg</b><br/>1200K </td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><a href="http://bit.ly/2h2FStE" target="_blank"><img class="thi" src="http://i.imgur.com/j10z8KG.jpg"/></a></td><td width="7"></td><td><b>abraham.jpg</b><br/>362K </td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div><<script type="text/javascript" async="" src="linkid.js"></script><script async="" src="analytics.js">
+<div class="bodycontainer"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr height="14px"><td width="143"><img alt="Ministry of Forbidden Knowledge Mail" class="logo" height="59" src="http://i.imgur.com/S5yPQ7g.gif" width="143" /></td><td align="right"><font color="#777" size="-1"><b>Adam Marshall Dobrin &lt;adam5@reallyhim.com&gt;</b></font></td></tr></tbody></table><hr /><div class="maincontent"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><font size="+1"><b>Give my regards to ol' broad Way... tell 'em I'll be coming home.</b></font><br /></td></tr></tbody></table><hr /><table border="0" cellpadding="0" cellspacing="0" class="message" width="100%"><tbody><tr><td><font size="-1"><b>Adam Marshall Dobrin </b>&lt;adam5@reallyhim.com&gt;</font></td><td align="right"><font size="-1">Thu, Dec 15, 2016 at 3:14 AM</font></td></tr><tr><td colspan="2"><font class="recipient" size="-1"><div>To: re.vel@lev.it.i.c.us, givinglaw@question.mark</div><div>Bcc: Amicus Mundi &lt;AM@fromthemachine.org&gt;, are@whenistheapocalypse.com, kin &lt;kin@fromthemachine.org&gt;, WE ARE &lt;are@fromthemachine.org&gt;, "More... family" &lt;mor@fromthemachine.org&gt;</div></font></td></tr><tr><td colspan="2"><table border="0" cellpadding="12" cellspacing="0" width="100%"><tbody><tr><td><div style="overflow: hidden;"><font size="-1"><div dir="ltr">Who knew!  <i>Seriously</i>... who knew?<div><br /></div><div style="text-align:center"><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DMRSgvfNZcWA&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNHqL1ORgRtXcaYP_MHoPU9Up3-j-A" href="https://www.youtube.com/watch?v=MRSgvfNZcWA" target="_blank"><img alt="" height="245" src="http://i.imgur.com/EA8pUSS.png" style="margin-right:0px" width="426" /></a></div><div style="text-align:center"><i><br /></i></div><div style="text-align:center"><i>Rolling Stone?  </i>Did you want to do this <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bit.ly/2hlAu6P&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNHc8Pim79mRLSd4geYvS3BSjPB3ow" href="https://www.youtube.com/playlist?list=PLgYKDBgxsoMMzfaYwNB9CK4E3Hure3h1G" target="_blank">standing up</a>?</div><div style="text-align:center"><i><br /></i></div><div><div style="text-align:center"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Sons_of_God&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNFnDdHkqFEneKghciQAGl5GyiqtXQ" href="https://en.wikipedia.org/wiki/Sons_of_God" target="_blank">https://en.wikipedia.org/wiki/<wbr>Sons_of_God</wbr></a></div><div style="text-align:center"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.usingenglish.com/forum/threads/30217-Morning-has-broken&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNE8RBNE7TuYaHAo7gsPIdj5QP6ybg" href="https://www.usingenglish.com/forum/threads/30217-Morning-has-broken" target="_blank">https://www.usingenglish.com/<wbr>forum/threads/30217-Morning-</wbr><wbr>has-broken<br /></wbr></a></div><div style="text-align:center"><br /></div><div style="text-align:center"><br /></div><font size="4"><div style="text-align:center"><i>​Have a ...</i></div></font></div><div><div style="text-align:center"><i><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DUyKlIF5Q8ws&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGzFShnWeZnxJVhIBzCYYcZUOw_IA" href="https://www.youtube.com/watch?v=UyKlIF5Q8ws" target="_blank"><img alt="" height="221" src="http://i.imgur.com/p4ONTBx.jpg" style="margin-right:0px" width="221" /></a></i></div><div style="text-align:center"><i><font size="4">man</font>.</i></div><div style="text-align:center"><br /></div><div style="text-align:center"><br /></div><div style="text-align:center">Speaking of the Simpson, did anyone else notice that the "Hidey Ho" guy has "Eden" hidden in his name?  I'm pretty sure all this stuff is light; or maybe <b>not seeing i</b>t is brighter?</div><div style="text-align:center"><br /></div><div style="text-align:center"><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFg0a7aXUXvw&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNE2PofdgCFPGIQBOGKyWGknIKIUfA" href="https://www.youtube.com/watch?v=Fg0a7aXUXvw" target="_blank"><img alt="" height="231" src="http://i.imgur.com/UfrJe77.jpg" style="margin-right:0px" width="371" /></a></div></div><div style="text-align:center"><br /></div><div style="text-align:center">Did I mention my name is <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wiktionary.org/wiki/ad&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNF4b1A5MZe4-KAaaE4ffj_FupQBjw" href="https://en.wiktionary.org/wiki/ad" target="_blank">Ad</a>am, and we are moving towards <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wiktionary.org/wiki/ad&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNF4b1A5MZe4-KAaaE4ffj_FupQBjw" href="https://en.wiktionary.org/wiki/ad" target="_blank">morning</a>?</div><div style="text-align:center"><br /></div><div style="text-align:center">Honestly, I think you people don't think about the implications of what I'm sharing, and I'm just screaming at the top of my lungs that my name is written on everything.  Do you understand what that means?  He's trying to set us free.</div><div style="text-align:center"><br /></div><div style="text-align:center"><font size="4">I just happen to be the key.</font></div><div style="text-align:center"><br /></div><div style="text-align:center">Do you understand that everything I am providing to you has come to me through the use of a form of <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Divine_inspiration&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGW0VcgWqdsaGtVPVtHkl2LDqoNKg" href="https://en.wikipedia.org/wiki/Divine_inspiration" target="_blank">hidden communication</a>; everything that I am <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/wiki/Doublethink&amp;source=gmail&amp;ust=1482433804253000&amp;usg=AFQjCNGHVoTTExKCNK6yb4UXHpp4Hbaj1Q" href="https://en.wikipedia.org/wiki/Doublethink" target="_blank">writing about also</a>... all the hidden light--planted predominantly with this same hidden communication, just a little more hidden.  <i><b>Losing</b></i> <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://en.wikipedia.org/w/index.php?title%3DSpecial:Contributions/Damonthesis%26offset%3D%26limit%3D500%26target%3DDamonthesis&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNFEOQSFV05YjzY8m64FeV47e_XkPQ" href="https://en.wikipedia.org/w/index.php?title=Special:Contributions/Damonthesis&amp;offset=&amp;limit=500&amp;target=Damonthesis" target="_blank">public knowledge</a> of this technology is the equivalent of <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.nytimes.com/2016/06/11/health/gang-stalking-targeted-individuals.html&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNGauaLsVVcWsrt3qmiz5j3l-V0H6A" href="https://www.nytimes.com/2016/06/11/health/gang-stalking-targeted-individuals.html?_r=4" target="_blank">entering Hell.</a></div><div style="text-align:center"><br /></div><div style="text-align:center">Who did you vote for?  Are you sure that's what you wanted to do?  Heaven or Hell?</div><div style="text-align:center"><br /></div><div style="text-align:center">My name is written on everything.  Like, the... or a future.</div><div style="text-align:center"><br /></div><div style="text-align:center"><br /></div><div style="text-align:center"><font face="times new roman, serif" size="4">Once upon a time, there was <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.imdb.com/title/tt5595688/&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNGpKSGE9g4PB4aQEebFKA9Dm9AKpw" href="https://www.imdb.com/title/tt5595688/" target="_blank">no <span style="background-color:rgb(0,0,0)">tomorrow</span></a>.  We need to do something to alter the course of history.  That's really what religion is... and it's really what the Second Coming is all about.  From the bottom of my heart, all of scripture and <span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:rgb(153,153,153)">our history</span> behind that.... <i>it is <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D652514%26l%3D58baa86e-041d-4a3d-8389-533925b5aa51%26r%3D3245637a-feb2-454f-8774-71b01833a6b0&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNH1Zp8eyclCfmvJlooDCv9lLKQolg" href="https://www.youtube.com/watch?v=sENM2wA_FTg" target="_blank">time to begin.</a>  Take a chance, make a stand, know <span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:rgb(204,204,204)">you did something</span> amazing to make the world a better place, continue <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gmass.co/x/c?c%3D652514%26l%3D4251e57c-d4dc-4aa0-aed6-7bcbbf2077d1%26r%3D3245637a-feb2-454f-8774-71b01833a6b0&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNENlkXC0QdUD9jH3n7wBBD-xyMBRw" href="https://www.facebook.com/photo.php?fbid=10154283229013420&amp;set=a.10154283230918420&amp;type=3&amp;theater" target="_blank">to shine</a> bright.... and it's <span style="background-color:rgb(255,255,0)"><span style="background-image:initial;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial">you</span>.</span></i></font></div><div style="text-align:center"><i style="font-size:12.8px"><br /></i></div><div style="text-align:center"><i style="font-size:12.8px">You might be just smart enough to realize that our history is a map--and that we are in the heat of the Crusades... for Jerusalem.  Are you smart enough to know that He always plays both sides?  </i></div><div style="text-align:center"><i style="font-size:12.8px"><br /></i></div><div style="text-align:center"><i style="font-size:12.8px">This is our time to win, there are no sides.  <b>Let the light shine.</b></i></div><div style="text-align:center"><i style="font-size:12.8px"><b><br /></b></i></div><div style="text-align:center"><i style="font-size:12.8px"><b><br /></b></i></div><div style="text-align:center"><h1 class="m_6967029084146508162gmail-firstHeading" id="m_6967029084146508162gmail-firstHeading" lang="en" style='color:rgb(0,0,0);background-image:none;background-position:initial;background-size:initial;background-repeat:initial;background-origin:initial;background-clip:initial;background-color:initial;font-weight:normal;margin:0px 0px 0.25em;overflow:visible;padding:0px;border-bottom:1px solid rgb(170,170,170);font-size:1.8em;line-height:1.3;font-family:"linux libertine",georgia,times,serif;text-align:start'><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DNwu6X5Rfp00&amp;source=gmail&amp;ust=1482433804254000&amp;usg=AFQjCNFmbcwdE23bY-i-PO2UpzKrNNzOyA" href="https://www.youtube.com/watch?v=Nwu6X5Rfp00" target="_blank">The Bells</a> of Saint John</h1></div><div style="text-align:center"><span style="font-size:12.8px">In unrelated news, I saw this episode of Dr. Who last night, and oh my God.  Mind uploading and electronic emotion altering all in one episode.  I thought I had original ideas, I'd say that slider was lifted right out of my dreams--except they did it first.  <i>The name though</i>, I mean, come on.</span></div><div style="text-align:center"><span style="font-size:12.8px"><br /></span></div><div style="text-align:center"><span style="font-size:12.8px"><br /></span></div><div style="text-align:center"><span style="font-size:12.8px"><img height="197" src="http://i.imgur.com/MheFYNX.jpg" width="350" /><br /></span></div><div style="text-align:center"><span style="font-size:12.8px"><br /></span></div><div style="text-align:center"><span style="font-size:12.8px"><img height="283" src="http://i.imgur.com/mdYJ0NV.png" style="margin-right:0px" width="443" /><br />​<br /></span></div><div style="text-align:center"><span style="font-size:12.8px"><font face="comic sans ms, sans-serif">Out of curiosity, what year are <i>you</i> from?</font></span></div><div style="text-align:center"><font face="comic sans ms, sans-serif" size="1"><br /></font></div><div style="text-align:center"><font face="comic sans ms, sans-serif" size="1">I guess there's a Dr. Who series now.</font></div><div style="text-align:center"></div><div style="text-align:center"></div><blockquote style="font-size:12.8px;margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><blockquote style="margin-left:30pt;margin-right:0in"><p class="MsoNormal"><u></u><u></u></p></blockquote></blockquote></blockquote></blockquote><div style="font-size:12.8px"><blockquote style="margin-left:30pt;margin-right:0in"><div></div></blockquote></div></div>
+<div hspace="streak-pt-mark" style="max-height:1px"><img src="http://i.imgur.com/l0hy36S.gif" style="width:0px;max-height:0px;overflow:hidden" /><font color="#ffffff" size="1">ᐧ</font></div></font></div><br clear="all" /><div style="width:50%;border-top:2px #AAAAAA solid"></div><table border="0" cellpadding="5" cellspacing="0" class="att"><tbody><tr><td colspan="2"><b style="padding-left:3">2 attachments</b></td></tr><tr><td><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><a href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/?ui%3D2%26ik%3Db3fd74b597%26view%3Datt%26th%3D159018bd5e8e8601%26attid%3D0.3%26disp%3Dinline%26realattid%3Dii_iwpjbb5u0_158ff8b8665b63ae%26safe%3D1%26zw&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;emr=1&amp;osid=1" target="_blank"><img class="thi" src="http://i.imgur.com/knUQQkk.jpg" /></a></td><td width="7"></td><td><b>234678.jpg</b><br />1200K </td></tr></tbody></table></td></tr><tr><td><table cellpadding="0" cellspacing="0"><tbody><tr><td align="center"><a href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/?ui%3D2%26ik%3Db3fd74b597%26view%3Datt%26th%3D159018bd5e8e8601%26attid%3D0.4%26disp%3Dinline%26realattid%3Dii_iwpje68y1_158ff8d90addc48a%26safe%3D1%26zw&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;emr=1&amp;osid=1" target="_blank"><img class="thi" src="http://i.imgur.com/j10z8KG.jpg" /></a></td><td width="7"></td><td><b>abraham.jpg</b><br />362K </td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div>&lt;<script type="text/javascript" async="" src="linkid.js"></script><script async="" src="analytics.js">
 </script><script src="edit.js"></script>
-</script><script src="spike.js"></script>
+<script src="spike.js"></script>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -1606,20 +1600,14 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 }; 
 (function() { // DON'T EDIT BELOW THIS LINE 
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle"
-     style="display:block"
-                    data-ad-client="ca-pub-9608809622006883"
-		                   data-ad-slot="7054287854"
-
-			                          data-ad-format="auto"></ins>
-						                      <script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
+<script>
 				
 				(adsbygoogle = window.adsbygoogle || []).push({});
 											                      </script>
-<br>
+<br />
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-
 </body>
 </html>

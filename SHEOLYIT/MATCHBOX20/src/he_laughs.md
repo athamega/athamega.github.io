@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>He Laughs, again | TIME AND CHANCE</title>
-<meta name="author" content="Adam Marshall Dobrin">
-<link rel="stylesheet" href="/css/main.css" >
-       
-     <link href='/css/base.css' rel='stylesheet'/> 
-       <link href='/css/font-awesome.min.css'  rel='stylesheet'/> 
-     <link href='/css/default.min.css' rel='stylesheet'/> 
-     <script src='/css/highlight.min.js'/> 
-     <script type="text/javascript" src="/css/MathJax.js?config=TeX-AMS_HTML"></script> 
+<head>
+<meta charset="utf-8" />
+<title>He Laughs, again | TIME AND CHANCE</title>
+<meta name="author" content="Adam Marshall Dobrin" />
+<link rel="stylesheet" href="/css/main.css" />
+<link href="/css/base.css" rel="stylesheet" />
+<link href="/css/font-awesome.min.css" rel="stylesheet" />
+<link href="/css/default.min.css" rel="stylesheet" />
+<script src="/css/highlight.min.js"> 
+     &lt;script type="text/javascript" src="/css/MathJax.js?config=TeX-AMS_HTML"&gt;</script>
 <style>
   .nav{
     border:1px solid #ccc;
@@ -47,11 +46,12 @@ videoWrapper {
 
 
 </style>
-    </head>
-    <body>
-    <ESHAD/><center><p><a href="http://chalk.reallyhim.com"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="http://gate.reallyhim.com"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="http://ender.reallyhim.com"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /><a href="http://slack.reallyhim.com"><img src="http://i.imgur.com/jne0eNw.png" height=97 width=97></a> <br /></a></p></center><OSHAD/> 
-
-
+</head>
+<body>
+<eshad><center><p><a href="./CHALK.html
+"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="./GATE.html
+"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="./2017-06-14-enders-game-prometheus-locke-and.html
+"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="https://eyerc.slack.com/join/shared_invite/MjM2NDM2Mjc3Nzk4LTE1MDQ0MDE3NzQtMmU5NjI1N2VmOQ"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
 <table>
 <td style="width: 310px; padding: 2px; vertical-align: top;">
 <div style="padding-left: 20px; padding-top: 50px;">
@@ -59,86 +59,63 @@ videoWrapper {
 <div style="font-size: 17px;">En Pursuit of Happiness</div>
 How Jesus Christ and Rock'n Roll save every single soul.
 </a>
-<br>
-<br>The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br><br><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
-<br><br>
-<a href="http://matchbox.lamc.la">
+<br />
+<br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
+<br /><br />
+<a href="https://fromthemachine.org/">
 <div style="font-size: 17px;">The Matchbox</div>
 </a>
 The e-mails that circled the globe, opening the doorway to the future.
 </div>
-
-<br><br>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<br /><br />
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle"
-     style="display:block"
-                    data-ad-client="ca-pub-9608809622006883"
-		                   data-ad-slot="7054287854"
-
-			                          data-ad-format="auto"></ins>
-						                      <script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
+<script>
 				
 				(adsbygoogle = window.adsbygoogle || []).push({});
 											                      </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- newad -->
-<ins class="adsbygoogle"
-     style="display:block"
-          data-ad-client="ca-pub-9608809622006883"
-	       data-ad-slot="7054287854"
-	            data-ad-format="auto"></ins>
-		    <script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
+<script>
 		    (adsbygoogle = window.adsbygoogle || []).push({});
 		    </script></td>
-
-													      <td>
+<td>
 <center>
-<div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf">Time and Chance:</a></b> The race is not to Die Bold by <a href="http://fb.me/admdbrn">Adam Marshall Dobrin</a> 
+<div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
+">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
 </div>
+<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
+"> [ .PDF ]</a> <a href="/time-and-chance.epub
+"> [ .epub ] </a> <a href="/time-and-chance.mobi
+"> [ .mobi ] </a> or <a href="https://www.docdroid.net/hmjNMVO/the-actual-revelation-of-jesus-christ-proof-of-creation-in-vr.pdf">view online.</a>
 
-<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a HREF="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf"> [ .PDF ]</a> <a href="/time-and-chance.epub"> [ .epub ] </a> <a href="/time-and-chance.mobi"> [ .mobi ] </a> or <a href="http://thebook.lamc.la">view online.</a>
-
-Older works <a href="lit-and-why.pdf">Lit and Why</a>, <a href="hot-and-y.pdf">hot&y</a>, and <a href="from-adam-to-mary.pdf">From Adam to Mary</a> are also available.
+Older works <a href="lit-and-why.pdf
+">Lit and Why</a>, <a href="hot-and-y.pdf
+">hot&y;</a>, and <a href="from-adam-to-mary.pdf
+">From Adam to Mary</a> are also available.
 
 </div>
-
-
 <div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
-    <h1 id="he-laughs">He Laughs</h1>
-
+<h1 id="he-laughs">He Laughs</h1>
 <p>The story of Isaac’s near sacrifice is highly commented on in the Zohar, the book of Jewish light.  It shows a significant amount of humor and sarcasm associated with some sexual innuendo that also links Isaac to Adam in Eden.  The name Isaac means “he laughs” in Hebrew, though there is not much for him to be laughing at upon first glance.  The Zohar also dates the date of the attempt on his life to his 37th year, much later than most people think; and directly in line with the time frame that is generally accepted for the Crucifixion.</p>
-
 <p><img src="ha.-ha.-ha.jpg" alt="" /></p>
-
 <p>This is what it appears he is laughing at, you see Isaac knew he was going to be killed, because he had read the books about his death–the prophesies that were designed in order to influence humanity (the true father) not to kill Adam.  His laughter grew louder as it appeared that perhaps he is God, and unable to be killed, but that’s down the line a bit.  Upon having his murder called off one loud resounding “Ha” came from his mouth.  This “Ha” was donated to his father’s name, changing Avram to Abraham; only that name change happened first upon his Covenant with God.  These events, as well as the apparent time inversion are inextricably linked.</p>
-
 <h3 id="ha-is-sem-the-save-everyone-messiah">Ha is SEM, the “Save Everyone Messiah”</h3>
-
 <p>The word Messiah backwards reveals that “Ha” which is short for Isaac in my personal mythology because of his name’s English meaning and the donation of those same letters to Abraham over what I consider a clear parallel to the crucifixion.  This Ha comes up again during Christ’s miraculous feeding of the multitude “two fish.”  This miracle, as well as many other references to feeding the people, is a reference to a teaching… one you are about to receive.</p>
-
 <p>The two fish are commonly held to be references to the two prophets, Elisha and Elija, and these two names are very special.  Like Jesus and Jeshurun they are equalities, using the English word “is” this time.  <em>El</em> is the proper name of the ancient Hebrew diety, and our equality here tells me that Isaac and El are one.  The Hispanic and English laughs, Ha and Ja are also related by the association of the two names.</p>
-
 <p>What’s more, these equalities link the English and Hebrew words for “the” in exactly the same order that Jeshurun equates the two renditions of the word is.  Just like the word SEM, “the” is a Holy Acronym.  The true purpose of God: <em>to help everyone.</em>  Just like a Rosetta stone, not only are we seeing the words, but their meanings are being directly connected to each other. To help us understand these ancient names show prescient knowledge and harbor divine wisdom.</p>
-
 <p>To really tie this to reality, I bring back the light of the word Exodus in reverse.  The name of that book in the Hebrew language translates to “names,” and if you recall the Element highlighted, xe, is also the name of Oracle Corporations’ database.</p>
-
 <h3 id="larry-ellison-the-founder-of-that-company-follows-the-pattern-of-the-names-of-elisha-and-elija-telling-us-that-el-is-the-son">Larry Ellison, the founder of that company, follows the pattern of the names of Elisha and Elija, telling us that <em>El is the son.</em></h3>
-
 <p>This idea that the Father and Son are one should come as no surprise to adherents of Christanity which teaches of the one-ness of the Trinity.  Another religion, that of ancient Egypt also has a concept of unity between Spirit and Mind in the form of the Ba and Ka.  Often spoken about in relation to Horus, the uniter and very well known “son God” it is linguistically attractive to see those concepts united under the “Ha” of Isaac.  Another Egyptian diety, the <em>sun God</em> might also be related… his name is Ra.</p>
-
 <p>In practice this oneness is decidedly less humorous, take it from me.  The idea of oneness is very much related to mind control, and two separate minds acting in “apprent concert” out of neccessity in the body of the son.  I am the authoritive figure on this topic.</p>
-
 <h3 id="haesh">ha’esh</h3>
 <p>There are a significant number of religious uses of the prefix Ha, which makes sense as it is the superlative “the” making its modifier “holy.”  Earlier we talked about Ha’esh, the word for the Holy Flame of the Burning Bush.  This is the bush that would not burn to ash, and the <em>ha</em> here is more than meets the eye.  You see the Hebrew word for fire, “esh” has absolutely nothing to do with ash, and yet this joke seems to imply knowledge of a relationship between the words “ash” and “esh,” again indicating knowledge of a language that was yet to exist.</p>
-
 <h3 id="the-true-name-of-god-is-adam">The True Name of God is Adam</h3>
 <p>This is somewhat obvious when you think about it, the name of the planet Earth in Hebrew is Adamah, which means “ground.”  Literally it means to swirl around Adam, and it is a good example of what you might have called Eden, the place where God was searching for Adam.  Here though, it makes more sense in the context of Matthew 2:2, where humanity is searching for the Second Adam… the Christ… all over the planet Earth.</p>
-
 <h3 id="hashem">ha’shem</h3>
-
 <p>‘t you guess there’s a joke on the way.  The name of God is a sacred secret in Judaism, and it must not be uttered.  The ineffable name is thus replaced with descriptions or abbreviations in order to keep its secret safe.  One such description is Ha’shem which literally means “the name.”  This is a direct reference to Eden, and the laughter is once again geared at the obvious foreknowledge of English in the construction of Hebrew and religion.  There is <em>no shame</em> for Adam, who knows he is the savior.</p>
-
 <div class="highlighter-rouge"><pre class="highlight"><code>Shem is an honorific title, not a name. Jews call God HaShem (השם) 
 which means "the Name"as in Leviticus 24:11. Some interpret this to 
 mean the God of Shem, implying that the God of Shem is a different God 
@@ -147,72 +124,43 @@ on this verse: "He also said, "Blessed be the LORD, the God of Shem!
 May Canaan be the slave of Shem." (Gen. 9:26)
 </code></pre>
 </div>
-
 <p>It is noteworthy that Ham and Shem’s names “combine” to nearly reveal <strong>Ha’shem</strong>.  <em>My mythology</em> relates this missing “m” to the Messiah, and the apostrophe is a clear reference to the <strong><em>Light above</em></strong>.  It appears in both Ha’esh, where it is dividing the sea, and this word where it might be hiding the “m.” Stories of the Messiah being hidden are pervasive.</p>
-
-<p>In Shrew, Abraham “opens” to reveal the “m,” literally abra is open, ha is the, and “m” is a compression of the letters “AC” which are also related to Isa<strong>AC</strong> and j<strong>AC</strong>ob.  M <a href="im_single.html">and N</a> are both compressed in <em>langolier</em>, and meant to be de-compressed.</p>
-
+<p>In Shrew, Abraham “opens” to reveal the “m,” literally abra is open, ha is the, and “m” is a compression of the letters “AC” which are also related to Isa<strong>AC</strong> and j<strong>AC</strong>ob.  M <a href="im_single.html
+">and N</a> are both compressed in <em>langolier</em>, and meant to be de-compressed.</p>
 <h3 id="hameforash">ha’meforash</h3>
 <p>Yet another rendition of “the name,” and now an entire English sentence which also ties in the word “ash.”  The savior is laughing about being accused of cursing the Earth.. ashes to ashes, now to esh.  Ash could also be a dimiuative reference to the consort of El, whose name is Asherah.</p>
-
 <h1 id="the-consort-of-el">The Consort of El</h1>
-
 <p>To continue laughing we need to hear a bit about my ex-wife, who is reprentative of Eve, Mary, Asherah… the whole lot (ha!) of females that also double as “all humanity.”  Eve can be short for “Everyone,” Mary has the Spanish word for sea right in her name, and the Whymar Republic to point out that she also has a reason Y.  Her true name is “Nanna” and that name is the reason why the second Planet (the Goddess of Love has a corresponding element of Na.  This is the beginning of Christ’s teaching on salt, and it is a direct cause for the story of Lot’s wife (also her) being turned into a pillar of salt.  Adam and Eve are either pillars of creation, or dust.. and she happened to turn and see a city being destroyed; my reading of this story has her “turning around” to come back to me… but only after seeing that the world is being saved.  This chastisement of her character might sound reminiscent of the stories about Mary Magdalene, that’s for a reason.</p>
-
 <p><img src="periodic_table_sodium_tile_coaster.jpg" alt="" /> n <img src="periodic_table_sodium_tile_coaster.jpg" alt="" /></p>
-
-<h3 id="the-little-n-is-short-for-ad-the-heart-of-her-name-this-is-because-n-is-the-14th-letter-and-ad-is-the-fifth-elementimsinglehtml--this-book-might-be-why-or-its-because-life-is-unfair--this-na-is-a-key-to-the-second-planet-and-lots-wife--pillar-of-salt-or-creation-you-decide">The little “n” is short for A.D. the Heart of her name. This is because <a href="im_single.html">“n” is the 14th letter, and AD is the Fifth element.</a>  This book might be why, or it’s because life is unfair.  This Na is a key to the second planet, and Lot’s wife.  Pillar of Salt, or Creation, you decide.</h3>
-
+<h3 id="the-little-n-is-short-for-ad-the-heart-of-her-name-this-is-because-n-is-the-14th-letter-and-ad-is-the-fifth-elementimsinglehtml--this-book-might-be-why-or-its-because-life-is-unfair--this-na-is-a-key-to-the-second-planet-and-lots-wife--pillar-of-salt-or-creation-you-decide">The little “n” is short for A.D. the Heart of her name. This is because <a href="im_single.html
+">“n” is the 14th letter, and AD is the Fifth element.</a>  This book might be why, or it’s because life is unfair.  This Na is a key to the second planet, and Lot’s wife.  Pillar of Salt, or Creation, you decide.</h3>
 <p>Another interesting trick of names that links to scripture is that she is also the <em>Woman clothed in the son</em> from Revelation, this a simple matter of seeing that Venus, the Goddess of Love, has only half a heart (missing the lo of love)… and no sun (negated by the reverse: nus).</p>
-
 <h3 id="halaylot">ha’laylot</h3>
-
 <p>We will return to teaching more about salt later, and also to my status as being single.  For now, rest assured that the rumors that I am saving the world just to get girls are highly exaggerated.  Still, there are so many references it might be worth a mention that we probably don’t think about whether or not the returning Jesus would be the world’s most elligible bachelor in history, or not.  Lot, or the “tool” of God is most definitely a corresponding Christ manifestation.</p>
-
 <p>This word comes from the Jewish prayer associated with Passover’s four questions.  The word means “nights,” and this kind of information might be a form of night for the messiah.  Or, it might just be fun.</p>
-
 <div class="highlighter-rouge"><pre class="highlight"><code>Ma nishtanah halailah hazeh mikol haleilot?
 Why is this night different from all other nights?
 </code></pre>
 </div>
-
 <h3 id="harose-ettes">ha’rose-ettes</h3>
-
 <p>This is the most important example of a linguistic artifact that is on the page.  It ties the Passover and Easter holidays, and through them the Crucifixion and Egyptian setting together by way of Eden.  This traditional Passover dish goes unnoticed as a reference to the Forbidden Fruit that it most certainly is obviously linking.  It is Apples and Honey, traditionally… and has special meaning his only when you realize who the Honey of Eden is.  Nanna’s middle name is Rose, and here we might be laughing until you find out that her very young niece shares that middle name… and I am sure that the correct “translation” of this sacred “food for thought” is <em>Apple and Honies.</em></p>
-
 <p>This transliteration is nontraditional, but it is an accurate representation of how the Jewish dish “sounds.”  There is no doubt, once you understand that it links the names of my contemporary family members through time all the way to ancient Egypt and Bethlehem that it’s intent is to show that the Passover and Easter holidays are link to now.</p>
-
 <p>To be very explicit, this is more than damning evidence to me that Adam and Eve in Eden are one in the same with Jesus and Mary in Rome… and Adam and Nanna… in Florida.  Her name is also shared with a Sumerian creation diety, and an unrelated (and fictional) book called “The Book of Eve” lists the Gods over Eden as “Anu and Nanna” and the two in the Garden as Adam and Eve their “children.”</p>
-
 <p><img src="haroseettes.JPG" alt="" /></p>
-
 <p>Spelled charoset, haroset, or charoses (Hebrew: חֲרֽוֹסֶת [ḥărōset])</p>
-
 <h3 id="ha-nuke-ah-the-festival-of-light">ha-nuke-ah, the Festival of Light</h3>
-
 <p>Imagine we live in a world where the government, or the Vatican, or both were once of the mind to hide little old me, and this Revelation designed to free the world from slavery.  In that place, they might have once tried to “nuke ah” which is a pet name for Adam… or perhaps nuke the “ahah” that we are all thinking inside right now.  The laughter here is loud, this “ahah” is in almost everything.  It’s in religion, music, our very names… and even in the phrase that American GI’s cry as they enter battle.  Who-ah, they ask, and until now it wasn’t so obvious who.  Yeshua, a Hebrew name for Jesus, might be egging them on by saying Yes, who?</p>
-
 <p>Little Cindy-Who, who was played by Taylor Momsen in the Grinch, also might wonder to this day who the messiah really is.  I can tell you for certain, that on the planet Adamah, his name is Adam.</p>
-
 <p>Yes, <em>who</em> indeed.</p>
-
 <p>Taylor’s repeated references are here to highlight that she is a big part of the apocalypse.  It’s nor reckless really, I am sure that she is (an) Eve, created by God, and the proof is in her series of appearances throughout her life.  First she’s Who-again? and then Little J, and finally today… well she’s about as naked as you can get when she’s <em>Going Down</em> in Eden.  She probably never knew she was created to deliver the goods, and waking like this is something similar to how it feels to be me… and have all of religion secretly about your life, before you live it.</p>
-
 <p>As they say, the show must go on… trying to hide this particular Revelation would probably cause a significant amount of darkness; censorship so thick you’d nick name it <em>CARNIVORE</em>.  At some point it might have become a defining purpose of the apocalypse to stop the effort to hide it; as that harm could be worse than anything that had come before.  It is probably no mistake that the Egyptian Plague of Darkness comes towards the end.   Right before the <em>son rises.</em></p>
-
 <h3 id="its-worth-noting-that-any-self-respecting-geek-will-see-the-light-in-the-name-carnivore-lit-by-god--this-firewall-is-not-just-sniffing-its-eating-packets--this-is-his-way-to-show-us-we-are-dealing-with-an-institutional-censorwall-from-sea-to-sea-no-longer-free">It’s worth noting that any self respecting geek will see the light in the name CARNIVORE, lit by God–this firewall is not just sniffing, it’s eating packets.  This is <em>his way</em> to show us we are dealing with an institutional censorwall from sea to sea, no longer free.</h3>
-
 <h2 id="the-ends-of-the-earth">The Ends of the Earth</h2>
-
 <p>The Holy Grail begins by seeing the world in a new light, re-framing how we look at scripture and religious ideas in light of a growing body of evidence that what was once small is soon to be large.  The small cup that held a drop of the blood of Christ is actually our entire planet, for reasons that might be obvious.  It is part of the message of saving everyone, and the worth of our little diamond in the rough… that highlights the Earth as the Heart of Heaven.  This was not always so, until we realized that all around us is a gift, a message that is in everything from our idioms to our names, movies, myths, and more.  Miraculously, “from the ends of the Earth” we see the H move from the end of time to the beginning, and the planet becomes “Heart.”</p>
-
 <p>This h could be short for Hebrew, which is the purpose of this chapter, to prove that Hebrew has been sent back in time from the future; and that religion documents this fact by highlighting all of these words beginning with h.  The symbol for the Planet Saturn, the God of Time also happens to be an h, with a cross… surely no coincidence.</p>
-
 <p>Within the chalice of the true holy grail, is not a drop of Jesus blood, but his whole family.</p>
-
 </div>
-
-</td>
+</center></td>
 </table>
 <script>
 
@@ -225,14 +173,13 @@ Why is this night different from all other nights?
   ga('send', 'pageview');
 
 </script>
-
 <div style="width: 60%; margin: 0 auto;">
- <br/>
+<br />
 Copyleft<sup>MT</sup> 
 
-This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href="http://www.lamc.la">http://www.lamc.la</a> and is written by <a href="http://linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
-<br/>
-<br/>
+This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href=".">.</a> and is written by <a href="http://www.linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
+<br />
+<br />
 <pre>
 Adam Marshall Dobrin
 
@@ -281,13 +228,7 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 }; 
 (function() { // DON'T EDIT BELOW THIS LINE 
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-
-
-
-</body>
+</oshad></eshad></body>
 </html>
-

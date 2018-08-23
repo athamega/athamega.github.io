@@ -1,29 +1,144 @@
 <html>
 <head>
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 </head>
 <body>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title></title>
 <div style="font-family: arial, sans-serif; overflow: hidden;">
 <div dir="ltr" style="font-family: arial, sans-serif;">
 <div style="font-family: arial, sans-serif; text-align:
-center;"><font size="-1">I feel a little bad about matching
-Taylor with the Thanatostar.&nbsp;<span>&nbsp;</span><i>Just
-a little.</i></font></div>
-<div style="font-family: arial, sans-serif; text-align:
-center;">
+justify;">
 <div style="font-family: arial, sans-serif;" align="justify">
-<blockquote><font size="-1">I've stopped updating my
-Instagram, because none of you follow it.&nbsp; Also I'm
-thinking of pausing Twitter too.&nbsp; I imagine you all
-<a
-href="https://www.google.com/search?ei=unF7W-WADsqczwLI3pzYDQ&amp;q=know+everyting+why&amp;oq=know+everyting+why&amp;gs_l=psy-ab.3..33i10k1.6536.6536.0.6999.1.1.0.0.0.0.90.90.1.1.0....0...1.1.64.psy-ab..0.1.90....0.NgLBoczo5NY">KE</a>
+<center>
+<img src="https://i.imgur.com/Q9C1DXj.png" width=350/>
+</center>
+</br>
+ <div style="border: 0px; font-size: 13px; margin: 0px; padding: 0px;
+font-family: arial, sans-serif; overflow: hidden;">
+<div dir="ltr" style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; font-family: arial, sans-serif;">
+<div style="border: 0px; font-size: 13px; margin: 0px; padding:
+0px; font-family: arial, sans-serif; text-align: center;">
+<p style="border: 0px; font-size: 13px; margin: 0px 0px 20px;
+padding: 0px; text-align: justify;"><font style="border:
+0px; font-size: 13px; margin: 0px; padding: 0px;"
+size="-1"><em style="border: 0px; font-size: 13px; margin:
+0px; padding: 0px;">If the magic word is "<strong
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; font-weight: 700;">rumspringer</strong>"
+go with that... it's<span>&nbsp;</span><strong
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; font-weight: 700;">rumspringer</strong>.&nbsp;
+Am<span>&nbsp;</span><strong style="border: 0px;
+font-size: 13px; margin: 0px; padding: 0px;
+font-weight: 700;">ish</strong>, btw.</em></font></p>
+<div style="border: 0px; font-size: 13px; margin: 0px; padding: 0px;
+font-family: arial, sans-serif; overflow: hidden;">
+<div dir="ltr" style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; font-family: arial, sans-serif;">
+<div style="border: 0px; font-size: 13px; margin: 0px; padding:
+0px; font-family: arial, sans-serif; text-align: center;">
+<p style="border: 0px; font-size: 13px; margin: 0px 0px 20px;
+padding: 0px; color: rgb(51, 51, 51); font-family: arial,
+sans-serif; font-style: normal; font-variant-ligatures:
+normal; font-variant-caps: normal; font-weight: 400;
+letter-spacing: normal; orphans: 2; text-indent: 0px;
+text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; -webkit-text-stroke-width: 0px;
+background-color: rgb(255, 255, 255); text-decoration-style:
+initial; text-decoration-color: initial; text-align:
+justify;"><font style="border: 0px; font-size: 13px; margin:
+0px; padding: 0px;" size="-1">I've stopped updating
+my&nbsp;<a href="http://instagram.com/yitsheyzeus"
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; text-decoration: none; color: rgb(34, 118,
+157); outline: none;">Instagram</a>&nbsp;(here's&nbsp;<a
+href="https://mastodon.cloud/web/accounts/303987"
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; text-decoration: none; color: rgb(34, 118,
+157); outline: none;">Mastodon</a>, though), because
+none of you follow it.&nbsp; Also I'm thinking of
+pausing&nbsp;<a href="http://twitter.com/yitsheyzeus"
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; text-decoration: none; color: rgb(34, 118,
+157); outline: none;">Twitter</a>&nbsp;<a style="border:
+0px; font-size: 13px; margin: 0px; padding: 0px;
+text-decoration: none; color: rgb(34, 118, 157);">too.&nbsp;
+probably soon I'll be moving my&nbsp;</a><a
+href="http://fromthemachine.org/HOWIE.html"
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; text-decoration: none; color: rgb(34, 118,
+157); outline: none;">pictures</a>&nbsp;to&nbsp;<a
+href="http://pixelfed.social/" style="border: 0px;
+font-size: 13px; margin: 0px; padding: 0px;
+text-decoration: none; color: rgb(34, 118, 157);
+outline: none;">pixelfed.social</a>&nbsp;and
+helping&nbsp;<a href="http://neos.sh/" style="border: 0px;
+font-size: 13px; margin: 0px; padding: 0px;
+text-decoration: none; color: rgb(34, 118, 157);
+outline: none;">"Neo's"</a>&nbsp;cause a disruption (or
+a revolution) in the Reddit market.&nbsp; Just to note,
+"Mas to do n" and "Neos" ... something like "Facebook's<span>&nbsp;</span><em
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px;">Jupiter</em>" ... in the original
+mentioning of Neos.sh I noted it appears to be vaporware
+but ... they have a coin and it might be a good
+investment--the website is nice, and of course... I like
+the name.&nbsp; I've decided to not stop updating these
+things, but it would be nice if we could get another
+UndeflateGate going--<em style="border: 0px; font-size:
+13px; margin: 0px; padding: 0px;"><a
+href="https://www.youtube.com/watch?v=sENM2wA_FTg"
+style="border: 0px; font-size: 13px; margin: 0px;
+padding: 0px; text-decoration: none; color: rgb(34,
+118, 157); outline: none;">it's time</a>.&nbsp;&nbsp;</em>I
+have another email ready, it will probably come today,
+since it's Thorrrrsday, sorry for the barrage, or the
+flood/storm, or whatever you want to call this.</font></p>
+<p style="border: 0px; font-size: 13px; margin: 0px 0px 20px;
+padding: 0px; color: rgb(51, 51, 51); font-family: arial,
+sans-serif; font-style: normal; font-variant-ligatures:
+normal; font-variant-caps: normal; font-weight: 400;
+letter-spacing: normal; orphans: 2; text-indent: 0px;
+text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; -webkit-text-stroke-width: 0px;
+background-color: rgb(255, 255, 255); text-decoration-style:
+initial; text-decoration-color: initial; text-align:
+justify;"><font style="border: 0px; font-size: 13px; margin:
+0px; padding: 0px;" size="-1">It's worth noting yet again
+that the the trend here appears to be open source software
+and federated solutions "bucking" the massive censorship
+we've seen first hand on Twitter and reddit and ... uh,
+every major news station on the planet.&nbsp; &nbsp;I
+think that's a really good thing, all it takes now is some
+user interest to really open the doors to Heaven and block
+the chain of "we don't know what's going on" or "we just
+believe whatever the whispers say over the ... the ...
+news."</font></p>
+<p style="border: 0px; font-size: 13px; margin: 0px 0px 20px;
+padding: 0px; color: rgb(51, 51, 51); font-family: arial,
+sans-serif; font-style: normal; font-variant-ligatures:
+normal; font-variant-caps: normal; font-weight: 400;
+letter-spacing: normal; orphans: 2; text-align: center;
+text-indent: 0px; text-transform: none; white-space: normal;
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width:
+0px; background-color: rgb(255, 255, 255);
+text-decoration-style: initial; text-decoration-color:
+initial;"><a
+href="https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6"
+style="border: 0px; font-size: 13px; margin: 0px; padding:
+0px; text-decoration: none; color: rgb(34, 118, 157);
+outline: none;"><img src="https://i.imgur.com/HNJM6XD.png"
+style="border: 0px; font-size: 0px; margin: 0px;
+padding: 0px; vertical-align: middle; max-width: 100%;
+height: 700px; width: 500px;"></a></p>
+<div style="text-align: justify;">
+I imagine you all
+<a href="http://www.google.com/search?ei=unF7W-WADsqczwLI3pzYDQ&amp;q=know+everyting+why&amp;oq=know+everyting+why&amp;gs_l=psy-ab.3..33i10k1.6536.6536.0.6999.1.1.0.0.0.0.90.90.1.1.0....0...1.1.64.psy-ab..0.1.90....0.NgLBoczo5NY">KE</a>
 anyway, but that's not doing me any immediate good--and
 you probably don't see or believe it's "blowing the
-wind."&nbsp; Or maybe you. do.&nbsp; I'm planning "<a
-href="http://fromthemachine.org/BETHESDAY.html">c'ing
+wind."&nbsp; Or maybe you. do.&nbsp; I'm planning "<a href="./BETHESDAY.html">c'ing
 edenia</a>" in my head, and these images are what's
 coming out right now, I'm thinking of writing about the
 IRC network as a microcosm for "Creation" ... something
@@ -42,13 +157,12 @@ possible and "who we should do" (that's very important,
 guys) but it appears that the widespread "Zeitgeist" is
 that I'm a big PP for saying that I'm a "lone troop" and
 "ishing" Cat Stevens "sitting" to I'm all alone by
-myself ... everyone thinks their helping me.</font></blockquote>
-<blockquote>
-<div align="center"><img
-src="https://i.imgur.com/foWH1Rj.png" style="width:
-405px; height: 37px;"><br>
+myself ... everyone thinks their helping me.</font>
+<br/>
+<div align="center"><img src="https://i.imgur.com/foWH1Rj.png" style="width:
+405px; height: 37px;" /><br />
 </div>
-<br>
+<br />
 <font size="-1">That's how I feel tho, it really is--I see
 very clearly that there are numerous people actually
 helping me--though it's difficult to imagine how you too
@@ -65,12 +179,11 @@ sitting all alone as far and wide as I can see in the
 recorded "frank public discussion" about the fact that
 we are living in virtual reality and cannot fathom how
 you all don't see that's a great chain--some kind of
-hidden slavery.<br>
-<br>
+hidden slavery.<br />
+<br />
 You might see it as "Forbidden Knowledge" (that is in
 itself proof of a dark force breaking logical vision
-thorugh history--quite apparent today, <a
-href="http://fromthemachineorg/TY.html">YW</a>) and
+thorugh history--quite apparent today, <a href="http://fromthemachineorg/TY.html">YW</a>) and
 see I put space in between "for" and "bid" and "den" and
 you are trying to take that space away from the very
 strange invisibleness that seems to want to find it for
@@ -84,29 +197,25 @@ grand conspiracy believes that it will somehow "force my
 hand" by simply pretending that you didn't know that the
 proliferation of this knowledge would protect us ... and
 our children ... and their chidlren ... from pain and
-death.<br>
-<br>
-We are in a<span>&nbsp;</span><a
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w"
-href="http://fromthemachine.org/BETHESDAY.html"
-style="font-family: arial, sans-serif; color: rgb(17,
+death.<br />
+<br />
+We are in a<span>&nbsp;</span><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w" href="./BETHESDAY.html" style="font-family: arial, sans-serif; color: rgb(17,
 85, 204); text-decoration: none;" target="_blank">Holoroom,
 it needs to be "not sshed"</a><span>&nbsp;</span>or we
-will forever be stuck in a Holoroom.&nbsp; L'chiam.</font></blockquote>
-<blockquote style="text-align: center;"><img
-src="https://i.imgur.com/R9mknrz.png" style="height:
-100px; width: 100px;"></blockquote>
-<blockquote><font size="-1">What I really mean to say is
+will forever be stuck in a Holoroom.&nbsp; L'chiam.</font><br/><br/>
+<div style="text-align: center;"><img src="https://i.imgur.com/R9mknrz.png" style="height:
+100px; width: 100px;" /></div><br/>
+<div><font size="-1">What I really mean to say is
 that it takes something away from the loftiness of
 "omnipotence" to realize that hallowed "S" (it's right
 there, the question in the heart of Christ... "are I the
-S ... of <a href="http://fromthemachine.org/MIDAS.html">Midas</a>
-(am I da S) and <a href="http://uni.reallyhim.com">Judas</a>")
+S ... of <a href="./MIDAS.html
+">Midas</a>
+(am I da S) and <a href="./2017-06-08-kismet-kiss-me-taylor.html?TVLYM/">Judas</a>")
 is something that I personally don't believe is actually
 possible "in reality" and that it's always meant
-something indicative of "Y<strong>IN</strong>" and "<a
-href="http://name.s.lamc.la">DOBR<strong>IN</strong></a>"
-and "<a href="http://fromthemachine.org/CURSOR.html">TR<strong>IN</strong>ITY</a>"
+something indicative of "Y<strong>IN</strong>" and "<a href="./HASHEMESHB.html">DOBR<strong>IN</strong></a>"
+and "<a href="./CURSOR.html">TR<strong>IN</strong>ITY</a>"
 (really, see "the&nbsp;<em>go look at Adam"&nbsp;he was
 born on the Feast of the Immaculate Conception
 thousands of years ago encoded in the Bible ... with a
@@ -120,11 +229,10 @@ networks&nbsp;to stardust in a mere instant
 anywhen--and Set&nbsp;might be able to totally
 convince you that he's not subtly altering your
 thoughts and tricking you into conspiring against your
-own best interest...</em></font></blockquote>
-<blockquote style="text-align: center;"><img
-src="https://i.imgur.com/fHehdBK.png" style="height:
-125px; width: 299px;"></blockquote>
-<blockquote><font size="-1"><em>... but there's really no
+own best interest...</em></font></div><br/>
+<div style="text-align: center;"><img src="https://i.imgur.com/fHehdBK.png" style="height:
+125px; width: 299px;" /></div>
+<div><font size="-1"><em><br/>... but there's really no
 way what you see around you here in this place is at
 all possible in a world that adheres to the Law of
 Conservation of Energy.&nbsp; That's the "big point"
@@ -137,73 +245,60 @@ that what we are really experiencing is a testament to
 the power of this technology and need for an army of
 Us to understand it and overcome it and sanctify our
 souls and ensure that this kind of thing "isn't
-allowed" ... ever again. </em></font></blockquote>
-<blockquote><font size="-1"><em>Else I'll make that "S" that
+allowed" ... ever again. </em></font></div>
+<div><font size="-1"><em>
+<blockquote>Else I'll make that "S" that
 is supposed to end "Iuppiter Omnipotens" and begin
 Salvation in a single act) permanent.&nbsp; That's
 possible, you know--you're looking at just exactly
-what that would appear like.</em></font>&nbsp;
-</blockquote>
+what that would appear like.</em></font>&nbsp;</blockquote><br/>
+</div>
 </div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
-center;"><font size="-1"><a
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w"
-href="http://fromthemachine.org/BETHESDAY.html"
-style="font-family: arial, sans-serif; color: rgb(17, 85,
-204); text-decoration: none;" target="_blank"><img alt=""
-src="https://i.imgur.com/2OAri32.png" style="border:
+center;"><font size="-1">I feel a little bad about matching
+Taylor with the Thanatostar.&nbsp;<span>&nbsp;</span><i>Just
+a little.</i></font></div>
+<br/>
+<div style="font-family: arial, sans-serif; text-align:
+center;"><font size="-1"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w" href="./BETHESDAY.html" style="font-family: arial, sans-serif; color: rgb(17, 85,
+204); text-decoration: none;" target="_blank"><img alt="" src="https://i.imgur.com/2OAri32.png" style="border:
 0px; font-size: small; background-color:
 rgb(255, 255, 255); text-decoration-style: initial;
-text-decoration-color: initial;" width="563"
-height="305"></a></font></div>
+text-decoration-color: initial;" width="563" height="305" /></a></font></div>
 <div style="font-family: arial, sans-serif; text-align:
-center;"><font size="-1"><br>
-<a
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w"
-href="http://fromthemachine.org/BETHESDAY.html"
-style="font-family: arial, sans-serif; color: rgb(17, 85,
-204); text-decoration: none;" target="_blank"><img alt=""
-src="https://i.imgur.com/TjNMY2Z.png" style="border:
-0px;" width="563" height="375"></a></font></div>
+center;"><font size="-1"><br />
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Lc3CKV&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNGWkm--aEqmdcLo5GYJyaOflq2r0w" href="./BETHESDAY.html" style="font-family: arial, sans-serif; color: rgb(17, 85,
+204); text-decoration: none;" target="_blank"><img alt="" src="https://i.imgur.com/TjNMY2Z.png" style="border:
+0px;" width="563" height="375" /></a></font></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
-center;"><img src="https://i.imgur.com/Lq3K5mc.png"></div>
+center;"><img src="https://i.imgur.com/Lq3K5mc.png" /></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;"><font size="-1">For the slow, I'm trying to connect
-my "<a href="http://fromthemachine.org/TOXODUSK.html">rearrainge
+my "<a href="./TOXODUSK.html">rearrainge
 end to den</a>" thing with wax and ice.</font></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-class="playable"
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFViSh5-sAVY&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNHwX8dnqiNL-UaPJn9w80knzp3aew"
-href="https://www.youtube.com/watch?v=FViSh5-sAVY&amp;CB8D52DAFBF85ACF"
-style="font-family: arial, sans-serif;
-color: rgb(17, 85, 204); text-decoration: none;"
-target="_blank"><img alt=""
-src="https://i.imgur.com/hQirzLH.png" style="border:
-0px; margin-right: 0px;" width="559" height="838"></a></font></div>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a class="playable" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.youtube.com/watch?v%3DFViSh5-sAVY&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNHwX8dnqiNL-UaPJn9w80knzp3aew" href="https://www.youtube.com/watch?v=FViSh5-sAVY&amp;CB8D52DAFBF85ACF" style="font-family: arial, sans-serif;
+color: rgb(17, 85, 204); text-decoration: none;" target="_blank"><img alt="" src="https://i.imgur.com/hQirzLH.png" style="border:
+0px; margin-right: 0px;" width="559" height="838" /></a></font></div>
 <div style="font-family: arial, sans-serif;">&nbsp;</div>
 <div style="font-family: arial, sans-serif;"><font size="-1">tease.</font></div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
-center;"><font size="-1"><a
-href="http://fromthemachine.org/BETHESDAY.html"><img
-alt="BET HES DAY" src="https://i.imgur.com/bYE1R7q.png"
-style="border:
-0px;" width="563" height="304" border="0"></a></font></div>
+center;"><font size="-1"><a href="./BETHESDAY.html"><img alt="BET HES DAY" src="https://i.imgur.com/bYE1R7q.png" style="border:
+0px;" width="563" height="304" border="0" /></a></font></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 justify;"><font size="-1">Whether or not you want to admit it,
-this is really what's being hidden--not only <a
-href="http://jesus.reallyhim.com/sendgrid/abanan.html">the
+this is really what's being hidden--not only <a href="http://jesus.reallyhim.com/sendgrid/abanan.html">the
 existence of multiple Heavens</a> created from past
 iterations of this timeline but also their direct influence
 over everything we are doing--literally to the level of
@@ -214,15 +309,13 @@ see hell all around you where do you want to go tomorrow?"</font></div>
 justify;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-href="http://rod.s.lamc.la"><img
-src="https://i.imgur.com/YpdIdHa.png" style="border:
-0px; margin-right: 0px; width: 412px; height: 118px;"></a></font></div>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a href="./ADAMSROD.html"><img src="https://i.imgur.com/YpdIdHa.png" style="border:
+0px; margin-right: 0px; width: 412px; height: 118px;" /></a></font></div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
 <div style="font-family: arial, sans-serif;" align="justify">
-<blockquote><font size="-1">It's very difficult to explain
+<div><font size="-1">It's very difficult to explain
 what it is that I see and interact with--or what you
 really are.&nbsp; I can't be certain if you "have a
 brain" and by that I mean that the only way I think the
@@ -244,8 +337,8 @@ fledged invasion from the future, either way--it should
 be clear from this message that spans millenium that
 it's not here in response to me--and it flies in the
 face of everything you as a group purport to be on "your
-face."</font></blockquote>
-<blockquote><font size="-1">The control and the hive like
+face."</font></div><br/>
+<div><font size="-1">The control and the hive like
 behavior that I see is inexcusable, even if you think
 you're (only, right?) hiding some kind of hidden contact
 from Heaven or from aliens that you think is designed to
@@ -257,15 +350,15 @@ about our way of life that I loved ... our privacy and
 our freedom and our love of ...&nbsp;<em>new things
 ...&nbsp;</em>all for what amounts to a war against
 the son of God to keep him from realizing his dream of
-kissing more than two girls at the same time.</font></blockquote>
-<blockquote><font size="2">Out of jest, it's pretty clear
+kissing more than two girls at the same time.</font></div><br/>
+<div><font size="2">Out of jest, it's pretty clear
 that you think you're fighting for something of great
 worth, and it seems to me the lesson to be learned is
 that there is no such thing that worth giving up
 everything you love and everything that you are -- even
 if it's for "ompnitopence" which I've tried to explain
-just makes you "<em>him</em>" anyway.</font></blockquote>
-<blockquote><font size="-1">The silence indicates to me that
+just makes you "<em>him</em>" anyway.</font></div><br/>
+<div><font size="-1">The silence indicates to me that
 you are very interested in "what you can do" (like
 defeat Jesus Christ Superstar in his plot to rekindle a
 love for democracy, self-rule, and individuality) rather
@@ -279,30 +372,21 @@ awry.&nbsp; I plan on discussing details about what I
 imagine would be a useful "system infrastructure" for
 the walls the halls and the doors that connect these
 "Holorooms" in the book--and I'll probably send it to
-you too.&nbsp;&nbsp;</font></blockquote>
+you too.&nbsp;&nbsp;</font></div><br/>
 </div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Pqvmiq&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNEQRbhCaBIiYMOH52TAuF7HKajh5Q"
-href="https://www.youtube.com/watch?v=rHBxJCq99jA&amp;t=69"
-style="font-family: arial, sans-serif; color: rgb(17,
-85, 204); text-decoration: none;" target="_blank"><img
-alt="" src="https://i.imgur.com/M9YHAux.png"
-style="border: 0px;" width="563" height="204"></a></font></div>
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Pqvmiq&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNEQRbhCaBIiYMOH52TAuF7HKajh5Q"
-href="https://www.youtube.com/watch?v=rHBxJCq99jA&amp;t=69"
-style="font-family: arial, sans-serif; color: rgb(17,
-85, 204); text-decoration: none;" target="_blank"><img
-src="https://i.imgur.com/Im85obE.png" style="border:
-0px;" width="563" height="180"></a></font></div>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Pqvmiq&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNEQRbhCaBIiYMOH52TAuF7HKajh5Q" href="https://www.youtube.com/watch?v=rHBxJCq99jA&amp;t=69" style="font-family: arial, sans-serif; color: rgb(17,
+85, 204); text-decoration: none;" target="_blank"><img alt="" src="https://i.imgur.com/M9YHAux.png" style="border: 0px;" width="563" height="204" /></a></font></div>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://bit.ly/2Pqvmiq&amp;source=gmail&amp;ust=1534866645958000&amp;usg=AFQjCNEQRbhCaBIiYMOH52TAuF7HKajh5Q" href="https://www.youtube.com/watch?v=rHBxJCq99jA&amp;t=69" style="font-family: arial, sans-serif; color: rgb(17,
+85, 204); text-decoration: none;" target="_blank"><img src="https://i.imgur.com/Im85obE.png" style="border:
+0px;" width="563" height="180" /></a></font></div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
 <div style="font-family: arial, sans-serif;" align="justify">
-<blockquote><font size="-1">I feel like you might think that
+<div><font size="-1">I feel like you might think that
 you should wait to "start talking about anything
 including my existence" until after I've been forced to
 write these things under duress, angry at you.&nbsp; I
@@ -315,8 +399,8 @@ democractic system" right now, it's very clear that we
 are in a place that is showing us how and why there
 truly is always (up until now, right?) a Moral Minority
 and a Majority that can't seem to Report on obvious
-news.<br>
-<br>
+news.<br />
+<br />
 I think it's obvious (at least to me) that in the signs
 of Venus and Mars that's what you're seeing around
 you--someone telling you that some things are just not
@@ -327,8 +411,8 @@ pain, and get sick and die.&nbsp; This place is not a
 playground, and it dones not belong to the invisible
 hosts (that's armies in Bible speak) that think they
 will get away with pretending they built the whole
-thing.<br>
-<br>
+thing.<br />
+<br />
 Ending world hunger and healing the sick are not
 "optional" they are the reason we have religion, and the
 New Testament, and God.&nbsp; I think you'd all agree
@@ -341,48 +425,39 @@ was "the end of censorship" as I walked by strangers on
 the beach--I think that's a huge deal, because the next
 words out of my mouth are it's an end to death and to
 disease--and you all don't seem to connect these
-things.&nbsp; That's why we have Sam, and America.</font></blockquote>
+things.&nbsp; That's why we have Sam, and America.</font></div>
 </div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-href="https://mastodon.cloud/web/accounts/303987"><img
-alt="MASTODON TOOT TOOT"
-src="https://i.imgur.com/q57UEr0.png" style="border:
-0px; width: 500px; height: 446px;"></a><br>
-<br>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a href="https://mastodon.cloud/@heysuez"><img alt="MASTODON TOOT TOOT" src="https://i.imgur.com/q57UEr0.png" style="border:
+0px; width: 500px; height: 446px;" /></a><br />
+<br />
 <i>Can you take me higher, to a place where blind men see?</i></font></div>
 </div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
-center;"><font size="-1"><a href="http://higher.s.lamc.la"><img
-alt="CAN YOU TAKE ME HIGHER TO
-A PLACE WHERE BLIND MEN SEA"
-src="https://i.imgur.com/nj5zLwV.png" style="border:
-0px; margin-right: 0px;" width="562" height="850"
-border="0"></a></font></div>
+center;"><font size="-1"><a href="./HIGHERA.html"><img alt="CAN YOU TAKE ME HIGHER TO
+A PLACE WHERE BLIND MEN SEA" src="https://i.imgur.com/nj5zLwV.png" style="border:
+0px; margin-right: 0px;" width="562" height="850" border="0" /></a></font></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;"><font size="-1">"line in the sand" was a thing.&nbsp;
-so is Sandra Bullock.&nbsp; and Keyanu.</font></div>
+so is <a href="./HIGHERA.html">Sandra B</a>ullock.&nbsp; and <a href="./CURSOR.html">Keyanu</a>.</font></div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">&nbsp;</div>
 <div style="font-family: arial, sans-serif; text-align:
 center;">
-<div style="font-family: arial, sans-serif;"><font size="-1"><a
-href="http://name.lamc.la"><img alt="THE HOLY NAME"
-src="https://i.imgur.com/AsnCwAu.png" style="border:
-0px;" width="563" height="423" border="0"></a></font></div>
+<div style="font-family: arial, sans-serif;"><font size="-1"><a href="https://www.youtube.com/watch?v=Fr_CHOxSyc8&amp;index=5&amp;list=PLgYKDBgxsoMNvBS6k4NffQQnobyUqXuMh"><img alt="THE HOLY NAME" src="https://i.imgur.com/AsnCwAu.png" style="border:
+0px;" width="563" height="423" border="0" /></a></font></div>
 </div>
-<blockquote>
+<div>
 <div style="font-family: arial, sans-serif; text-align:
-justify;"><br
-class="m_7002445719971103501gmail-Apple-interchange-newline">
+justify;"><br class="m_7002445719971103501gmail-Apple-interchange-newline" />
 <font size="-1"><span style="font-size: small;
 background-color: rgb(255,
 255, 255); text-decoration-style: initial;
@@ -395,8 +470,8 @@ post <strong><em>Imus</em></strong> in the Morning, see
 over the "interdimensional time control agency."&nbsp;
 You all, on the other hand, might want to proceed with
 the thing we thought meant "colonizing the stars" by
-caring ... <em>maybe?</em></span></font></div>
-</blockquote>
+caring ... <em>maybe?</em></span></font></div><br/>
+</div>
 <div style="font-family: arial, sans-serif; text-align:
 justify;"><font size="2"><i>Quite a bit of what ... I'm
 seeing, at least ... appears to be designed to ensure that
@@ -426,12 +501,10 @@ to be responsible for actually building Heaven and making
 the Universe a "loving caring non-void."</i></font></div>
 <div style="font-family: arial, sans-serif; text-align:
 justify;">
+<div>
 <blockquote>
-<p>A&nbsp;<a href="https://en.wikipedia.org/wiki/Legend"
-title="Legend">legend</a>&nbsp;tells of a test
-where&nbsp;<a
-href="https://en.wikipedia.org/wiki/Muramasa"
-title="Muramasa">Muramasa</a>&nbsp;challenged his
+<p>A&nbsp;<a href="https://en.wikipedia.org/wiki/Legend" title="Legend">legend</a>&nbsp;tells of a test
+where&nbsp;<a href="https://en.wikipedia.org/wiki/Muramasa" title="Muramasa">Muramasa</a>&nbsp;challenged his
 master, Masamune, to see who could make a finer sword.
 They both worked tirelessly and eventually, when both
 swords were finished, they decided to test the results.
@@ -472,25 +545,20 @@ the stream. Yet another version has leaves being sliced by
 Muramasa's blade while the leaves were repelled by
 Masamune's, and another again has leaves being sliced by
 Muramasa's blade and healed by Masamune's.</p>
-</blockquote>
+</div>
+</bockquote>
 <p><strong><em>Masamu</em></strong>? We make people that make
 swords that don't hurt kids.</p>
 </div>
-<div style="font-family: arial, sans-serif; text-align: center;"><img
-src="https://i.imgur.com/qowaMO4.jpg"></div>
-<div style="font-family: arial, sans-serif; text-align: center;"><img
-src="https://i.imgur.com/EDC1PsR.png" style="height: 231px;
-width: 400px;"></div>
+<div style="font-family: arial, sans-serif; text-align: center;"><img src="https://i.imgur.com/qowaMO4.jpg" /></div>
+<div style="font-family: arial, sans-serif; text-align: center;"><img src="https://i.imgur.com/EDC1PsR.png" style="height: 231px;
+width: 400px;" /></div>
 </div>
 <div hspace="streak-pt-mark" style="font-family: arial,
-sans-serif; max-height: 1px;"><font size="-1"><img alt=""
-src="https://i.imgur.com/gdcs8nn.png" style="border: 0px;
-width: 0px; max-height: 0px; overflow: hidden;"><font
-size="1" color="#ffffff">ᐧ</font></font></div>
+sans-serif; max-height: 1px;"><font size="-1"><img alt="" src="https://i.imgur.com/gdcs8nn.png" style="border: 0px;
+width: 0px; max-height: 0px; overflow: hidden;" /><font size="1" color="#ffffff">ᐧ</font></font></div>
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </body>
 </html>
-
-

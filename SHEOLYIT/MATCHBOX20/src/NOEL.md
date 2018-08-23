@@ -1572,8 +1572,8 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 <br/>
 <a href="http://fb.me/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
 <a href="http://fb.me/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="http://bit.ly/29qRC6P">Twitter</a> |
-<a href="http://matchbox.lamc.la">The Matchbox</a> | 
-<a href="http://lamc.la">The Revelation of Christ</a> | 
+<a href=".">The Matchbox</a> | 
+<a href=".">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
 <br/>
 </center>
