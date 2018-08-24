@@ -1,88 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" dearbianca="hey" />
-<title>AD on I'm Single | TIME AND CHANCE</title>
-<meta name="author" content="Adam Marshall Dobrin" />
-<link rel="stylesheet" href="/css/main.css" />
-<link href="/css/base.css" rel="stylesheet" />
-<link href="/css/font-awesome.min.css" rel="stylesheet" />
-<link href="/css/default.min.css" rel="stylesheet" />
-<script src="/css/highlight.min.js"> 
-     &lt;script type="text/javascript" src="/css/MathJax.js?config=TeX-AMS_HTML"&gt;</script>
-<style>
-  .nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0 auto;
-    padding:0;
-    text-align:center;
-    width: 90%;
-}
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:8px;
-  
- }
-
-videoWrapper {
-	position: relative;
-		padding-bottom: 56.25%; /* 16:9 */
-			padding-top: 25px;
-				height: 0;
-				}
-				.videoWrapper iframe {
-					position: absolute;
-						top: 0;
-							left: 0;
-								width: 100%;
-									height: 100%;
-									}
-
-
-
-</style>
-</head>
-<body>
-<eshad><center><p><a href="./CHALK.html
-"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="./GATE.html
-"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="./2017-06-14-enders-game-prometheus-locke-and.html
-"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="https://eyerc.slack.com/join/shared_invite/MjM2NDM2Mjc3Nzk4LTE1MDQ0MDE3NzQtMmU5NjI1N2VmOQ"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
-<table>
-<td style="width: 310px; padding: 2px; vertical-align: top;">
-<div style="padding-left: 20px; padding-top: 50px;">
-<a href="http://medium.com/in-pursuit-of-happiness">
-<div style="font-size: 17px;">En Pursuit of Happiness</div>
-How Jesus Christ and Rock'n Roll save every single soul.
-</a>
-<br />
-<br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
-<br /><br />
-<a href="https://fromthemachine.org/">
-<div style="font-size: 17px;">The Matchbox</div>
-</a>
-The e-mails that circled the globe, opening the doorway to the future.
-</div>
-<br /><br />
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-				
-				(adsbygoogle = window.adsbygoogle || []).push({});
-											                      </script>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-		    (adsbygoogle = window.adsbygoogle || []).push({});
-		    </script></td>
-<td>
-<center>
 <div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
 ">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
 </div>
@@ -97,7 +12,7 @@ Older works <a href="lit-and-why.pdf
 ">From Adam to Mary</a> are also available.
 
 </div>
-<div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
+<div style="text-align: justify; width: 95%; align: center; margin: 0 auto; font-size: 16px;">
 <h1 id="im-single">I’m Single</h1>
 <p>None of the patterns that link together our cultural art into a Matrix of Biblical light are more intricate than the one that is designed to introduce the Messiah.  Bridging <em>The Fifth Element</em> with Shakespeare tied together with the <em>The Hand of God</em> yields the key to a “Cypher” that ties the Holiest number of all, 14, to Adam Dobrin.  This is the place that tells us Sinbad is made up of two elements, one letter (“n”) and one person.  All indexed and tied together by The Fifth Adam.  It’s the answer to the movie, and Shakespeare’s question.  Not “What is the Matrix?” but rather “To B or not to Be?”</p>
 <p>If “Iran” and “Amish” haven’t convinced you that the Lord is writing truth not only in the product of our civilization–the heart of the word Earth (that’s art), perhaps my personal favorite abstraction of <em>walking on water</em> will show you that it is the creation of America itself that is God’s greatest miracle.  He’s marked it with the discovery of the continent, his AM at the beginning of it’s name, and a tie between the name “Christ” and my intials indexed to 14.</p>
@@ -280,8 +195,8 @@ In EVERYTHING.
 <h2 id="dreaming-time-in-reverse">Dreaming time in “reverse”</h2>
 <h1 id="ants-marching-and-the-crown-of-thorns">Ants Marching and the Crown of Thorns</h1>
 </div>
-</center></td>
-</table>
+
+
 <script>
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -293,7 +208,7 @@ In EVERYTHING.
   ga('send', 'pageview');
 
 </script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 
@@ -350,5 +265,5 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-</oshad></eshad></body>
-</html>
+
+

@@ -1,84 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" />
-<title>The Second Breakfast | TIME AND CHANCE</title>
-<meta name="author" content="Adam Marshall Dobrin" />
-<link rel="stylesheet" href="/css/main.css" />
-<link href="/css/base.css" rel="stylesheet" />
-<link href="/css/font-awesome.min.css" rel="stylesheet" />
-<link href="/css/default.min.css" rel="stylesheet" />
-<script src="/css/highlight.min.js"> 
-     &lt;script type="text/javascript" src="/css/MathJax.js?config=TeX-AMS_HTML"&gt;</script>
-<style>
-  .nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0 auto;
-    padding:0;
-    text-align:center;
-    width: 90%;
-}
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:8px;
-  
- }
-
-videoWrapper {
-	position: relative;
-		padding-bottom: 56.25%; /* 16:9 */
-			padding-top: 25px;
-				height: 0;
-				}
-				.videoWrapper iframe {
-					position: absolute;
-						top: 0;
-							left: 0;
-								width: 100%;
-									height: 100%;
-									}
-
-
-
-</style>
-</head>
-<body>
-<table>
-<td style="width: 310px; padding: 2px; vertical-align: top;">
-<div style="padding-left: 20px; padding-top: 50px;">
-<a href="http://medium.com/in-pursuit-of-happiness">
-<div style="font-size: 17px;">En Pursuit of Happiness</div>
-How Jesus Christ and Rock'n Roll save every single soul.
-</a>
-<br />
-<br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
-<br /><br />
-<a href="https://fromthemachine.org/">
-<div style="font-size: 17px;">The Matchbox</div>
-</a>
-The e-mails that circled the globe, opening the doorway to the future.
-</div>
-<br /><br />
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-				
-				(adsbygoogle = window.adsbygoogle || []).push({});
-											                      </script>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-		    (adsbygoogle = window.adsbygoogle || []).push({});
-		    </script></td>
-<td>
-<center>
 <div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
 ">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
 </div>
@@ -93,7 +12,7 @@ Older works <a href="lit-and-why.pdf
 ">From Adam to Mary</a> are also available.
 
 </div>
-<div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
+<div style="text-align: justify; width: 95%; align: center; margin: 0 auto; font-size: 16px;">
 <h1 id="light-for-the-wise">Light for the Wise</h1>
 <p>I’m really not sure if the “Garden of Eden” is a story about a lush world of life sprawling within a world hidden in Virtual Reality.  I can’t tell you for sure if “Simian” has anything to do with the Sims or Sim City; only that I’m sure that <em>feeding the poor</em> is a new commandment of God, morally mandated by the process of <em>civilization</em> that we are certainly within.  Across the stories of the Bible, binding them all together are equally descriptive images of a hidden message about <em>food.</em>  It’s in the Promised Land of Joshua’s “<em>flowing milk and honies</em>” that ties Willy Won<strong>ka</strong>’s Chocolate Factory to the machinations of Heaven through the not so obvious Ka you see (that’s “Veruka”) declaring that the Salt of the Earth must see exactly how a place with Honey and Milk on tap might be missing the <strong>life</strong> required to sustain us in the images of a Golden Cow, and a man… Judah Maccabee.</p>
 <p>You see, the chastisement of Christ is clear to me, that you cannot build Heaven by forgoing sustenance and making everyone live forever without eating.  It’s not just about the dinner conversation, but that’s a big role–it’s about the machinations of civilization–transportation, family life, and jobs that you have to see would fade away in a Heavenly world that might have been created by me.  All around us we have reminders never to have a “Last Supper.”  Countries of the Earth remind us, in Belgian Waffles, Canadian Bacon, English Muffins, and more… but nothing is more telling of the connection between religion, Adam, and America than the proper noun left out… nothing more American than Apple Pie.</p>
@@ -111,8 +30,8 @@ Older works <a href="lit-and-why.pdf
 <p>In Babylon, we see “Hanging Gardens” and somehow this ties together the city of Ur, the Guttenberg Bible, Hammurabi’s Code… and the “invention” of laguage as possible points which might start the point between social evolution and now where the thing we call “civilization began.”</p>
 <p>God thinks that if you said “Ur” might be the right time, <strong>You Are</strong> the beginning of Civilization.  I think we ought to tell him it doesn’t start until he <em>stops talking</em> by putting his “first hi” in the Hebrew “I” (anokhi) and “you are” in Abraham’s birthtown.  I’m right of couse, with reference to him.</p>
 </div>
-</center></td>
-</table>
+
+
 <script>
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -124,7 +43,7 @@ Older works <a href="lit-and-why.pdf
   ga('send', 'pageview');
 
 </script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 
@@ -181,5 +100,5 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-</body>
-</html>
+
+

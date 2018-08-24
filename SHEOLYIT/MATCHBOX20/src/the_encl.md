@@ -58,7 +58,7 @@ How Jesus Christ and Rock'n Roll save every single soul.
 <br />
 <br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
 <br /><br />
-<a href="https://fromthemachine.org/">
+<a href=".">
 <div style="font-size: 17px;">The Matchbox</div>
 </a>
 The e-mails that circled the globe, opening the doorway to the future.
@@ -130,7 +130,7 @@ Build it.</p>
   ga('send', 'pageview');
 
 </script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 

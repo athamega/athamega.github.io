@@ -1,84 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8" />
-<title>The Letter Why | TIME AND CHANCE</title>
-<meta name="author" content="Adam Marshall Dobrin" />
-<link rel="stylesheet" href="/css/main.css" />
-<link href="/css/base.css" rel="stylesheet" />
-<link href="/css/font-awesome.min.css" rel="stylesheet" />
-<link href="/css/default.min.css" rel="stylesheet" />
-<script src="/css/highlight.min.js"> 
-     &lt;script type="text/javascript" src="/css/MathJax.js?config=TeX-AMS_HTML"&gt;</script>
-<style>
-  .nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0 auto;
-    padding:0;
-    text-align:center;
-    width: 90%;
-}
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:8px;
-  
- }
-
-videoWrapper {
-	position: relative;
-		padding-bottom: 56.25%; /* 16:9 */
-			padding-top: 25px;
-				height: 0;
-				}
-				.videoWrapper iframe {
-					position: absolute;
-						top: 0;
-							left: 0;
-								width: 100%;
-									height: 100%;
-									}
-
-
-
-</style>
-</head>
-<body>
-<table>
-<td style="width: 310px; padding: 2px; vertical-align: top;">
-<div style="padding-left: 20px; padding-top: 50px;">
-<a href="http://medium.com/in-pursuit-of-happiness">
-<div style="font-size: 17px;">En Pursuit of Happiness</div>
-How Jesus Christ and Rock'n Roll save every single soul.
-</a>
-<br />
-<br />The continuing story of my attempt to bright light to the world.  A log of the difficulties I've had, and how they might relate to the message itself--along with some insight that I have gleaned from the experience of receiving this Revelation.  While the work you are looking at is filled with what I see as clear evidence of the fulfillment of messianic prophesy, the main goal of LAMC.LA was to deliver to the world a new way of looking at religion, one which could be used to seek out the true wisdom and guidance of religion for oneself.  <br /><br /><b>En Pursuit of Happiness</b> on the other hand, discusses my own hopes and dreams, and to explain how they have changed throughout my interactions with the ... beyond.
-<br /><br />
-<a href="https://fromthemachine.org/">
-<div style="font-size: 17px;">The Matchbox</div>
-</a>
-The e-mails that circled the globe, opening the doorway to the future.
-</div>
-<br /><br />
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-				
-				(adsbygoogle = window.adsbygoogle || []).push({});
-											                      </script>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- newad -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9608809622006883" data-ad-slot="7054287854" data-ad-format="auto"></ins>
-<script>
-		    (adsbygoogle = window.adsbygoogle || []).push({});
-		    </script></td>
-<td>
-<center>
 <div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
 ">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
 </div>
@@ -93,7 +12,7 @@ Older works <a href="lit-and-why.pdf
 ">From Adam to Mary</a> are also available.
 
 </div>
-<div style="width: 70%; align: center; margin: 0 auto; font-size: 16px;">
+<div style="text-align: justify; width: 95%; align: center; margin: 0 auto; font-size: 16px;">
 <h1 id="the-letter-why">The Letter Why</h1>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/tXc4jgUJEko" frameborder="0" allowfullscreen=""></iframe>
 <p>The things in this chapter are names and words that are probably boring; but yet confirm to me that I (and we) have been pre-selected, destined from before my birth to be the messiah.  A number of the examples on this page fulfill Biblical prophesy, and are literal teaching of Christ spoken about in the New Testament.  My twists are the intended original intent, which serves as a pointer to these examples which have real useful meaning, as well as serving as more proof that our languages are designed in order to reveal this truth now.</p>
@@ -292,8 +211,8 @@ Samson's hair, and Isaac's laugh.
 <p>There’s an entire chapter dedicated to the “ran” of these elements, see <a href="the_lamb_of_god.html
 ">The Lamb of God.</a></p>
 </div>
-</center></td>
-</table>
+
+
 <script>
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -305,7 +224,7 @@ Samson's hair, and Isaac's laugh.
   ga('send', 'pageview');
 
 </script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 
@@ -362,5 +281,5 @@ this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's uniq
 var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-</body>
-</html>
+
+

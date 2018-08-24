@@ -1711,19 +1711,16 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                      to RattleRod (
                      <i>
                       it is
-                      <a href="./TAYLOR.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730036000&amp;usg=AFQjCNHZmoTQaFsBp3g56heAFL8hQtvL3Q">
+                      <a href="./TAYLOR.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html?&amp;source=gmail&amp;ust=1486221730036000&amp;usg=AFQjCNHZmoTQaFsBp3g56heAFL8hQtvL3Q">
                        to be...)
                       </a>
 </i>
-<a href="./TAYLOR.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730036000&amp;usg=AFQjCNGO2oKGvg5Vv9BhvzdLbn6eCfmTYQ">
+<a href="./TAYLOR.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730036000&amp;usg=AFQjCNGO2oKGvg5Vv9BhvzdLbn6eCfmTYQ">
                       to the Fifth Element
                      </a>
                      , to Phillip K. Dick's&nbsp;
                      <i>
-<a href="./OCADSWAY.html?
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./OCADSWAY.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGDFboOvAnMcK1GU6l1f4lorF8pjQ">
+<a href="./OCADSWAY.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./OCADSWAY.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGDFboOvAnMcK1GU6l1f4lorF8pjQ">
                        Minority Report
                       </a>
 </i>
@@ -1789,17 +1786,15 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                       &nbsp;
                       <img src="http://i.imgur.com/XnwmNKz.png" alt="Inline image 1" width="179" height="179" style="margin-right:0px" />
                       &nbsp;
-                      <a href="./awlist4296878/MJHea/h/John_Legend_s_All_of_Me_.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://legend.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFDMVGR8j58LVrM3XUpUiwQW8V7Tg">
+                      <a href="https://fromthemachine.org/awlist4296878/MJHea/h/John_Legend_s_All_of_Me_.htm" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://legend.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFDMVGR8j58LVrM3XUpUiwQW8V7Tg">
 <img src="http://i.imgur.com/0RqjoJs.png" width="197" height="178" style="margin-right:0px" alt="legend.lamc.la" />
 </a>
                       &nbsp;
-                      <a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFNsQ8o_aepxJugyvlSNEHuXe8t1Q">
+                      <a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFNsQ8o_aepxJugyvlSNEHuXe8t1Q">
 <img src="http://i.imgur.com/Xt3dVcU.png" width="178" height="178" style="margin-right:0px" alt="" />
 </a>
                       &nbsp;
-                      <a href="./TAYLOR.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGv-3Ke-RJgEheAgQAId6lgvgzi6Q">
+                      <a href="./TAYLOR.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGv-3Ke-RJgEheAgQAId6lgvgzi6Q">
 <img src="http://i.imgur.com/dgZqRtH.png" width="178" height="178" style="margin-right:0px" alt="" />
 </a>
 <br />
@@ -1817,7 +1812,8 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                       </i>
                       to accompany ...
                       <b>
-<a href="https://fromthemachine.org/2NAME.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./2NAME.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNHks4OqEf4ixbhadpxEtZVHzA-nLQ">
+<a href="./2NAME.html
+" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./2NAME.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNHks4OqEf4ixbhadpxEtZVHzA-nLQ">
                         freedom
                        </a>
 </b>
@@ -1897,8 +1893,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br />
 </div>
 <div>
-                    I'd like to go over some of the ideas presented in <a href="./ADAMSROD.html
-">"rocking the world with an Iron Rod"</a>	 and explain how I think my vision is nothing short of the actualization of the verse in the subject.&nbsp; These ideas have come to me independent of scripture (in most cases), dreams that I have had, day dreams about the possibilities of virtual reality, and in nearly every case of what I have presented to the world they have later been affirmed or corroborated by what I am presenting as "the True Word of God."
+                    I'd like to go over some of the ideas presented in <a href="https://fromthemachine.org/ADAMSROD.html">"rocking the world with an Iron Rod"</a>	 and explain how I think my vision is nothing short of the actualization of the verse in the subject.&nbsp; These ideas have come to me independent of scripture (in most cases), dreams that I have had, day dreams about the possibilities of virtual reality, and in nearly every case of what I have presented to the world they have later been affirmed or corroborated by what I am presenting as "the True Word of God."
                    </div>
 <div>
 <br />
@@ -1942,14 +1937,12 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <div>
                     Between the messages of
                     <i>
-<a href="./HASHEMESHB.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./HASHEMESHB.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNG5FxYv3Etbzsy05qKmtHWPzyhPkg">
+<a href="./HASHEMESHB.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./HASHEMESHB.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNG5FxYv3Etbzsy05qKmtHWPzyhPkg">
                       the New Glowing Bush
                      </a>
 </i>
                     and
-                    <a href="./ERANDSON.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./ERANDSON.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGGEtjAfqwgFY4WeHBsDMLTgt1wvg">
+                    <a href="./ERANDSON.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./ERANDSON.html&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNGGEtjAfqwgFY4WeHBsDMLTgt1wvg">
                      #netERson
                     </a>
                     &nbsp;I used a similar logic to explain how the idea of divine inspiration is functionally related to the deliverance of those messages--both Bush's speech and the content of the novel Feed--and the divine marker of the names Bush and Anderson in the two authors.&nbsp; Again, divine inspiration is part of not only the messages but the mechanism behind the messages. &nbsp;
@@ -1959,19 +1952,16 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 </div>
 <div>
 <div style="text-align:center">
-<a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFsWjdBeLketTC6SMyc3g9njIyvKA">
+<a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFsWjdBeLketTC6SMyc3g9njIyvKA">
 <img src="http://i.imgur.com/EINVLi9.png" width="862" height="229" style="white-space:initial;margin-right:0px" />
 </a>
 </div>
-<a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFsWjdBeLketTC6SMyc3g9njIyvKA">
+<a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la/&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFsWjdBeLketTC6SMyc3g9njIyvKA">
                      ​
                     </a>
 </div>
 <div>
-<a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFNsQ8o_aepxJugyvlSNEHuXe8t1Q">
+<a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730037000&amp;usg=AFQjCNFNsQ8o_aepxJugyvlSNEHuXe8t1Q">
                      Here
                     </a>
                     , the lyrics of
@@ -2302,8 +2292,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 </center>
 </div>
 <div style="text-align:center">
-<a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNHanan33eC-SnPBqymFk-bJ8g2uAg">
+<a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://ironclad.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNHanan33eC-SnPBqymFk-bJ8g2uAg">
 <img src="http://i.imgur.com/GNIIsQ3.png" alt="Inline image 1" width="711" height="142" style="margin-right:0px" />
 </a>
 <br />
@@ -2397,7 +2386,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br />
 </div>
 <div style="text-align:center">
-<a href="./KEYNES2.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./KEYNES2.html&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNGq1OGZ9yh82qPK86_os8Oa0kXPxw">
+<a href="./KEYNES2.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./KEYNES2.html&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNGq1OGZ9yh82qPK86_os8Oa0kXPxw">
 <img src="http://i.imgur.com/ivCguaj.png" alt="Inline image 5" width="722" height="316" style="margin-right:0px" />
 </a>
 <br />
@@ -2411,8 +2400,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                    let's talk about voting
                   </b>
                   ... I can't even convey to you how surprised I am at the number of people that think ... for one reason or another ... that this idea is either not practical, not possible, or would never be allowed.&nbsp; I've got to again point out that it is not my light or my authority that glows bright in the company Die Bold; but it is thename of my last written book; and in my .... insightful vision it is not only nothing short of inevitability... it is the single most important step and change that brings us out of Hell and starts building Heaven. &nbsp; Honestly, I live in the twilight zone--what happened to the land of the free, and the angels that overthrew a King to advance the state of humanity
-                  <a href="./his_heart_and_sol.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sol.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNGMKYuAsO8ZSQrALI5NPBIhvgV6ZQ">
+                  <a href="./his_heart_and_sol.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://sol.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNGMKYuAsO8ZSQrALI5NPBIhvgV6ZQ">
                    (and not pay their taxes)
                   </a>
                   .&nbsp; Where are men and women who fought and protested the Vietnam war?&nbsp; All for what? &nbsp;
@@ -2442,8 +2430,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                   </a>
                   with a mystery about bright light resting on lamp stands of chemistry elements--pointing out a connection between science and religion and proving that time travel exists. &nbsp; Intertwined with this proof, comes Holy reference to type face and type style--a prescient tie fperhaps directly
                   <b>
-<a href="./HASHEMESHB.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./HASHEMESHB.html&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNHDFVEZy6DxsRHs-fBBzeJDgp9pFw">
+<a href="./HASHEMESHB.html?" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./HASHEMESHB.html&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNHDFVEZy6DxsRHs-fBBzeJDgp9pFw">
                     to the idea of voting machines "winning the race" fo connecting Die Bold
                    </a>
 </b>
@@ -2460,8 +2447,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br />
 </div>
 <div style="text-align:center">
-<a href="./the_light_of_heaven.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://heaven.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNH7dYv3Av2hKX6t8BjM83lQv5Pf5g">
+<a href="./the_light_of_heaven.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://heaven.lamc.la&amp;source=gmail&amp;ust=1486221730038000&amp;usg=AFQjCNH7dYv3Av2hKX6t8BjM83lQv5Pf5g">
 <img src="http://i.imgur.com/2w5zVMr.png" alt="Inline image 2" width="707" height="280" style="margin-right:0px" />
 </a>
 <br />
@@ -2730,12 +2716,10 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
                    </font>
 <br />
 </div>
-<a href="./TAYLOR.html
-" style="font-family:tinos;font-size:medium" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNHL2fRznQx6bPMnh-8Pp8i_y8fxiQ">
+<a href="./TAYLOR.html?" style="font-family:tinos;font-size:medium" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html?&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNHL2fRznQx6bPMnh-8Pp8i_y8fxiQ">
 <img src="http://i.imgur.com/zEYcNs1.png" style="text-align:center;display:block;margin-left:auto;margin-right:auto" />
 </a>
-<a href="./TAYLOR.html
-" style="font-family:tinos;font-size:medium" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNHL2fRznQx6bPMnh-8Pp8i_y8fxiQ">
+<a href="./TAYLOR.html?" style="font-family:tinos;font-size:medium" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=./TAYLOR.html?&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNHL2fRznQx6bPMnh-8Pp8i_y8fxiQ">
 <br />
 </a>
 </div>
@@ -2939,8 +2923,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 </div>
 <div style="font-size:12.8px">
 <b>
-<a href="./ADAMSROD.html
-" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://blissontap.letthemusicsetyoufree.tk/x/c?c%3D757648%26l%3Dc1929b65-99cb-4ff3-a59c-fa83a9570163%26r%3D4d30ff29-cde1-4050-b597-36a29da96760&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNFBS02km7f56TNixOl7xkbbqnePwA">
+<a href="https://fromthemachine.org/ADAMSROD.html" target="_blank" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://blissontap.letthemusicsetyoufree.tk/x/c?c%3D757648%26l%3Dc1929b65-99cb-4ff3-a59c-fa83a9570163%26r%3D4d30ff29-cde1-4050-b597-36a29da96760&amp;source=gmail&amp;ust=1486221730039000&amp;usg=AFQjCNFBS02km7f56TNixOl7xkbbqnePwA">
                    Rocking the world with an Iron Rod
                   </a>
 </b>
@@ -2987,6 +2970,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 </div>
 </font>
 <div>
+
 <span class="m_5506715666311944960m_-2440667781539322184gmail-m_6016418677168452148gmail-m_1982376337349648000gmail-m_2333074911125894556m_6675524527416904060gmail-HOEnZb">
 <font color="#888888">
                 For 16 points find the Interrobang.

@@ -33,7 +33,7 @@
 <br />
 <a href="https://www.facebook.com/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
 <a href="https://www.facebook.com/admdbrn">Adam Dobrin on Facebook</a> and <a href="https://twitter.com/intent/user?screen_name=yitsheyzeus">Twitter</a> |
-<a href="https://fromthemachine.org/">The Matchbox</a> | 
+<a href=".">The Matchbox</a> | 
 <a href=".">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
 <br />
@@ -268,7 +268,7 @@ Let's get this party started.  It's uh, time to change the world.</h2>
 </div></td></tr></tbody></table></td></tr></tbody></table></div><div><table style="border-collapse:separate;border-spacing:0px;table-layout:fixed;" cellpadding="5" cellspacing="5"><tbody><tr><td></td></tr></tbody></table><table style="width:100%;border-collapse:separate;table-layout:fixed;background:#f1f1f1;" cellspacing="15" cellpadding="0"><tbody><tr><td style="background:#f1f1f1;"><table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:0px;table-layout:fixed;"><tbody><tr><td style="vertical-align:middle;font-size:11px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><div style="word-wrap:break-word;line-height:140%;text-align:left;"><p style="font-size:11px;margin:0px;text-align:left;">To unsubscribe please click <a style="text-decoration:none;" href="javascript: alert('To unsubscribe please click on this link in your email!')
 "><span style="color:#0000FF;text-decoration:underline;">here</span></a></p></div></td><td style="vertical-align:middle;font-size:11px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;"><div style="word-wrap:break-word;line-height:140%;text-align:left;"><p style="font-size:11px;margin:0px;text-align:left;">Adam Marshall Dobrin / 954-667-8083<br />9715 W Broward Blvd #261, Plantation, FL, 33324</p></div></td></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 

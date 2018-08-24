@@ -1553,10 +1553,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 
 </script></head>
 <body style="width: 100%; margin: 0 auto; text-align: left; font-family: Arial;">
-<eshad><center><p><a href="./CHALK.html
-"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="./GATE.html
-"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="./2017-06-14-enders-game-prometheus-locke-and.html
-"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="https://eyerc.slack.com/join/shared_invite/MjM2NDM2Mjc3Nzk4LTE1MDQ0MDE3NzQtMmU5NjI1N2VmOQ"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
+<eshad><center><p><a href="./2017-06-30-id5-i-am-stone.html"><img src="http://i.imgur.com/9zAtHyy.jpg" alt="ID5" width="97" height="97" />&nbsp;</a><a href="./GATE.html?PoVYX/"><img src="http://i.imgur.com/XisWhzy.jpg" alt="" width="116" height="97" /></a>&nbsp;<a href="./2017-06-14-enders-game-prometheus-locke-and.html"><img src="http://i.imgur.com/j0s0xhH.png" alt="" width="96" height="97" /></a><a href="https://eyerc.slack.com/join/shared_invite/MjM2NDM2Mjc3Nzk4LTE1MDQ0MDE3NzQtMmU5NjI1N2VmOQ"><img src="http://i.imgur.com/jne0eNw.png" height="97" width="97" /></a> <br /></p></center><oshad>
 <center>
 <p><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=.&amp;source=gmail&amp;ust=1484013144195000&amp;usg=AFQjCNGArBnd5AmtS33Aq1LUzElFKDiqXA" href="https://fromthemachine.org/" target="_blank"><img alt="fromthemachine.org" height="81" src="http://i.imgur.com/AjzTe0l.png" width="114" class="fr-dib fr-draggable" /></a>
 <a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=.&amp;source=gmail&amp;ust=1484013144195000&amp;usg=AFQjCNF_Thxz6iMPXBzP6o5mHGlbISgzkg" href="./" target="_blank"><img alt="" height="103" src="http://i.imgur.com/rzWqKYV.png" width="103" class="fr-dib fr-draggable" /></a>
@@ -1579,7 +1576,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br />
 <a href="https://www.facebook.com/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
 <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin on Facebook</a> and <a href="https://twitter.com/intent/user?screen_name=yitsheyzeus">Twitter</a> |
-<a href="https://fromthemachine.org/">The Matchbox</a> | 
+<a href=".">The Matchbox</a> | 
 <a href=".">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
 <br />

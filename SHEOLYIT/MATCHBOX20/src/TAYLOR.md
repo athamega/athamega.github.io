@@ -1568,7 +1568,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br />
 <a href="https://www.facebook.com/MinistryOfForbiddenKnowledge">The Ministry of Forbidden Knowledge</a> | 
 <a href="https://www.facebook.com/admdbrn">Adam Dobrin on Facebook</a> and <a href="https://twitter.com/intent/user?screen_name=yitsheyzeus">Twitter</a> |
-<a href="https://fromthemachine.org/">The Matchbox</a> | 
+<a href=".">The Matchbox</a> | 
 <a href=".">The Revelation of Christ</a> | 
 <a href="http://medium.com/@adam5/publications">An Ongoing Saga</a>
 <br />
@@ -1592,7 +1592,7 @@ table.cf.wd.inboxsdk__shortcutHelp_table {
 <br /><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./TAYLOR_files/OnOI_1Nl6AsV8Z9uG4liHkLtScJh8aK_DSicDx04E2EeTniiXPlkU5cCMzbtO9KbXVhn3Qb4cbqgg7nuWfZQIZLXUWt9gFRDIMGNQXmInaymklHecSDT8F7akVqZxghUIPQo3grQgxiJGti8EZYx-LUeg7hcFhmqWPrlBDd307LtIJAmDppXbJsqaABJIYyip5SRtJs1ivID3phebONChvM=s0-d-e1-ft" /><font color="#ffffff" size="1">ᐧ</font></div>
 <br /><div hspace="streak-pt-mark" style="max-height:1px"><img style="width:0px;max-height:0px;overflow:hidden" src="./TAYLOR_files/8xlOFp6lW9bPPhgWumkaaA0GyIj4d2Vj9WprSjBe5Lv5c_12eZqHDWnDxVN6ZwgwALAHkCSCLPci56ryUUOXQxtk8G3L99brir1wDZ2BExyCvUKgdyiDYiEjoCeUchPOXhHeuqIIxpzvkobB8agQT4YgXdOOZXExS27Z56ZCjfIHPGP58v8bMSvWsdXw0du-sEh1XnACLBjrtZbouw=s0-d-e1-ft" /><font color="#ffffff" size="1">ᐧ</font></div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
-<div style="width: 60%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
 <br />
 Copyleft<sup>MT</sup> 
 
