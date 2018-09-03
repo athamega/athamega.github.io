@@ -1,0 +1,4 @@
+User-agent: RED
+Disallow:
+User-agent: *
+Disallow: /

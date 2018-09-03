@@ -1,0 +1,461 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>Download Tor</title>
+  <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="../css/master.min.css">
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" type="text/css" href="../css/ie8-and-down.min.css">
+  <![endif]-->
+  <!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="../css/ie7-and-down.min.css">
+  <![endif]-->
+  <!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="../css/ie6.min.css">
+  <![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="author" content="The Tor Project, Inc.">
+  <meta name="keywords" content="anonymity online, tor, tor project, censorship circumvention, traffic analysis, anonymous communications research">
+  <script type="text/javascript" src="../js/jquery.min.js">
+  </script>
+  <script type="text/javascript" src="../js/jquery.client.min.js">
+/* "jQuery Browser And OS Detection Plugin" by Stoimen
+   Source: http://www.stoimen.com/blog/2009/07/16/jquery-browser-and-os-detection-plugin/
+   License: Public Domain (http://www.stoimen.com/blog/2009/07/16/jquery-browser-and-os-detection-plugin/#comment-12498) */
+  </script>
+  <script type="text/javascript" src="../js/jquery-migrate-1.0.0.min.js"></script>
+  <script type="text/javascript" src="../js/jquery.ba-bbq.min.js">
+/* Source: https://raw.github.com/cowboy/jquery-bbq/v1.2.1/jquery.ba-bbq.js */
+  </script>
+  <script type="text/javascript" src="../js/dlpage01.js">
+  </script>
+  <script async type="text/javascript" src="../js/jquery.accordion.min.js">
+/* Modified version of "Stupid Simple jQuery Accordian Menu" originally developed by Ryan Stemkoski
+   Source: http://www.stemkoski.com/stupid-simple-jquery-accordion-menu/
+   License: Public Domain (http://www.stemkoski.com/stupid-simple-jquery-accordion-menu/#comment-32882) */
+  </script>
+</head>
+<body class="onload">
+    <span class="hidden" id="version-data">
+        { "torbrowserbundle" : "7.5.6",
+          "torbrowserbundleosx64" : "7.5.6",
+          "torbrowserbundlelinux32" : "7.5.6",
+          "torbrowserbundlelinux64" : "7.5.6" }
+    </span>
+<div id="wrap">
+  <div id="header">
+    <h1 id="logo"><a href="../index.html.en">Tor</a></h1>
+      <div id="nav">
+        <ul>
+        <li><a href="../index.html.en">Home</a></li>
+<li><a href="../about/overview.html.en">About Tor</a></li>
+<li><a href="../docs/documentation.html.en">Documentation</a></li>
+<li><a href="../press/press.html.en">Press</a></li>
+<li><a href="https://blog.torproject.org/blog/">Blog</a></li>
+<li><a href="https://newsletter.torproject.org">Newsletter</a></li>
+<li><a href="../about/contact.html.en">Contact</a></li>
+      <li>
+         <div class="dropdown">
+           <div class="dropbtn">
+	      <a href="download-easy.html.es">espa&ntilde;ol</a>
+	   </div>
+           <div class="dropdown-content">
+	     <a href="download-easy.html.es">espa&ntilde;ol</a>
+<a href="download-easy.html.en">English</a>
+           </div>
+         </div>
+       </li>
+      </ul>
+      </div>
+      <!-- END NAV -->
+      <div id="calltoaction">
+        <ul>
+          <li class="donate"><a class="active" href="../download/download-easy.html.en">Download</a></li>
+<li class="donate"><a href="../getinvolved/volunteer.html.en">Volunteer</a></li>
+<li class="donate"><a href="../donate/donate-button.html.en">Donate</a></li>
+        </ul>
+      </div>
+      <!-- END CALLTOACTION -->
+  </div>
+  <!-- END HEADER -->
+<div id="content" class="clearfix">
+	<div id="breadcrumbs"><a href="../index.html.en">Home &raquo; </a><a href="../download/download.html.en">Download</a></div>
+	<!-- BEGIN TEASER WARNING -->
+	<div class="warning-top">
+		<h2>Want Tor to really work?</h2>
+		<p>You need to change some of your habits, as some things won't work exactly as you are used to. Please read the <a href="#warning">full list of warnings</a> for details.</p>
+	</div>
+	<!-- END TEASER WARNING -->
+	<div id="download-donate" class="clearfix">
+		<!-- START DOWNLOADS -->
+		<!-- START WINDOWS -->
+<div id="dow-don-left">
+      <div id="windows" class="easy windows">
+	<div class="package" style="padding-top: 13px; border-top: 0px;">
+	  <div class="desc">
+	    <h2>Tor Browser for Windows</h2>
+	    <em>Version 7.5.6 - Windows 10, 8, 7, Vista, and XP</em>
+	    <p>Everything you need to safely browse the Internet. <br><a href="../projects/torbrowser.html.en">Learn more &raquo;</a></p>
+	  </div>
+	  <form class="downloads">
+	    <a class="button win-tbb" href="../dist/torbrowser/7.5.6/torbrowser-install-7.5.6_en-US.exe"><span class="strong">Download</span><span class="normal">Tor Browser</span></a>
+	    <select name="language" id="win-tbb" class="lang">
+	      <option value="en-US" selected="selected">English</option>
+	      <option value="ar">&#x0627;&#x0644;&#x0639;&#x0631;&#x0628;&#x064a;&#x0629;</option>
+	      <option value="de">Deutsch</option>
+	      <option value="es-ES">espa&ntilde;ol</option>
+	      <option value="fa">&#x0641;&#x0627;&#x0631;&#x0633;&#x06cc;</option>
+	      <option value="fr">&#x0046;&#x0072;&#x0061;&#x006e;&#x00e7;&#x0061;&#x0069;&#x0073;</option>
+	      <option value="it">Italiano</option>
+              <option value="ja">&#26085;&#26412;&#35486;</option>
+	      <option value="ko">Korean</option>
+	      <option value="nl">Nederlands</option>
+	      <option value="pl">Polish</option>
+	      <option value="pt-BR">&#x0050;&#x006f;&#x0072;&#x0074;&#x0075;&#x0067;&#x0075;&#x00ea;&#x0073;</option>
+	      <option value="ru">&#x0420;&#x0443;&#x0441;&#x0441;&#x043a;&#x0438;&#x0439;</option>
+	      <option value="tr">T&#252;rk&#231;e</option>
+	      <option value="vi">Vietnamese</option>
+	      <option value="zh-CN">&#x7b80;&#x4f53;&#x5b57;</option>
+	    </select>
+	    <div class="sig" style="margin-bottom: 5px;">
+	      <a class="lang-alt" href="../projects/torbrowser.html.en#downloads">Other Languages</a>
+	      (<a class="win-tbb-sig" href="../dist/torbrowser/7.5.6/torbrowser-install-7.5.6_en-US.exe.asc">sig</a>) <a class="siginfo" href="../docs/verifying-signatures.html.en">What's This?</a>
+	    </div>
+	  </form>
+	  <p class="alt-dl">Not Using Windows?<br>Download for <a href="#mac">Mac</a> or <a href="#linux">Linux</a></p>
+	</div>
+      </div>
+<!-- START MAC -->
+      <div id="mac" class="easy mac">
+	<div class="package" style="padding-top: 13px; border-top: 0px;">
+	  <div class="desc">
+	    <h2>Tor Browser for Mac</h2>
+	    <em>Version 7.5.6 - OS X (10.9+)</em> <a href="https://blog.torproject.org/category/tags/tbb">Read the release announcements!</a>
+	    <p>Everything you need to safely browse the Internet.<br><a href="../projects/torbrowser.html.en">Learn more &raquo;</a></p>
+	  </div>
+	  <form class="downloads">
+	    <a class="button osx-tbb" href="../dist/torbrowser/7.5.6/TorBrowser-7.5.6-osx64_en-US.dmg"><span class="strong">Download</span><span class="normal">Tor Browser</span></a>
+	    <select name="language" id="osx-tbb" class="lang">
+	      <option value="en-US" selected="selected">English</option>
+	      <option value="ar">&#x0627;&#x0644;&#x0639;&#x0631;&#x0628;&#x064a;&#x0629;</option>
+	      <option value="de">Deutsch</option>
+	      <option value="es-ES">espa&ntilde;ol</option>
+	      <option value="fa">&#x0641;&#x0627;&#x0631;&#x0633;&#x06cc;</option>
+	      <option value="fr">&#x0046;&#x0072;&#x0061;&#x006e;&#x00e7;&#x0061;&#x0069;&#x0073;</option>
+	      <option value="it">Italiano</option>
+              <option value="ja">&#26085;&#26412;&#35486;</option>
+	      <option value="ko">Korean</option>
+	      <option value="nl">Nederlands</option>
+	      <option value="pl">Polish</option>
+	      <option value="pt-BR">&#x0050;&#x006f;&#x0072;&#x0074;&#x0075;&#x0067;&#x0075;&#x00ea;&#x0073;</option>
+	      <option value="ru">&#x0420;&#x0443;&#x0441;&#x0441;&#x043a;&#x0438;&#x0439;</option>
+	      <option value="tr">T&#252;rk&#231;e</option>
+	      <option value="vi">Vietnamese</option>
+	      <option value="zh-CN">&#x7b80;&#x4f53;&#x5b57;</option>
+	    </select>
+	    <div class="sig" style="margin-bottom: 5px;">
+	      <a class="lang-alt" href="../projects/torbrowser.html.en#downloads">Other Languages</a>
+	      (<a class="osx-tbb-sig" href="../dist/torbrowser/7.5.6/TorBrowser-7.5.6-osx64_en-US.dmg.asc">sig</a>) <a class="siginfo" href="../docs/verifying-signatures.html.en">What's This?</a>
+	    </div>
+	  </form>
+	  <p class="alt-dl">Not Using Mac? Download for <a href="#windows">Windows</a> or <a href="#linux">Linux</a></p>
+        </div>
+      </div>
+<!-- START LINUX 64-Bit -->
+      <div id="linux" class="easy linux">
+	<div class="package" style="padding-top: 13px; border-top: 0px;">
+	  <div class="desc">
+	    <h2>Tor Browser for Linux (64-Bit)</h2>
+	    <em>Version 7.5.6 - Linux (64-Bit)</em> <a href="https://blog.torproject.org/category/tags/tbb">Read the release announcements!</a>
+	    <p>Everything you need to safely browse the Internet. This package requires no installation. Just extract it and run.<br><a href="../projects/torbrowser.html.en">Learn more &raquo;</a></p>
+	  </div>
+	  <form class="downloads">
+	    <a class="button lin-tbb64" href="../dist/torbrowser/7.5.6/tor-browser-linux64-7.5.6_en-US.tar.xz"><span class="strong">Download</span><span class="normal">Linux 64-bit</span></a>
+	    <select name="language" id="lin-tbb64" class="lang">
+	      <option value="en-US" selected="selected">English</option>
+	      <option value="ar">&#x0627;&#x0644;&#x0639;&#x0631;&#x0628;&#x064a;&#x0629;</option>
+	      <option value="de">Deutsch</option>
+	      <option value="es-ES">espa&ntilde;ol</option>
+	      <option value="fa">&#x0641;&#x0627;&#x0631;&#x0633;&#x06cc;</option>
+	      <option value="fr">&#x0046;&#x0072;&#x0061;&#x006e;&#x00e7;&#x0061;&#x0069;&#x0073;</option>
+	      <option value="it">Italiano</option>
+              <option value="ja">&#26085;&#26412;&#35486;</option>
+	      <option value="ko">Korean</option>
+	      <option value="nl">Nederlands</option>
+	      <option value="pl">Polish</option>
+	      <option value="pt-BR">&#x0050;&#x006f;&#x0072;&#x0074;&#x0075;&#x0067;&#x0075;&#x00ea;&#x0073;</option>
+	      <option value="ru">&#x0420;&#x0443;&#x0441;&#x0441;&#x043a;&#x0438;&#x0439;</option>
+	      <option value="tr">T&#252;rk&#231;e</option>
+	      <option value="vi">Vietnamese</option>
+	      <option value="zh-CN">&#x7b80;&#x4f53;&#x5b57;</option>
+	    </select>
+	    <div class="sig" style="margin-bottom: 5px;">
+	      <a class="lang-alt" href="../projects/torbrowser.html.en#downloads">Other Languages</a>
+	      (<a class="lin-tbb64-sig" href="../dist/torbrowser/7.5.6/tor-browser-linux64-7.5.6_en-US.tar.xz.asc">sig</a>) <a class="siginfo" href="../docs/verifying-signatures.html.en">What's This?</a>
+	    </div>
+	  </form>
+	  <p class="alt-dl">Not Using Linux? Download for <a href="#mac">Mac</a> or <a href="#windows">Windows</a></p>
+	</div>
+      </div>
+<!-- START LINUX -->
+      <div class="easy linux">
+	<div class="package" style="padding-top: 13px; border-top: 0px;">
+	  <div class="desc">
+	    <h2>Tor Browser for Linux (32-Bit)</h2>
+	    <em>Version 7.5.6 - Linux (32-Bit)</em> <a href="https://blog.torproject.org/category/tags/tbb">Read the release announcements!</a>
+	    <p>Everything you need to safely browse the Internet. This package requires no installation. Just extract it and run.<br>
+	    <a href="../projects/torbrowser.html.en">Learn more &raquo;</a></p>
+	  </div>
+	  <form class="downloads">
+	    <a class="button lin-tbb32" href="../dist/torbrowser/7.5.6/tor-browser-linux32-7.5.6_en-US.tar.xz"><span class="strong">Download</span><span class="normal">Tor Browser</span></a>
+	    <select name="language" id="lin-tbb32" class="lang">
+	      <option value="en-US" selected="selected">English</option>
+	      <option value="ar">&#x0627;&#x0644;&#x0639;&#x0631;&#x0628;&#x064a;&#x0629;</option>
+	      <option value="de">Deutsch</option>
+	      <option value="es-ES">espa&ntilde;ol</option>
+	      <option value="fa">&#x0641;&#x0627;&#x0631;&#x0633;&#x06cc;</option>
+	      <option value="fr">&#x0046;&#x0072;&#x0061;&#x006e;&#x00e7;&#x0061;&#x0069;&#x0073;</option>
+	      <option value="it">Italiano</option>
+              <option value="ja">&#26085;&#26412;&#35486;</option>
+	      <option value="ko">Korean</option>
+	      <option value="nl">Nederlands</option>
+	      <option value="pl">Polish</option>
+	      <option value="pt-BR">&#x0050;&#x006f;&#x0072;&#x0074;&#x0075;&#x0067;&#x0075;&#x00ea;&#x0073;</option>
+	      <option value="ru">&#x0420;&#x0443;&#x0441;&#x0441;&#x043a;&#x0438;&#x0439;</option>
+	      <option value="tr">T&#252;rk&#231;e</option>
+	      <option value="vi">Vietnamese</option>
+	      <option value="zh-CN">&#x7b80;&#x4f53;&#x5b57;</option>
+	    </select>
+	    <div class="sig" style="margin-bottom: 5px;">
+	      <a class="lang-alt" href="../projects/torbrowser.html.en#downloads">Other Languages</a>
+	      (<a class="lin-tbb32-sig" href="../dist/torbrowser/7.5.6/tor-browser-linux32-7.5.6_en-US.tar.xz.asc">sig</a>) <a class="siginfo" href="../docs/verifying-signatures.html.en">What's This?</a>
+	    </div>
+	  </form>
+	  <p class="alt-dl">Not Using Linux? Download for <a href="#mac">Mac</a> or <a href="#windows">Windows</a></p>
+	</div>
+      </div>
+<!-- START BSD -->
+  <div id="openbsd" class="easy bsd">
+    <div class="package" style="padding-top: 13px; border-top: 0px;">
+      <div class="desc">
+        <h2>Running Tor on OpenBSD</h2>
+	<p>These are installation instructions for running Tor Browser in a OpenBSD environment.</p>
+	<p>To install from OpenBSD's packages, run:</p>
+        <pre>pkg_add tor-browser</pre>
+	<p>Sometimes the most recent version of Tor Browser on OpenBSD is behind the current release. The available version of TB on OpenBSD should be checked with:
+	<pre>pkg_info -Q tor-browser</pre>
+	<p>If provided version is not the current Tor Browser version, it is not recommended.</p>
+        <p>To install the Tor Browser port from an updated ports tree, run:</p>
+        <pre>cd /usr/ports/meta/tor-browser && make install</pre>
+      </div>
+    </div>
+  </div>
+<!-- START Orbot -->
+      <div id="android" class="easy android">
+    <div class="package" style="padding-top: 13px; border-top: 0px;">
+      <div class="desc">
+        <h2>Orbot - Tor for Android</h2>
+        <p>Our software is available for Android-based phones, tablets,
+        and computers from the <a href="https://guardianproject.info/">Guardian Project</a> in
+        their <a href="https://guardianproject.info/fdroid/">F-Droid Repository</a> or
+        the <a href="https://play.google.com/store/apps/details?id=org.torproject.android">Google
+        Play Store</a>. <a href="../docs/android.html.en">Learn more &raquo;</a>
+        </p>
+      </div>
+      <form class="downloads">
+        <a class="button" href="https://guardianproject.info/apps/orbot/?src=tbb_download"><span class="strong">Download</span><span class="normal">Orbot</span></a>
+      </form>
+    </div>
+      </div>
+      <p class="all-dl">Looking For Something Else? <a href="../download/download.html.en">View All Downloads</a></p>
+		<!-- END DOWNLOADS --><br>
+</div> <!-- END dow-don-left -->
+<div id="dow-don-right">
+<a href="../donate/donate-download.html.en"><img src="../images/btn_donateCC_LG.gif" alt="" width="186" height="67"></a>
+</div> <!-- END dow-don-right -->
+	</div> <!-- END download-donate -->
+	<div id="maincol-left">
+<!-- BEGIN WARNING -->
+<div class="warning">
+<a name="warning"></a>
+<a name="Warning"></a>
+<h2><a class="anchor" href="#warning">Want Tor to really work?</a></h2>
+<p>You need to change some of your habits, as some things won't work
+exactly as you are used to.</p>
+<ol>
+<li><b>Use Tor Browser</b>
+<p>Tor does not protect all of your computer's Internet traffic when you
+run it. Tor only protects your applications that are properly configured
+to send their Internet traffic through Tor. To avoid problems with
+Tor configuration, we strongly recommend you use the <a href="../projects/torbrowser.html.en">Tor Browser</a>. It is pre-configured to
+protect your privacy and anonymity on the web as long as you're browsing
+with Tor Browser itself. Almost any other web browser configuration
+is likely to be unsafe to use with Tor.</p>
+</li>
+<li><b>Don't torrent over Tor</b>
+<p>
+Torrent file-sharing applications have been observed to ignore proxy
+settings and make direct connections even when they are told to use Tor.
+Even if your torrent application connects only through Tor, you will
+often send out your real IP address in the tracker GET request,
+because that's how torrents work. Not only do you <a
+href="https://blog.torproject.org/blog/bittorrent-over-tor-isnt-good-idea">
+deanonymize your torrent traffic and your other simultaneous Tor web
+traffic</a> this way, you also slow down the entire Tor network for everyone else.
+</p>
+</li>
+<li><b>Don't enable or install browser plugins</b>
+<p>Tor Browser will block browser plugins such as Flash, RealPlayer,
+Quicktime, and others: they can be manipulated into revealing your IP
+address. Similarly, we do not recommend installing additional addons or
+plugins into Tor Browser, as these may bypass Tor or otherwise harm
+your anonymity and privacy.</p>
+</li>
+<li><b>Use HTTPS versions of websites</b>
+<p>Tor will encrypt your traffic <a
+href="../about/overview.html.en#thesolution">to
+and within the Tor network</a>, but the encryption of your traffic to
+the final destination website depends upon on that website. To help
+ensure private encryption to websites, Tor Browser includes
+<a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a>
+to force the use of HTTPS encryption with major websites that
+support it. However, you should still watch the browser URL bar to
+ensure that websites you provide sensitive information to display a <a
+href="https://support.mozilla.com/en-US/kb/Site%20Identity%20Button">blue
+or green URL bar button</a>, include <b>https://</b> in the URL, and
+display the proper expected name for the website.
+Also see EFF's interactive page
+explaining <a href="https://www.eff.org/pages/tor-and-https">how Tor
+and HTTPS relate</a>.
+</p>
+</li>
+<li><b>Don't open documents downloaded through Tor while online</b>
+<p>Tor Browser will warn you before automatically opening
+documents that are handled by external applications. <b>DO NOT
+IGNORE THIS WARNING</b>. You should be very careful when downloading
+documents via Tor (especially DOC and PDF files, unless you use the PDF
+viewer that's built into Tor Browser) as these documents
+can contain Internet resources that will be downloaded outside of
+Tor by the application that opens them. This will reveal your non-Tor
+IP address. If you must work with DOC and/or PDF files, we strongly
+recommend either using a disconnected computer, downloading the free <a
+href="https://www.virtualbox.org/">VirtualBox</a> and using it with a <a
+href="http://virtualboxes.org/">virtual machine image</a> with networking
+disabled, or using <a href="https://tails.boum.org/">Tails</a>.
+Under no circumstances is it safe to use <a
+href="https://blog.torproject.org/blog/bittorrent-over-tor-isnt-good-idea">BitTorrent
+and Tor</a> together, however.</p>
+</li>
+<li><b>Use bridges and/or find company</b>
+<p>Tor tries to prevent attackers from learning what destination websites
+you connect to. However, by default, it does not prevent somebody
+watching your Internet traffic from learning that you're using Tor. If
+this matters to you, you can reduce this risk by configuring Tor to use a
+<a href="../docs/bridges.html.en">Tor bridge relay</a> rather than connecting
+directly to the public Tor network. Ultimately the best protection is
+a social approach: the more Tor users there are near you and the more
+<a href="../about/torusers.html.en">diverse</a> their interests, the less
+dangerous it will be that you are one of them. Convince other people to
+use Tor, too!</p>
+</li>
+</ol>
+<br>
+<p>Be smart and learn more. Understand what Tor does and does not offer.
+This list of pitfalls isn't complete, and we need your help <a href="../getinvolved/volunteer.html.en#Documentation">identifying and documenting all
+the issues</a>.</p><br>
+<h2><a class="anchor" href="#mirror">Where else can I get Tor?</a></h2>
+<p>In some countries the Tor Project website is blocked or censored and
+it is not possible to download Tor directly. The Tor Project hosts a
+Tor Browser <a
+href="https://github.com/TheTorProject/gettorbrowser">mirror on Github</a>.</p><br>
+<p>Using the <a
+href="https://www.torproject.org/projects/gettor">GetTor</a> service is
+another way to download Tor Browser when the Project website and mirrors
+are blocked.</p>
+</div>
+<!-- END WARNING -->
+</div>
+<!-- END MAINCOL -->
+<!-- START SIDECOL -->
+<div id="sidecol-right">
+<div class="img-shadow sidenav-ez">
+<div class="sidenav-sub">
+<ul>
+<li class="dropdown"><a href="#windows">Microsoft Windows</a></li>
+<li class="dropdown"><a href="#mac">Apple OS X</a></li>
+<li class="dropdown"><a href="#linux">Linux</a></li>
+<li class="dropdown"><a href="#openbsd">OpenBSD</a></li>
+<li class="dropdown"><a href="#android">Android</a></li>
+<li class="dropdown"><a href="../download/download.html.en">All Downloads</a></li>
+</ul>
+</div>
+</div>
+<!-- START INFO -->
+<div class="img-shadow">
+<div class="sidenav-sub">
+<h2>Having Trouble?</h2>
+<ul>
+<li class="dropdown"><a href="../docs/documentation.html.en">Read the fine manuals</a></li>
+</ul>
+</div>
+</div>
+<!-- END INFO -->
+</div>
+<!-- END SIDECOL -->
+</div>
+<!-- END CONTENT -->
+    <div id="footer">
+      <div class="onion"><img src="../images/onion.jpg" alt="Tor" width="78" height="118"></div>
+      <div class="about">
+    <p>Trademark, copyright notices, and rules for use by third parties can be found
+    <a href="../docs/trademark-faq.html.en">in our FAQ</a>.</p>
+    <p>We offer an <a href="https://www.torproject.org/docs/hidden-services">onion service</a>
+       for this site: <a href="http://expyuzz4wqqyqhjn.onion/">expyuzz4wqqyqhjn.onion/</a>.<br>
+       See <a href="https://onion.torproject.org">https://onion.torproject.org</a> for all
+       torproject.org onion addresses.</p>
+<!--
+        Last modified: Mon Aug 27 12:52:41 2018 +0200
+        Last compiled: Mon Aug 27 2018 15:38:53 +0000
+-->
+      </div>
+      <!-- END ABOUT -->
+      <div class="col first">
+       <h4>About Tor</h4>
+        <ul>
+          <li><a href="../about/overview.html.en">What Tor Does</a></li>
+          <li><a href="../about/torusers.html.en">Users of Tor</a></li>
+          <li><a href="../about/corepeople.html.en">Core Tor People</a></li>
+          <li><a href="../about/sponsors.html.en">Sponsors</a></li>
+          <li><a href="../about/contact.html.en">Contact Us</a></li>
+        </ul>
+      </div>
+      <!-- END COL -->
+      <div class="col">
+        <h4>Get Involved</h4>
+        <ul>
+          <li><a href="../donate/donate-foot.html.en">Donate</a></li>
+          <li><a href="../docs/documentation.html.en#MailingLists">Mailing Lists</a></li>
+          <li><a href="../docs/onion-services.html.en">Onion Services</a></li>
+          <li><a href="../getinvolved/translation.html.en">Translations</a></li>
+        </ul>
+      </div>
+      <!-- END COL -->
+      <div class="col">
+        <h4>Documentation</h4>
+        <ul>
+          <li><a href="../docs/tor-manual.html.en">Manuals</a></li>
+          <li><a href="../docs/documentation.html.en">Installation Guides</a></li>
+          <li><a href="https://trac.torproject.org/projects/tor/wiki/">Tor Wiki</a></li>
+          <li><a href="../docs/faq.html.en">General Tor FAQ</a></li>
+        </ul>
+      </div>
+        <div class="col">
+        <a href="https://internetdefenseleague.org/"><img src="../images/InternetDefenseLeague-footer-badge.png" alt="Internet Defense League" width="125" height="125"></a>
+        </div>
+      <!-- END COL -->
+</div>
+    <!-- END FOOTER -->
+  </div>
+  <!-- END WRAP -->
+</body>
+</html>

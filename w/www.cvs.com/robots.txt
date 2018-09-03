@@ -1,0 +1,56 @@
+#    CVS.com Robots File
+#    Updated 6/25/2018
+
+User-agent: *
+
+Disallow: /account/
+Disallow: /bizcontent/email/
+Disallow: /bizcontent/navarro/
+Disallow: /bizcontent/storeevents/
+Disallow: /bizcontent/target/
+Disallow: /bizcontent/vitaminshop/
+Disallow: /care1on1/
+Disallow: /checkout/
+Disallow: /clinic-locator/cliniclocator-city.jsp?stateId=*
+Disallow: /content/care1on1
+Disallow: /express/*/product
+Disallow: /minuteclinic/clinic-locator/view-list.jsp?_requestid=*
+Disallow: /minuteclinic/search.jsp?q=*
+Disallow: /mobile/care1on1/
+Disallow: /photo/empty-shopping-cart
+Disallow: /photo/error*
+Disallow: /photo/library/
+Disallow: /photo/offerdetails
+Disallow: /photo/store-common-lockup/
+Disallow: /photo/storelocator/
+Disallow: /promo/promoLandingTemplate.jsp?promoLandingId=care1on1
+Disallow: /content/employee/
+Disallow: /search/
+
+Noindex: /shop/item-prodid-*
+Noindex: /shop/review-submission?skuId=*
+
+
+#Allow
+Allow: /shop/
+Allow: /minuteclinic/
+Allow: /photo/
+Allow: /store-locator/
+Allow: /pharmacy/
+Allow: /account/login.jsp
+Allow: /account/login-responsive.jsp
+Allow: /account/sso/intersite-sso-service.jsp?target=photo
+Allow: /express/welcome/zipcode
+Allow: /express/search/cvs/store/cvs_*
+Allow: /express/locations/
+Allow: /bizcontent/
+Allow: /*.css
+Allow: /*.js
+Allow: /*.min.js
+Allow: /*.pdf
+
+User-agent: Googlebot-image
+Allow: /
+
+User-agent: Yandex
+Disallow: /

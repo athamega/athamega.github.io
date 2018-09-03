@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /mvc.php?route=socialcontent
+Disallow: /dashboard/
+Disallow: /mobile/

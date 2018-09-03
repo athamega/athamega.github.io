@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /*_escaped_fragment_
+Sitemap: https://shop.spreadshirt.com/shopfiles/sitemap.xml

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /gst/forgot
+Disallow: /mem/
+Disallow: /gst/
+Disallow: /gst/unsub.html
+Disallow: /gst/confirmem.html
+Disallow: /svc
+Disallow: /get-started
+Disallow: /hd-start
+Disallow: /mobile
+Disallow: /verification
+Disallow: /free-trial
+Disallow: /oauth
+Disallow: /mem/purchase/gateway/checkout.html
+Disallow: /mobile/checkout
+Disallow: /.well-known/apple-app-site-association
+Disallow: /apple-app-site-association

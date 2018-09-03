@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /news/docs
+Disallow: /news/pingback.php
+Disallow: /news/search.php
+Disallow: /news/submit.php
+Disallow: /news/trackback.php
+Disallow: /news/usersettings.php
+
+
+Sitemap: http://www.thetruthdenied.com/news/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: feedjira
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: *
+Disallow: /bullpen/
+
+Sitemap: http://www.slate.com/sitemaps/sitemap.xml

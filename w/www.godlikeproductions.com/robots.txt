@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: /forum1/message*/reply*/copyright
+Disallow: /forum1/message*/reply*/abusive
+
+User-agent: bingbot
+Disallow: /forum1/message*/reply*/copyright$
+Disallow: /forum1/message*/reply*/abusive$
+
+User-agent: BoardReader
+Disallow: /
+
+User-agent: JikeSpider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Disallow: /feeds/messages/
+
+User-agent: ia_archiver
+Disallow: /
+

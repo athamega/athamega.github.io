@@ -1,0 +1,60 @@
+User-agent: *
+Disallow: /images/discussionimages/
+Disallow: /images-greeting-cards-real-private/
+Disallow: /images-medium-private/
+Disallow: /images-square-real-private/
+Disallow: /images-small-private/
+Disallow: /images-stretched-canvas-real-private/
+Disallow: /pdfartworkmenu.php
+Disallow: /previewhighresolutionimage.php
+Disallow: /queries/*
+
+Disallow: /profiles/*
+
+Disallow: /art/*artworkid=
+Disallow: /art/*searchtype=
+Disallow: /art/*searchType=
+Disallow: /art/*sort=
+Disallow: /art/*shape=
+Disallow: /art/*minimumprintwidth=
+Disallow: /art/*r1=
+Disallow: /art/*b1=
+Disallow: /art/*g1=
+Disallow: /art/*r2=
+Disallow: /art/*b2=
+Disallow: /art/*g2=
+
+Disallow: /collectiongroups/*
+
+Disallow: /collections/*/*
+Disallow: /collections/*artworkid=
+Disallow: /collections/*searchtype=
+Disallow: /collections/*searchType=
+Disallow: /collections/*sort=
+Disallow: /collections/*shape=
+Disallow: /collections/*minimumprintwidth=
+Disallow: /collections/*r1=
+Disallow: /collections/*b1=
+Disallow: /collections/*g1=
+Disallow: /collections/*r2=
+Disallow: /collections/*b2=
+Disallow: /collections/*g2=
+
+Disallow: /shop/*artworkid=
+Disallow: /shop/*searchtype=
+Disallow: /shop/*searchType=
+Disallow: /shop/*sort=
+Disallow: /shop/*shape=
+Disallow: /shop/*minimumprintwidth=
+Disallow: /shop/*r1=
+Disallow: /shop/*b1=
+Disallow: /shop/*g1=
+Disallow: /shop/*r2=
+Disallow: /shop/*b2=
+Disallow: /shop/*g2=
+
+Disallow: /*currencyid=
+Disallow: /*flagwidget=true
+Disallow: /*searchtype=true
+
+			

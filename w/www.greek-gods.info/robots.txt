@@ -1,0 +1,4 @@
+Sitemap: http://www.greek-gods.info/sitemap.xml
+User-agent: *
+Allow: /
+

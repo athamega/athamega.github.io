@@ -1,0 +1,85 @@
+Sitemap: http://allpoetry.com/sitemap.xml
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: facebookexternalhit    
+Disallow:
+
+User-agent: Googlebot
+User-agent: Msnbot 
+User-agent: Bingbot
+User-agent: YandexBot
+Disallow: /stories
+Disallow: /story/
+Disallow: /poem/print/
+Disallow: /story/print/
+Disallow: /journal/print/
+Disallow: /column/print/
+Disallow: /poem/edit/
+Disallow: /story/edit/
+Disallow: /journal/edit/
+Disallow: /column/edit/
+Disallow: /poem/log/
+Disallow: /story/log/
+Disallow: /journal/log/
+Disallow: /column/log/
+Disallow: /poems/by/
+Disallow: /stories/by/
+Disallow: /journals/by/
+Disallow: /columns/by/
+Disallow: /home/no_bot
+Disallow: /journals/about
+Disallow: /cdn-cgi/
+
+Disallow: /contest/edit/
+Disallow: /contest/newest/
+Disallow: /contest/remove_entry/
+Disallow: /contest/finalist/
+Disallow: /contest/by/
+Disallow: /contest/next/
+
+Disallow: /user/feed/
+Disallow: /user/feed_favs/
+Disallow: /user/edit/
+Disallow: /user/guestbook/
+Disallow: /user/greet/
+
+Disallow: /classics/author
+Disallow: /classics/random
+Disallow: /classics/random_author
+
+Disallow: /group/edit
+Disallow: /group/next
+Disallow: /group/rp
+Disallow: /group/news
+
+Disallow: /topic/add
+Disallow: /topic/edit
+Disallow: /topic/last
+Disallow: /topic/destroy
+Disallow: /topic/lock
+Disallow: /search/
+Disallow: /admin
+Disallow: /alog
+Disallow: /application
+Disallow: /assignment
+Disallow: /ban/
+Disallow: /comment
+Disallow: /draft
+Disallow: /favorite
+Disallow: /feature
+Disallow: /home/
+Disallow: /item
+Disallow: /items
+Disallow: /log/
+Disallow: /login
+Disallow: /messages
+Disallow: /sale/
+Disallow: /store
+Disallow: /ticket
+Disallow: /user/show
+
+
+
+User-agent: *
+Disallow: /

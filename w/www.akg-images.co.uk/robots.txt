@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Share/
+Sitemap: https://www.akg-images.co.uk/SitemapRoot.xml

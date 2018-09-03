@@ -1,0 +1,42 @@
+# Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /includes
+
+User-agent: cuil.com
+Disallow: /
+
+User-agent: s1.fti.net
+Disallow: /
+
+User-agent: baudispider
+Disallow: /
+
+User-agent: exabot.com
+Disallow: /
+
+User-agent: Exabot
+Disallow: / 
+
+#DOTNETDOTCOM
+User-agent: dotbot
+Disallow: /
+
+#CUIL
+User-agent: twiceler
+Disallow: /
+
+#Yandex/Yandrex robot
+User-agent: Yandex
+Disallow: / 
+
+User-agent: yandrex.ru
+Disallow: /
+
+User-agent: VoilaBot
+Disallow: / 
+
+User-agent: kalooga
+Disallow: / 
+
+# End robots.txt file

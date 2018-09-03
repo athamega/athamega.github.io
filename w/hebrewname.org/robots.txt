@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hebrew names and meaning for boys and girls</title>
+    <link rel="alternate" href="http://hebrewname.org/" hreflang="en" />
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no"> 
+    <meta property="og:title" content="Hebrew names and meaning for boys and girls">
+    <meta property="og:url" content="http://hebrewname.org/">
+    <meta name="keywords" content="hebrewnames, hebrew names, hebrew name, hebrew baby names, boy names, girl names, names list, israeli names, israel, ivrit, bible names, jewish names">
+    <meta name="description" content="Hebrew & Jewish Names: Meanings from the Torah, A-Z">
+    <link rel="shortcut icon" href="/public/img/hebrew_favicon.ico" type="image/x-icon">
+    <script src="/public/js/jquery.min.js"></script>
+    <script src="/public/js/angular.min.js"></script>
+    <link href="/public/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/public/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" media="all">
+    <script src="/public/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/public/bootstrap/js/ui-bootstrap-0.13.3.min.js"></script>
+    <link href="/public/css/main.css?v=1.0.4" rel="stylesheet" type="text/css" media="all">
+    <script src="/public/js/main.js"></script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P8J6FX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P8J6FX');</script>
+<!-- End Google Tag Manager --><section class="home" ng-app="hebrewNames" ng-controller="hebNamesCTRL"><section class="visual">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="page-header">
+                    <a href="/"><h1>Hebrew Names</h1></a>
+                    <small>
+                        Learn new Hebrew names...<br>
+                        A list of all Hebrew names and their meaning. Names are sorted according to categories, including botanical names, names of places, zoological names, etc. and historical periods including Modern Hebrew names, biblical Hebrew names and Talmudic eras.
+                    </small>
+                </div>
+
+                <div class="serchbox">
+                    <input ng-keydown="checkKeyDown($event)" ng-keyup="checkKeyUp($event)"  ng-model="searchText" ng-change="search()" type="text" class="form-control search_for" placeholder="Search for...">
+                    <span class="glyphicon glyphicon-search"></span>
+                    <ul class="match-list">
+                        <li ng-repeat="suggestion in suggestions track by $index" ng-click="AssignValueAndHide($index)">
+                            <a ng-class="{active : selectedIndex === $index}"  href="/name/{{suggestion.url}}">
+                                <img src="/public/img/HebrewNames/{{suggestion.HebrewNameID+'.jpg'}}">
+                                {{suggestion.HebrewNameEn}} 
+                                {{suggestion.HebrewNameHE}}
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="alphabetical-list text-center" >
+                <div class="btn-group" role="group" aria-label="ABC">
+                    <a type='button' class='btn btn-primary' href=/alphabetical/A>A</a><a type='button' class='btn btn-primary' href=/alphabetical/B>B</a><a type='button' class='btn btn-primary' href=/alphabetical/C>C</a><a type='button' class='btn btn-primary' href=/alphabetical/D>D</a><a type='button' class='btn btn-primary' href=/alphabetical/E>E</a><a type='button' class='btn btn-primary' href=/alphabetical/F>F</a><a type='button' class='btn btn-primary' href=/alphabetical/G>G</a><a type='button' class='btn btn-primary' href=/alphabetical/H>H</a><a type='button' class='btn btn-primary' href=/alphabetical/I>I</a><a type='button' class='btn btn-primary' href=/alphabetical/J>J</a><a type='button' class='btn btn-primary' href=/alphabetical/K>K</a><a type='button' class='btn btn-primary' href=/alphabetical/L>L</a><a type='button' class='btn btn-primary' href=/alphabetical/M>M</a><a type='button' class='btn btn-primary' href=/alphabetical/N>N</a><a type='button' class='btn btn-primary' href=/alphabetical/O>O</a><a type='button' class='btn btn-primary' href=/alphabetical/P>P</a><a type='button' class='btn btn-primary' href=/alphabetical/Q>Q</a><a type='button' class='btn btn-primary' href=/alphabetical/R>R</a><a type='button' class='btn btn-primary' href=/alphabetical/S>S</a><a type='button' class='btn btn-primary' href=/alphabetical/T>T</a><a type='button' class='btn btn-primary' href=/alphabetical/U>U</a><a type='button' class='btn btn-primary' href=/alphabetical/V>V</a><a type='button' class='btn btn-primary' href=/alphabetical/W>W</a><a type='button' class='btn btn-primary' href=/alphabetical/X>X</a><a type='button' class='btn btn-primary' href=/alphabetical/Y>Y</a><a type='button' class='btn btn-primary' href=/alphabetical/Z>Z</a>                </div>
+        </div>
+        
+        <div class="row period">
+            <div class="col-lg-12 text-center">
+                <ul class="nav nav-pills nav-justified">
+                    <li><a href="/period/the-modern-era">The Modern Era</a></li>
+                    <li><a href="/period/the-biblical-era">The Biblical Era</a></li>
+                    <li><a href="/period/the-talmud-era">The Talmud Era</a></li>
+                    <li><a href="/period/the-middle-ages-till-the-19th-century">The Middle Ages Till The 19th Century</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="row gender">
+            <div class="col-lg-12 text-center">
+                <a href="/gender/boys" title="Gender Male"><img src="/public/img/maleIcon - white.png"></a>&nbsp;
+                <a href="/gender/girls" title="Gender Female"><img src="/public/img/femaleIcon - white.png"></a>
+            </div>
+        </div>
+        
+    </div>
+</section><section class="categorys">
+    <div class="container">        
+        <div class="row">
+
+            <div class="col-lg-4 col-sm-6 col-xs-12" ng-repeat="category in categories">
+                <a href="/category/{{category.url}}">
+                    <img class="img-circle" src="/public/img/categories/{{category.HebrewNameCategoryID+'.jpg'}}" alt="{{category.HebrewNameCategoryNameEN}}" width="140" height="140">
+                    <p>{{category.HebrewNameCategoryNameEN}}</p>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</section><script src="/public/js/home.js?v=1.0.4"></script></section>    <div class="ajax-loader"><i></i></div>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">© 2016 hebrewname.org Hebrew Name. All Rights Reserved.</div>
+                <div class="col-md-6">
+                    <div class="main-footer-nav">
+                        <a href="http://library.eteacherbiblical.com/">Biblical Insights</a> <span> | </span>
+                        <a href="http://library.eteacherhebrew.com/">Hebrew Insights</a> <span> | </span>
+                        <a href="/privacy">Privacy Policy</a> <span> | </span>
+                        <a href="/terms">Terms of Use</a> <span> | </span> 
+                        <a href="/about">About</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

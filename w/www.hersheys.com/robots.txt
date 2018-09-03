@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /libs/*
+
+Sitemap: https://www.hersheys.com/en_us/sitemap.xml
+Sitemap: https://www.hersheys.com/kitchens/en_us/sitemap.xml

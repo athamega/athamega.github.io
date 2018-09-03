@@ -1,0 +1,4 @@
+Allow: /button/
+Disallow: / 
+User-agent: *
+

@@ -1,0 +1,20 @@
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /svc
+Disallow: /search
+Disallow: /photos
+Disallow: /categories
+Disallow: /articles
+Disallow: /galleries
+Disallow: /gallery
+Disallow: /cnevideos
+Disallow: /curatedsearches
+
+User-agent: Googlebot
+Disallow: /cartoon/
+
+Sitemap: https://www.newyorker.com/sitemap.xml
+Sitemap: https://www.newyorker.com/feed/google-news-sitemap-feed/sitemap-google-news
+            

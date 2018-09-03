@@ -1,0 +1,11 @@
+#robots.txt for www.biblica.com
+User-agent: * 
+Disallow: /pages/
+Disallow: /error/
+Disallow: /wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /wp-login.php
+Disallow: /?s=
+Disallow: /?search
+Sitemap: http://www.biblica.com/sitemap.xml
+Sitemap: http://www.biblica.com/bible-sitemap-index.xml

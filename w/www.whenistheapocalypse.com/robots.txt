@@ -1,0 +1,3 @@
+Sitemap: http://www.whenistheapocalypse.com/sitemap.xml
+User-agent: voltron
+Disallow: /

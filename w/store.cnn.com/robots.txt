@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /300250/
+Disallow: /300250
+Disallow: /checkout
+Disallow: /paypal_checkout
+Disallow: /paypal_authorization_callback
+Disallow: /paypal_cancel_callback
+Disallow: /jetlore/publishers
+Disallow: /jetlore/sales
+Disallow: /fb-product-feed
+Disallow: /fb-stitcher-feed

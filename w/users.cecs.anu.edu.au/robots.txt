@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /~jks/BCD2005/
+Allow: /

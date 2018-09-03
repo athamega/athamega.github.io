@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.hedweb.com/maps/www.huxley.net.xml

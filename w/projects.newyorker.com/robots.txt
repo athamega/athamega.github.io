@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /svc
+Disallow: /search
+
+Sitemap: https://projects.newyorker.com/sitemap.xml
+            

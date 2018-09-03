@@ -1,0 +1,12 @@
+User-agent: twiceler
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent:*
+Disallow: /home
+Disallow: /admin_login.php
+Disallow: /application.php
+Disallow: /searchinternaljobs.php
+Disallow: /resume_uploads/

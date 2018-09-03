@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /app/
+Disallow: /catalog/product_compare/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /downloader/
+#Disallow: /js/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+#Disallow: /skin/
+Disallow: /var/
+Disallow: /wishlist/
+Disallow: /cache/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /staging/
+Disallow: /tools/
+#HCCP-206
+Disallow: /dynaTraceMonitor
+Disallow: /wp-login.php
+Disallow: /*.asp$
+Crawl-delay: 20 # sets a 20 second time-out
+
+Sitemap: https://tienda.lidervision.com/lidervision/sitemap.xml
+Sitemap: https://www.churchsource.com/churchsource/sitemap.xml
+Sitemap: https://gruponelson.com/gruponelson/sitemap.xml
+Sitemap: https://store.faithgateway.com/faithgateway/sitemap.xml
+Sitemap: https://www.zondervan.com/zondervan/sitemap.xml
+Sitemap: https://www.editorialvida.com/vida/sitemap.xml
+Sitemap: https://www.ministryservices.com/ministryservices/sitemap.xml
+Sitemap: https://www.thomasnelson.com/thomasnelson/sitemap.xml

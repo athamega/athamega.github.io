@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+
+Sitemap: https://condenet-sitemaps.s3.amazonaws.com/wi.xml
+    Sitemap: https://www.wired.co.uk/rss/article
+
+User-agent: *
+Disallow: /preview/
+Disallow: /5574*

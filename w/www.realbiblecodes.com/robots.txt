@@ -1,0 +1,15 @@
+User-agent:*
+Disallow:/images/
+Disallow:/js/
+Disallow:/css/
+Disallow:/forum/
+Disallow:/includes/
+Disallow:/verificare_hash/
+Disallow:/sql/
+Disallow:/tip_balloon/
+Disallow:/wz_tooltip/
+Disallow:/save/
+Disallow:/plesk-stat/
+
+Sitemap: http://www.realbiblecodes.com/sitemap.xml 
+Sitemap: http://www.realbiblecodes.com/blog/sitemap.xml 

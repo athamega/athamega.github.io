@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>URL Multiple Location Redirector</title>
+  <meta name="description" content="A url rotator. Rotates though the provided URLs.">
+  <script type="text/javascript" src="http://www.niallbunting.com/scripts/google.js">//Google Analytics</script>
+</head>
+<body>
+<script>
+// Takes the data from the textbox and formats it.
+function clickbox(){
+ var urls = document.getElementById("textarea").value.split("\n").join(",");
+ document.getElementById("output").innerHTML = window.location.hostname + window.location.pathname + "?a=" + urls;
+}
+
+// Forwards to the locations given.
+function forward(){
+ var search = window.location.search.slice(3).split(",");
+ window.location.href = search[Math.floor(search.length * Math.random())];
+}
+
+// Checks for the prameters so to forward.
+if(window.location.search != ""){
+ forward();
+}
+</script>
+<h3>URL Multiple Location Redirector</h3>
+<p>
+This page aims to create URLs that will direct to multiple pages. This is just done randomly, and does not use a system such as round robin. All implemented in very basic JS.
+</p><p>
+You will probably want to put the URL in a shortener such as bit.ly.
+</p>
+<p>
+Note: Please include the 'http(s)://' part of the url.
+</p>
+<p>
+<span id="output" style="color:#ff00ff">This is where the URL will appear.</span>
+</p><p>
+<textarea id="textarea" placeholder="Add url on each line."></textarea>
+<br>
+<button onclick="clickbox()">Create link</button>
+</p>
+</body>
+</html>

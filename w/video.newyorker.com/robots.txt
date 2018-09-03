@@ -1,0 +1,2 @@
+Sitemap: https://video.newyorker.com/sitemap.xml
+Disallow: /right_rail*

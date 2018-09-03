@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /category/uncategorized/
+Disallow: /tweets/
+Disallow: /offer/
+Disallow: /videos
+Disallow: /2016/05/21/hello-world/
+Disallow: /author/maeltraum/
+Disallow: /m/
+Disallow: /mobile/
+Allow: /wp-admin/admin-ajax.php

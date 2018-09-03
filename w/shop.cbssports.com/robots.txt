@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /*/browse/featuredproduct/*
+Disallow: */catalog/product/*
+Disallow: /playername/
+Disallow: /menssizes/
+
+Sitemap: /sitemap.xml

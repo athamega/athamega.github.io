@@ -1,0 +1,11 @@
+# Welcome to Christianbook.com 
+# and thanks for asking about our robot rules
+
+User-agent: *
+Disallow: /
+
+User-agent: googlebot
+Disallow:
+
+User-agent: BingBot
+Disallow:

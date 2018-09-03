@@ -1,0 +1,23 @@
+# robots.txt for https://www.imdb.com properties
+User-agent: *
+Disallow: /*/*/rg*/mediaviewer/rm*/tr
+Disallow: /*/rg*/mediaviewer/rm*/tr
+Disallow: /*_ajax/*
+Disallow: /OnThisDay
+Disallow: /ads/
+Disallow: /ap/
+Disallow: /find$
+Disallow: /find/
+Disallow: /gallery/rg*/mediaviewer/rm*/tr
+Disallow: /list/ls*/_ajax
+Disallow: /mymovies/
+Disallow: /name/nm*/mediaviewer/rm*/tr
+Disallow: /r/
+Disallow: /register
+Disallow: /registration/
+Disallow: /search/name-text
+Disallow: /search/title-text
+Disallow: /title/tt*/mediaviewer/rm*/tr
+Disallow: /tr/
+Disallow: /tvschedule
+Disallow: /updates

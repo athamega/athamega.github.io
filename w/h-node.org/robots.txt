@@ -1,0 +1,461 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+	<title>home - h-node.org</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="description" content="free software project with the aim of collecting information about the hardware that works with a fully free operating system" />
+	<meta name="keywords" content="hardware database, free software, GNU/Linux distribution, wiki, users freedom" />
+	<link rel="stylesheet" type="text/css" href="https://h-node.org/Public/Css/main.css">
+	<link rel="Shortcut Icon" href="https://h-node.org/Public/Img/tab_icon_2.ico" type="image/x-icon">
+
+	<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="https://h-node.org/Public/Css/explorer7.css">
+	<![endif]-->
+
+	<script type="text/javascript" src="https://h-node.org/Public/Js/jquery/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="https://h-node.org/Public/Js/functions.js"></script>
+
+	<!--markitup-->
+	<script type="text/javascript" src="https://h-node.org/Public/Js/markitup/jquery.markitup.js"></script>
+	<script type="text/javascript" src="https://h-node.org/Public/Js/markitup/sets/bbcode/set.js"></script>
+
+	<!-- markItUp! skin -->
+	<link rel="stylesheet" type="text/css" href="https://h-node.org/Public/Js/markitup/skins/simple/style.css" />
+	<!--  markItUp! toolbar skin -->
+	<link rel="stylesheet" type="text/css" href="https://h-node.org/Public/Js/markitup/sets/bbcode/style.css" />
+
+	<!-- 	jQuery ui -->
+	<link rel="stylesheet" href="https://h-node.org/Public/Js/jquery/ui/css/excite-bike/jquery-ui-1.8.14.custom.css" rel="stylesheet" />
+	<script type="text/javascript" src="https://h-node.org/Public/Js/jquery/ui/js/jquery-ui-1.8.21.custom.js"></script>
+
+	<script type="text/javascript">
+	/*    
+	@licstart  The following is the entire license notice for the 
+	JavaScript code in this page.
+
+	h-source, a web software to build a community of people that want to share their hardware information.
+	Copyright (C) 2010  Antonio Gallo (h-source-copyright.txt)
+
+	This file is part of h-source
+
+	h-source is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	h-source is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with h-source.  If not, see <http://www.gnu.org/licenses/>.   
+
+	@licend  The above is the entire license notice
+	for the JavaScript code in this page.
+	*/
+	</script>
+	
+	<script type="text/javascript">
+
+		var base_url = "https://h-node.org";
+		var curr_lang = "en";
+		var csrf_token = "token";
+
+		$(document).ready(function() {
+
+			animateTabs(curr_lang);
+
+		});
+
+	</script>
+	
+</head>
+<body>
+
+
+<div id="external_header">
+	<div id="header">
+		<img style="float:left;" src="https://h-node.org/Public/Img/title.png">
+		<a href="http://www.fsf.org"><img style="float:right;" src="https://h-node.org/Public/Img/fsf_logo.png"></a>
+	</div>
+</div>
+
+<div id="top_menu_external">
+	<div id="top_menu">
+		<ul>
+			<li class='currentitem ui-btn-active'><a href="https://h-node.org/home/index/en">Home</a></li><li><a href="https://h-node.org/hardware/catalogue/en">Hardware</a></li><li><a href="https://h-node.org/issues/viewall/en/1/token">Issues</a></li><li><a href="https://h-node.org/search/form/en">Search</a></li><li><a href="https://h-node.org/download/index/en">Download</a></li><li ><a  href='https://h-node.org/help/page/en/Help'>Help</a></li><li><a href="https://h-node.org/wiki/page/en/Main-Page">Wiki</a></li><li ><a  href='https://h-node.org/faq/page/en/FAQ'>FAQ</a></li>		</ul>
+	</div>
+</div>
+	
+<div id="container">
+
+
+	<div id="left">
+		
+		<div class="position_tree_box">
+			Home
+		</div>
+		
+		<div class='box_module'>
+
+				<div style="padding:0.5em;background:#FFA07A;margin:0.5em;border-top:1px solid #FF4500;border-bottom:1px solid #FF4500;color:#DC143C;font-size:16px;">If you insert a new printer to h-node, please try to verify if the printer tracks users (see <a href="https://www.eff.org/issues/printers">here</a>) and fill the entry named "<i>does it adopt any techniques to track users?</i>"
+				</div>
+
+				</div>
+		
+		<div class="home_container">
+			<div class="home_objectives_title">
+				Objectives:
+			</div>
+			<div class="home_objectives_description">
+				<img src="https://h-node.org/Public/Img/H2O/applications-internet.png"> The <b>h-node</b> project aims at the construction of a hardware database in order to identify what devices work with a <a href="http://www.gnu.org/distros/free-distros.html">fully free operating system</a>. The h-node.org website is structured like a wiki in which all the users can modify or insert new contents. The h-node project is developed in collaboration and as an activity of the <a href="http://www.fsf.org">FSF</a>.
+			</div>
+			
+			<div class="home_objectives_title">
+				Contribute:
+			</div>
+			<div class="home_objectives_description">
+				You can contribute by creating an account at h-node.org and editing its user-generated contents. All your modification will be saved in the history of the product you are editing/adding. Each revision (the current one or the old ones) will be marked by the name of the user who created it.<br />You can also contribute by <b>suggesting new hardware</b> that should be added to the database or <b>features that should be implemented</b>.
+			</div>
+
+			<div class="home_objectives_title">
+				Free software:
+			</div>
+			<div class="home_objectives_description">
+				<img height="100px" src="https://savannah.nongnu.org/images/Savannah.theme/floating.png">
+				
+				In order to add a device to the h-node database, you must verify that it works using only free software. For this purpose, you must be running either:
+
+				<p>1) A GNU/Linux distribution that is on the <a   href="http://www.gnu.org/distros/free-distros.html">FSF's list of   endorsed distributions</a></p>
+
+				<p>2) <a href="http://www.debian.org">Debian GNU/Linux</a>, <strong>with only the main archive area enabled</strong>. The "contrib" and   "non-free" areas must not be enabled when testing hardware.   Double-check this by running <code>apt-cache policy</code>. The only package archive area mentioned in the output should be <strong>main</strong>.</p>
+				
+				<p>h-node lists only hardware that works with free drivers and without non-free firmware. Other GNU/Linux distributions (or Debian with contrib, non-free, or some 3rd-party archives enabled) include non-free firmware files, so they cannot be used for testing.</p>
+			</div>
+
+			<div class="home_objectives_title">
+				License:
+			</div>
+			<div class="home_objectives_description">
+				Any text submitted by you will be put in the Public Domain (see the <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0 page</a> for detailed information). Anyone is free to copy, modify, publish, use, sell, or distribute the text you have submitted to h-node.org, for any purpose, commercial or non-commercial, and by any means.
+			</div>
+
+			<div class="home_objectives_title">
+				Other resources on the net:
+			</div>
+			<div class="home_objectives_description">
+				<p>Here is a list of other archives collecting information about hardware working with free software:</p>
+				<ul>
+					<!--<li><a href="http://www.fsf.org/resources/hw">Free Software Foundation archive</a></li>-->
+					<li><a href="http://libreplanet.org/wiki/Hardware/Freest">LibrePlanet Freest Hardware Page</a></li>
+					<li><a href="http://www.gnewsense.org/Main/LaptopGuide">gNewSense Laptop Guide</a></li>
+					<li><a href="http://libreplanet.org/wiki/Group:LibrePlanet_Italia/Progetti/hardware_libero">LibrePlanet Italia - progetti hardware database</a></li>
+				</ul>
+			</div>
+			
+			<div class="home_objectives_title">
+				About the h-node.org website:
+			</div>
+			<div class="home_objectives_description">
+				The h-node.org has to be considered in <b>beta version</b>. It is constantly growing and many features have not been implemented yet (for example new hardware devices have to be inserted in the database). Some problems may occur: if you find out a bug please add an issue <a href="https://h-node.org/issues/viewall/en/1/token">here</a> with the topic <b>maybe a bug</b>.
+			</div>
+		</div>
+	</div>
+
+
+	<div id="right">
+
+				<div class="language_links_box">
+			<ul  class='languages_link_box'>
+	<li><a  class='current_lang' href='https://h-node.org/home/index/en'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/gb.png'><span>English</span></a></li>
+	<li><a   href='https://h-node.org/home/index/es'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/es.png'><span>Español</span></a></li>
+	<li><a   href='https://h-node.org/home/index/fr'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/fr.png'><span>Français</span></a></li>
+	<li><a   href='https://h-node.org/home/index/it'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/it.png'><span>Italiano</span></a></li>
+	<li><a   href='https://h-node.org/home/index/de'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/de.png'><span>Deutsch</span></a></li>
+	<li><a   href='https://h-node.org/home/index/gr'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/gr.png'><span>Ελληνικά</span></a></li>
+	<li><a   href='https://h-node.org/home/index/pt'><img class='ui-li-icon' src='https://h-node.org/Public/Img/Famfamfam/pt.png'><span>Português</span></a></li>
+</ul>
+		</div>
+		
+		<div class="version_div">
+			<a href="https://h-node.org/home/index/en?version=mobile"><img src="https://h-node.org/Public/Img/mobile.png"></a>
+		</div>
+		
+		<div class="login_table_box">
+		
+						
+			<div class="who_you_are_and_logout">
+				Login form:			</div>
+			<!--login form-->
+			<form action="https://h-node.org/users/login/en?redirect=home/index" method="POST">
+				
+				<div class="login_right_box">
+					<div class="login_right_item">
+						<div class="login_right_label">
+							username						</div>
+						<div class="login_right_form">
+							<input class="login_input" type="text" name="username" value="">
+						</div>
+					</div>
+					<div class="login_right_item">
+						<div class="login_right_label">
+							password						</div>
+						<div class="login_right_form">
+							<input class="login_input" type="password" name="password" value="">
+						</div>
+					</div>
+					<div>
+						<input type="submit" name="login" value="login">
+					</div>
+				</div>
+			</form>
+			
+			<div class="manage_account_link_box">
+				<a href="https://h-node.org/users/add/en">create new account</a>
+			</div>
+			
+			<div class="manage_account_link_box">
+				<a href="https://h-node.org/users/forgot/en">request new password</a>
+			</div>
+			
+						
+		</div>
+
+		<div class='discover_hardware'>
+						<a href="https://h-node.org/wiki/page/en/Discover-your-hardware"><img src="https://h-node.org/Public/Img/discover.png"></a>
+					</div>
+		
+		<div class="download_database">
+			<a href="https://h-node.org/download/index/en"><img src="https://h-node.org/Public/Img/download.png"></a>
+		</div>
+
+		
+				<div class="last_modifications">
+			<div class="last_modifications_title">
+				last modifications			</div>
+			<ul>
+									<li><a class="last_modifications_model" href="https://h-node.org/notebooks/view/en/1933/Inspiron-15-5000-Series">Inspiron 15 5000 Series</a> by <a href='https://h-node.org/meet/user/en/Ark74'>Ark74</a></li>
+									<li><a class="last_modifications_model" href="https://h-node.org/videocards/view/en/873/NVIDIA-Corporation-C61--GeForce-7025---nForce-630a---rev-a2-">NVIDIA Corporation C61 [GeForce 7025 / nForce 630a] (rev a2)</a> by <a href='https://h-node.org/meet/user/en/FizzDarth'>FizzDarth</a></li>
+									<li><a class="last_modifications_model" href="https://h-node.org/videocards/view/en/879/NVIDIA-Corporation-NV43--GeForce-6600---rev-a2-">NVIDIA Corporation NV43 [GeForce 6600] (rev a2)</a> by <a href='https://h-node.org/meet/user/en/FizzDarth'>FizzDarth</a></li>
+									<li><a class="last_modifications_model" href="https://h-node.org/videocards/view/en/775/NVIDIA-Corporation-G96--GeForce-9400-GT---rev-a1-">NVIDIA Corporation G96 [GeForce 9400 GT] (rev a1)</a> by <a href='https://h-node.org/meet/user/en/FizzDarth'>FizzDarth</a></li>
+									<li><a class="last_modifications_model" href="https://h-node.org/videocards/view/en/783/NVIDIA-Corporation-GT216--GeForce-GT-325M---rev-a2-">NVIDIA Corporation GT216 [GeForce GT 325M] (rev a2)</a> by <a href='https://h-node.org/meet/user/en/FizzDarth'>FizzDarth</a></li>
+							</ul>
+			<div class="last_modifications_all">
+				<span>
+					<a href="https://h-node.org/special/modifications/en">watch all modifications</a>
+				</span>
+			</div>
+		</div>
+		
+		<div class="statistics_ext_box">
+			<div class="statistics_int_title">
+				website statistics:
+			</div>
+			
+			<div class="statistics_hard_title">
+				hardware in the database:
+			</div>
+			
+			<table width="100%">
+								<tr>
+					<td>3G cards</td>
+					<td align="right"><b>30</b></td>
+				</tr>
+								<tr>
+					<td>Acquisition cards</td>
+					<td align="right"><b>31</b></td>
+				</tr>
+								<tr>
+					<td>Bluetooth</td>
+					<td align="right"><b>46</b></td>
+				</tr>
+								<tr>
+					<td>Ethernet cards</td>
+					<td align="right"><b>149</b></td>
+				</tr>
+								<tr>
+					<td>Fingerprint readers</td>
+					<td align="right"><b>11</b></td>
+				</tr>
+								<tr>
+					<td>Host Controllers</td>
+					<td align="right"><b>145</b></td>
+				</tr>
+								<tr>
+					<td>Modems</td>
+					<td align="right"><b>7</b></td>
+				</tr>
+								<tr>
+					<td>Notebooks</td>
+					<td align="right"><b>645</b></td>
+				</tr>
+								<tr>
+					<td>Printers</td>
+					<td align="right"><b>103</b></td>
+				</tr>
+								<tr>
+					<td>RAID adapters</td>
+					<td align="right"><b>19</b></td>
+				</tr>
+								<tr>
+					<td>Scanners</td>
+					<td align="right"><b>22</b></td>
+				</tr>
+								<tr>
+					<td>SD card readers</td>
+					<td align="right"><b>47</b></td>
+				</tr>
+								<tr>
+					<td>Sound cards</td>
+					<td align="right"><b>115</b></td>
+				</tr>
+								<tr>
+					<td>Video cards</td>
+					<td align="right"><b>286</b></td>
+				</tr>
+								<tr>
+					<td>Webcams</td>
+					<td align="right"><b>114</b></td>
+				</tr>
+								<tr>
+					<td>Wifi cards</td>
+					<td align="right"><b>190</b></td>
+				</tr>
+								<tr>
+					<td><b>TOTAL</b></td>
+					<td align="right"><b>1960</b></td>
+				</tr>
+			</table>
+			
+			<div class="statistics_hard_title">
+				users logged: <span class="user_logged">0</span>
+			</div>
+		</div>
+
+		
+		<div class="rss_right_box">
+			<a href="https://h-node.org/rss/modifications/en"><img src="https://h-node.org/Public/Img/rss.png"></a>
+		</div>
+		
+		<div class="right_box_ext_box">
+			<div class='box_module'>
+					<div style="text-align:center;padding-bottom:10px;"><a href="http://www.fsf.org/associate/support_freedom/join_fsf?referrer=2442"><img src="//static.fsf.org/fsforg/img/thin-image.png" alt="Support freedom" title="Help protect your freedom, join the Free Software Foundation" /></a></div>
+				</div>
+<div class='box_module'>
+				<div style="margin:3px 0px;text-align:left;font:normal 14px/1 sans-serif,arial,Verdana;">supported by</div>
+				<div style="padding:5px 10px;text-align:left;border-top:2px solid #000;margin-bottom:2.5em;">
+				<a href="http://www.fsf.org"><img style="margin-left:-5px;margin-top:3px;" width="175px" align="left" src="https://www.gnu.org/graphics/logo-fsf.org-tiny.png"></a>
+				</div>
+
+				</div>
+<div class='box_module'>
+				<div style="margin:3px 0px;text-align:left;font:normal 14px/1 sans-serif,arial,Verdana;">subscribe to our</div>
+				<div style="background:#B7F18C;padding:5px 10px;text-align:left;border-top:2px solid #015512;">
+				<a href="https://h-node.org/wiki/page/en/mailing-lists"><img height="50px" align="middle" src="https://h-node.org/Public/Img/mailing.png"></a>
+				</div>
+
+				</div>
+<div class='box_module'>
+				<div style="margin:16px 0px 3px 0px;text-align:left;font:normal 14px/1 sans-serif,arial,Verdana;">client for h-node</div>
+				<div style="text-align:left;border-top:2px solid #1E90FF;padding:4px 4px 4px 8px;background:#E0FFFF;font:normal 12px/1.5 sans-serif,arial,Verdana;">Please help in the development of the client for h-node (h-client project). See <a href="https://h-node.org/wiki/page/en/client-for-h-node-com">here</a> and <a href="http://savannah.nongnu.org/projects/h-client/">here</a>
+				</div>
+
+				</div>
+<div class='box_module'>
+				<div style="margin:16px 0px 3px 0px;text-align:left;font:normal 14px/1 sans-serif,arial,Verdana;">related projects</div>
+				<div style="text-align:left;border-top:2px solid #1E90FF;padding:4px 4px 4px 8px;background:#E0FFFF;font:normal 12px/1.5 sans-serif,arial,Verdana;">Please help in the development of the <a href="https://h-node.org/source/ht/ismyhwok_25thSep2010-1.tar.gz">IsMyHWOK</a> software, a different h-node client
+				</div>
+
+				</div>
+<div class='box_module'>
+				<div style="margin:16px 0px 3px 0px;text-align:left;font:normal 14px/1 sans-serif,arial,Verdana;">download the source code</div>
+				<div style="text-align:left;border-top:2px solid #FF4500;padding:4px 4px 0px 4px;">
+				<a href="https://h-node.org/source/notes_0.2.html"><img width="180px" src="https://h-node.org/Public/Img/download_code_gpl3.png"></a>
+				</div>
+
+				</div>
+<div class='box_module'>
+
+				<div class="statistics_int_title" style="margin-top:30px;">
+				useful links:
+				</div>
+
+				<div class="useful_links_ext">
+
+				<div>
+				<a href="http://www.gnu.org/">GNU Operating System</a>
+				</div>
+
+				<div>
+				<a href="http://www.fsf.org/">Free Software Foundation</a>
+				</div>
+
+				<div>
+				<a href="http://www.fsfla.org/svnwiki/">FSF Latin America</a>
+				</div>
+
+				<div>
+				<a href="http://www.fsfe.org/">FSF Europe</a>
+				</div>
+
+				<div>
+				<a href="http://www.blagblagblag.org/">BLAG</a>
+				</div>
+
+				<div>
+				<a href="http://www.dragora.org">Dragora</a>
+				</div>
+
+				<div>
+				<a href="http://dynebolic.org/">Dynebolic</a>
+				</div>
+
+				<div>
+				<a href="http://www.gnewsense.org/">gNewSense</a>
+				</div>
+
+				<div>
+				<a href="https://parabolagnulinux.org/">Parabola GNU/Linux</a>
+				</div>
+
+				<div>
+				<a href="http://trisquel.info/en">Trisquel GNU/Linux</a>
+				</div>
+
+				<div>
+				<a href="http://www.ututo.org/">Ututo</a>
+				</div>
+
+				
+
+				</div>
+
+				</div>
+		</div>
+		
+	</div>
+
+
+	<div id="footer">
+		<div class="copyright_notice_box">
+			The <a href="https://h-node.org/project/index/en">h-node</a> Project
+		</div>
+		
+		<div class="footer_credits_box">
+			<a href="https://h-node.org/credits/index/en">credits</a>
+		</div>
+		
+		<div class="footer_credits_box">
+			<a href="https://h-node.org/contact/index/en">contact</a>
+		</div>
+	</div> <!--fine footer-->
+	<div style="padding:5px 0px;font-size:12px;">h-node.org is a hardware database project. It runs the <a href="http://savannah.nongnu.org/projects/h-source/">h-source</a> PHP software, version SVN-387, available under the GNU General Public (GPLv3) License.</div>
+	<div style="padding:5px 0px;font-size:12px;"><a href="https://h-node.org/static/licenses.html" rel="jslicense">JavaScript license information</a>
+	</div>
+</div> <!--fine container-->
+
+
+</body>
+</html>

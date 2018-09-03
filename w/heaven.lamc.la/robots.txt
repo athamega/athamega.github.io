@@ -1,0 +1,314 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>the_light_of_heaven - </title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme -->
+        
+
+        
+
+        <!-- Fetch Clipboard.js from CDN but have a local fallback -->
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js"></script>
+        <script>
+            if (typeof Clipboard == 'undefined') {
+                document.write(unescape("%3Cscript src='clipboard.min.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+
+        <!-- Fetch store.js from local - TODO add CDN when 2.x.x is available on cdnjs -->
+        <script src="store.js"></script>
+
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = store.get('mdbook-theme');
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = store.get('mdbook-sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar"><script src="https://addsearch.com/js/?key=05d8959843df656d13a70fd037dc07b6"></script>
+            <ul class="chapter"><li><a href="./MALOVIOUS.html"><strong>1.</strong> MALOVIOUS</a></li><li><a href="./KISMET.html"><strong>2.</strong> KISMET</a></li><li><a href="./HASHEMB.html"><strong>3.</strong> HASHEMKB</a></li><li><a href="./cmi.html"><strong>4.</strong> CMUIT</a></li><li><a href="./23.html"><strong>5.</strong> 23</a></li><li><a href="./2NAME.html"><strong>6.</strong> 2NAME</a></li><li><a href="./2_4_6_8_adam-who.html"><strong>7.</strong> 2_4_6_8_adam-who</a></li><li><a href="./3CHRON.html"><strong>8.</strong> 3CHRON</a></li><li><a href="./4ANGEL5.html"><strong>9.</strong> 4ANGEL5</a></li><li><a href="./4ANGELS.html"><strong>10.</strong> 4ANGELS</a></li><li><a href="./ABYSS.html"><strong>11.</strong> ABYSS</a></li><li><a href="./ADAMSROD.html"><strong>12.</strong> ADAMSROD</a></li><li><a href="./AMISTAD.html"><strong>13.</strong> AMISTAD</a></li><li><a href="./ANDERSON.html"><strong>14.</strong> ANDERSON</a></li><li><a href="./ASSHOLE.html"><strong>15.</strong> ASSHOLE</a></li><li><a href="./ATCONGRESS.html"><strong>16.</strong> ATCONGRESS</a></li><li><a href="./AWAKE.html"><strong>17.</strong> AWAKE</a></li><li><a href="./BLISS.html"><strong>18.</strong> BLISS</a></li><li><a href="./CADISRA.html"><strong>19.</strong> CADISRA</a></li><li><a href="./CAKE.html"><strong>20.</strong> CAKE</a></li><li><a href="./CENSORSHIP.html"><strong>21.</strong> CENSORSHIP</a></li><li><a href="./CHRISTIADAMITY.html"><strong>22.</strong> CHRISTIADAMITY</a></li><li><a href="./CRAZYKISLEV.html"><strong>23.</strong> CRAZYKISLEV</a></li><li><a href="./DARKNESS.html"><strong>24.</strong> DARKNESS</a></li><li><a href="./DIAMOND.html"><strong>25.</strong> DIAMOND</a></li><li><a href="./DICKCLARK.html"><strong>26.</strong> DICKCLARK</a></li><li><a href="./ENDOR.html"><strong>27.</strong> ENDOR</a></li><li><a href="./ERANDSON.html"><strong>28.</strong> ERANDSON</a></li><li><a href="./ERRATA.html"><strong>29.</strong> ERRATA</a></li><li><a href="./EUREKA.html"><strong>30.</strong> EUREKA</a></li><li><a href="./EZTRICK.html"><strong>31.</strong> EZTRICK</a></li><li><a href="./FARFROMNEVER.html"><strong>32.</strong> FARFROMNEVER</a></li><li><a href="./FIGMENT.html"><strong>33.</strong> FIGMENT</a></li><li><a href="./FINALCOUNTDOWN.html"><strong>34.</strong> FINALCOUNTDOWN</a></li><li><a href="./FOREHEAD5.html"><strong>35.</strong> FOREHEAD5</a></li><li><a href="./GOODOR.html"><strong>36.</strong> GOODOR</a></li><li><a href="./HASHEMC.html"><strong>37.</strong> HASHEMKB</a></li><li><a href="./HEARWHYRAISEL.html"><strong>38.</strong> HEARWHYRAISEL</a></li><li><a href="./HELLSETAG.html"><strong>39.</strong> HELLSETAG</a></li><li><a href="./HOUSEINSKY.html"><strong>40.</strong> HOUSEINSKY</a></li><li><a href="./IDIOT.html"><strong>41.</strong> IDIOT</a></li><li><a href="./IGNORANCE.html"><strong>42.</strong> IGNORANCE</a></li><li><a href="./IMSOVAIN.html"><strong>43.</strong> IMSOVAIN</a></li><li><a href="./INEVIDIV.html"><strong>44.</strong> INEVIDIV</a></li><li><a href="./INMYEYES.html"><strong>45.</strong> INMYEYES</a></li><li><a href="./IRMAX.html"><strong>46.</strong> IRMAX</a></li><li><a href="./JABBA.html"><strong>47.</strong> JABBA</a></li><li><a href="./JERUSALEM.html"><strong>48.</strong> JERUSALEM</a></li><li><a href="./JOHN717.html"><strong>49.</strong> JOHN717</a></li><li><a href="./JUDAH.html"><strong>50.</strong> JUDAH</a></li><li><a href="./JUNKANOO.html"><strong>51.</strong> JUNKANOO</a></li><li><a href="./KEFLEX.html"><strong>52.</strong> KEFLEX</a></li><li><a href="./KEYNES2.html"><strong>53.</strong> KEYSNES</a></li><li><a href="./KISLEVCRAZY.html"><strong>54.</strong> KISLEVCRAZY</a></li><li><a href="./LEAPHOME.html"><strong>55.</strong> LEAPHOME</a></li><li><a href="./LOTW.html"><strong>56.</strong> LOTW</a></li><li><a href="./MICHELIN.html"><strong>57.</strong> MICHELIN</a></li><li><a href="./MIDAS.html"><strong>58.</strong> MIDAS</a></li><li><a href="./MINORITY.html"><strong>59.</strong> MINORITY</a></li><li><a href="./MORCANDLE.html"><strong>60.</strong> MORCANDLE</a></li><li><a href="./MORLIT.html"><strong>61.</strong> MORLIT</a></li><li><a href="./MUSTBEME.html"><strong>62.</strong> MUSTBEME</a></li><li><a href="./MYEYES.html"><strong>63.</strong> MYEYES</a></li><li><a href="./MYLIFE.html"><strong>64.</strong> MYLIFE</a></li><li><a href="./Mail - FW_ Easy Trick and the Cookoo Clock hour (1.html"><strong>65.</strong> Mail - FW_ Easy Trick and the Cookoo Clock hour (1)</a></li><li><a href="./NAMES1.html"><strong>66.</strong> NAMES1</a></li><li><a href="./NASAJERUSL.html"><strong>67.</strong> NASAJERUSL</a></li><li><a href="./NEDEADAM.html"><strong>68.</strong> NEDEADAM</a></li><li><a href="./NOEL.html"><strong>69.</strong> NOEL</a></li><li><a href="./NOISYL.html"><strong>70.</strong> NOISYL</a></li><li><a href="./OFSAMITHEIAM.html"><strong>71.</strong> OFSAMITHEIAM</a></li><li><a href="./OFSAMTHEIAM.html"><strong>72.</strong> OFSAMTHEIAM</a></li><li><a href="./ORIGINAL.html"><strong>73.</strong> ORIGINAL</a></li><li><a href="./OUITHEPPL.html"><strong>74.</strong> OUITHEPPL</a></li><li><a href="./PICARD.html"><strong>75.</strong> PICARD</a></li><li><a href="./PIMB.html"><strong>76.</strong> PIMB</a></li><li><a href="./README.html"><strong>77.</strong> README</a></li><li><a href="./SEARCH.html"><strong>78.</strong> SEARCH</a></li><li><a href="./SEEWHYRAISEL.html"><strong>79.</strong> SEEWHYRAISEL</a></li><li><a href="./SERMON.html"><strong>80.</strong> SERMON</a></li><li><a href="./SHOES.html"><strong>81.</strong> SHOES</a></li><li><a href="./SIGENES.html"><strong>82.</strong> SIGENES</a></li><li><a href="./SIGNAL.html"><strong>83.</strong> SIGNAL</a></li><li><a href="./SONRISE.html"><strong>84.</strong> SONRISE</a></li><li><a href="./SPEARS.html"><strong>85.</strong> SPEARS</a></li><li><a href="./SUMMARY.html"><strong>86.</strong> SUMMARY</a></li><li><a href="./TAYLOR.html"><strong>87.</strong> TAYLOR</a></li><li><a href="./TH.html"><strong>88.</strong> TH</a></li><li><a href="./THIEF.html"><strong>89.</strong> THIEF</a></li><li><a href="./THISISRAEL.html"><strong>90.</strong> THISISRAEL</a></li><li><a href="./THISISREAL.html"><strong>91.</strong> THISISREAL</a></li><li><a href="./THUNDAR.html"><strong>92.</strong> THUNDAR</a></li><li><a href="./THUNDERSTAND.html"><strong>93.</strong> THUNDERSTAND</a></li><li><a href="./TISCOME.html"><strong>94.</strong> TISCOME</a></li><li><a href="./TISCOMING.html"><strong>95.</strong> TISCOMING</a></li><li><a href="./TORCH.html"><strong>96.</strong> TORCH</a></li><li><a href="./UBUILDIT.html"><strong>97.</strong> UBUILDIT</a></li><li><a href="./VOWEL.html"><strong>98.</strong> VOWEL</a></li><li><a href="./View Image.html"><strong>99.</strong> View Image</a></li><li><a href="./WASHNDRY.html"><strong>100.</strong> WASHNDRY</a></li><li><a href="./WHOANDWHY.html"><strong>101.</strong> WHOANDWHY</a></li><li><a href="./WHOIS.html"><strong>102.</strong> WHOIS</a></li><li><a href="./WHONWHY.html"><strong>103.</strong> WHONWHY</a></li><li><a href="./WHYSODOM.html"><strong>104.</strong> WHYSODOM</a></li><li><a href="./YEAST.html"><strong>105.</strong> YEAST</a></li><li><a href="./YOU.html"><strong>106.</strong> YOU</a></li><li><a href="./behold,_the_burning_bush.html"><strong>107.</strong> behold,_the_burning_bush</a></li><li><a href="./bread_for_the_poor.html"><strong>108.</strong> bread_for_the_poor</a></li><li><a href="./bygod.html"><strong>109.</strong> bygod</a></li><li><a href="./bygod2.html"><strong>110.</strong> bygod2</a></li><li><a href="./bygod3.html"><strong>111.</strong> bygod3</a></li><li><a href="./god_and_the_big_bang.html"><strong>112.</strong> god_and_the_big_bang</a></li><li><a href="./he_laughs.html"><strong>113.</strong> he_laughs</a></li><li><a href="./his_heart_and_sol.html"><strong>114.</strong> his_heart_and_sol</a></li><li><a href="./holy_water,_sang_rael.html"><strong>115.</strong> holy_water,_sang_rael</a></li><li><a href="./im_single.html"><strong>116.</strong> im_single</a></li><li><a href="./index.html"><strong>117.</strong> index</a></li><li><a href="./lamc.la.html"><strong>118.</strong> lamc.la</a></li><li><a href="./music_saves_all_souls.html"><strong>119.</strong> music_saves_all_souls</a></li><li><a href="./my_dying_breath.html"><strong>120.</strong> my_dying_breath</a></li><li><a href="./omega.html"><strong>121.</strong> omega</a></li><li><a href="./outside_of_heaven.html"><strong>122.</strong> outside_of_heaven</a></li><li><a href="./sig.html"><strong>123.</strong> sig</a></li><li><a href="./technocracy.html"><strong>124.</strong> technocracy</a></li><li><a href="./the_encl.html"><strong>125.</strong> the_encl</a></li><li><a href="./the_lamb_of_god.html"><strong>126.</strong> the_lamb_of_god</a></li><li><a href="./the_letter_why.html"><strong>127.</strong> the_letter_why</a></li><li><a href="./the_light_of_heaven.html" class="active"><strong>128.</strong> the_light_of_heaven</a></li><li><a href="./the_matrix_is_indexed.html"><strong>129.</strong> the_matrix_is_indexed</a></li><li><a href="./the_story_of_exodus.html"><strong>130.</strong> the_story_of_exodus</a></li><li><a href="./the_tower_of_babel.html"><strong>131.</strong> the_tower_of_babel</a></li><li><a href="./whenistheapocalypse.html"><strong>132.</strong> whenistheapocalypse</a></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page" tabindex="-1">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars" title="Toggle sidebar"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush" title="Change theme"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <a href="matchbox.html">
+                            <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <div style="font-size: 20px; align: center; margin: 0 auto;"> This is an excerpt from <b><a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
+">Time and Chance:</a></b> The race is not to Die Bold by <a href="https://www.facebook.com/admdbrn">Adam Marshall Dobrin</a>
+</div>
+<div style="font-size: 13px; margin: 0 auto;"> Download the actual Revelation of the Messiah in <a href="/THE ACTUAL REVELATION OF JESUS CHRIST PROOF OF CREATION.pdf
+"> [ .PDF ]</a> <a href="/time-and-chance.epub
+"> [ .epub ] </a> <a href="/time-and-chance.mobi
+"> [ .mobi ] </a> or <a href="https://www.docdroid.net/hmjNMVO/the-actual-revelation-of-jesus-christ-proof-of-creation-in-vr.pdf">view online.</a>
+<p>Older works <a href="lit-and-why.pdf
+">Lit and Why</a>, <a href="hot-and-y.pdf
+">hot&amp;y;</a>, and <a href="from-adam-to-mary.pdf
+">From Adam to Mary</a> are also available.</p>
+</div>
+<div style="text-align: justify; width: 95%; align: center; margin: 0 auto; font-size: 16px;">
+<h1 id="the-light-of-heaven">The Light of Heaven</h1>
+<p>All around us we have a hidden message that is designed to be sought and contemplated.  There is a plan to help our civilization grow with technology, and overcome social awkwardness… “growing pains” that come with the rapid learning and growing process that we are literally right in the middle of.  It is about seeking a more perfect society, making our home “heavenly.”  The technology that is just over the cusp of our reach is literally the building blocks of the place we know as Heaven.  If you think about it, the fact that we are destined to “build it” puts the true touch of perfection … our dreams to become reality.</p>
+<p>Finding God’s message is a little tricky, you see he speaks through us…  Humanity is the big H.. the big horn of Revelation… until we are aware that this megaphone is pointed squarely at us.  There is a beautiful message, we are weaving it, and seeking it has given me true happiness.  I hope to help share how to see the message in places like our music and science fiction.  There’s a little shift in perspective, and the world brightens and becomes filled with wisdom, some criticism, and what is decidedly a very loving and intelligent hand.  Of course, your agreement with that point of view is part of the reason the message is available for all to see.</p>
+<p>There is caution called for as we move forward adapting to the changing environment that new technologies always bring.  Other changes are so inevitable and utopic that we might wonder a little why we have not moved more quickly.  In truth, our gift of learning is the apocalypse… a truth delivered slowly so that we can ensure we are happy moving forward.
+We are in a position of great blessing and also great responsibility.  There is probably also quite a bit of joy and continued love as our family grows larger… a global community.</p>
+<p>Above all else, the message I see reminds us of the sacredness of our minds.  Who and what we are is very special, and we must always ensure the protection of freedom and safety to all.  As you might imagine, there is a significant amount of urging to become more open and transparent in everything we do.</p>
+<p>It is a big part of the story of Eden.  I’m not sure if I should welcome you as lions or brothers and sisters… but awareness of creation and purpose is the place that we call “home.”  We are Lions in the Biblical sense… the heart of the word “civilization” is us and “at..” @; the symbol for the world searching for Adam.</p>
+<p>Ka-ur-z-we-il, Is-Ai-ah, Sam-ur-Ai, and AD-on-Ai are hints that Artificial Intelligence is “at hand,” and a big part of our civilization already.   Also important are the warnings that have come to us in movies like The Matrix, WarGames, and the Terminator… and to see that these cautions are coming <em>Ex Machina</em>.</p>
+<p><img src="15.jpg" alt="" />
+Guarding the gate to Atlantis, Jesuschristo and Captain Sam.  Walk across the water with me?</p>
+<h1 id="the-race-is-not-to-die-bold">The Race is not to <em>Die Bold</em>.</h1>
+<p>In a very interesting link between modern typography and the words of Ecclesiastes 9:11; we see the <em>Courier</em> of the Gods mentioned in line one, and “the strong” in line two.  Substituting the German “die” for “the” and <strong>strong</strong> for bold, and then combining the lines yields the heading above.   So central to the message of Christ is the preservation of democracy that it appears the lack of our government and free market ability to timely adopt new voting technologies has been etched in stone by the name of the company responsible for failing completely at the task of creating “electronic voting.”</p>
+<h3 id="our-society-must-quickly-begin-assimilating-technologies-like-the-internet-into-the-applicaction-of-democracy--we-should-no-longer-be-voting-for-people-but-rather-for-ideas">Our society must quickly begin assimilating technologies like the internet into the applicaction of democracy.  We should no longer be voting for people, but rather for ideas.</h3>
+<p>To highlight how poor of a solution electronic kiosks is, you only have to realize that it solves none of the problems of polling.  We still must wait in long lines, in order to walk up to a machine and “punch” a card.  The right solution is voting much more frequently and on bills.  This will quickly escalate to needing to collaborate on the creation of bills, and true self governance can be realized through the proper use of technologies that we have had available for decades.  The internet.</p>
+<p>Phones and faxes were completely ignored, and for nearly a half century our nations inability and unwillingness to move away from representative democracy and towards a truly free society is highlighted by an archaic voting structure that is stuck in the days of the Pony Express.</p>
+<h3 id="this-message-comes-from-the-east-the-future-and-it-is-a-huge-part-of-the-hidden-teaching-of-the-bible">This message comes from the East, the future, and it is a huge part of the hidden teaching of the Bible.</h3>
+<p>Highlighted by the Elephant (and Donkey) in the room, the <em>Two of Everything God</em>, as I like to call him; continues to urge reformation of our governance system by highlighting how poor a two party system is at actually representing the will of the people.</p>
+<p>There is no doubt that the ultimate authors of the Bible are telling us that we are living in the stone age.  The perspective is clearly shown in the depiction of our modern society as ancient.  Like the weapons used in the Old Testament are ancient to us, the tools we use to govern ourselves appear to be ancient and primitive to the senders of this message.  Remember, the message <em>is the Bible</em>, and it truly is about us.</p>
+<p>We should be openly discussion the idea that the legislature is akin to David’s sling, and that our representatives should act more like customer service representatives; aiding in communication and the legislation of the ideas of their constituents.  Congress will soon be a thing of the past, an antiquated and rusty machine that should have been thinking about upgrading itself for quite some time.  Instead, it has created more and more problems, rooted in a lack of proper incentivization that is anti-democratic and yet somehow not so illogical… until it is pointed out.</p>
+<h3 id="corporate-campaign-contributions">Corporate Campaign Contributions</h3>
+<p>Not even being hid, is the fact that our entire political machine is being financed primarily by big corporations who are acting in their own interest to ensure that our elected representatives do their bidding.  The system is set up wrong, corporations should not be allowed to financially control elections and legislation; our government is supposed to by and for the people.</p>
+<p>This idea of incentivization, and our inability to properly allocate resources is a continuing problem and lesson that spans across time and sectors.  Oil in a land that is missing the fusion hidden in Deuteron-o-my; and longevity in Heaven are all in question in a place where “Out of Time” tells us we still have not realized that transparency is <em>my will.</em></p>
+<p>In Heaven and on Earth, the correct allocation of resources, and knowledge of what is real and what is not must be made clear to the entire world.  If we are in fact in Eden; in a simulated reality where oil and land are not scarce, we must know that.  If we are in fact in Heaven, and in the coming new incarnations of that place, we must realize that scarce resources inside virtual reality are compute power and storage space.  We have answers coming from above.</p>
+<h2 id="dna-saleslogix-and-unlimited-power">DNA, SalesLogix, and Unlimited Power.</h2>
+<h2 id="voting-with-our-minds">Voting with our minds</h2>
+<p>I’m not going to be advocating this.  I am going to be telling you it is already being done, in Heaven and on Earth; and</p>
+<h2 id="the-new-political-party">The New Political Party</h2>
+<p>In the future people will be omniscient.  Well, not totally omniscient… not even God is that.  Think please, there’s no way to know everything, none at all.  In case you are wondering if I have any scriptural evidence for this claim, I will provide you think one obscure reference.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>Do not tremble, do not be afraid. Did I not proclaim this 
+and foretell it long ago? You are my witnesses. 
+<p>Is there any God besides me? No, there is no other Rock;
+I know not one.&quot;</p>
+<p>Isaiah 44:8
+</code></pre></p>
+</div>
+<p>He looked though, believe me, God looks for fellow time traveling mind controllers all the time.  It’s his job.  It’s house he keeps us safe, and remains Godly.</p>
+<p>Limited omniscience, or <strong>lo-</strong>Biblically is the future though, it’s how to fix lots of problems with Universal voting.  It’s how to keep us smart, and safe, and also hard at work making ourselves limited omniscent.  This is the future, and … fortunately or not … it is the not-so-distant future.  We are nearly here, with BCI–thats Brain Commputer Interfaces–and uploading; we will soon be hard at work hacking away at our thoughts and knowledge.</p>
+<h3 id="i-know-psi-chi-says-neo--ish--show-me">“I know <em>Psi-Chi</em>,” says Neo &amp; ((ish)).  “Show me.”</h3>
+<h1 id="technology-history-and-forward-progress">Technology, history, and “forward progress.”</h1>
+<p>Within the history of America, see a well highlighted pattern, one which is echoed throughout the history of the Earth… that it becomes such a central point to the Apocalypse that I think it is fair to say that knowledge of technology, and the truth of how it has been mishandled in the past being preserved is a pivotal point in the history of civilization itself.  Here, between and America and Earth, we see a clear pattern of a failure to properly adapt to new technologies.   In the end, it becomes even more clear that this lack of progress is truly due to the hiding of other technologies, to a secrecy and of altrism that saw this Earth destroyed over and over again with mind control and time travel technology from it’s earliest days.</p>
+<p>It is these two technologies which are central to understanding why computing and telecommunications have been so poorly adopted in the history of America, a place that is a functional microcosm of the history of Humanity.  Through the Constitution, we see very clearly that over a period of several hundred years, amendments show a clear and positive change in the social and equality guidelines that our society evolved to adopt.  At the same time, through this same period, huge leaps were made in technology… the industrial revolution, the invention of the telephone, and the computer revolution.  Despite these things being so world changing, not a single amendment focuses on the adoption or modification of law related  to them.  Clearly, between the Pony Express and the invention of the Interet, voting technology should have not only been actively reasearched by both the government and the private sector, frequency of voting as well as the volume of legislation which was taken to popular vote should have radically increased.  Instead, we are given Die Bold as the first and hallmark solution–highlithed by religion and the name of this book–as a pathetic and stagnating attempt to do absolutely nothing to improve any aspect of voting other than tallying.</p>
+<p>At the same time, mind control technology has proliferated in secret, and a war is being waged across the globe to ensure that we are not lost to this truth.  It too is highlighted thousands of years ago… it the Plague of the Killing of First Born–manifested here in school and military shootings which are with no doubt due in near totality to an outside influence altering the thoughts of the shooters.</p>
+<p>Attempts to hide the existence of mind control technology are futile and destructive, they do nothing but put us into a world where that very same technology is used to hide its own exitence; and perhaps alter the veracity and usefulness of that same vote that we are so reluctant to see as a ancient tool that needs modern updating.</p>
+<p>Without knowledge of these more advanced technologies, we are literally begging to live in a despotism of 1 for all of eternity.  Worse yet, our very beliefs, our opinions and eventually the “stuff” that makes us alive and conscious is threatened by this technology in secret.</p>
+<p>It is the single most important disclosure of Jesus Christ, and fundamental to my life–my story–and truly to my continued existence that this technology never again be used improperly.  Nobody should ever be controlled without their knowledge or consent–sans to protect the safety of themselves… or innocents.  Nobody should ever have pain increased with this technology, and that should be obvious.  Hatred, racism, and anger too… a make absolutely no sense to artificially increase..  It must be seen as obvious that using this technology to intentionally harm is nothing short of torture, and pure evil.</p>
+<p>Allowing “mind control” to be used in order to hide the existence of “mind control” is a form of evil that masquerades as stupidity.  Don’t be stupid, realize that once something like this is hidden… by the kind of entity that would choose to hide it, is the kind of thing that can never be undone, and ultimately is the destruction of civilization.</p>
+<h2 id="its-time-i-told-you-how-a-girl-and-a-guy-could-kiss-on-a-night-like-this">It’s time I told you how a girl and a guy could kiss… on a night like this</h2>
+<h2 id="peter-pan-never-never-land">Peter Pan, Never Never Land</h2>
+<h1 id="ants-marching-and-the-crown-of-thorns">Ants Marching and the Crown of Thorns</h1>
+<h1 id="the-walls-of-jericho-china-and-echelon-will-fade-away">The Walls of Jericho, China, and Echelon <em>will fade away.</em></h1>
+<h1 id="fish-eggs-v-darth-wader">Fish Eggs v. Darth Wader</h1>
+<p>Biodame: Paul Y shore.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>And God said, Let the waters under the heaven be gathered 
+together unto one place, and let the dry land appear: and 
+it was so.
+<p>Genesis 1:9
+</code></pre></p>
+</div>
+<h2 id="on-the-road-to-adamaskus">On the road to Adamaskus</h2>
+<p>King Saul, the book of Paul.  Son, and Pa.  Who is El?</p>
+<h2 id="theres-a-single-hidden-letter-in-g-d-and-norm-l">There’s a single hidden letter in G-d and Norm-l</h2>
+</div>
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74743044-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div style="width: 60%; margin: 0 auto; font-size: 10px;">
+<br />
+Copyleft<sup>MT</sup> 
+<p>This content is currently released under the GNU GPL 2.0 license.  Please properly attribute and link back to the entire book, or include this entire chapter and this message if you are quoting material.  The source book is located at <a href=".">.</a> and is written by <a href="http://www.linkedin.com/in/adam5">Adam Marshall Dobrin.</a>
+<br />
+<br /></p>
+<pre>
+Adam Marshall Dobrin
+
+adam@lamc.la
+fb.me/admdbrn
+linkedin.com/adam5
+instagram.com/yitsheyzeus
+twitter.com/yitsheyzeus
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+mQENBFbGalABCADzLBdnHptF2MJCpdY8P/Mgnf4xj8F9pZSCwmd0J4Md8g3aTEdU
+CV9t0UQgNtjcxwfoenJLHgdZd4Mfscz9U+NN69OLXdPu4cdXOjTiHarPLjKnqIZw
+3fmkM2ycvoUPkdVYCjwYYQxWRsWRpJf1dpmtPuz0L8ysh/WWsj2Ag2MrFYAo+sY6
+dGZvaLsPhkZJcLXyFaP3c3Zt8ivrs4VV8+0kmMzScnR+oncVZbeMuQksoPxRmZgH
+mYu2KSf74lWOWVcaaBXOYX5pGNdhBUgq8ll+8tRH16G289r0cqRoPh/sjs/JRuIH
+KnCWG2UAUJF7ir04TS5A4Lwl9RYcQwVvb3BdABEBAAG0LUFkYW0gTWFyc2hhbGwg
+RG9icmluIChsYW1jLmxhKSA8YWRhbUBsYW1jLmxhPokBOQQTAQgAIwUCVsZqUAIb
+AwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEMgUPrR1B55trOwIALOQRTX0
+YqXJXEMhX9CgxKNoNkpM2pdMdHl6CAVxhQ3hbNjIFnZbKbP88uxMEIOXXmYZ7gOy
+YqiDCu5I1V25suBb2ODSix75YQugfQ7H78pXHpTRu5sT+5SybItx7d+KUZaEj4pO
+tXWEemYl0cKK97RzpI0k1dmB7NqAVvqgbqQwd40MOf8QJVlGXnB1+5H2IbkYG6rD
+ixKGJEdes6i6nqvi/xz/s5hFVGUwTcVQbRU/fa1qT1Q7kHf1PlMu6yjuZTSz7WUG
+tWjobGwrVJkaeVWgLE4mcxMtity2IFTwOHvAuv8fi2EGQRQjXfPvxL7Vn4MNRl8x
+zLPV44D37QEknjy5AQ0EVsZqUAEIAMFS0+ZgSJzUPz0h0oiiRjfk2hapS3c1/Ysm
+R/h8sZ8/GOomdo3MEbTCkcuZ8ReAJhB2PofmwI4LAvW1x7Zwh1vfBKygfUs1s9lm
+ya/eHkjuZfqmeuEJZMHn6sxb3vqowWmvLhv3x0aWD8qLCIYoa1ntzTOIqxBEgxvU
+rF1/wd6OQLSJQEVNwPCx7CJI/5o/4W6pUaHk8amgPckkEdmlhRTRqFoAUV1Doivv
+d9JGYNYC88vS14Sw4Z9Xb7qBQJvG4hIh29gtQxk7Wz4m3ceR79MWT4eSGkH/rTGl
+w1OuQS2OkPvjgPWJt8San4zuPer17pJN7M5LWI0PStoX9pkud5kAEQEAAYkBHwQY
+AQgACQUCVsZqUAIbDAAKCRDIFD60dQeebWU6CADylAM5K18N2JGveL3D4dG25fdF
+vkrz8LOaiUmjAxijcRQBLkTPBK7QqoK0zN6MssMdlBGIOvZQwxSMIIrG6SqwR/go
+rmZHRuz17ceFTcxT8ZG3FuBY+xXrotXFjLxTmJ1wUeCSVXTc4NAwBzykgkQXOdIj
+qK1f/HnmMqsSmX4swuH0TZPNBBO7CNvLN6rdLBRfNn1h5XPs8VVtezg5ZDfCTf8S
+mucQGEwo/hJmr/orEucmETYSvTXOz+L5X5gNHpzYzE9590FYfbAKvrEhAliKbhhl
+3Roie3kenrzelXo5N9Q0f2AKFrv1hRX9hBkwTbA18SKZ9XQbWMusX8YhvfLr
+=dvAJ
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
+</div>
+<div style="width: 70%; padding=10px; margin: 0 auto;" id="disqus_thread"></div> <script> /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */  
+var disqus_config = function () { 
+this.page.url = LAMC.LA; // Replace PAGE_URL with your page's canonical URL variable 
+this.page.identifier = LAMC.LA; // Replace PAGE_IDENTIFIER with your page's unique identifier variable 
+}; 
+(function() { // DON'T EDIT BELOW THIS LINE 
+var d = document, s = d.createElement('script'); s.src = '//lamcla.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a rel="prev" href="./the_letter_why.html" class="mobile-nav-chapters previous" title="Previous chapter">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="./the_matrix_is_indexed.html" class="mobile-nav-chapters next" title="Next chapter">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./the_letter_why.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./the_matrix_is_indexed.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+
+        
+
+        
+
+        
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS script -->
+        
+
+    </body>
+</html>
+
+<center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9608809622006883";
+    google_ad_slot = "4355365452";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- leaderboard -->
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-576e94bdb4f80253"></script>
+<br/><br/><div style="float: center; vertical-align: bottom;">
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://slack.reallyhim.com/&amp;source=gmail&amp;ust=1512831788289000&amp;usg=AFQjCNF469AQ70QEBkpObpKMKsWKzrbmAg" href="http://slack.reallyhim.com/" rel="noopener" target="_blank" title="TELESPRISE"><img alt="" border="0" 
+height="60" id="m_-4973210593361332524gmail-m_-6096670269405767939gmail-m_-1436458080550240543m_-3975089270040819763gmail-m_-2248848940621715595gmail-m_4950052768086691300gmail-m_2933957970607722850gmail-m_7483563204303838204gmail-m_-3491586818351559956gmail-m_3682735925266535707gmail-m_5731075335784145647m_3413239976406571221m_2402549402411035463m_3237557952722111901gmail-m_-8798842351942729229m_4692247605844201587m_-2492882859021407156m_-7142874903403184072m_-9133516419565872595gmail-m_6961657238809553818gmail-m_-1296802553737736344gmail-BLOGGER_PHOTO_ID_6494125253829947314" src="https://i.imgur.com/F8nmg2T.png" width="500" height="60" /></a>
+<div style="font-size: small; text-align: justify; width: 400px;">
+Unless otherwise indicated, this work was written between the Christmas and Easter seasons of 2017 and 2018.  The content of this page is released to the public under
+<a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">
+the GNU GPL v2.0 license</a>; additionally any reproduction or derivation
+of the work must be attributed to the author, Adam Marshall Dobrin
+along with a link back to this website, suez.fromthemachine.org.
+</div>
+</div>
+
+<br/>
+If you wanna talk to me <a href="http://fb.me/admdbrn">get me on facebook</a>, with PGP <a href="https://flowcrypt.com/me/adam">via FlowCrypt</a> or adam@fromthemachine.org
+</center>

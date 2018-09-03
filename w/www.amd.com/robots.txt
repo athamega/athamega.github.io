@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: */_vti_bin/
+Disallow: /_catalogs/
+Disallow: /onboarding/
+Disallow: /en-us/sites-site/Pages/hero.aspx
+Disallow: */node/
+Disallow: */campaigns/amd4u-2
+Disallow: */raja-koduri
+Disallow: /*/shop-product-prices-reviews/*
+Disallow: */maintenance
+Disallow: /Lists/*
+Disallow: /*/Lists/*
+
+Sitemap: https://www.amd.com/pages/sitemap.xml
+
+Sitemap: http://www.amd.com:80/sitemap.xml

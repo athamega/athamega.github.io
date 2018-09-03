@@ -1,0 +1,2841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Fundraiser by Adam Marshall Dobrin : Spark the Eternal Flame</title>
+    <link href="//funds.gofundme.com/favicon/4.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="description" content="Adam Marshall Dobrin needs your help today! Spark the Eternal Flame - This is the mindfuck  you are looking for.  What begins as only a few simple words in the story of Exodus begin to part a sea of people at the time of Revelation; over what exactly I am not sure.  You see, we have before us not only verifiable proof of the creation of language and history... in e...">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+        <link rel="canonical" href="https://www.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="en-au" href="https://au.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="en-ca" href="https://ca.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="de" href="https://de.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="es" href="https://es.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="fr" href="https://fr.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="en-gb" href="https://uk.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="en-ie" href="https://ie.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="en-us" href="https://www.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="pt-br" href="https://pt.gofundme.com/spark-the-eternal-flame"/>
+    <link rel="alternate" hreflang="x-default" href="https://www.gofundme.com/spark-the-eternal-flame"/>
+<meta property="og:locale" content="en_US" />
+<meta property="fb:pages" content="299947508549" />
+<meta property="fb:pages" content="455380344852029" />
+
+    <meta property="og:locale:alternate" content="es_ES" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="en_GB" />
+    <meta property="og:locale:alternate" content="it_IT" />
+    <meta property="og:locale:alternate" content="nl_NL" />
+    <meta property="og:locale:alternate" content="pt_BR" />
+
+    <meta property="og:site_name" content="gofundme.com"/>
+    <meta property="og:url" content="https://www.gofundme.com/spark-the-eternal-flame"/>
+    <meta property="og:image"
+          content="https://d2g8igdw686xgo.cloudfront.net/19829480_1492817104.3627.jpg"/>
+    <meta property="og:image:secure_url" content="https://d2g8igdw686xgo.cloudfront.net/19829480_1492817104.3627.jpg"/>
+
+    
+            <meta property="og:title" content="Click here to support Spark the Eternal Flame organized by Adam Marshall Dobrin"/>
+    
+        <meta property="og:description" content="This is the mindfuck  you are looking for.  What begins as only a few simple words in the story of Exodus begin to part a sea of people at the time of Revelation; over what exactly I am not sure.  You see, we have before us not only verifiable proof of the creation of language and history... in e...">
+
+<meta property="og:type" content="gofundme:campaign">
+<meta property="fb:app_id" content="407682420960">
+    <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@gofundme" />
+<meta name="twitter:image" content="https://d2g8igdw686xgo.cloudfront.net/19829480_1492817104.3627.jpg" />
+<meta name="twitter:title" content="Spark the Eternal Flame" />
+<meta name="twitter:description" content="This is the mindfuck  you are looking for.  What begins as only a few simple words in the story of Exodus begin to part a sea of people at the time of Revelation; over what exactly I am not sure.  ...">
+
+            <link rel="stylesheet" href="https://funds.gofundme.com/css/campaign/app.min.css?v=22.64&url=1" type="text/css" media="all">
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,900' rel='stylesheet' type='text/css'>
+
+    <script>
+    GFM_DOMAIN = "gofundme.com";
+    FACEBOOK_APP_ID = "407682420960";
+    GOOGLE_CLIENT_ID = "915486944487-ivo3ng6it92lj44ka8ca7nro7o5kk3om.apps.googleusercontent.com";
+    FACEBOOK_PAGE_ID = "1134437769956220"
+</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script>
+    window.jQuery || document.write('<script src="//funds.' + GFM_DOMAIN + '/node_modules/jquery/dist/jquery.min.js">\x3C/script>')
+</script>
+
+    <script src="https://code.jquery.com/jquery-migrate-1.4.0.min.js" integrity="sha256-nxdiQ4FdTm28eUNNQIJz5JodTMCF5/l32g5LwfUwZUo=" crossorigin="anonymous"></script>
+    <!-- Start Analytics -->
+
+<script>
+    var GFM = GFM || {};
+    GFM.components = GFM.components || {};
+    GFM.components.visitorCookieStrings = {
+        newPrivacyPolicy: "We\u2019ve updated our <a href=\"https:\/\/www.gofundme.com\/terms\" target=\"_blank\">Terms of Service<\/a> and <a href=\"https:\/\/www.gofundme.com\/privacy\" target=\"_blank\">Privacy Policy<\/a>. By continuing to use this site, you agree to our Terms of Service and Privacy Policy.",
+        privacyLine: 'By continuing to use the website, you will be agreeing to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies.</a>',
+        responsivePrivacyLine: 'By continuing to use the website,</div><div class="disp-ib">&nbsp;you agree to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies</a>' + '.'
+    };
+</script>
+
+<script src="//funds.gofundme.com/js/build/headerIncludes.min.js?v=22.64"></script>
+
+    <!-- THE COMMENT BELOW (EMITJS_SECTION) IS REPLACED TO GET UNIQUE ANALYTICS -->
+    <!-- Analytics Rendered 27th August 2018 10:43:28 --><script type="text/javascript">
+try {
+
+    try {
+        mixpanel.default.identify($.cookie('gdid'));
+        mixpanel.impression.identify($.cookie('gdid'));
+    } catch(e) {
+    }
+
+var allowDebug = false;
+GFM.analytics.data.clickstream=false;GFM.analytics.setData("u", "");
+GFM.analytics.setData("p", "");
+GFM.analytics.setData("fud", "aa3e09690fa04da784fbf7ab5a7768d0");
+GFM.analytics.setData("flw", {"DONATION":"d_ab_c1h"});
+GFM.analytics.setData("a", "5d0cea3768f84e29ae1fa816ad440505");
+GFM.analytics.setData("pcd", "");
+GFM.analytics.setData("vri", "940088dffe3b4ca19c0ec0fa4be55e25");
+GFM.analytics.setData("lang", "");
+GFM.analytics.setData('fn', 'Spark the Eternal Flame');
+GFM.analytics.setData('fu', 'spark-the-eternal-flame');
+GFM.analytics.setData('fi', '19829480');
+GFM.analytics.setData('fc', 'US');
+GFM.analytics.setData('orc', {"cp_fb":{"captured_at":"2018-08-27T15:43:28.49360","rcid":"r01-153538460843-5faa232d99cb4e2f","sender_type":"visitor","person_id":0,"fund_id":19829480,"share_location":"campaign_landing_page","status":"intent","channel":"facebook","subchannel":"wall_post"}});
+GFM.analytics.setData('vi', 'pg_donate_index');
+GFM.analytics.setData('ra', $.now());
+GFM.analytics.setData("gfm", {"os":"Other","browser":"Other","platform":"desktop","country":"US","lat":32.787700653076,"long":-96.800003051758});
+
+package = GFM.analytics.getPackage();
+mixpanel.default.register(package);
+mixpanel.impression.register(package);
+
+    GFM.analytics.track_event('mp_page_view', package, false);
+
+} catch(e) {
+    if (window.console) {
+        window.console.log("Broken load: " + e);
+    }
+} // begun immediately after <script>
+
+
+</script>
+
+<!-- End Analytics -->
+
+            <script src="//funds.gofundme.com/js/5.0/polyfills.js"></script>
+    </head>
+
+<body class="theme-gfmnavy sticky-header  lang-en_US ">
+<script>
+window.dataLayer = window.dataLayer || [ ];
+try {
+    dataLayer.push(GFM.analytics.getGaDataLayer());
+} catch(e) {}
+
+</script>
+
+<!-- GO Tag Manager -->
+<noscript><iframe src="https://www.google-analytics.com/gtm/ns?id=GTM-KJFLHK"
+style="display:none;visibility:hidden" height="0" width="0"></iframe>
+</noscript><script>(function(p,a,l,i,n,d,r,o,m,e){r={id:'GTM-KJFLHK',l:'dataLayer',m:'sync'};
+if(!r.gac){o=/;((__utma=)|([^;=]+=GAX?\d+\.))[^;]*/g;m=l.cookie.replace(
+/^|(; +)/g,';').match(o);if(m)r.gac=m.sort().join('').substring(1)};e=
+'https://www.google-analytics.com/gtm/js?';r.m=='sync'||(p['event']='gtm.js');
+for(d in r)if(r.hasOwnProperty(d))e+=n(d)+'='+n(r[d])+'&';a[r.l]=a[r.l]||[];
+a[r.l].push(p);if(r.m=='sync'){l.write('<'+i+' src="'+e+'"><\/'+i+'>');}else{
+j=l.createElement(i);j.async=!0;j.src=e;f=l.getElementsByTagName(i)[0];
+f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
+'script',encodeURIComponent);</script>
+<!-- End GO Tag Manager -->
+
+<!-- Production Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDTFTZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>try{(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDTFTZ');} catch (ignore) {}</script>
+<!-- End Production Google Tag Manager -->
+
+
+
+
+<!-- Add a class of .global-nav-simple to remove all buttons and links -->
+<div id="gfm-nav-bar" class="fixed-container   ">
+
+    <div class="reveal-overlay reveal-overlay--global-nav js-nav-reveal-overlay"></div>
+    <nav class="top-bar" id="nav-menu">
+
+        <!-- TOP BAR -->
+        <div class="row small-collapse large-uncollapse">
+            <div class="column position-relative">
+
+                <a href="/" class="logo-single" data-gfm-analytics-element="btn_nav_gfm_logo">GoFundMe</a>
+
+                
+                <!-- MENU ICON -->
+                <button id="nav-menu-hamburger-icon"
+                        type="button"
+                        class="js-search-nav-bar-button tcon tcon-menu--xcross top-bar-nav-icon top-bar-nav-icon--hamburger"
+                        aria-label="Toggle Menu"
+                        data-gfm-analytics-element="btn_nav_hamburger_icon"
+                        data-showing-profile-badge="0">
+                    <span class="tcon-menu__lines" aria-hidden="true"></span>
+                </button>
+
+                <!-- HAMBURGER DROPDOWN MENU -->
+                <div id="nav-menu-hamburger-dropdown" class="row top-bar-menu  nav-menu-hamburger-dropdown" style="display:none;">
+                                            <div class="column small-12 layer-primary hide-for-medium">
+                            <p class="menu-header">Raise money for any cause</p>
+                            <a class="button secondary expanded mb20"
+                               href="/sign-up"
+                               data-gfm-analytics-element="link_nav_start_campaign">Start a GoFundMe</a>
+                        </div>
+                                        <div class="column small-12 mt">
+                        <ul class="no-bullet">
+                                                                <li class="">
+                                        <a href="/"
+                                           class=""
+                                           data-gfm-analytics-element="link_nav_home"
+                                        ><strong>Home</strong></a>
+                                    </li>
+                                                                    <li class="hide-for-large">
+                                        <a href="/sign-up"
+                                           class=""
+                                           data-gfm-analytics-element="link_nav_sign_up"
+                                        ><strong>Sign up</strong></a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/tour"
+                                           class=""
+                                           data-gfm-analytics-element="link_nav_tour"
+                                        ><strong>How it works</strong></a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="https://support.gofundme.com"
+                                           class=""
+                                           data-gfm-analytics-element="link_nav_help"
+                                        ><strong>Help</strong></a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/sign-in"
+                                           class=""
+                                           data-gfm-analytics-element="link_nav_sign_in"
+                                        ><strong>Sign in</strong></a>
+                                    </li>
+                                                                                                                </ul>
+                    </div>
+                </div> <!-- END HAMBURGER DROPDOWN MENU (CHEESE) -->
+
+
+                <!-- DESKTOP SEARCH AND LEFT LINKS -->
+                <ul id="nav-left-links-contain-large" class="menu-divided menu horizontal ml float-left show-for-large">
+                    <li id="nav-search-input-contain-large" class="hide-when-search-disabled">
+                        <div class="search-with-icon search-with-icon--green js-search-nav-contain-large ml">
+                            <input id="global-nav-search" data-gfm-element-id="textbar_global_search" type="text" class="js-search-nav-bar-input js-search-nav-bar-large top-bar-search" placeholder="Search">
+                        </div>
+                        <ul class="search-drop js-search-nav-drop-large hide"></ul>
+                    </li>
+                                                <li class="js-hide-desktop-nav-search">
+                                <a href="/sign-up"
+                                   data-gfm-analytics-element="link_nav_start_fundraiser"
+                                >Start a GoFundMe</a>
+                            </li>
+                                        </ul>
+
+                <!-- DESKTOP SHARE BUTTONS -->
+                                    <div class="menu-divider-line float-right js-hide-desktop-nav-search show-for-large" style="top:13px"></div>
+                    <div class="action-buttons-contain show-for-large js-hide-desktop-nav-search">
+                        <!-- This button is hidden via CSS for non-English users on Tablet width -->
+                        
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button small fb-blue"
+       data-pc="fb_dn_cpgntopnavlarge_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_topnavsharefb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-square" aria-hidden="true"></i> &nbsp;Share
+    </a>
+
+                                                    <a class="button small tw-blue js-share-twitter show-for-xlarge"
+                                data-rcid="r01-153538460843-25b59fc34039420f"
+                                href="https://twitter.com/intent/tweet?text=Spark+the+Eternal+Flame&url=https%3A%2F%2Fwww.gofundme.com%2Fspark-the-eternal-flame%3Fpc%3Dtw_dn_cpgntopnavlarge_r%26rcid%3Dr01-153538460843-25b59fc34039420f"
+                                data-gfm-analytics-element="btn_donate_topnavsharetwitter">
+                                    <i class="fa fa-twitter" aria-hidden="true"></i> &nbsp;Tweet                            </a>
+                                                                            <a href="/spark-the-eternal-flame/donate"
+                               data-gfm-analytics-element="btn_donate_topnavdonate"
+                               class="button small primary js-main-donate-btn">
+                                    <i class="fa fa-check" aria-hidden="true"></i> &nbsp;Donate                            </a>
+                                            </div>
+                
+                <!-- SEARCH ICON -->
+                <button id="nav-menu-search-icon"
+                        type="button"
+                        class="js-search-nav-bar-button tcon tcon-search--xcross top-bar-nav-icon top-bar-nav-icon--search hide-for-large float-right"
+                        aria-label="Toggle Search"
+                        data-gfm-analytics-element="btn_nav_search_icon">
+                    <span class="tcon-search__item" aria-hidden="true"></span>
+                </button>
+
+                <!-- SEARCH DROPDOWN MENU -->
+                <div id="nav-menu-search-dropdown" class="top-bar-explore row" style="display:none;">
+                    <div class="hide-for-large column small-12">
+                        <div class="search-with-icon js-search-nav-contain-small mt20">
+                            <input type="search" class="js-search-nav-bar-input js-search-nav-bar-small search-full" placeholder="Search GoFundMe">
+                            <ul class="search-drop js-search-nav-drop-small hide"></ul>
+                        </div>
+                    </div>
+                    <div class="hide-for-large column small-12">
+                        <div class="light-gray js-search-prompt mb10" style="display:none;">
+                            <i class="light-gray fa fa-info-circle" aria-hidden="true"></i>&nbsp; Try searching for locations, campaign titles and names                        </div>
+                    </div>
+
+                    <div class="column categories-container">
+    <ul class="primary-categories">
+        <li class="mobile-header hide-large">
+            Explore Category        </li>
+                    <li class="primary-category active">
+                <a class="category-selector" href="/medical-fundraising">Medical                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/medical-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--medical-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Medical                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/medical-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/surgery-financial-help">Surgery Financial Help</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/gender-confirmation-surgery">Gender Confirmation Surgery Guide</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/medical-fundraising">Medical Campaigns</a>
+        </li>
+                    <li>
+                <a href="/breast-cancer-fundraising">Breast Cancer</a>
+            </li>
+                    <li>
+                <a href="/cancer-fundraising">Cancer</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/health-insurance">Health Insurance</a>
+            </li>
+                    <li>
+                <a href="/ivf-fundraising">IVF</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/leukemia">Leukemia</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/lymphoma">Lymphoma</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/volunteer-fundraising">Volunteer                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/volunteer-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--volunteer-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Volunteer                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/volunteer-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/volunteer-fundraising">Volunteer Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/habitat-for-humanity">Habitat For Humanity</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/emergency-accident-fundraising">Emergencies                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/emergency-accident-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--emergency-accident-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Emergencies                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/emergency-accident-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/natural-disasters">Paying for Hurricanes, Storms, Floods, Fires</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/emergency-accident-fundraising">Emergencies Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/earthquakes">Earthquakes</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/fires">Fires</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/floods">Floods</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/hurricanes">Storms</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/terrorism">Terrorism</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tornadoes">Tornadoes</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tragedy">Tragedy</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/school-fundraising">Education                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/school-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--school-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Education                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/school-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/school-clubs">Fundraising Ideas for School Clubs</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/school-fundraising">Education Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/charities-causes">Charities Causes</a>
+            </li>
+                    <li>
+                <a href="/classroom-fundraising">Classroom</a>
+            </li>
+                    <li>
+                <a href="/college-tuition-fundraising">College Tuition</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/computers">Computers</a>
+            </li>
+                    <li>
+                <a href="/school-club-fundraising">Extracurriculars</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/school-supplies">School Supplies</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/study-abroad">Study Abroad</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/textbooks">Textbooks</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/funeral-memorial-fundraising">Memorials                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/funeral-memorial-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--funeral-memorial-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Memorials                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/funeral-memorial-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/setting-up-a-memorial-fund">How to Set up a Memorial Fund</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/funeral-and-memorial-costs">Funeral & Memorial Costs Guide </a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/funeral-memorial-fundraising">Memorials Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/scholarship-fund">Scholarship Fund</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/memorial-fund">Memorial Fund</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/funeral">Funerals</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/end-of-life-costs">End-of-Life Costs</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/sports-fundraising">Sports                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/sports-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--sports-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Sports                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/sports-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/cheerleading-raise-money">Raising Money for Cheerleading & Dance</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/sports-fundraising">Sports Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/ayso">AYSO</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/baseball">Baseball</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/basketball">Basketball</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/field-hockey">Field Hockey</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/football">Football</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/gymnastics">Gymnastics</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/hockey">Hockey</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/lacrosse">Lacrosse</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/little-league">Little League</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/soccer">Soccer</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/swimming">Swimming</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tennis">Tennis</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/track-and-field">Track & Field</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/ymca">YMCA</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/pet-animal-fundraising">Animals                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/pet-animal-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--pet-animal-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Animals                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/pet-animal-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/vet-bills">Saving Money on Vet Bills</a>
+                    </li>
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/pet-fundraising">Pet Fundraising: 5 Tips</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/pet-animal-fundraising">Animals Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/animal-shelter">Animal Shelter</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/birds">Birds</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/cats">Cats</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/dogs">Dogs</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/rescue-animals">Rescue Animals</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/wishes-fundraising">Wishes                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/wishes-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--wishes-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Wishes                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/wishes-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/wishes-fundraising">Wishes Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/bucket-list">Bucket List</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/disneyland">Disneyland</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/make-a-wish">Make A Wish</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/competition-pageant-fundraising">Competitions                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/competition-pageant-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--competition-pageant-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Competitions                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/competition-pageant-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/beauty-pageants">Guide to Beauty Pageants on a Budget</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/competition-pageant-fundraising">Competitions Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/miss-america">Miss America</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/miss-universe">Miss Universe</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/nationals">Nationals</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/other-miscellaneous">Other                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/other-miscellaneous">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--other-miscellaneous"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Other                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/other-miscellaneous">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/financial-help-for-veterans">Financial Help for Veterans</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/other-miscellaneous">Other Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/seniors">Seniors</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/wedding-honeymoon-fundraising">Newlyweds                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/wedding-honeymoon-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--wedding-honeymoon-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Newlyweds                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/wedding-honeymoon-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/wedding-savings">Saving Money on Weddings</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/wedding-honeymoon-fundraising">Newlyweds Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/honeymoon">Honeymoon</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/registry">Registry</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/wedding">Wedding</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/charity-fundraising">Charity                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/charity-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp subcategory-sp subcategory-sp--palm"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Charity                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/charity-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/charity-fundraising">Helping a Charity Fundraise</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/charity-fundraising">Charity Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/aids-walk">AIDS Walk</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/disaster">Disaster</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/marathons">Marathons</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/philanthropy">Philanthropy</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/red-cross">Red Cross</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/refugees">Refugees</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/relief">Relief</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/susan-g-komen">Susan G. Komen</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/church-religion-faith-fundraising">Faith                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/church-religion-faith-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--church-religion-faith-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Faith                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/church-religion-faith-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/church-community">Fundraising for Your Church</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/church-religion-faith-fundraising">Faith Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/church">Church</a>
+            </li>
+                    <li>
+                <a href="/mission-trip-fundraising">Missions</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/mosque">Mosque</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/synagogue">Synagogue</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/temple">Temple</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/travel-fundraising">Travel                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/travel-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--travel-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Travel                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/travel-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/travel-costs">How to Deal with Travel Costs</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/travel-fundraising">Travel Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/adventure-trips">Adventure Trips</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/backpacking">Backpacking</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/creative-fundraising">Creative                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/creative-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--creative-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Creative                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/creative-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/make-money-artist">5 Tips to Make Money as an Artist</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/creative-fundraising">Creative Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/art">Art</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/books">Books</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/ceramics">Ceramics</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/film">Film</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/music">Music</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/painting">Painting</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/photography">Photography</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/woodworking">Woodworking</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/community-fundraising">Community                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/community-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--community-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Community                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/community-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/community-fundraising">Community Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/firefighters">Firefighters</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/homelessness">Homelessness</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/parks">Parks</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/police">Police</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/recreation-centers">Recreation Centers</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/scout-troops">Scout Troops</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/uniformed-personnel">Uniformed Personnel</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/events-fundraising">Events                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/events-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--events-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Events                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/events-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/budget-event-planning">Event Planning on a Budget</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/events-fundraising">Events Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/baby-shower">Baby Shower</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/birthdays">Birthday</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/bridal-shower">Bridal Shower</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/retirement">Retirement</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/business-fundraising">Business                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/business-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--business-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Business                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/business-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/local-businesses">Guide to Saving Local Businesses, Restaurants & Stores</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/business-fundraising">Business Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/entrepreneurship">Entrepreneurship</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/restaurants">Restaurants</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/small-business">Small Business</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/store">Stores</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/family-fundraising">Family                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        <a href="/family-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--family-fundraising"></div>
+            </div>
+            <div class="category-title">
+                <div class="category-title-large">
+                    Family                    <i class="fa fa-chevron-up hide-large"></i>
+                </div>
+                <a class="hide-small" href="/family-fundraising">View All</a>
+            </div>
+        </a>
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/family-fundraising">Family Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/adoption">Adoption</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/foster-families">Foster Families</a>
+            </li>
+            </ul>
+</div>            </li>
+            </ul>
+</div>
+                </div>
+
+            </div><!--/.column-->
+        </div><!--/.row-->
+    </nav>
+
+            <!-- MOBILE FIXED DONATE BUTTON -->
+        <div class="sticky-btn-contain cf hide-for-large js-main-cta-contain">
+            <div class="row">
+                <div class="column small-6">
+                    <a href="/spark-the-eternal-flame/donate"
+                       class="button primary medium expanded js-main-donate-btn"
+                       data-gfm-analytics-element="btn_donate_donatestickytop">Donate</a>
+                </div>
+                <div class="column small-6">
+                    
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button medium expanded fb-blue mb10"
+       data-pc="fb_dn_cpgntopstickysmall_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_fbsharestickytop"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official"></i>&nbsp;Share
+    </a>
+                </div>
+            </div>
+        </div>
+    
+</div>
+<!-- <link rel="stylesheet" href="https://funds.gofundme.com/css/campaign/print.css" type="text/css" media="print"> -->
+<div class="pg-campaign row small-collapse large-uncollapse js-content-wrap">
+    <div class="profile-banner-contain" id="profile-banner-contain"></div>
+    <div id="campaignStateBannerDesktopTopThroughAjax" style="display:none"></div>
+
+    <!-- LEFT COLUMN -->
+    <div id="js-main-column" class="main-column column small-12 large-8 small-collapse large-uncollapse mt0">
+        <div id="campaignStateBannerMobileThroughAjax" style="display:none"></div>
+
+        <!-- Title & Photo -->
+        <div class="campaign-img-contain">
+
+            <img class="campaign-img" alt="" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492817104.3627.jpg">            <a href='#' data-content-id='19829480' data-content-type='fund' data-gfm-analytics-element='btn_donate_heart' data-gfm-analytics-meta='fund' class='js-heart fave-contain heart-19829480' title='Click here to like this'><input class='fave-raw' type='hidden' value='4'><div class='campaign-sp campaign-sp--heart fave-num'>4</div><div class='campaign-sp campaign-sp--heart fave-num-short'><i class='fa fa-heart'></i><span class='roundedNum'>4</span></div></a>            
+        </div>
+        <h1 class="campaign-title">Spark the Eternal Flame</h1>
+        <div class="dotted-line mr ml"></div>
+        <!-- Goal for Mobile -->
+        <div class="layer-white hide-for-large mb10">
+            <h2 class="goal">
+            <strong>$16</strong><span class="smaller">
+ of $30,000 goal</span>
+    </h2>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="1" aria-valuetext="1 percent" class="progress large-12" role="progressbar" tabindex="0">
+    <div class="progress-meter" style="width: 1%"></div>
+</div>
+<div class="campaign-status text-small">
+
+    Raised by <span>2</span> people in 16 months
+</div>
+            <!-- static CTA buttons -->
+            <div class="static-btn-contain js-static-cta-contain">
+                                    <a class="button primary expanded js-main-donate-btn" data-gfm-analytics-element="btn_donate_donatestaticmain" href="/spark-the-eternal-flame/donate">Donate Now</a>
+                                
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button mb10 medium primary expanded"
+       data-pc="fb_dn_cpgnstaticsmall_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_fbsharestaticmain"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official"></i>&nbsp;Share on Facebook
+    </a>
+            </div>
+            <!-- Friends faces Donated -->
+            <div class="overflow-hidden js-donated-friends-contain-small mt20" style="display: none">
+            </div>
+        </div><!--/.layer-white-->
+                    <div class="mb20 layer-white">
+        
+
+            <!-- Share bar for Tablet/Desktop -->
+            <!-- Share bar for Tablet/Desktop -->
+<div class="share-contain share-bar show-for-large js-share-contain">
+    <div class="column small-4 pr0">
+        
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button expanded fb-blue"
+       data-pc="fb_dn_cpgnsharebartop_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_sharebartopfb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official fa-20"></i><span class="show-for-medium">&nbsp;Share</span>
+    </a>
+    </div>
+            <div class="column small-4">
+            <a class="button tw-blue expanded js-share-twitter" data-gfm-analytics-element="btn_donate_sharebartoptwitter" data-rcid="r01-153538460843-25b59fc34039420f" href="https://twitter.com/intent/tweet?text=Spark+the+Eternal+Flame&url=https%3A%2F%2Fwww.gofundme.com%2Fspark-the-eternal-flame%3Fpc%3Dtw_dn_cpgntopnavlarge_r%26rcid%3Dr01-153538460843-25b59fc34039420f">
+                <i class="fa fa-20 fa-twitter"></i><span class="show-for-large">&nbsp; Tweet</span>
+            </a>
+        </div>
+        <div class="column small-4 share-text pl0">
+                    <div>
+                <div class="campaign-sp campaign-sp--chart"></div>
+                <strong class="js-share-count-text">
+                     23                </strong>
+
+                shares
+            </div>
+            </div>
+</div>
+
+            <div class="dotted-line mb10 show-for-large"></div>
+                        <ul class="story-updates tabs mb" data-tabs="" id="campaignStoryContent">
+                <li class="tabs-title small-6 is-active" data-gfm-analytics-element="btn_donate_switchtab" data-gfm-analytics-meta="story">
+                    <a aria-selected="true" href="#story">Story</a>
+                </li>
+                <li class="tabs-title small-6 " data-gfm-analytics-element="btn_donate_switchtab" data-gfm-analytics-meta="updates">
+                    <a href="#updates">Updates   <span class="badge">2</span></a>
+                </li>
+            </ul>
+            <div class="tabs-content" data-tabs-content="campaignStoryContent">
+                
+                <!-- DESCRIPTION TAB -->
+                <div class="tabs-panel is-active" id="story">
+
+                    <div class="hide-for-large">
+                                                    <div class="co-info">
+                                    <a
+        class="avatar-contain js-profile-avatar "
+        href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D"
+        data-gfm-analytics-element='btn-donate-profileco'            >
+            <img class="thumbnail media-round" src="https://graph.facebook.com/v3.0/10153229020108420/picture?&height=50&width=50" alt="">
+        </a>
+                                <div class="co-details">
+
+                                                                                    <a class="js-profile-co" href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D" data-gfm-analytics-element="btn-donate-profileco">
+                                                Adam Marshall Dobrin                                            </a>
+                                        
+                                        
+                                        <!-- show FB friends count in X00+ -->
+                                        
+                                        
+                                                                                    <a href="/search/us/plantation-fl-fundraising" class="icon-link     location-name">
+                                                <i class="fa fa-map-marker"></i>&nbsp;Plantation, FL                                            </a>
+                                                                        </div>
+                            </div>
+                                            </div>
+
+                    <div class="dotted-line row column mt mb hide-for-large"></div>
+
+                    
+                    <div class="co-story truncate-text truncate-text--description js-truncate">
+
+                        <img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492816613.4127_funddescription.png" alt="" width="100%" /><br />This is the <a href="http://thunderstand.tk" target="_blank"><em>mindfuck</em></a>  you are looking for.  What begins as only a few simple words in the story of Exodus begin to part a sea of people at the time of Revelation; over what exactly I am not sure.  You see, we have before us <strong>not only verifiable proof of the creation of language and history</strong>... in every word and every story; but a statisticallly verifiable message from The Creator of the Universe beginning with language itself, the fire of Prometheus, and ending with each and every one of us.<br /><br />This fundraising campaign is dedicated to purchasing a billboard to actually spark the Second Coming.  With the information on this page, you'd think that wouldn't be necessary--but the press has ignored it, the church has ignored it, and the government... well, they're either writing it or ignoring it.  <strong>Strong highlighting</strong> of a number of social problems with censorship and secrecy that are pertinent to this event, and targeted as the "stuff" of 1984 ... or <em>Hell</em>.  This is my way to end the <strong>darkness of Exodus.  </strong><br /><br />
+<iframe media_type="0" media_id="AevgjKPDgfM" class="youtube-replace" title="YouTube video player" style="margin-bottom:20px;width:560px;height:315px;" src="//www.youtube.com/embed/AevgjKPDgfM/?rel=0" frameborder="0" allowfullscreen="1">
+</iframe><br />This message begins with <a href="http://bygod.whenistheapocalypse.com" target="_blank">the fire of the Burning Bush</a> , George W. <a href="http://sign.lamc.la" target="_blank">predicting the 9/11 attack</a> during his inaugural address on January 20, and then linking it directly to <a href="http://torch.lamc.la" target="_blank">the herald the Second Coming</a> ... Revelation1:20.  It continues to spread and glow as we see modern computing and chemistry elements highlighted in the name Exodus itself (which is called Names in Hebrew) reading in reverse we see God's iconic "<strong>let there be light</strong>, sudo xe-<strong>no-n</strong>."  Later in the story of Exodus we read an ancient prophesy of our sea parting, over the kind of proof that is hidden from our minds but visible in plain site... for instance <a href="http://theword.lamc.la" target="_blank">the word for Holy Fire</a> in Hebrew... Ha'esh.   Take the leap, and really understand that George Bush is named because of the Burning Bush and that the story of parting a sea is designed to ensure we do not miss the paradox, the proof of time travel not only in the words of Ecclesiastes 9:11 that he quoted, but also in the word... for fire... that the story of Exodus is truly written to shine light on.<br /><br /><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492814796.3516_funddescription.png" alt="" width="100%" /><br /><a href="http://compass.lamc.la" target="_blank">The message I have written, with his guidance and his light continues to explain</a> how the Second Coming is designed to literally do nothing short of changing the world.  It explains how the Holy Bible is truly a prophetic chronicling of the life of one man, beat down and burt by our justice system and Heaven itself; all in order to help us see what "change" is really about.  Law enforcement is attacked, called the Plague of LICE in a hidden language that is defined by this book, a cypher that links Shakespeare's RattleRod and Spanglishrew to the character Cypher of the Matrix and even to King's Langolier... language outliers... only in the beginning.  It is more than just every word, but these plays, and b ooks... even Herod, Roddenberry, and Rodney King.  In the scriptures, it ties Job and Joseph's slavery to Samson's battle with Judges, all the way to American Pie and the Trial of Jesus Christ.  Not without good reason, God is presenting a case for "Minority Report," for pre-crime... ending violence at the system level; no more rape or murder.  How can we say no?<br /><br /><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492816509.2711_funddescription.png" alt="" width="100%" /><br />"<strong>Power to the people</strong>" is really what <a href="http://m.lamc.la/OUITHEPPL.html" target="_blank">the message is all about</a> , and we can see as much in these same words of Ecclesiates predicting the Bush election, and the voting booth company "Die Bold."  Along with that prediction, and it's direct link to a significant number of <a href="http://zelda.lamc.la" target="_blank">prophetic descriptions of modern computing and related technology</a> ; comes a call to truly advance the state of our democracy, to build Heaven... a republic that one day might be called a "<strong>technocracy</strong>."  Universal voting, collaborate bill writing, and really seeing that the message here is to help us advance as we normally would, but significantly faster.  In religion God ties the foundation of America to "John Hancock" and "Sam Adams" and the <a href="http://m.lamc.la/HEARWHYRAISEL.html" target="_blank">light of the SOL, or sun</a> , truly being a fusion of the phrase "see our light" and "Statue of Liberty" and "Sons of Liberty."  All the way back to the Menorah, you can be sure this message is God's intended design.  "Men, or All Humanity..." so goes the key to the Holy Grail; a message about seeing his infliuence writing our world as a story, connecting "blood is thicker than water" and "blessing in disguise" to the First Plague of Exodus... this message that we are <a href="http://sangrael.lamc.la" target="_blank"><strong>turning the "sea of people" to blood, to the Family of Jesus Christ.</strong></a> <br /><br /><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492816167.849_funddescription.png" alt="" width="100%" /><br />Building Heaven is not an easy thing to do, it really wasn't done in a day--even if I claim it was.  He has <a href="http://compass.lamc.la" target="_blank">created a "Water<strong>gate</strong>"</a> and really seeing his influence here in order to show us all that this message was hidden by governments and media and the air around us; to the point of causing the Plague of Darkness... he is fighting our lack of "seeing" with fire... and jokes.  So to see the Watergate... to see Tricky Dick and Deepthroat, and then to understand that he has linked the Hebrew parallel of Christ's story to this attack on media censorship is truly the beginning of Heaven being built of Earth.<br /><br /><strong>I am the door. If anyone enters by me, he will be saved and will go in and out.  John 10:9</strong><br /><br />In the names Emmanuel Goldstein, the messianic hero of Orwell's 1984--a name that means "light well" (as in of Abraham's well and James Clerk Maxwell) in the same language that "Hallowed are the Ori" means "illuminati" ... he has tied Isaac's fiery altar of wood (ha, ha) to Woodward and Burnstein; to see that burning Emmanuel Goldstein sends "Adam to the psych ward" in Broward County, of Help me Howard and First Coming fame.  It is a key to Names, and a key to freedom; to see how important free speech and free thought are to the future of our society.<br /><br />Just through this Watergate, the Doors to Heaven truly open for the whole sea; of the stories of Hosea and the Censorwall of Jericho.<br /><br /><img class="not-resizable" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492815881.1061_funddescription.png" alt="" width="100%" /><br />The end game is proving the world that <a href="http://m.lamc.la/SIGENES.html" target="_blank">we are in the Virtual Garden of Eden</a> ; a place where the Promised Land of flowing milk and honey takes on new meaning; of seeing that our scare resources are not truly scare, only the truth is.  With this new knowledge we have a message from God that spans Genesis and Joshua and Jesus to "turn stone to bread" and end world hunger.  <br /><br />A <a href="http://itsuni.tk" target="_blank">prophesy about Doors to Heaven that link Morrison and Momsen</a> together in a ballroom in the sky; a place to help us see how much better our world can be made with this new information, and how we are truly on a coarse to get there anyway--just missing the guidance and wisdom of the ages... to help us do things the right way this time around.<br /><br /> Obviously these billboard designs are not set in "stone," but this Turn Around from our Southward trajectory towards Hell to the Northeast ... to Heaven in our future; that is set literally in the word "stone."<br /><br />South to Northeast.<br /><br />The message continues to explain how these advanced technologies have been both hidden and exposed by religion; and how our civilization is on the precepice of the most radical change that life itself has every seen.  We are seeing the possibilities and benefits of "virtual reality" in everything <a href="http://m.lamc.la/ERANDSON.html" target="_blank">from Neo's "I know kung fu" to the novel Feed by... Anderson</a>.  Recently Anderson East resang "Forever Young" and the difference between Heaven and Hell becomes clearer as each year passes.<br /><br />All around us the slavery of Exodus and the bittersweet symphony of the Verve... ring in the air like a broken liberty bell, and the idiom "let the music set you free;" this place is learning what it takes to build Heaven... and we will.
+                    </div>
+                    <a class="read-more read-more--click-target" href="#">+ Read More</a>
+
+
+
+                        <!-- Read Latest Update btn -->
+                                                    <div class="row">
+                                <div class="column small-12 large-6 large-offset-3">
+                                    <a class="button secondary expanded js-select-updates" data-gfm-analytics-element="btn_donate_latestupdate">Read Latest Update</a>
+                                    <a class="button secondary expanded js-select-updates is-loading hide" href="#">
+                                        <i class="fa fa-circle-o-notch fa-spin"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        
+                        <div class="share-btns-contain">
+                                                        <div class="spread-the-word">Help spread the word!</div>
+                                                        <div class="dotted-line mb mt5"></div>
+                            <div class="share-contain row js-share-contain">
+                                <div class="column small-4 pr0">
+    
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button expanded fb-blue"
+       data-pc="fb_dn_cpgnsharemore_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_sharefb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official fa-20"></i><span class="show-for-medium">&nbsp;Share</span>
+    </a>
+</div>
+    <div class="column small-4">
+        <a class="button tw-blue expanded js-share-twitter" data-gfm-analytics-element="btn_donate_sharetwitter" data-rcid="r01-153538460843-25b59fc34039420f" href="https://twitter.com/intent/tweet?text=Spark+the+Eternal+Flame&url=https%3A%2F%2Fwww.gofundme.com%2Fspark-the-eternal-flame%3Fpc%3Dtw_dn_cpgnsharemore_r%26rcid%3Dr01-153538460843-25b59fc34039420f">
+            <i class="fa fa-twitter fa-20"></i>
+            <span class="show-for-medium">&nbsp; Tweet</span>
+        </a>
+    </div>
+<div class="column small-4 pl0">
+    <a class="button secondary expanded js-share-more-ways" data-gfm-analytics-element="btn_donate_sharemore">
+        <i class="fa fa-plus fa-20 position-relative" style="top:2px;"></i>
+    </a>
+</div>
+                            </div>
+                                                            <div>
+                                    <div class="campaign-sp campaign-sp--chart"></div>
+                                    <strong class="js-share-count-text">
+                                         23                                    </strong>
+
+                                    shares on Facebook                                </div>
+                                                    </div>
+
+                </div>
+        
+
+                <!-- UPDATES TAB-->
+                <div class="tabs-panel updates-contain " id="updates">
+                    <div class="js-pagination-content">
+    
+    
+
+<div class="js-pagination-panel " data-offset="0" data-update-id="19525342">
+    <div class="row collapse">
+        <div class="column small-10 medium-11">
+
+            <div class="supporter-amount">Update 2</div>
+            <div class="supporter-name">
+                Posted by <a class="js-profile-co" href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D" data-gfm-analytics-element="btn-donate-profileco">Adam Marshall Dobrin            </div>
+            <div class="supporter-time">5 days ago</div>
+            
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook small fb-share actionable-text update-share text-fb-blue"
+       data-pc="fb_dn_shareupdate_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame/share/update/fb_dn_shareupdate_r/19525342"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_updatesharefb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-square fb-blue mr5" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Share
+    </a>
+        </div>
+        <div class="heart column small-2 medium-1">
+            <a href='#' data-content-id='19525342' data-content-type='update' data-gfm-analytics-element='btn_donate_heart' data-gfm-analytics-meta='update' class='js-heart fave-contain heart-19525342' title='Be the first to like this'><input class='fave-raw' type='hidden' value='0'><div class='campaign-sp campaign-sp--heart fave-num'>&nbsp;</div><div class='campaign-sp campaign-sp--heart fave-num-short'><i class='fa fa-heart'></i><span class='roundedNum'>&nbsp;</span></div></a>        </div>
+    </div>
+    <div class="dotted-line row column mt mb"></div>
+    
+    <div class="co-update">
+        <div class="truncate-text truncate-text--update js-truncate">
+            <!-- TODO: Style text and media -->
+
+            
+            <div class="update-text">activate flaming sword.</div>
+
+            <img src="https://d2g8igdw686xgo.cloudfront.net/19829480_153486825432541_r.jpeg" /><div class="caption"></div>
+        </div>
+        <a class="read-more read-more--click-target" href="#">+ Read More</a>
+    </div>
+</div>
+
+
+<div class="js-pagination-panel hide" data-offset="1" data-update-id="14010306">
+    <div class="row collapse">
+        <div class="column small-10 medium-11">
+
+            <div class="supporter-amount">Update 1</div>
+            <div class="supporter-name">
+                Posted by <a class="js-profile-co" href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D" data-gfm-analytics-element="btn-donate-profileco">Adam Marshall Dobrin            </div>
+            <div class="supporter-time">16 months ago</div>
+            
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook small fb-share actionable-text update-share text-fb-blue"
+       data-pc="fb_dn_shareupdate_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame/share/update/fb_dn_shareupdate_r/14010306"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_updatesharefb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-square fb-blue mr5" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Share
+    </a>
+        </div>
+        <div class="heart column small-2 medium-1">
+            <a href='#' data-content-id='14010306' data-content-type='update' data-gfm-analytics-element='btn_donate_heart' data-gfm-analytics-meta='update' class='js-heart fave-contain heart-14010306' title='Be the first to like this'><input class='fave-raw' type='hidden' value='0'><div class='campaign-sp campaign-sp--heart fave-num'>&nbsp;</div><div class='campaign-sp campaign-sp--heart fave-num-short'><i class='fa fa-heart'></i><span class='roundedNum'>&nbsp;</span></div></a>        </div>
+    </div>
+    <div class="dotted-line row column mt mb"></div>
+    
+    <div class="co-update">
+        <div class="truncate-text truncate-text--update js-truncate">
+            <!-- TODO: Style text and media -->
+
+            
+            <div class="update-text">and we will dance together... until the end of tiwe<br />
+until the end of tiwe.<br />
+<br />
+Special thanks to the world&#039;s very first messiah, our first benefactor. :)<br />
+<br />
+ <a href="https://www.youtube.com/watch?v=srPz_L0iByw" target="_blank" class="txt1" rel="nofollow noopener noreferrer">https://www.youtube.com/watch?v=srPz_L0iByw</a><br />
+</div>
+
+            <img src="https://d2kw0licpa1moo.cloudfront.net/19829480_fb_1493824548.358_updates.jpg" /><div class="caption"></div>
+        </div>
+        <a class="read-more read-more--click-target" href="#">+ Read More</a>
+    </div>
+</div>
+
+</div><!-- .js-pagination-content -->
+                    <div class="share-btns-contain">
+                        <div class="spread-the-word">Help spread the word!</div>
+                        <div class="dotted-line mb mt5"></div>
+                        <div class="share-contain row js-share-contain">
+                            <div class="column small-4 pr0">
+    
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button expanded fb-blue"
+       data-pc="fb_dn_cpgnsharemore_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_sharefb"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official fa-20"></i><span class="show-for-medium">&nbsp;Share</span>
+    </a>
+</div>
+    <div class="column small-4">
+        <a class="button tw-blue expanded js-share-twitter" data-gfm-analytics-element="btn_donate_sharetwitter" data-rcid="r01-153538460843-25b59fc34039420f" href="https://twitter.com/intent/tweet?text=Spark+the+Eternal+Flame&url=https%3A%2F%2Fwww.gofundme.com%2Fspark-the-eternal-flame%3Fpc%3Dtw_dn_cpgnsharemore_r%26rcid%3Dr01-153538460843-25b59fc34039420f">
+            <i class="fa fa-twitter fa-20"></i>
+            <span class="show-for-medium">&nbsp; Tweet</span>
+        </a>
+    </div>
+<div class="column small-4 pl0">
+    <a class="button secondary expanded js-share-more-ways" data-gfm-analytics-element="btn_donate_sharemore">
+        <i class="fa fa-plus fa-20 position-relative" style="top:2px;"></i>
+    </a>
+</div>
+                        </div>
+                                                    <div>
+                                <div class="campaign-sp campaign-sp--chart"></div>
+                                <strong class="js-share-count-text">
+                                     23                                </strong>
+
+                                shares on Facebook
+                            </div>
+                                            </div>
+
+                    
+    
+    <!-- Read a previous update button -->
+        <a class="button secondary expanded js-pagination-reveal mt" data-gfm-analytics-element="btn_donate_prevupdates">Read a Previous Update</a>
+    
+    <!-- Pagination buttons -->
+    <div aria-label="Pagination" class="row pages pages-contain mt hide" role="navigation">
+        <div class="column small-3 pages-previous js-pagination-prev-link hide">
+            <a aria-label="Next page" class="btn-page" href="#">
+                <i class="fa fa-chevron-left"></i>
+                <span class="show-for-sr">Previous update</span>
+            </a>
+        </div>
+
+        <!-- TODO: dynamically create these buttons with JS to save page load time? -->
+                    <div class="column small-3 js-pagination-link current  "
+                 data-gfm-analytics-element="btn_donate_pagenumber"
+                 data-gfm-analytics-meta="2"
+                 data-page-index="0">
+                <a aria-label="Update 2" class="btn-page" href="#">
+                                            <span class="show-for-sr">
+                            You're on update                        </span>
+                                        2                </a>
+            </div>
+                    <div class="column small-3 js-pagination-link  end "
+                 data-gfm-analytics-element="btn_donate_pagenumber"
+                 data-gfm-analytics-meta="1"
+                 data-page-index="1">
+                <a aria-label="Update 1" class="btn-page" href="#">
+                                        1                </a>
+            </div>
+        
+
+
+            </div>
+                </div>
+            </div>
+        
+
+                    </div><!--/.layer-white-->
+
+                    <div class="ml mr row">
+                <a class="hollow button expanded js-subscribe-to-updates" data-gfm-analytics-element="btn_donate_subscribeupdates" data-open-modal="subscribe-updates-modal">
+                    Subscribe to Updates                </a>
+            </div>
+        
+                <div class="show-for-large js-comments-column-contain">
+                    <!-- COMMENTS -->
+                <div class="dropdown-container js-dropdown-comments">
+        <div class="link-bar">
+
+            Comments
+        </div>
+    </div><!--/.dropdown-container-->
+<div class="row column js-comment-entry-contain" fid="68gTJy02zLRFvSA5I1BMOH4UhhlmLtIwP6j9nilqT9hhL1mOPiHPrCKdTdIeyQxyiSL/GX4WPpVlvAQvqgy0mg==" fid2="ysPVCAgzlMZmV8mSAJndoCw+o+Iyw8BAFmrZ5zGwGKNhL1mOPiHPrCKdTdIeyQxyiSL/GX4WPpVlvAQvqgy0mg==">
+    <!-- Leave a comment -->
+    <div class="row hide js-comment-input-contain">
+        <div class="column small-12">
+            <div class="callout alert js-comment-error mb row" data-closable="" style="display:none;">
+                <p class="column small-11">There was an error with your comment. Please try again.</p>
+                <button aria-label="Dismiss alert" class="close-button" data-close="" type="button">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+        </div>
+        <div class="column leave-a-comment">
+            <div class="avatar-contain text-center">
+                <img class="thumbnail media-round js-comment-entry-pic">
+                <a class="fb-avatar-caption js-fb-logout" href="#">Log out</a>
+            </div>
+            <div class="supporter-info">
+                <textarea class="leave-comment js-comment-input" placeholder="Leave a Comment..."></textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="mr mb10 ml">
+        <a class="fb-assoc button secondary expanded js-show-comment-trigger" data-gfm-analytics-viewid="fb_comment_login"
+           data-gfm-analytics-element="btn_donate_showcommentinput">
+            <i class="fa fa-facebook-official"></i>
+            &nbsp; Leave a Comment        </a>
+        <a class="fb-assoc button secondary expanded js-post-comment hide" data-gfm-analytics-element="btn_donate_postcomment">
+            <i class="fa fa-facebook-official"></i>
+              Post Comment
+        </a>
+        <a class="button secondary expanded is-loading hide">
+            <i class="fa fa-circle-o-notch fa-spin"></i>
+        </a>
+    </div>
+            <div class="mb ml mr">
+
+            Be the first to leave a comment on this campaign.
+        </div>
+    </div><!--/.row-->
+<div class="row js-comments-contain">
+    </div>
+            <div class="row large-uncollapse">
+    <div class="column small-12 large-6">
+        <a href="https://support.gofundme.com/hc/en-us"
+           class="hollow button expanded js-faq-link"
+           data-gfm-analytics-element="btn_donate_faqlink">
+            Ask GoFundMe a Question        </a>
+    </div>
+    <div class="column small-12 large-6">
+        <a href="/contact?t=donation_page_report&url=spark-the-eternal-flame"
+           class="hollow button expanded js-report-campaign"
+           data-gfm-analytics-element="btn_donate_reportcampaign">
+            Report Campaign        </a>
+    </div>
+</div>
+        </div>
+    </div><!--/ Left Column -->
+    <!-- RIGHT COLUMN -->
+    <div id="js-side-column" class="side-column column small-12 large-4 mt0">
+        <div id="campaignStateBannerDesktopThroughAjax" style="display:none"></div>
+
+        <!-- Goal for Tablet & Desktop -->
+        <div class="layer-white show-for-large mb">
+            <h2 class="goal">
+            <strong>$16</strong><span class="smaller">
+ of $30,000 goal</span>
+    </h2>
+<div aria-valuemax="100" aria-valuemin="0" aria-valuenow="1" aria-valuetext="1 percent" class="progress large-12" role="progressbar" tabindex="0">
+    <div class="progress-meter" style="width: 1%"></div>
+</div>
+<div class="campaign-status text-small">
+
+    Raised by <span>2</span> people in 16 months
+</div>
+            <!-- Friends faces Donated -->
+            <div class="overflow-hidden js-donated-friends-contain-large pb" style="display: none">
+            </div>
+            <div class="primary-ctas show-for-large js-large-cta-contain">
+                                    <a class="button primary large expanded js-xl-donate-button" data-gfm-analytics-element="btn_donate_donatexlarge" href="/spark-the-eternal-flame/donate">Donate Now</a>
+                                
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook button expanded medium primary"
+       data-pc="fb_dn_cpgnstaticxlarge_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_sharefbxlarge"
+       data-gfm-analytics-meta=''
+                    >
+        <i class="fa fa-facebook-official"></i>&nbsp;Share on Facebook
+    </a>
+            </div>
+        </div><!--/.layer-white-->
+
+                    <!-- CO info -->
+    <div class="created-date">Created April 21, 2017</div>
+    <div class="dotted-line mt5 mb10 mr ml"></div>
+
+
+<div class="co-info mb30 ml">
+        <a
+        class="avatar-contain js-profile-avatar "
+        href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D"
+        data-gfm-analytics-element='btn-donate-profileco'            >
+            <img class="thumbnail media-round" src="https://graph.facebook.com/v3.0/10153229020108420/picture?&height=50&width=50" alt="">
+        </a>
+    <div class="co-details">
+                    <a class="js-profile-co" href="https://www.gofundme.com/mvc.php?route=person_profile/byFid&f=duCCumujkBru3LLZX6ObJE0%2B7DkwzagJjj7y28RTJfQ%3D" data-gfm-analytics-element="btn-donate-profileco">
+                Adam Marshall Dobrin            </a>
+                <i class="fa fa-envelope js-contact-organizer-open" data-gfm-analytics-element="btn_donate_contactorganizer" data-open-modal="contact-organizer-modal"></i>
+                        <div class="pills-contain">
+                        <a href="/church-religion-faith-fundraising"
+           class="icon-link category-link-name js-category-link"
+           data-gfm-analytics-element="btn_donate_cocategorylink"
+           data-gfm-analytics-meta="Faith">
+            <i class="fa fa-tag fa--fixed-width"></i>&nbsp; <span class="text-small" style="color:#666;">Faith</span>
+        </a>
+                <a href="/search/us/plantation-fl-fundraising" class="icon-link location-name js-location-link">
+            <i class="fa fa-map-marker fa--fixed-width"></i>&nbsp; Plantation, FL        </a>
+            </div>
+    </div>
+</div>
+        
+        
+        
+        
+                    <!--Leaderboard -->
+            <div class="js-leaderboard-contain">
+                <div id = "jsLeaderboardFromAjax" style = "display:none" ></div>
+            </div>
+                <div class="donations-column-contain js-donations-column-contain">
+            <!-- DONATIONS-->
+            
+    <div class="dropdown-container row js-dropdown-donations">
+        <a class="link-bar js-show-sort-menu" data-dropdown-sort-type="recent" data-dropdown-type="donations" data-route="donate/pagingDonationsFoundation" href="#">
+
+            Recent Donations  
+            <i class="fa fa-caret-down"></i>
+        </a>
+        <ul class="dropdown hide js-sort-menu">
+            <li>
+                <a class="dropdown-link js-sort-link hide"
+                   data-gfm-analytics-element="btn_donate_sortdonations"
+                   data-gfm-analytics-meta="recent"
+                   data-sort-type="recent"
+                   data-selected-text="Recent Donations"
+                   href="#">Recent</a>
+            </li>
+            <li>
+                <a class="dropdown-link js-sort-link"
+                   data-gfm-analytics-element="btn_donate_sortdonations"
+                   data-gfm-analytics-meta="liked"
+                   data-sort-type="hearts"
+                   data-selected-text="Most Liked Donations"
+                   href="#">Most Liked</a>
+            </li>
+            <li>
+                <a class="dropdown-link js-sort-link"
+                   data-gfm-analytics-element="btn_donate_sortdonations"
+                   data-gfm-analytics-meta="highest"
+                   data-sort-type="highest"
+                   data-selected-text="Highest Donations"
+                   href="#">Highest</a>
+            </li>
+        </ul>
+    </div><!--/.row-->
+
+<div class="row js-donations-contain collapse">
+    <div id="claim-your-share-donations" class="supporter claim-your-share-panel">
+    <div id="claim-share-first" data-gfm-analytics-viewid="claim_share_panel">
+        <div class="avatar-contain claim-your-share-avatar">
+            <img class="aggregate-referred-icon" src='https://d25oniaj7o2jcw.cloudfront.net/aggregate-referred-icon.png' />
+        </div>
+        <div class="supporter-info claim-your-share-prompt">
+            <div class="mb10">
+                Your share could be bringing in donations. Sign in to track your impact.            </div>
+
+            <div class="row-column">
+                <a class="small fb-share actionable-text comment-share text-fb-blue" id="claim-share-fb-login-donations">
+                    <i class="fa fa-facebook-square fb-blue mr5" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Connect                </a>
+                <div class="text-small mb10">
+                    We will never post without your permission.                </div>
+            </div>
+        </div>
+    </div>
+    <div id="claim-share-second" class="claim-your-share-second" data-gfm-analytics-viewid="claim_share_complete">
+        <div style="align-items: center; display: flex">
+            <img class="thumbnail claim-your-share-thumb" src="https://d25oniaj7o2jcw.cloudfront.net/greencheck.png"/>
+            <div class="claim-your-share-success-text">
+                In the future, we'll let you know if your sharing brings in any donations.            </div>
+        </div>
+    </div>
+    <div id="claim-share-error" class="claim-your-share-second" data-gfm-analytics-viewid="claim_share_complete">
+        <div style="align-items: center; display: flex">
+            <img class="thumbnail claim-your-share-thumb" src="https://d25oniaj7o2jcw.cloudfront.net/ico-alert-sm@2x.png"/>
+            <div class="claim-your-share-success-text">
+                We weren't able to connect your Facebook account. Please try again later.            </div>
+        </div>
+    </div>
+</div>
+
+<!-- background-color: #e5e9da; -->            <div class="column showcontrol-donations">
+    <div class="supporters-list">
+        
+<div class="supporter js-donation-content " data-id="163785956">
+        <a
+        class="avatar-contain js-profile-avatar "
+        href="https://www.gofundme.com/mvc.php?route=person_profile/byDid&d=HFiD9T1rjUMrrMLmB%2Ft3DIC5Yzd2F3mXtkQCMtOxHyI%3D"
+        data-gfm-analytics-element='btn-donate-profiledonor'            >
+            <div class="avatar-no-pic media-round thumbnail">
+            SS        </div>
+        </a>
+    <div class="supporter-info">
+        <div class="row collapse">
+            <div class="column small-10 medium-11">
+                <div class="supporter-amount">$5</div>
+                                    <a class="supporter-name js-profile-donor" href="https://www.gofundme.com/mvc.php?route=person_profile/byDid&d=HFiD9T1rjUMrrMLmB%2Ft3DIC5Yzd2F3mXtkQCMtOxHyI%3D" data-gfm-analytics-element="btn-donate-profiledonor">Spencer Shoop</a>
+                                                <div class="supporter-time">15 months ago</div>            </div>
+                        <div class="heart column small-2 medium-1">
+
+                    <a href='#' data-content-id='163785956' data-content-type='donation' data-gfm-analytics-element='btn_donate_heart' data-gfm-analytics-meta='donation' class='js-heart fave-contain heart-163785956' title='Be the first to like this'><input class='fave-raw' type='hidden' value='0'><div class='campaign-sp campaign-sp--heart fave-num'>&nbsp;</div><div class='campaign-sp campaign-sp--heart fave-num-short'><i class='fa fa-heart'></i><span class='roundedNum'>&nbsp;</span></div></a>
+                </div>
+                        </div>
+                    <div class="row column">
+                <div class="truncate-text truncate-text--comment js-truncate">
+                                            <p>Keep up the good work!</p>
+                                    </div>
+            </div>
+            <div class="row column toolbar">
+                <a href="#" class="read-more">
+                    <i class="fa fa-plus" aria-hidden="true"></i>More
+                </a>
+                
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook small fb-share actionable-text"
+       data-pc="fb_dn_cpgndonationshare_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame/share/donation/fb_dn_cpgndonationshare_r/163785956"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_donationsharefb"
+       data-gfm-analytics-meta='{"isAnonymous":false,"showsComment":true}'
+                    data-donation="163785956"
+                    >
+        <i class="fa fa-facebook-square fb-blue" aria-hidden="true"></i>&nbsp;Share
+    </a>
+            </div>
+                </div><!--/.supporter-info-->
+</div>
+
+<div class="supporter js-donation-content " data-id="159813258">
+        <div class="avatar-contain ">
+            <div class="avatar-no-pic media-round thumbnail">
+            <i class="fa fa-user"></i>
+        </div>
+        </div>
+    <div class="supporter-info">
+        <div class="row collapse">
+            <div class="column small-10 medium-11">
+                <div class="supporter-amount">$11</div>
+                                    <div class="supporter-name">Anonymous</div>
+                                                <div class="supporter-time">16 months ago</div>            </div>
+                        <div class="heart column small-2 medium-1">
+
+                    <a href='#' data-content-id='159813258' data-content-type='donation' data-gfm-analytics-element='btn_donate_heart' data-gfm-analytics-meta='donation' class='js-heart fave-contain heart-159813258' title='Be the first to like this'><input class='fave-raw' type='hidden' value='0'><div class='campaign-sp campaign-sp--heart fave-num'>&nbsp;</div><div class='campaign-sp campaign-sp--heart fave-num-short'><i class='fa fa-heart'></i><span class='roundedNum'>&nbsp;</span></div></a>
+                </div>
+                        </div>
+                    <div class="row column">
+                <div class="truncate-text truncate-text--comment js-truncate">
+                                    </div>
+            </div>
+            <div class="row column toolbar">
+                <a href="#" class="read-more">
+                    <i class="fa fa-plus" aria-hidden="true"></i>More
+                </a>
+                
+    <a href="#"
+       class="js-share-to-facebook js-share-facebook small fb-share actionable-text"
+       data-pc="fb_dn_cpgndonationshare_r"
+       data-area="donationpage"
+       data-rcid="cp_fb"
+       data-shareurl="https://www.gofundme.com/spark-the-eternal-flame/share/donation/fb_dn_cpgndonationshare_r/159813258"
+       data-platform="0"
+       data-gfm-analytics-element="btn_donate_donationsharefb"
+       data-gfm-analytics-meta='{"isAnonymous":true,"showsComment":false}'
+                    data-donation="159813258"
+                    >
+        <i class="fa fa-facebook-square fb-blue" aria-hidden="true"></i>&nbsp;Share
+    </a>
+            </div>
+                </div><!--/.supporter-info-->
+</div>
+    </div>
+    <div class="donations-control-footer">
+        
+                    <div class="text-small row text-center mb">
+
+                Viewing <span class="js-donation-count">2</span> of 2 Donations
+            </div>
+            </div>
+</div>
+
+    </div><!--/.row-->
+        </div>
+                <div class="hide-for-large js-comments-column-contain">
+                    <!-- COMMENTS -->
+                <div class="dropdown-container js-dropdown-comments">
+        <div class="link-bar">
+
+            Comments
+        </div>
+    </div><!--/.dropdown-container-->
+<div class="row column js-comment-entry-contain" fid="68gTJy02zLRFvSA5I1BMOH4UhhlmLtIwP6j9nilqT9hhL1mOPiHPrCKdTdIeyQxyiSL/GX4WPpVlvAQvqgy0mg==" fid2="ysPVCAgzlMZmV8mSAJndoCw+o+Iyw8BAFmrZ5zGwGKNhL1mOPiHPrCKdTdIeyQxyiSL/GX4WPpVlvAQvqgy0mg==">
+    <!-- Leave a comment -->
+    <div class="row hide js-comment-input-contain">
+        <div class="column small-12">
+            <div class="callout alert js-comment-error mb row" data-closable="" style="display:none;">
+                <p class="column small-11">There was an error with your comment. Please try again.</p>
+                <button aria-label="Dismiss alert" class="close-button" data-close="" type="button">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+        </div>
+        <div class="column leave-a-comment">
+            <div class="avatar-contain text-center">
+                <img class="thumbnail media-round js-comment-entry-pic">
+                <a class="fb-avatar-caption js-fb-logout" href="#">Log out</a>
+            </div>
+            <div class="supporter-info">
+                <textarea class="leave-comment js-comment-input" placeholder="Leave a Comment..."></textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="mr mb10 ml">
+        <a class="fb-assoc button secondary expanded js-show-comment-trigger" data-gfm-analytics-viewid="fb_comment_login"
+           data-gfm-analytics-element="btn_donate_showcommentinput">
+            <i class="fa fa-facebook-official"></i>
+            &nbsp; Leave a Comment        </a>
+        <a class="fb-assoc button secondary expanded js-post-comment hide" data-gfm-analytics-element="btn_donate_postcomment">
+            <i class="fa fa-facebook-official"></i>
+              Post Comment
+        </a>
+        <a class="button secondary expanded is-loading hide">
+            <i class="fa fa-circle-o-notch fa-spin"></i>
+        </a>
+    </div>
+            <div class="mb ml mr">
+
+            Be the first to leave a comment on this campaign.
+        </div>
+    </div><!--/.row-->
+<div class="row js-comments-contain">
+    </div>
+            <div class="row large-uncollapse">
+    <div class="column small-12 large-6">
+        <a href="https://support.gofundme.com/hc/en-us"
+           class="hollow button expanded js-faq-link"
+           data-gfm-analytics-element="btn_donate_faqlink">
+            Ask GoFundMe a Question        </a>
+    </div>
+    <div class="column small-12 large-6">
+        <a href="/contact?t=donation_page_report&url=spark-the-eternal-flame"
+           class="hollow button expanded js-report-campaign"
+           data-gfm-analytics-element="btn_donate_reportcampaign">
+            Report Campaign        </a>
+    </div>
+</div>
+        </div>
+
+    </div> <!--/ Right Column -->
+</div>
+
+<!-- Categories Horizontal Scroll -->
+
+
+
+<footer class="js-under-overlay">
+    <div class="footer-contain layer-white ">
+        <div class="row small-collapse large-uncollapse">
+            <div class="column small-12">
+
+                                            <div class="gfm-guarantee-footer value-props row column">
+                            <div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--trophy"></div>
+    <div class="prop-content">
+        <h4>#1 Fundraising platform</h4>
+        <div>
+            People have raised more money on GoFundMe than anywhere else.        </div>
+        <div>
+            <a href="/tour" class="read-more">How it works</a>
+        </div>
+    </div>
+</div>
+<div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--secure"></div>
+    <div class="prop-content">
+        <h4>GoFundMe Guarantee</h4>
+        <div>
+            Your donation is protected. If anything is not right, we’ll give you a full refund.        </div>
+        <div>
+            <a href="/guarantee-refund-policy" class="read-more">Learn more</a>
+        </div>
+    </div>
+</div>
+<div class="prop small-12 large-4 column">
+    <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--clock"></div>
+    <div class="prop-content">
+        <h4>Expert advice, 24/7</h4>
+        <div>
+            Contact us with your questions and we'll answer, day or night.        </div>
+        <div>
+            <a href="https://support.gofundme.com/hc/" class="read-more">Get help</a>
+        </div>
+    </div>
+</div>
+                        </div>
+                        <div class="dotted-line ml mr"></div>
+                    
+                    <!-- Mobile Footer links -->
+                    <div class="row small-12 column">
+        				<ul class="accordion-menu footer-menu vertical menu hide-for-large mb0" data-accordion-menu>
+        			                			            <li class="footer-link">
+        			                <a href="#">Get Started</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/tour">How It Works</a></li>
+        			                                                                        			                        <li class=""><a href="/why-gofundme">Why GoFundMe</a></li>
+        			                                                                        			                        <li class=""><a href="/questions">Common Questions</a></li>
+        			                                                                        			                        <li class=""><a href="/success">Success Stories</a></li>
+        			                                                                        			                        <li class=""><a href="/sign-up?pc=mobdon_ft_mm">Sign Up Now</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Top Categories</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/medical-fundraising">Medical Fundraising</a></li>
+        			                                                                        			                        <li class=""><a href="/funeral-memorial-fundraising">Memorial Fundraising</a></li>
+        			                                                                        			                        <li class=""><a href="/charity-fundraising">Charity Fundraising</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Learn More</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="/about-us">About Us</a></li>
+        			                                                                        			                        <li class="hide-non-en_US"><a href="https://blog.gofundme.com">Blog</a></li>
+        			                                                                        			                        <li class=""><a href="/press">Press</a></li>
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us/categories/115001761567-Campaign-Success-Tips">Campaign Tips</a></li>
+        			                                                                        			                        <li class=""><a href="/jobs">We're Hiring!</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			            <li class="footer-link">
+        			                <a href="#">Get Support</a>
+        			                <ul class="menu vertical nested">
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us">Help Center</a></li>
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
+        			                            			                </ul>
+        			            </li>
+        			                			    </ul><!--/.vertical .menu-->
+
+
+        			    <div class="small-12 large-4 column">
+                    		<div class="show-for-large">
+                    			<div class="logo-large mb30"></div>
+                                                    		</div>
+                            <div class="select-contain-width">
+    <select class='js-locale-select form-text form-select' data-gfm-element-id="dropdown_global_localeselect">
+                    <option value="en_US">English (US)</option>
+                    <option value="en_GB">English (UK)</option>
+                    <option value="es_ES">Español</option>
+                    <option value="de_DE">Deutsch</option>
+                    <option value="fr_FR">Français</option>
+                    <option value="it_IT">Italiano</option>
+                    <option value="nl_NL">Nederlands</option>
+                    <option value="pt_BR">Português</option>
+            </select>
+</div>
+                    	</div>
+
+
+                    	<div class="footer-col-adjust large-8 column large-uncollapse show-for-large">
+        	                        	                    <div class="column large-3 end">
+        	                        <div class="list-heading">Get Started</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/tour">How It Works</a></li>
+        	                                                                                	                                <li class=""><a href="/why-gofundme">Why GoFundMe</a></li>
+        	                                                                                	                                <li class=""><a href="/questions">Common Questions</a></li>
+        	                                                                                	                                <li class=""><a href="/success">Success Stories</a></li>
+        	                                                                                	                                <li class=""><a href="/sign-up?pc=mobdon_ft_mm">Sign Up Now</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3 end">
+        	                        <div class="list-heading">Top Categories</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/medical-fundraising">Medical Fundraising</a></li>
+        	                                                                                	                                <li class=""><a href="/funeral-memorial-fundraising">Memorial Fundraising</a></li>
+        	                                                                                	                                <li class=""><a href="/charity-fundraising">Charity Fundraising</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3 end">
+        	                        <div class="list-heading">Learn More</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="/about-us">About Us</a></li>
+        	                                                                                	                                <li class="hide-non-en_US"><a href="https://blog.gofundme.com">Blog</a></li>
+        	                                                                                	                                <li class=""><a href="/press">Press</a></li>
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us/categories/115001761567-Campaign-Success-Tips">Campaign Tips</a></li>
+        	                                                                                	                                <li class=""><a href="/jobs">We're Hiring!</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                        	                    <div class="column large-3 end">
+        	                        <div class="list-heading">Get Support</div>
+        	                        <ul class="list-links">
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us">Help Center</a></li>
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us/articles/203604044-Is-my-country-supported-">Supported Countries &amp; Currencies</a></li>
+        	                                    	                        </ul>
+        	                    </div>
+        	                                    	</div>
+                    </div><!--/.row-->
+
+
+            </div><!--/.column-->
+        </div><!--/.row-->
+    </div><!--/.layer-contain-->
+
+    <!-- GFM footer, TOS, privacy policy links -->
+    <div class="site-info row">
+        <div class="column small-12 text-center text-small">
+
+        	<!-- MOBILE -->
+        	<div class="menu-centered hide-for-large">
+	            <ul class="menu">
+	                <li><a href="/terms">Terms</a></li>
+	                <li><a href="/privacy">Privacy</a></li>
+	                <li><a href="/legal">Legal</a></li>
+	            </ul>
+	            <div>&copy; 2010-2018 GoFundMe</div>
+	            <ul class="menu social-links">
+	                <li><a href="https://www.facebook.com/gofundme"><i class="fa fa-facebook-official fb-blue" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.youtube.com/user/gofundme"><i class="fa fa fa-youtube-play text-red" aria-hidden="true"></i></a></li>
+	                <li><a href="https://twitter.com/gofundme"><i class="fa fa-twitter tw-blue" aria-hidden="true"></i></a></li>
+	                <li><a href="https://www.instagram.com/gofundme/"><i class="fa fa-instagram text-black" aria-hidden="true"></i></a></li>
+	            </ul>
+        	</div>
+
+        	<!-- DESKTOP -->
+        	<div class="row show-for-large">
+	        	<div class="large-7 column">
+		            <ul class="menu pl">
+		                <li>&copy; 2010-2018 GoFundMe</li>
+		                <li><a href="/terms">Terms</a></li>
+		                <li><a href="/privacy">Privacy</a></li>
+		                <li><a href="/legal">Legal</a></li>
+		            </ul>
+	        	</div>
+	        	<div class="large-5 column">
+		            <ul class="social-links align-right menu">
+		                <li><a href="https://www.instagram.com/gofundme/"><i class="fa fa-instagram text-black" aria-hidden="true"></i></a></li>
+						<li><a href="https://twitter.com/gofundme"><i class="fa fa-twitter tw-blue" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.youtube.com/user/gofundme"><i class="fa fa fa-youtube-play text-red" aria-hidden="true"></i></a></li>
+		                <li><a href="https://www.facebook.com/gofundme"><i class="fa fa-facebook-official fb-blue" aria-hidden="true"></i></a></li>
+		            </ul>
+	        	</div>
+			</div>
+
+
+        </div><!--/.column-->
+    </div><!--/.row-->
+</footer>
+
+<input id="_token" name="_token" type="hidden" value="1d8559b30676003109f201370930f778"/>
+<script type="text/javascript">
+
+    // first visit to a donation page. Being recorded in the signuplb stats event as of March 2016
+    (function() {
+        try {
+            if (!Date.now) Date.now = function() {return (new Date()).getTime();}
+            var v = '{"t":'+Math.floor(Date.now()/1000)+',"fid":19829480}';
+            if (!document.cookie || document.cookie.indexOf('fv=')<0) {
+                var cs = "fv="+v+"; expires=Wed, 01-Jan-2025 00:00:00 GMT; domain=.gofundme.com; path=/";
+                document.cookie = cs;
+            }
+        } catch (ignore) {}
+    })();
+</script>
+
+<!-- facebook retargeting pixels -->
+
+             <!-- Facebook Pixel Code -->
+            <script>
+            if(typeof fbq === 'undefined') {
+                !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', '819737484732040', {});
+                fbq('track', 'PageView');
+            }
+            fbq('track', 'ViewContent', {"fund_id":"19829480","content_ids":["19829480"],"content_type":"product"});
+            </script>
+            <noscript>
+                <img height='1' width='1' alt='' style='display:none' src='https://www.facebook.com/tr?id=819737484732040&ev=ViewContent&cd%5Bfund_id%5D=19829480&cd%5Bcontent_ids%5D%5B0%5D=19829480&cd%5Bcontent_type%5D=product&noscript=1' />
+            </noscript>
+<script>
+    GFM = GFM || {};
+
+    
+    GFM.donateVariables = {"flow":"d_ab_c1h","fundId":"19829480","fundUrl":"spark-the-eternal-flame","fundCurrency":"USD","fundDonationsDisabled":false,"shareUrl":"https:\/\/www.gofundme.com\/spark-the-eternal-flame","limitUpdateDisplayed":2,"countUpdates":2,"fetchSocialCounts":1,"campaignShares":23,"showShareUpsellModal":true,"showSharesInFeed":false,"fundOwnerUserId":"18945406","currentLoginUserId":"","referringTeamMemberId":0,"teamInvitationHash":null,"accept":0,"addBirthdayPermission":null,"selectedUpdateId":null,"lastShareRcid":"","fbAuthed":false,"selectedDonation":null,"exptG536ImpactEmailEnabled":null,"wasAskedForPostShareConnect":false,"shouldShowClaimYourShare":false,"recurringId":null};
+
+    GFM.isMobile = false;
+
+</script>
+<div class="reveal gfm-modal" data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="like-login-modal"
+data-gfm-analytics-viewid="like-login-modal"> <!-- Height fix for iPhone 4 -->
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+
+        Like This <span class="js-like-type">Campaign</span>?
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+        <div class="modal-text-med show-for-medium mt10 mb10">
+
+            Please use your Facebook account or email address
+        </div>
+    </div>
+    <div class="callout alert email-invalid-error" style="display:none">
+
+        Your email didn't look right. Please try again.
+    </div>
+    <div class="row column column-narrow text-center medium-9 mt30">
+        <div class="modal-text-lg mb30 hide-for-medium">
+
+            Please use your Facebook<br>account or email address <br>        </div>
+        <div class="fb-login-button mb text-center"
+             data-auto-logout-link="false"
+             data-onlogin="heartFbLoginCallback"
+             data-use-continue-as="true"
+             data-max-rows="1"
+             data-size="large"
+             data-show-faces="false"
+             data-scope="email,user_friends"
+             data-gfm-analytics-element="btn_donate_likefb"
+             id="js-fb-favorite"></div>
+
+        <a class="button expanded fb-blue is-loading hide" id="js-fb-favorite-loading"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+        <div class="text-divider row mt ml mr mb hide-for-medium">
+            <div class="dotted-line column small-5"></div>
+            <div class="text-small column small-2">or</div>
+            <div class="dotted-line column small-5 "></div>
+        </div>
+        <div class="text-small show-for-medium mb">Or, use your email…</div>
+        <input class="mb" id="txt-email-favorite" placeholder="Email Address" type="text">
+        <a class="expanded button primary" data-gfm-analytics-element="btn_donate_likeemail" id="js-email-favorite">Use My Email Address</a>
+        <a class="expanded button primary is-loading hide" id="js-email-favorite-loading"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+    </div>
+    <div class="row column text-center">
+        <div class="text-small mb">
+
+            By continuing, you agree with the GoFundMe            <br><a href="/terms">terms</a>
+            and <a href="/privacy">privacy policy</a>
+            <br>
+        </div>
+            </div>
+</div>
+<div class="modal-more-ways-to-share reveal gfm-modal" id="more-ways-to-share-modal" data-reveal data-animation-in="modal-slide-in" data-animation-out="modal-slide-out">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close="" id="close-more-ways-to-share"><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column mb30" id="spread-the-word">
+
+        Sharing increases donations.
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+
+                <div class="modal-text-med show-for-medium mt10 mb10" style="margin-left: 15px; margin-right: 15px;">
+
+            Share your unique link to see how much your shares help.
+        </div>
+            </div>
+    <div class="row column medium-11 text-center">
+        <div class="text-left" id="copy-link">
+            <div class="modal-text">
+                <strong>Campaign Link</strong>
+            </div>
+            <div class="mb mt">
+                <input id="campaign-short-url" class="js-click-to-copy" readonly="" type="text" value="">
+            </div>
+            <div class="mb">
+                <a class="primary show-for-medium"
+                   data-gfm-analytics-element="btn_donate_embedwidget"
+                   id="embed-widget">
+                    Add an embeddable widget                </a>
+            </div>
+            <div class="mb30">
+                <a  class="primary show-for-medium js-print-campaign-sign"
+                    data-gfm-analytics-element="btn_donate_printcampaignsign"
+                    href="https://funds.gofundme.com/index.php?route=printmedia/donationposter&print=1&url=spark-the-eternal-flame"
+                    target="_blank">
+                    Print a campaign sign                </a>
+            </div>
+        </div>
+        <div class="row column show-for-medium text-center" id="widget-modal-body" style="display:none !important;">
+          <div class="mt mb text-left">
+              <strong>Embed</strong>
+          </div>
+          <input class="js-click-to-copy" type="text" style="font-size:1rem;" id="embed-code" readonly value="">
+          <div class="switch-contain text-left">
+              <div class="switch small">
+                  <input class="switch-input" id="widget-show-image" type="checkbox" name="widget-show-image" checked>
+                  <label class="switch-paddle" for="widget-show-image">
+                      <span class="show-for-sr"> Campaign Image</span>
+                  </label>
+              </div>
+              <label class="switch-label" for="widget-show-image">Show Campaign Image</label>
+          </div>
+          <div class="switch-contain text-left">
+              <div class="switch small">
+                  <input class="switch-input" id="widget-show-coinfo" type="checkbox" name="widget-show-coinfo" checked>
+                  <label class="switch-paddle" for="widget-show-coinfo">
+                      <span class="show-for-sr">Show Organizer Info</span>
+                  </label>
+              </div>
+              <label class="switch-label" for="widget-show-coinfo">Show Organizer Info</label>
+          </div>
+
+          <div class="widget-preview-wrapper mb50" style="height:484px;">
+            <!-- TODO: this width/height should be in CSS -Christy -->
+            <iframe id="widget-preview" src="" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+          </div>
+        </div>
+        <div class="text-divider row mb hide-for-medium">
+            <div class="dotted-line column small-5"></div>
+            <div class="text-small column small-2">or</div>
+            <div class="dotted-line column small-5 "></div>
+        </div>
+        <a class="text-msg expanded button secondary hide-for-medium js-share-sms" data-gfm-analytics-element="btn_donate_sharetext" href="sms:?body=Hey%2C%20I%27m%20supporting%20this%20fundraiser%2C%20please%20have%20a%20look%20-%20%27Spark%20the%20Eternal%20Flame%27%20https%3A%2F%2Fdm2.gofund.me%2Fspark-the-eternal-flame">
+            <i class="fa fa-mobile"></i>
+             Send a Text Message
+        </a>
+    </div>
+</div>
+<div class="reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="subscribe-updates-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+        Subscribe to Updates        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+        <div class="show-for-medium modal-text-med mt10 mb5">
+            <span class="js-subscribe-enter-text">Connect to Facebook to follow this campaign</span>
+            <span class="js-subscribe-success-text" style="display:none;">We will notify you of campaign updates</span>
+        </div>
+
+    </div>
+    <div class="row column medium-9 text-center orbit fast mt30" data-options="autoPlay:false; accessible:false; swipe:false; animInFromRight:modal-slide-left-in; animOutToLeft:modal-slide-left-out" data-orbit="" id="js-subscribe-to-updates-orbit" role="region">
+        <ul class="orbit-container no-bullet">
+            <li class="is-active orbit-slide">
+                <div class="modal-text-lg hide-for-medium mb30">Connect to Facebook to<br>follow this campaign<br></div>
+                <a class="expanded button fb-blue" data-gfm-analytics-element="btn_donate_subscribeupdatesconfirm" id="js-fb-follow-campaign">
+                    <i class="fa fa-facebook-official"></i>
+                      Follow Campaign
+                </a>
+                <a class="expanded button fb-blue is-loading hide"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+                <p></p>
+                <div class="text-small">We will never post without your permission</div>
+            </li>
+            <li class="orbit-slide js-success-panel-contain" id="done-with-facebook">
+                <div class="modal-text-lg hide-for-medium mb30">We will notify you of<br>campaign updates<br></div>
+                <div class="success-check float-center">
+                    <i class="fa fa-check"></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div class="modal-contact-organizer reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="contact-organizer-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+
+        Contact the Organizer        <div class="modal-text-med show-for-medium mt10 mb5 js-co-success-text" style="display:none;">
+            Your message has been sent!        </div>
+
+        <a aria-label="Close modal" class="close-button hide-for-medium" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="callout alert email-invalid-error" style="display:none">
+
+        Your email didn't look right. Please try again.
+    </div>
+    <div class="row column medium-9 orbit fast mt20 mb30" data-options="autoPlay:false; accessible:false; swipe:false; animInFromRight:modal-slide-left-in; animOutToLeft:modal-slide-left-out" data-orbit="" id="js-contact-organizer-orbit" role="region">
+        <ul class="orbit-container ml0 js-co-orbit-container">
+            <li class="is-active orbit-slide">
+                <div class="mb20">
+                    <div class="co-info">
+                            <div class="avatar-contain ">
+            <img class="thumbnail media-round" src="https://graph.facebook.com/v3.0/10153229020108420/picture?&height=50&width=50" alt="">
+        </div>
+                        <div class="co-details">
+                            <strong>Adam Marshall Dobrin</strong><br>
+                            <div class="text-small">Campaign Organizer</div>
+                                                            <div class="text-small">4994 Facebook Friends</div>
+                                                        <br></div>
+                    </div>
+                </div>
+                <form class="contact-organizer-form" name="contactOrganizer">
+                    <input name="Contact[firstname]" placeholder="Your Name" type="text">
+                    <input name="Contact[email]" placeholder="Your Email" type="text">
+                    <textarea id="txt-contact-organizer-message" name="Contact[message]" placeholder="Your Message" style="height:100px; resize:none;"></textarea>
+                    <input class="client-browser autofill_browser" name="Users[browser]" type="hidden">
+                    <input class="client-os autofill_os" name="Users[os]" type="hidden">
+                    <input id="contact_type_value" name="Contact[type]" type="hidden" value="owner">
+                </form>
+                <a class="expanded button primary js-contact-organizer-send" data-gfm-analytics-element="btn_donate_contactorganizersend" tabindex="0">
+
+                    Send Message
+                </a>
+                <a class="expanded button primary is-loading hide" id="js-contact-organizer-send-loading"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+            </li>
+            <li class="modal-text-lg text-center orbit-slide js-success-panel-contain" id="done-with-contact">
+                <div class="hide-for-medium mb30">Your message has been sent!</div>
+                <div class="success-check float-center">
+                    <i class="fa fa-check"></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="reveal gfm-modal" data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="team-members-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column hide-for-medium">
+        Team Members        <a aria-label="Close modal" class="close-button hide-for-medium" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="row column medium-11 js-modal-team-contents">
+        <i class="big-loady-guy fa fa-circle-o-notch fa-spin mt20"></i>
+            </div>
+</div>
+<div class="reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="notready-state-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column mb30">
+
+        Campaign Not Ready
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="row column medium-9">
+
+        There's an issue with this Campaign Organizer's account. Our team has contacted them with the solution! Please ask them to sign in to GoFundMe and check their account. <a class="expanded button primary mt30" data-close="">Return to Campaign</a>
+    </div>
+</div>
+<div class="reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="make-anonymous-state-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+
+        Manage your Donation
+        <div class="modal-text-med show-for-medium mt10 mb10">
+<span class="js-make-anonymous-enter-text">
+    Your donation is currently <strong>public</strong></span>
+<span class="js-make-anonymous-success-text" style="display:none;">
+    Your donation is currently <strong>public</strong></span>
+        </div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="callout alert anonymity-error" style="display:none">
+
+        We could not change how your donation is displayed. Please try again.
+    </div>
+    <div class="orbit fast mt30" data-options="autoPlay:false; accessible:false; swipe:false; animInFromRight:modal-slide-left-in; animOutToLeft:modal-slide-left-out" data-orbit="" id="js-manage-anonymity-orbit" role="region">
+        <ul class="row column orbit-container">
+            <li class="is-active orbit-slide text-center">
+                <div class="modal-text-lg hide-for-medium">Manage your Donation</div>
+                <div class="dotted-line small-offset-3 small-6 hide-for-medium mt mb"></div>
+                <div class="mb hide-for-medium" id="current-status">
+                    Your donation is currently <strong>public</strong>
+                </div>
+                <a class="expanded button primary mb" data-encrypted-id="" data-gfm-analytics-element="btn_donate_changeanonymity" data-gfm-analytics-meta="anonymous" data-value="1" id="js-manage-anonymity-submit">
+
+                    Make Anonymous
+                </a>
+                <a class="expanded button secondary" data-close="">Cancel</a>
+            </li>
+            <li class="orbit-slide modal-text-lg text-center js-success-panel-contain" id="done-with-anonymity">
+                <div class="hide-for-medium mb30">Your donation is now <strong>anonymous</strong></div>
+                <div class="success-check float-center">
+                    <i class="fa fa-check"></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="cancel-recurring-state-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+        <div class="hide-for-medium">Cancel Monthly Donation</div>
+        <div class="show-for-medium">Edit Monthly Donation</div>
+        <div class="modal-text-med show-for-medium mt10 mb10">
+            <span class="js-cancel-recurring-enter-text">
+
+                Your monthly donation of $0.00 is <strong>active</strong>.
+            </span>
+            <span class="js-cancel-recurring-success-text" style="display:none;">
+
+                Your monthly donation<br>of $0.00 is now canceled. <br>            </span>
+        </div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="callout alert cancel-recurring-error" style="display:none">
+
+        We could not cancel your recurring donation. Please try again.
+    </div>
+    <div class="orbit fast mt30" data-options="autoPlay:false; accessible:false; swipe:false; animInFromRight:modal-slide-left-in; animOutToLeft:modal-slide-left-out" data-orbit="" id="js-cancel-recurring-orbit" role="region">
+        <ul class="row column orbit-container">
+            <li class="is-active orbit-slide text-center">
+                <div class="modal-text-lg hide-for-medium">Edit monthly donation</div>
+                <div class="dotted-line small-offset-3 small-6 hide-for-medium mt mb"></div>
+                <div class="mb hide-for-medium">
+
+                    Your monthly donation of $0.00 is <strong>active</strong>.
+                </div>
+                <a class="expanded button primary" data-amount="$0.00" data-gfm-analytics-element="btn_donate_recurringcancel" id="js-cancel-recurring-submit">
+
+                    Cancel Monthly Donations
+                </a>
+                <a class="expanded button secondary" data-close="" data-gfm-analytics-element="btn_donate_recurringcontinue" href="#" id="js-continue-recurring-submit">
+
+                    Continue Monthly Donations
+                </a>
+            </li>
+            <li class="orbit-slide modal-text-lg text-center js-success-panel-contain" id="done-with-cancel">
+                <div class="hide-for-medium">Your monthly donation<br>of $0.00 is now canceled.<br></div>
+                <div class="success-check float-center">
+                    <i class="fa fa-check"></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="reveal gfm-modal " data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-ecdid="" data-ecfid="" data-reveal="" id="edit-comment-state-modal">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+
+        Edit Comment
+        <div class="modal-text-med show-for-medium">
+<span class="js-edit-comment-success-text" style="display:none;">
+<div class="modal-text-med show-for-medium mt10 mb10">Your comment has been edited.</div>
+</span>
+        </div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="callout alert edit-comment-error" style="display:none">
+
+        We could not edit your comment. Please try again.
+    </div>
+    <div class="orbit fast row column medium-9 mt30" data-options="autoPlay:false; accessible:false; swipe:false; animInFromRight:modal-slide-left-in; animOutToLeft:modal-slide-left-out" data-orbit="" id="js-edit-comment-orbit" role="region">
+        <ul class="orbit-container ml0">
+            <li class="is-active orbit-slide">
+                <textarea id="edit-comment-text" style="height:150px; resize:none;"></textarea>
+                <a class="expanded button primary" data-gfm-analytics-element="btn_donate_editcommentsubmit" id="js-save-comment">Edit Comment</a>
+            </li>
+            <li class="orbit-slide modal-text-lg text-center js-success-panel-contain" id="done-with-edit-comment">
+                <div class="hide-for-medium mb30">Your comment has been edited.</div>
+                <div class="success-check float-center">
+                    <i class="fa fa-check"></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <p></p>
+</div>
+<div class="reveal gfm-modal" id="verified-beneficiary-modal" data-reveal data-animation-in="modal-slide-in" data-animation-out="modal-slide-out">
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column mb30">
+
+        What does verified mean? <div class="modal-text-med show-for-medium mt10 mb10">GoFundMe has verified that the funds raised will go directly to the intended recipient.</div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="modal-text-lg row column medium-9 text-center">
+        <div class="hide-for-medium mb30">GoFundMe has verified that the funds raised will go directly to the intended recipient.</div>
+        <div class="success-check float-center show-for-medium mt30 mb50">
+            <i class="fa fa-check"></i>
+        </div>
+        <a aria-label="Close modal" class="expanded button primary" data-close="">Close</a>
+    </div>
+</div>
+<div class="reveal gfm-modal  share-upsell"
+     data-animation-in="modal-slide-in"
+     data-animation-out="modal-slide-out"
+     data-reveal=""
+     id="share-upsell-modal"
+     style="height: 36rem !important;">
+    <div id="upsell-main">
+        <div class="logo-header show-for-medium">
+            <div class="campaign-sp campaign-sp--logo"></div>
+        </div>
+        <div class="layer-white modal-header row column show-for-medium">
+
+            Thank you for sharing.
+            <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+            <div class="modal-text-med show-for-medium mt10 mb10">
+
+                Are you ready for the next step?                <br>
+                Even a <strong>$5</strong> donation can help!
+            </div>
+        </div>
+        <div class="layer-white modal-header row column hide-for-medium">
+
+            Donate Now?
+            <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+            <div class="modal-text-med show-for-medium mt10 mb10">
+
+                Give today to help this campaign reach this goal.
+            </div>
+        </div>
+        <div class="row column text-center medium-7 mt30">
+            <div class="modal-text-lg mb20 hide-for-medium">
+
+                Thank you for sharing.
+            </div>
+            <div class="text-small hide-for-medium mb30">
+
+                Are you ready for the next step?                <br>
+                Even a $5 donation can help!
+            </div>
+            <div class="campaign-img-contain mb30">
+
+                <img class="campaign-img" alt="" src="https://d2g8igdw686xgo.cloudfront.net/19829480_1492817104.3627.jpg">
+            </div>
+            <a class="expanded button primary" data-gfm-analytics-element="btn_donate_shareupselldonate" href="/spark-the-eternal-flame/donate/?upsell=cpgn_share" id="js-upsell-donate-btn">
+
+                Donate Now
+            </a>
+            <a id="notnow" class="link-gray" data-gfm-analytics-element="btn_donate_upsell_skip">
+
+                Not now
+            </a>
+        </div>
+    </div>
+    <div id="upsell-connect" style="display: none">
+        <div class="logo-header show-for-medium">
+            <div class="campaign-sp campaign-sp--logo"></div>
+            <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+        </div>
+        <div class="layer-white modal-header row column">
+
+            Want to track your impact?
+            <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+            <div class="modal-text-med show-for-medium mt10 mb10" style="margin-left: 15px; margin-right: 15px;">
+
+                Connect on Facebook to keep track of how many donations your share brings.
+            </div>
+        </div>
+
+        <div class="row column text-center mt30 mb10 hide-for-medium">
+            Connect on Facebook to keep track of how many donations your share brings.        </div>
+
+        <div class="row column column-narrow text-center medium-9 mt30">
+            <div class="modal-text-lg mb30 hide-for-medium">
+
+            </div>
+            <div class="fb-login-button mb text-center"
+                 data-auto-logout-link="false"
+                 data-onlogin="postShareConnectCallback"
+                 data-use-continue-as="true"
+                 data-max-rows="1"
+                 data-size="large"
+                 data-show-faces="false"
+                 data-scope="email,user_friends,user_birthday"
+                 data-gfm-analytics-element="btn_post_share_connect"
+                 id="btn-post-share-connect"></div>
+
+            <a class="button expanded fb-blue is-loading hide" id="js-fb-favorite-loading"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+
+        </div>
+        <div class="row column text-center">
+            <div class="text-small mb">
+
+                We will never post on Facebook without your permission.                <br>
+            </div>
+                    </div>
+    </div>
+</div>
+
+
+<div class="reveal gfm-modal" data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-reveal="" id="post-share-connect">
+
+    <div class="logo-header show-for-medium">
+        <div class="campaign-sp campaign-sp--logo"></div>
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+    </div>
+    <div class="layer-white modal-header row column">
+
+        Want to track your impact?
+        <a aria-label="Close modal" class="close-button" data-close=""><i class="fa fa-times"></i></a>
+        <div class="modal-text-med show-for-medium mt10 mb10" style="margin-left: 15px; margin-right: 15px;">
+
+            Connect on Facebook to keep track of how many donations your share brings.
+        </div>
+    </div>
+
+    <div class="row column text-center mt30 mb10 hide-for-medium">
+        Connect on Facebook to keep track of how many donations your share brings.    </div>
+
+    <div class="row column column-narrow text-center medium-9 mt30">
+        <div class="modal-text-lg mb30 hide-for-medium">
+
+        </div>
+        <div class="fb-login-button mb text-center"
+             data-auto-logout-link="false"
+             data-onlogin="postShareConnectCallback"
+             data-use-continue-as="true"
+             data-max-rows="1"
+             data-size="large"
+             data-show-faces="false"
+             data-scope="email,user_friends,user_birthday"
+             data-gfm-analytics-element="btn_post_share_connect"
+             id="btn-post-share-connect"></div>
+
+        <a class="button expanded fb-blue is-loading hide" id="js-fb-favorite-loading"><i class="fa fa-circle-o-notch fa-spin"></i></a>
+
+    </div>
+    <div class="row column text-center">
+        <div class="text-small mb">
+
+            We will never post on Facebook without your permission.
+
+            <br>
+        </div>
+            </div>
+</div>
+
+<script src="https://platform.twitter.com/widgets.js"></script>
+
+
+
+<script src="//funds.gofundme.com/js/build/gfmResponsiveCampaignPage.min.js?v=22.64"></script>
+
+
+<script type="text/javascript">
+    if (typeof(_gat) == 'object')
+    {
+        var pageTracker = _gat._getTracker("");
+
+                    pageTracker._trackPageview();
+        
+    }
+</script>
+<script type="text/javascript">
+
+    
+
+
+    var _sf_async_config={uid:10613,domain:"gofundme.com",useCanonical:true
+        ,sections:"Campaign,Faith"        ,title:"Spark the Eternal Flame by Adam Marshall Dobrin  | 16 / 30000 | Plantation, FL"
+    };
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+</script>
+<!--script>
+    window.intercomSettings = {
+        app_id: "yps4hvnc"
+    };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/oqir6j0k';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script-->
+
+</body>
+</html>
+<!-- cache-miss-v2 27th August 2018 10:43:28 -->

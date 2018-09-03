@@ -1,0 +1,29 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Sogou*
+Disallow: /
+
+User-agent: sogou spider
+Disallow: /
+
+User-agent: *
+Disallow: /docwiki/
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /

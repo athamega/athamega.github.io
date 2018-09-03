@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /log/
+Disallow: /forum/auth/
+Disallow: /forum/assets/
+Disallow: /forum/users/
+Disallow: /forum/badges/
+Disallow: /forum/search
+Disallow: /Public/esi/
+Disallow: /api/v1/users/current
+Disallow: /shopfiles/shopclient/remote_logging
+
+Sitemap:  https://www.spreadshirt.com/sitemaps/sitemap.xml

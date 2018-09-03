@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /screensaver/demo/
+Disallow: /scripts/
+Disallow: /turing/
+
+# To prevent calls from bots to Maxmind geolocation service:
+Disallow: /bb/get.php
+Disallow: /e-aa/get_exe.php
+Disallow: /e-aa/get_lite.php
+Disallow: /e-aa/akron/
+Disallow: /e-aa/open/get_live_demo.php
+Disallow: /e-aa/open/getdemoDMG.php
+Disallow: /e-aa/open/getdemoZIP.php
+Disallow: /e-aa/open/getliteZIP.php
+Disallow: /e-aa/open/getliteDMG.php
+Disallow: /e-aa/open/akron/
+Disallow: /epub/get.php
+Disallow: /epub/trenton/
+Disallow: /info/explanation.htm
+Disallow: /info/explanation.php
+Disallow: /kindle/dayton/
+Disallow: /manu/get.php
+Disallow: /mobile/get.php
+Disallow: /mobile/huron/
+Disallow: /mobile/lite/get.php
+Disallow: /pdf/get.php
+Disallow: /plain_text/get_txt.php
+Disallow: /plain_text/get_zip.php
+Disallow: /screensaver/get_demo.php
+Disallow: /screensaver/get_download.php
+
+

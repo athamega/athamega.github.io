@@ -1,0 +1,27 @@
+User-agent: msnbot
+Crawl-delay: 30
+Disallow: /ajax/
+Disallow: /account/
+Disallow: /rss_expired
+Disallow: /newsletters
+Disallow: /world-media-directory/edit
+
+Sitemap: http://www.einpresswire.com/sitemap
+Sitemap: http://www.einpresswire.com/sitemap-news
+Sitemap: http://www.einpresswire.com/sitemap-list
+
+User-agent: Googlebot
+Crawl-delay: 10
+Disallow: /ajax/
+Disallow: /account/
+Disallow: /rss_expired
+Disallow: /newsletters
+Disallow: /world-media-directory/edit
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /ajax/
+Disallow: /account/
+Disallow: /rss_expired
+Disallow: /newsletters
+Disallow: /world-media-directory/edit

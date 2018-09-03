@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+Disallow: /Advanced-Search.aspx
+Disallow: /About-Us/Join-and-Support/Free-Membership-Page.aspx
+Disallow: /freemembership
+Disallow: /external/
+
+#Baiduspider
+User-agent: Baiduspider
+Disallow: /

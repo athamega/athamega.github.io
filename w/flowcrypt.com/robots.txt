@@ -1,0 +1,76 @@
+<!doctype html>
+<!-- © 2016-2018 FlowCrypt Limited (human@flowcrypt.com). All rights reserved. -->
+<html class="no-js" lang="en">
+  <head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FlowCrypt: PGP Encryption for Gmail</title>
+    <link rel="stylesheet" href="/assets/stylesheets/foundation.css?version=59" />
+    <link rel="stylesheet" href="/assets/stylesheets/app.css?version=59" />
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/bnjglocicdkmhmoohhfkfkbbkejdhdgc">
+    <meta name="description" content="FlowCrypt lets you Encrypt Gmail with PGP in 60 seconds. Easiest end-to-end encryption for Google Email." />
+    <meta name="author" content="Designed by Armando Flores https://www.armando.sx Licensed under MIT">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon.png?v=9">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png?v=9">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png?v=9">
+    <link rel="manifest" href="/img/favicons/manifest.json?v=9">
+    <link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg?v=9" color="#5bbad5">
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico?v=9">
+    <meta name="msapplication-config" content="/img/favicons/browserconfig.xml?v=9">
+    <meta name="theme-color" content="#ffffff">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-89279239-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </head>
+
+  <body id="error-404">
+    <section>
+      <div class="row">
+        <a href="/">
+          <img src="/assets/imgs/svgs/flowcrypt-logo.svg" alt="FlowCrypt logo" id="flowcrypt-logo">
+        </a>
+      </div>
+      <div class="row text-center gray-container">
+        <div class="medium-12">
+          <h1>Page Not Found</h1>
+          <div class="separator"></div>
+          <h2>404</h2>
+          <br>
+          <p>Ooops! We could not find the page you were looking for. Try one of the links below.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="links-404">
+      <div class="row text-center">
+        <div class="small-4 columns">
+          <a href="/">
+            <img src="/img/back.svg" alt=" go back">
+            Go to homepage
+          </a>
+        </div>
+        <div class="small-4 columns">
+          <a href="/blog/">
+            <img src="/img/blog.svg" alt="visit blog">
+            Visit the blog
+          </a>
+        </div>
+        <div class="small-4 columns">
+          <a href="mailto:human@flowcrypt.com">
+            <img src="/img/email.svg" alt="send email">
+            Send Email
+          </a>
+        </div>
+      </div>
+    </section>
+  </body>
+
+</html>

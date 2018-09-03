@@ -1,0 +1,8 @@
+User-agent: Mozilla/5.0 (compatible; trueAnthem/1.0; +http://www.trueanthem.com)
+Disallow:
+
+User-agent: *
+Disallow: /doc/
+Disallow: /examples/
+Disallow: /influencers/
+Disallow: /trends/

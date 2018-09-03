@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /PublishingGuide.aspx
+Disallow: /4dcgi/authormain_login.html
+Allow: /
+

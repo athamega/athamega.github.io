@@ -1,0 +1,11 @@
+User-agent: exabot
+disallow: /
+
+User-agent: ahrefs
+disallow: /
+
+User-agent: yandex
+disallow: /
+
+User-agent: proximic
+disallow: /

@@ -1,0 +1,5 @@
+Sitemap: http://georgetownsecuritystudiesreview.org/sitemap.xml
+Sitemap: http://georgetownsecuritystudiesreview.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

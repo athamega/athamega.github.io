@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://articles.sun-sentinel.com/sitemap.xml
+Disallow: /modal/
+
+Disallow: /sn.php
+Disallow: /tracker.php
+Disallow: /ad-openx.php
+Disallow: /ad-trb.php
+

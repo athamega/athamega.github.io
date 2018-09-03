@@ -1,0 +1,28 @@
+# robots.txt file for http://www.craphound.com
+# comments to doctorow@craphound.com
+
+USER-AGENT: *
+ALLOW: /resources.html
+ALLOW: /
+ALLOW: /apt/
+ALLOW: /bomblamp/
+ALLOW: /boxingday99/
+ALLOW: /crap/
+ALLOW: /disneyland/
+ALLOW: /fic/listing.html
+ALLOW: /gerry/
+ALLOW: /gipsicon/
+ALLOW: /halloween99/
+ALLOW: /hse/
+ALLOW: /names/
+ALLOW: /nonfic/listing.html
+ALLOW: /names/
+ALLOW: /nycdec99/
+ALLOW: /origami/
+ALLOW: /philcon/
+ALLOW: /philcon99/
+ALLOW: /sanfrandisney/
+ALLOW: /thanksgiving/
+ALLOW: /wdw99/
+ALLOW: /xmastree99/
+ALLOW: /eyemodule.html
