@@ -1,0 +1,1293 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">			
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>EML, MHT Viewer with Drive</title>
+<meta name="google" content="notranslate">
+<meta name="description" content="The EML, MHT(mhtml) Viewer is a tool that allows you to access EML files without the need of MS Outlook Express. This nifty utility parses and displays EML(mail message) files, MHT, MBOX files. Inline images are displayed both as attachments and in the HTML view.">
+<meta name="keywords" content="eml viewer, eml reader, mht viewer, mht reader, online eml viewer, online eml reader, eml viewer for google drive, mht viewer for google drive, mbox viewer, mbox reader">
+
+<meta property="og:title" content="EML, MHT Viewer with Drive"> 
+<meta property="og:description" content="The EML, MHT(mhtml) Viewer is a tool that allows you to access EML files without the need of MS Outlook Express. This nifty utility parses and displays EML(mail message) files, MHT, MBOX files. Inline images are displayed both as attachments and in the HTML view.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://mhtviewer.booogle.net/">
+<meta property="og:image" content="http://mhtviewer.booogle.net/img/logo128.png">
+<link rel="shortcut icon" href="./favicon.ico">
+
+<style>
+body,table,td {
+	font-size:13px;
+    font-family: Arial, Helvetica, sans-serif; /*Trebuchet MS, Tahoma, Verdana*/
+}
+html, body{
+	margin:0;
+	width:100%;
+	height:100%;
+	/*overflow-y:hidden;*/
+}
+#desc td, #desc table{
+	font-size:14px;
+}
+A:link    {color:#0000ff;text-decoration:none;}
+A:visited {color:#0000ff;text-decoration:none;}
+A:active  {color:#0000ff;text-decoration:underline;}
+A:hover  {color:#0000ff;text-decoration:underline;}
+</style>
+
+<script>
+var gadb=false;
+function setstorage(name,value){
+	if (window.localStorage){
+		localStorage[name]=value+'';
+	}else{
+		//setCookie(name, value, 1000*60*60*24*365*10); 
+	}
+}
+function getstorage(name){
+	var s;
+	if (window.localStorage){
+		s=localStorage[name];
+	}else{
+		//s=getCookie(name);
+	}
+	return s;
+}
+function proc_resize(){
+function getWindowHeight(){
+    var windowHeight = 0;
+    if (typeof(window.innerHeight) == 'number'){
+        windowHeight = window.innerHeight;
+    }else{
+        var ieStrict = document.documentElement.clientHeight; 
+        var ieQuirks = document.body.clientHeight;
+        windowHeight = (ieStrict > 0) ? ieStrict : ieQuirks;
+    }
+	if(!windowHeight) windowHeight=0;
+    return windowHeight;
+}
+	var h2=0;
+	var a=_getid('topmenu');
+	if(a) h2=a.offsetHeight;
+	var h=getWindowHeight()-4-h2;
+	_getid("viewer").style.height=h+"px";
+}
+function init(){
+	if(ismsie){
+		proc_resize();
+		if (window.addEventListener) window.addEventListener("resize", proc_resize, false);
+		else if (window.attachEvent) window.attachEvent("onresize", proc_resize);
+	}
+	var holder = document.getElementById('topmenu');
+	holder.ondragover = function (e) { 
+		try{var ua=navigator.userAgent;
+			if(ua && ua.indexOf("Chrome")>=0){					
+				if(e.originalEvent) e = e.originalEvent;
+				if(e.dataTransfer){
+					var b = e.dataTransfer.effectAllowed;
+					e.dataTransfer.dropEffect = ('move' === b || 'linkMove' === b) ? 'move' : 'copy';
+				}
+			}
+		}catch(err){}
+		return false; 
+	};
+	holder.ondragend = function () { return false; };
+	holder.ondrop = function (e) {
+		e.preventDefault();				
+		handleFileSelect(e.dataTransfer.files);
+		return false;
+	};
+	var s=getstorage('c_prefertitle');
+	if(s) _getid('c_prefertitle').value=s;
+}
+window.onerror = function() {
+	var a=document.getElementById('loading');
+	if(a) a.style.display='none';
+}
+</script>
+
+</head>
+<body bgcolor="">
+
+<table id="loading" style="position:absolute;left:50px;top:50px;background: white;padding:3px;border:0px solid silver;-webkit-box-shadow: 0 0 10px #999;-moz-box-shadow: 0 0 10px #999; box-shadow: 0 0 10px #999;"><tr>
+<td><img src="images/wait.gif">
+<td>Loading library... Please wait a moment.
+</table>
+<script src="http://iblogbox.github.io/js/mhtviewer/bundle2.js"></script>
+<script>
+_getid('loading').style.display='none';
+</script>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100% bgcolor="">
+<tr>
+<td valign=top width=162>
+
+<div style="margin-top:5px;margin-left:6px">
+<button type="button"  id='btn_open' onclick="gd_open_picker()" title="Open a file from Google Drive" style="white-space:nowrap"><img src="http://iblogbox.github.io/js/gdrive/product16.png" width=16 align="absmiddle"> Open File<br>from Google Drive</button>
+<br>
+<button type="button" id="gd_btn_reopen" onclick="gd_reopen()" style="display:none" title="Reopen the file loaded from drive.google.com">Reopen</button>
+<div id="downlink" style=""></div>
+
+</div>
+
+<div style="margin-top:5px;margin-left:3px;margin-right:7px">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-1113541014872557";
+    google_ad_slot = "4146458303";
+    google_ad_width = 160;
+    google_ad_height = 90;
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js" onerror="gadb=true;">
+</script>
+</div>
+<div style="margin-top:5px;">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-1113541014872557";
+    google_ad_slot = "7099924700";
+    google_ad_width = 160;
+    google_ad_height = 600;
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<td valign=top height=100%>
+
+<table cellpadding=0 cellspacing=0 width=100% height=100% border=0>
+<tr><td height=1>
+	<table id="topmenu"><tr>
+	<td><button type="button" onclick="proc_gohome()" title="Open a image file from Google Drive" style="white-space:nowrap;">Open a file<br>Drop a file here</button>
+	<td>
+	<td>
+		<div id="header" style="height:50px;overflow:hidden">
+		<table cellpadding=0 cellspacing=0>
+			<tr><td>Subject:&nbsp;<td><input type=text id="subject" style="width:500px;" spellcheck=false>
+			<td rowspan=6><div id="attach" style="width:320px;height:50px;overflow-y:auto;overflow-x:hidden;margin-left:10px;border:0px solid red">*Attachment Files</div>
+			<tr><td>From:&nbsp;<td><input type=text id="from" style="width:440px;" spellcheck=false><button style="width:60px" onclick="proc_more()">More..</button>
+			<tr style="display:none" id="more1"><td>To:&nbsp;<td><input type=text id="to" style="width:500px;" spellcheck=false>
+			<tr style="display:none" id="more2"><td>Cc:&nbsp;<td><input type=text id="cc" style="width:500px;" spellcheck=false>
+			<tr style="display:none" id="more3"><td>Date:&nbsp;<td><input type=text id="date" style="width:500px;" spellcheck=false>
+			<tr style="display:none" id="more4"><td>Print:&nbsp;<td>
+Prefered Printing Title <select id="c_prefertitle" onchange="setstorage('c_prefertitle',this.value);" style="width:93px">
+    <option selected="" value="">Filename</option>
+    <option value="subject">Subject</option>
+</select>
+<button onclick="proc_print()">Print</button>
+		</table>
+		</div>
+	</table>
+
+<tr><td valign=top>
+
+<table id="desc" style="margin-top:10px;width:750px;display:none">
+<tr><td>
+<font style="font-family:Verdana, Arial;font-size:26px;font-weight:bold;color:#B84B4A">EML, MHT Viewer with Drive</font>
+<tr><td height=10>
+<tr><td>
+The EML, MHT(mhtml) Viewer is a tool that allows you to access EML files without the need of MS Outlook Express.<br>
+This nifty utility parses and displays EML(mail message) files, MHT, MBOX files. Inline images are displayed both as attachments and in the HTML view.<br>
+You can open EML, MHT, MBOX files from your computer or from Google Drive.<br>
+Provides connect with Google Drive. MHT Viewer feature is not yet complete, Works well with MHT files created from IE, Chrome. The MBOX file parses only the first message.<br>
+This EML, MHT Viewer does not save or share the file you select. It only works locally without going through the server. (HTML5 technology)<br>
+<br>
+<br>2019, EML, MHT Viewer with Drive</table>
+
+<iframe id="viewer" src="viewer.php?fileId=1" style="" width=100% height=100% frameborder=0 scrolling=auto allowfullscreen webkitallowfullscreen></iframe>
+</table>
+
+</table>
+
+<script>
+window.URL=(window.URL || window.webkitURL);
+var issafari=false;
+var ua = navigator.userAgent.toLowerCase(); 
+if (ua.indexOf('safari') != -1 && ua.indexOf('chrome') <0){ 
+	issafari=true;
+}
+
+var g_mht_max=30;
+var g_eml_max=30;
+var g_content;
+var g_bloblist=[];
+var g_count=0;
+
+function proc_print(){
+function clean(str){
+	if(!str)str=''; str=str.replace(/>/gi, "&gt;").replace(/</gi, "&lt;");
+	return str;
+}
+	if(!g_content){
+		alert('No content to be printed.');return;
+	}
+	var win=window.open('','mhtviewer0124');
+	if(win) var doc=win.document;
+	if(!win || !doc){
+		alert('Error!!');
+		return;
+	}
+	var title=g_content.filename || g_content.subject || 'No Name';
+	if(_getid('c_prefertitle').value=='subject') title=g_content.subject || g_content.filename || 'No Name';
+		var s1='<title>'+clean(title)+'</title><table style="margin-bottom:10px;font-size:15px;font-family:Arial;">';
+		s1+='<tr><td valign=top>Subject:&nbsp;<td>'+clean(g_content.subject);
+		s1+='<tr><td valign=top>From:&nbsp;<td>'+clean(g_content.from);
+		if(g_content.to){
+			s1+='<tr><td valign=top>To:&nbsp;<td>'+clean(g_content.to);
+			if(g_content.cc) s1+='<tr><td valign=top>Cc:&nbsp;<td>'+clean(g_content.cc);
+			if(g_content.date) s1+='<tr><td valign=top>Date:&nbsp;<td>'+clean(g_content.date+'');
+		}
+		if(g_content.filename) s1+='<tr><td valign=top>Filename:&nbsp;<td>'+clean(g_content.filename);
+		if(g_content.attachments && g_content.attachments.length>0){
+			s1+='<tr><td valign=top>Attachment Files:&nbsp;<td>';
+			for(var i=0; i <= g_content.attachments.length-1; i++){
+				s1+=g_content.attachments[i];
+				if(i<g_content.attachments.length-1) s1+='<br>';
+			}
+		}
+		s1+='</table>';
+		s1+=(g_content.content || '');
+	doc.write(s1);
+	doc.close();
+}
+
+function proc_more(){
+	var more1=_getid("more1");
+	var more2=_getid("more2");
+	var more3=_getid("more3");
+	var more4=_getid("more4");
+	var header=_getid("header");
+	var attach=_getid("attach");	
+	if(more1.style.display==''){
+		more1.style.display='none';
+		more2.style.display='none';
+		more3.style.display='none';
+		more4.style.display='none';
+		header.style.height="50px";
+		attach.style.height="50px";
+	}else{
+		more1.style.display='';
+		more2.style.display='';
+		more3.style.display='';
+		more4.style.display='';
+		header.style.height="auto";		
+		attach.style.height=(header.offsetHeight-6)+"px";
+	}
+	if(ismsie) proc_resize();
+}
+function _getfrmdoc(ifrm){
+	return (ifrm.contentWindow) ? ifrm.contentWindow : (ifrm.contentDocument.document) ? ifrm.contentDocument.document : ifrm.contentDocument;
+}
+function proc_gohome(){
+	var a=_getid("viewer");
+	a.style.display='';
+	a.src='viewer.php';
+}
+function issupportfile(filename){
+	var arr=(filename || '').split('.');
+	var s=arr[arr.length-1].toLowerCase();
+	if(s=='mht' || s=='mhtml' || s=='eml' || s=='mbox' || s=='txt') return true;
+	else if(arr[arr.length-2]){
+		s=arr[arr.length-2].toLowerCase();
+		if(s=='mht' || s=='mhtml' || s=='eml' || s=='mbox') return true;
+	}
+}
+function isMHTfile(filename){
+	var arr=(filename || '').split('.');
+	if(arr[arr.length-1].toLowerCase()=='mht' || (arr[arr.length-2] && arr[arr.length-2].toLowerCase()=='mht'))
+		return true;
+	else 
+		return false;
+}
+function isMBOXfile(filename){
+	var arr=(filename || '').split('.');
+	if(arr[arr.length-1].toLowerCase()=='mbox' || (arr[arr.length-2] && arr[arr.length-2].toLowerCase()=='mbox'))
+		return true;
+	else 
+		return false;
+}
+function getmaxlimit(filename){
+	var arr=(filename || '').split('.');
+	if(arr[arr.length-1].toLowerCase()=='txt' || arr[arr.length-1].toLowerCase()=='eml' || (arr[arr.length-2] && arr[arr.length-2].toLowerCase()=='eml')) return g_eml_max;
+	else if(arr[arr.length-1].toLowerCase()=='mbox' || (arr[arr.length-2] && arr[arr.length-2].toLowerCase()=='mbox')) return g_eml_max;
+	else return g_mht_max;
+}
+
+function proc_parse(bstring, filename){
+	/*if(!issupportfile(filename)){
+		alert('Not supported. Supports only EML, MHT, TXT(EML) file type.');
+		return;
+	}*/
+	if(gadb){alert('Please disable the adblock for free use.');return;}	function escapeRegExp(string) {
+		return string.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
+	}
+	function replaceAll(string, find, replace) {
+		return string.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+	}
+
+	if(!window.FileReader || !window.XMLHttpRequest){
+		alert("This browser does not support.");
+		return;
+	}
+	if(bstring.length>getmaxlimit(filename)*1000*1000){
+		alert('The file size is too large to view. (around '+getmaxlimit(filename)+' MB limit)');
+		return;
+	}
+	
+	for(var i=0; i <= g_bloblist.length-1; i++){
+		if(window.URL) window.URL.revokeObjectURL(g_bloblist[i]);
+	}
+	g_bloblist=[];
+
+	g_mht=isMHTfile(filename);
+	g_iserror=false;
+
+	if(isMBOXfile(filename)){
+		var p1=bstring.indexOf("\nFrom ",2);
+		if(p1<0) p1=bstring.indexOf("\rFrom ",2);
+		if(p1>0) bstring=bstring.substr(0, p1+1);
+		//console.log(p1);
+	}	
+
+	var mailparser = new g_MailParser();
+	var ofilename=filename;
+	mailparser.on("end", function(mail_object){
+		//console.log(mail_object);
+		if(g_iserror){
+			alert('Error in decoding. Please check your file. Supports only EML, MHT file type.');
+			return;
+		}
+		
+		g_content={};
+		g_content.filename=ofilename;
+		g_content.ismht=g_mht;
+		g_content.subject=mail_object.subject || '';
+		var s='';
+		function _address(arr){
+			var s='';
+			if(!arr) return s;
+			for(var i=0; i <= arr.length-1; i++){
+				if(s) s+=', ';
+				if(arr[i].name) s+=arr[i].name+' ';
+				if(arr[i].address) s+='<'+arr[i].address+'>';
+			}		
+			return s;
+		}
+		g_content.from=_address(mail_object.from) || '';
+		if(g_mht){
+			s=g_content.from.replace(/[^\x00-\x7F]/g,"");
+			if(s.length!=g_content.from.length && s.length>(g_content.from.length*0.6)) g_content.from=trim(s);
+		}
+		g_content.to=_address(mail_object.to);
+		g_content.cc=_address(mail_object.cc);
+		g_content.date=mail_object.date;
+
+		var s,s1,s2,s3;
+		var attach=_getid("attach");
+		attach.innerHTML='';
+		
+		var ishtml=false;
+		if(mail_object.html) ishtml=true;
+		g_content.ishtml=ishtml;
+		s=(mail_object.html || mail_object.text || '')+'';
+		if(s.length<100 && trim(s)=='') s='No mail body or content.';
+		if(!ishtml && !g_mht){
+			s=s.replace(/(?:\r\n|\r|\n)/g,'<br>'); //plain text
+		}
+		g_content.attachments=[];
+
+			if(mail_object.attachments){
+				var k=0;
+				for(var i=0; i <= mail_object.attachments.length-1; i++){
+					var a=mail_object.attachments[i];
+					if(!a.contentId || !a.content || !a.contentType || !a.transferEncoding)continue;
+					s1=a.contentType.toLowerCase();
+					s2=a.transferEncoding.toLowerCase();
+					if(g_mht && ishtml){
+						if(s1.indexOf("image/")==0 && s2=="base64"){
+							s=replaceAll(s, a.contentId, 'data:'+a.contentType+';base64,'+a.content);
+						//}else if(s1=="application/x-javascript" && s2=="quoted-printable"){
+							//s=replaceAll(s, a.contentId, 'data:application/x-javascript;charset='+(a.charset || '')+','+encodeURIComponent(a.content));
+						}else 	if(s1=="text/css" && s2=="quoted-printable"){
+							if(a.charset) s1='data:text/css;charset='+a.charset;
+							else s1='data:text/css';
+							s=replaceAll(s, a.contentId, s1+','+encodeURIComponent(a.content));
+						}
+					}else{
+						if(a.contentDisposition=="attachment"){
+							if(s2!="base64" && s2!="uuencode")continue;			
+							if(a.content instanceof Uint8Array){
+								var u8 = new Uint8Array(a.content);
+								a.content=btoa(String.fromCharCode.apply(null, u8));
+							}
+							a.content=a.content.replace(/(\r\n|\r|\n)/g,'');
+							
+							var link=document.createElement("A");
+							var filename=a.generatedFileName || 'No Name';
+							k++;
+							s3='<font style="color:green">'+k+'.</font> '+html_entity_encode(filename);
+							if(a.length) s3+=getsize(parseInt(a.length*0.73));
+							g_content.attachments.push(s3);
+							g_count++;
+							link.id='attachlink_'+g_count;
+							link.innerHTML=s3;
+							link.download=filename;
+							link.title='Save this attachment file to computer';
+
+							if(navigator.msSaveBlob){
+								link.href="#";
+								link.contentType=a.contentType;
+								link.content=a.content;								
+								link.onclick=function(){		
+									var blob=b64toBlob(this.content, this.contentType);
+									navigator.msSaveBlob(blob, this.download);
+									return false;
+								}
+							}else{
+								link.href="#";
+								link.contentType=a.contentType;
+								link.content=a.content;								
+								link.onclick=function(){											
+									if(!window.URL){
+										//window.open('data:'+this.contentType+';base64,'+this.content);
+										alert('This browser does not support.');
+										return false;
+									}else{
+										var blob=b64toBlob(this.content, this.contentType);
+										var s=window.URL.createObjectURL(blob);
+										g_bloblist.push(s);
+										this.target="_blank";
+										this.href=s;										
+										this.onclick=function(){return true;};
+										var a=_getid((this.id || '')+'C');
+										if(a) a.innerHTML='N';
+										return true;
+									}
+								}
+							}
+							//link.style.display='block';	
+							attach.appendChild(link);
+							if(!navigator.msSaveBlob && window.URL){
+								var link2=document.createElement("A");
+								link2.id=link.id+'C';
+								link2.content=link.id;
+								link2.innerHTML='C';
+								link2.title='Create a attachment link and Open this attachment link in a new window';
+								link2.setAttribute('style', "margin-left:4px;");
+								link2.href="#";
+								link2.onclick=function(){
+									var a=_getid(this.content || '');
+									if(a && a.onclick){
+										if(a.href && a.href.toLowerCase().indexOf("blob")==0){
+											window.open(a.href);
+											return false;
+										}else{
+											a.onclick();
+											if(a.href && a.href.toLowerCase().indexOf("blob")==0){
+												show_message('Created a attachment link.');
+												return false;
+											}
+										}
+									}
+									alert('Not found the attachment link.');
+									return false;
+								}
+								attach.appendChild(link2);							
+							}
+							var br=document.createElement("BR");
+							attach.appendChild(br);
+						}else{
+							if(s2!="base64")continue;					
+							if(s1.indexOf("image/")!=0)continue;					
+							if(ishtml) s=replaceAll(s, 'cid:'+a.contentId, 'data:'+a.contentType+';base64,'+a.content);
+						}
+					}
+				}
+			}
+			if(ishtml){
+				s=s.replace(/top.location/gi, 'location').replace(/('|")wyciwyg:\/\/(.*?)('|")/gi, '""');
+				s='<meta name="referrer" content="no-referrer">'+s;
+			}else{
+				if(!g_mht){
+					s=s.replace(/(?:\r\n|\r|\n)/g, '<br>'); //plain text
+				}
+			}
+
+		g_content.content=s;
+		if(g_mht){
+			var match=s.match(/<title>(.*?)<\/title>/i);
+			if(match && match.length>1){
+				g_content.subject=html_entity_decode(match[1]).replace(/\s{2,}/g, ' ');
+			}
+		}
+		if(window.JSON && s.length<3*1000*1000) setstorage("c_g_content",JSON.stringify(g_content));
+	
+		_getid("topmenu").style.display='';	
+		var a1=_getid("viewer");
+		a1.style.display='';
+		var flag=true;
+		try{
+			var ifrm2 = _getfrmdoc(a1);
+			if(ifrm2 && ifrm2.check_frame){
+				if(ifrm2.check_frame()=='ok'){
+					flag=false;
+				}
+			}
+		}catch(err){
+			flag=false;
+		}
+		if(flag){
+			try{
+				var a=g_content;
+				_getid("subject").value=a.subject;
+				_getid("from").value=a.from;
+				if(_getid("to")){
+					_getid("to").value=a.to || '';
+					_getid("cc").value=a.cc || '';
+					var b=_getid("date");
+					if(b) b.value=a.date || '';
+				}
+				ifrm2.document.open("text/html", "replace");		
+				ifrm2.document.write(a.content);
+				ifrm2.document.close();	
+			}catch(err){
+				flag=false;
+			}
+		}
+		if(!flag){
+			a1.src='viewer.php?content=1';
+		}
+	});
+	mailparser.write(bstring, 'binary');
+	mailparser.end();
+}
+function html_entity_decode(str){
+  str = str.replace(/&gt;/gi, ">");
+  str = str.replace(/&lt;/gi, "<");
+  str = str.replace(/&quot;/gi, "\"");
+  str = str.replace(/&#039;/gi, "'");
+  str = str.replace(/&amp;/gi, "&");  
+  return str;
+}
+function b64toBlob(b64Data, contentType, sliceSize) {
+    contentType = contentType || '';
+    sliceSize = sliceSize || 512;
+
+    var byteCharacters = atob(b64Data);
+    var byteArrays = [];
+
+    for (var offset = 0; offset < byteCharacters.length; offset += sliceSize) {
+        var slice = byteCharacters.slice(offset, offset + sliceSize);
+
+        var byteNumbers = new Array(slice.length);
+        for (var i = 0; i < slice.length; i++) {
+            byteNumbers[i] = slice.charCodeAt(i);
+        }
+        var byteArray = new Uint8Array(byteNumbers);
+        byteArrays.push(byteArray);
+    }
+    var blob = new Blob(byteArrays, {type: contentType});
+    return blob;
+}
+function handleFileSelect(files){
+	if(!window.FileReader || !window.XMLHttpRequest){
+		alert("This browser does not support.");
+		return;
+	}
+	var gfiles=files;
+	if(!gfiles || gfiles.length==0) return;
+
+	var tot=0;
+	for(var i = 0, f; f = gfiles[i]; i++){
+
+	var usearray=false;
+	var f=gfiles[i];
+	if(!issupportfile(f.name)){
+		alert('Not supported. Supports only EML, MHT, TXT(EML) file type.');
+		return;
+	}
+	var reader = new FileReader();
+	reader.onload = function(e) {
+		if(usearray){
+			var b=new Uint8Array(e.target.result);
+			var s='';
+			var len = b.byteLength;
+			for (var i = 0; i < len; i++) {
+				s+=String.fromCharCode(b[i]);
+			}
+			proc_parse(s, this.name);
+		}else{
+			proc_parse(e.target.result, this.name);
+		}
+	};
+	reader.onerror = function(){
+		alert('Read Error: '+this.name);
+	};
+	reader.id=i;
+	reader.name=f.name;
+	if(!reader.readAsBinaryString){
+		if(!reader.readAsArrayBuffer){
+			alert("This browser does not support.");
+			return;
+		}
+		usearray=true;
+		reader.readAsArrayBuffer(f);
+	}else{
+		reader.readAsBinaryString(f);
+	}
+	break;
+
+	}
+}
+</script>
+
+
+<style>
+.gd_div{background-color:#FFFFE1;position:absolute;overflow:hidden;-webkit-box-shadow: 0 0 25px #999;-moz-box-shadow: 0 0 25px #999;box-shadow: 0 0 25px #999;}
+</style>
+<div id="layer_message" class="gd_div" style="z-index:10001;display:none;"></div>
+<div id="gd_window" class="gd_div" style="z-index:10000001;display:none;"></div>
+<div id="gd_btn_login" class="gd_div" style="z-index:10000000;display:none;">
+<table>
+<tr><td align=center><button onclick="gd_login_manual()" style="font-size:20px"><img src="http://iblogbox.github.io/js/gdrive/product20.png" align="absmiddle"> Login & Authorize</button> <button onclick="gd_login_close()" style="font-size:20px">Close</button>
+<tr><td>To use this app, Please login to the Google Drive and authorize this app or website.
+<br>(Note: If your browser block or disable the third-party cookies, this login does not work correctly.)
+</table>
+</div>
+<script>
+var CLIENT_ID = '533452443516-ceujajvdc4ab5os1jtmjb0196p20ucrs.apps.googleusercontent.com';
+var SCOPES = [
+	'https://www.googleapis.com/auth/drive.install',
+	'https://www.googleapis.com/auth/drive.file'
+];
+var gd_developerKey='AIzaSyB-HwcHEpXKKTSjC_QRlDjepY5cSV_dYPY';
+var gd_mimetype="message/rfc822,application/mbox";
+var gd_state='{\"ids\":[\"18iDFC2rQkzB7HXFF_G6TenRi5Fvk72uw\"],\"action\":\"open\",\"userId\":\"115593972051166884622\"}';
+
+var gd_picker,gd_loaded,gd_pickerloaded,gd_lastprogress,gd_issupported,gd_isdownloading,gd_load_timer,gd_bloburl,gd_state2;
+var gd_loginexp=0;
+var gd_callback;
+var ismsie=false;
+if(navigator.appName!="Netscape"){
+	if(navigator.userAgent.indexOf("MSIE")>=0) ismsie=true;
+}
+if(navigator.userAgent.match(/Trident\//)) ismsie=true;
+
+function number_format(number, decimals, dec_point, thousands_sep) {
+  number = (number + '').replace(/[^0-9+\-Ee.]/g, '');
+  var n = !isFinite(+number) ? 0 : +number,
+    prec = !isFinite(+decimals) ? 0 : Math.abs(decimals),
+    sep = (typeof thousands_sep === 'undefined') ? ',' : thousands_sep,
+    dec = (typeof dec_point === 'undefined') ? '.' : dec_point,
+    s = '',
+    toFixedFix = function (n, prec) {
+      var k = Math.pow(10, prec);
+      return '' + Math.round(n * k) / k;
+    };
+  s = (prec ? toFixedFix(n, prec) : '' + Math.round(n)).split('.');
+  if (s[0].length > 3) {
+    s[0] = s[0].replace(/\B(?=(?:\d{3})+(?!\d))/g, sep);
+  }
+  if ((s[1] || '').length < prec) {
+    s[1] = s[1] || '';
+    s[1] += new Array(prec - s[1].length + 1).join('0');
+  }
+  return s.join(dec);
+}
+function getWindowWidth(){
+    var windowWidth = 0;
+    if (typeof(window.innerWidth) == 'number'){
+        windowWidth = window.innerWidth;
+    }else{
+        var ieStrict = document.documentElement.clientWidth;
+        var ieQuirks = document.body.clientWidth; 
+        windowWidth = (ieStrict > 0) ? ieStrict : ieQuirks;
+    }
+	if(!windowWidth) windowWidth=0;
+    return windowWidth;
+}
+function getWindowHeight(){
+    var windowHeight = 0;
+    if (typeof(window.innerHeight) == 'number'){
+        windowHeight = window.innerHeight;
+    }else{
+        var ieStrict = document.documentElement.clientHeight; 
+        var ieQuirks = document.body.clientHeight;
+        windowHeight = (ieStrict > 0) ? ieStrict : ieQuirks;
+    }
+	if(!windowHeight) windowHeight=0;
+    return windowHeight;
+}
+function getScrollLeft(){
+    var scrollLeft;
+	if(document.body && document.body.scrollLeft){
+		scrollLeft = document.body.scrollLeft;
+	}else if(document.documentElement && document.documentElement.scrollLeft){
+		scrollLeft = document.documentElement.scrollLeft;
+	}
+	if(!scrollLeft) scrollLeft=0;
+    return scrollLeft;
+}
+function getScrollTop(){
+    var scrollTop;
+	if(document.body && document.body.scrollTop){
+		scrollTop = document.body.scrollTop;
+	}else if(document.documentElement && document.documentElement.scrollTop){
+		scrollTop = document.documentElement.scrollTop;
+	}
+	if(!scrollTop) scrollTop=0;
+    return scrollTop;
+} 
+
+var messagetimer=null;
+function show_message(s,x,y,padding,timeout){
+	if (!x) x=10;
+	if (!y) y=10;
+	if (!padding) padding=5;
+	if (!timeout) timeout=2000;
+
+	var kind=1;
+	for(var i=1; i <= 4; i++){
+		var s1="layer_message";
+		if (i>1) s1="layer_message"+i;
+		var obj=document.getElementById(s1);
+		if (obj){
+			kind=i;
+			break;
+		}
+	}
+			
+	obj.style.left="1px";
+	obj.style.top="1px";		
+	obj.innerHTML="<label>"+s+"</label>";
+	obj.style.display="";	
+	
+	if (kind==1) {
+		x=getScrollLeft()+x;	
+		y=getScrollTop()+y;
+	} else if (kind==2) {
+		x=getScrollLeft()+((getWindowWidth()-obj.clientWidth) / 2);
+		y=getScrollTop()+((getWindowHeight()-obj.clientHeight) / 2);
+	} else if (kind==3) {
+		x=document.body.offsetWidth-obj.clientWidth-5;
+		y=getScrollTop()+y;
+	} else {
+		x=getScrollLeft()+((getWindowWidth()-obj.clientWidth) / 2);
+		y=getScrollTop()+y;
+	}
+	x=parseInt(x);
+	y=parseInt(y);
+	
+	obj.style["border"]="1px solid #000000";
+	obj.style["padding"]=padding+"px";
+	obj.style.left=x+"px";
+	obj.style.top=y+"px";
+	
+	if (messagetimer) clearTimeout(messagetimer);
+	messagetimer=setTimeout(hide_message, timeout);
+}
+function hide_message(){
+	for(var i=1; i <= 4; i++){
+		var s1="layer_message";
+		if (i>1) s1="layer_message"+i;
+		var obj=document.getElementById(s1);
+		if (obj){
+			obj.style.display="none";
+		}
+	}
+}
+function gd_btn_login2(e,callback){
+	function go(a){
+		if(a && a.style.display==''){
+			var x=getScrollLeft()+((getWindowWidth()-a.clientWidth) / 2);
+			var y=getScrollTop()+((getWindowHeight()-a.clientHeight) / 2);
+			a.style["border"]="1px solid #000000";
+			a.style["padding"]="10px";
+			a.style.left=x+"px";
+			a.style.top=y+"px";
+		}
+	}
+	go(_getid("gd_btn_login"));
+	go(_getid("gd_window"));	
+	setTimeout(function(){
+		go(_getid("gd_btn_login"));
+		go(_getid("gd_window"));	
+		if(callback)callback();
+	},10);
+}
+function gd_btn_login(isshow){
+	var a=_getid("gd_btn_login");
+	if(isshow){
+		a.style.display='';
+		gd_btn_login2();
+	}else{
+		a.style.display='none';
+	}
+}
+function gd_login_close(){
+	gd_btn_login(false);
+	gd_state='';
+}
+function gd_login_manual(){
+	var p={'client_id': CLIENT_ID, 'scope': SCOPES.join(' '), 'immediate': false};
+	if(gd_userId){p['login_hint']=gd_userId;p['authuser']=-1;}
+	gapi.auth.authorize(p, function (authResult){ 
+		if (authResult && !authResult.error){
+			gd_loginexp=(new Date()).getTime()+parseInt(authResult.expires_in*0.7*1000);
+			gd_btn_login(false);gd_info();
+			show_message("Login ok!!");
+			if(gd_callback) gd_callback(true);
+			else gd_open_state(true);
+		}else{
+			gd_btn_login(true);
+			show_message("Login failed!!");
+		}
+	});
+}
+function gd_login(callback,react){
+	if(gd_loginexp==0 || gd_loginexp<(new Date()).getTime()){
+	}else{
+		callback(true);
+		return;
+	}
+	var p={'client_id': CLIENT_ID, 'scope': SCOPES.join(' '), 'immediate': true};
+	if(gd_userId){p['login_hint']=gd_userId;p['authuser']=-1;}
+	gapi.auth.authorize(p, function (authResult){
+		if (authResult && !authResult.error){
+			gd_loginexp=(new Date()).getTime()+parseInt(authResult.expires_in*0.7*1000);
+			gd_btn_login(false);gd_info();
+			callback(true);
+		}else{
+			show_message("Login failed!!");
+			gd_btn_login(true);
+			callback(false);
+			if(react) gd_callback=callback;
+			else gd_callback=null;
+		}
+	});
+}
+
+function gd_loadpicker() {		
+	gapi.load('picker',{'callback': function(){
+			gd_pickerloaded=true;
+		}
+	});	
+}
+function gd_createpicker() {
+	var access_token=gapi.auth.getToken().access_token;
+	if(!access_token){
+		alert('Error!! No access token.');
+		return;
+	}
+	if(!gd_picker){
+      //var view = new google.picker.View(google.picker.ViewId.DOCS);
+      //view.setMimeTypes("application/zip");
+	  var view2 = new google.picker.DocsView(google.picker.ViewId.DOCS);
+	  if(gd_mimetype) view2.setMimeTypes(gd_mimetype);
+	  view2.setMode(google.picker.DocsViewMode.LIST);
+
+		var view4 = new google.picker.DocsView();
+		view4.setIncludeFolders(true);
+		view4.setParent("root");
+		view4.setMimeTypes(gd_mimetype);
+		view4.setMode(google.picker.DocsViewMode.LIST);
+		var view5 = new google.picker.View(google.picker.ViewId.RECENTLY_PICKED);
+
+      gd_picker = new google.picker.PickerBuilder()
+          //.enableFeature(google.picker.Feature.NAV_HIDDEN)
+          //.enableFeature(google.picker.Feature.MULTISELECT_ENABLED)
+          //.setAppId('')
+		  .setLocale("en") //window.navigator.language || window.navigator.userLanguage || "en"
+		  .setAppId(CLIENT_ID.split("-")[0])
+          .setOAuthToken(access_token)
+          .addView(view2)
+		  .addView(view4)
+		  .addView(view5)
+          .addView(new google.picker.DocsUploadView())
+          .setDeveloperKey(gd_developerKey)
+          .setCallback(gd_pickercallback)
+          .build();
+	}
+	gd_picker.setVisible(true);
+}
+function gd_pickercallback(data) {
+	if (data.action == google.picker.Action.PICKED) {
+		//console.log(data);
+		if(data.docs && data.docs.length>0 && data.docs[0].id){
+	        var fileId = data.docs[0].id;
+			gd_loadfile(fileId);
+		}
+	}
+}
+function getsize(fileSize){
+	if(!fileSize) return '';
+	function humanFileSize(bytes){
+		var thresh = 1024;
+		if(bytes < thresh) return bytes + ' B';
+		var units = ['kB','MB','GB','TB','PB','EB','ZB','YB'];
+		var u = -1;
+		do {
+			bytes /= thresh;
+			++u;
+		} while(bytes >= thresh);
+		return bytes.toFixed(1)+' '+units[u];
+	}
+	return ' ('+humanFileSize(fileSize)+')';
+}					
+
+function gd_loadfile(fileId){
+	if(gadb){alert('Please disable the adblock for free use.');return;}	if(gd_isdownloading){
+		alert("It's downloading. Please try again in a few minutes. or Cancel the current download.");
+		return;
+	}
+	_getid("downlink").innerHTML="<table><tr><td><div id='gd_progress'>Ready...</div></table>";
+	gapi.client.load('drive', 'v2', function() {
+		var request = gapi.client.drive.files.get({
+			'fileId': fileId
+		});
+		request.execute(function(resp){
+			function end(){
+				gd_isdownloading=false;
+				clearTimeout(messagetimer);
+				hide_message();
+				var a=_getid("downlink");
+				if(a.innerHTML && a.innerHTML.indexOf("adownlink")<0){
+					_getid("downlink").innerHTML='';
+				}
+			}
+			function error(s){				
+				alert(s);
+			}
+			//console.log(resp);
+
+			var downloadurl;
+			if(resp.downloadUrl){
+				downloadurl=resp.downloadUrl;
+				go();
+			}else if(resp.exportLinks){
+				var s1='<b>Select a file type to export and download:</b><br><br>';
+				var prefer=getstorage('c_prefer_ext');
+				var list=[];
+				for (x in resp.exportLinks){
+					var a={};
+					a.name=x;
+					a.url=resp.exportLinks[x] || '';
+					var match=a.url.match(/(exportFormat=|format=)(.*?)(&|$)/i);
+					if(match) a.ext=match[2];
+					s1+='<label style="cursor:pointer"><input type=radio name=gdsel value="'+list.length+'"';
+					if(prefer==a.ext) s1+=' checked=true';
+					s1+='> '+a.name;
+					if(a.ext) s1+=' (.'+a.ext+')';
+					s1+='</label><br><br>';
+					list.push(a);
+				}				
+				var gwin=_getid("gd_window");
+				gwin.innerHTML='<table><tr><td>'+s1+'<tr><td align=center><button id="gd_ok" style="font-size:17px">OK</button> <button id="gd_cancel" style="font-size:17px">Cancel</button></table>';
+				gwin.style.display='';
+				gd_btn_login2(false,function(){
+					_getid('gd_ok').focus();
+				});
+				function selok(){
+					gwin.style.display='none';
+					var ans;
+					var radios = gwin.getElementsByTagName('input');
+					for(var i = 0; i < radios.length; i++){
+						if(radios[i].type=='radio' && radios[i].checked){
+							ans=radios[i].value;
+							break;
+						}
+					}					
+					ans=parseInt(ans);
+					if(isNaN(ans) || ans<0 || ans>list.length-1){
+						end();
+						alert('No selected.');
+						return;
+					}
+					downloadurl=list[ans].url;
+					resp.fileExtension=list[ans].ext || '';
+					setstorage('c_prefer_ext',resp.fileExtension);
+					go();
+				}
+				var a=gwin.getElementsByTagName('label');
+				for(var i = 0; i < a.length; i++){
+					a[i].ondblclick=selok;
+				}
+				_getid('gd_ok').onclick=selok;
+				_getid('gd_cancel').onclick=function(){
+					gwin.style.display='none';
+					end();
+				}
+				/*for (x in resp.exportLinks){	
+					for(var i = 0; i < gd_export_extension.length; i++){    
+						if(x.toLowerCase().indexOf(gd_export_extension[i])>=0){
+							downloadurl=resp.exportLinks[x];
+							break;
+						}						
+					}					
+					if(downloadurl)break;
+				}
+				go();*/				
+			}else{go();}
+
+		  function go(){
+			var accessToken = gapi.auth.getToken().access_token;
+			if(!accessToken){
+				end();
+				alert('Error!! No access token.');
+				return;
+			}
+			/*if(!issupportfile(resp.title)){
+				end();
+				alert('Not supported. Supports only EML, MHT, TXT(EML) file type.');
+				return;
+			}*/
+			if(resp.fileSize && parseInt(resp.fileSize)>getmaxlimit(resp.title)*1000*1000){
+				end();
+				alert('The file size is too large to view. (around '+getmaxlimit(resp.title)+' MB limit)');
+				return;
+			}
+			if(downloadurl){				
+					function setdown(url){
+						_getid("downlink").innerHTML='<table><tr><td><a id="adownlink" style="font-size:15px">Download the file</a></table>';
+						var a=_getid("adownlink");
+						if(a){
+							a.href=url;
+							var s='';//resp.originalFilename;
+							if(!s){
+								if(resp.title){
+									if(resp.exportLinks) s=resp.title+'.'+resp.fileExtension; //gd_export_extension[0];
+									//else if(resp.fileExtension) s=resp.title+'.'+resp.fileExtension;
+									else s=resp.title;
+								}else{
+									s='No Name';
+								}
+							}
+							a.download=s || "";
+							a.title=(s || "")+getsize(resp.fileSize);
+						}
+					}
+					gd_isdownloading=true;
+					_getid("downlink").innerHTML="<table><tr><td><img src='images/wait.gif' align='absmiddle'><td><div id='gd_progress'>Downloading...</div><tr><td colspan=2>&nbsp; <a href='#' id='gd_cancel' style='font-size:15px;display:none'>Cancel</a></table>";
+
+				try{
+					var xhr = new XMLHttpRequest();
+					var c=_getid('gd_cancel');
+					if(c){
+						c.style.display='';
+						c.onclick=function(){
+							xhr.abort(); 
+							end();
+							return false;
+						}
+					}
+					gd_lastprogress=(new Date()).getTime();
+					xhr.open('GET', downloadurl+'&access_token='+encodeURIComponent(accessToken));
+					xhr.responseType = 'arraybuffer';
+					xhr.onprogress=function(event){
+						if(gd_lastprogress){
+							var elaspetime = new Date();
+							var dt=(elaspetime.getTime()-gd_lastprogress)/1000;
+							if(dt<1)return;
+							gd_lastprogress=elaspetime.getTime();
+						}
+						var a=event;
+						var total=a.totalSize || resp.fileSize || 0;//a.total 
+						var current=a.position || a.loaded  || 0;
+						var c=_getid('gd_progress');
+						if(c) c.innerHTML='Downloading... ('+number_format(current)+'/'+number_format(total)+')';
+					};
+					//xhr.setRequestHeader('Authorization', 'Bearer ' + accessToken);
+				    xhr.onload = function(){
+						end();
+						if(this.status == 200){
+							setdown(downloadurl+'&access_token='+encodeURIComponent(accessToken));
+							var b=new Uint8Array(this.response || '');
+							if(b.length>getmaxlimit(resp.title)*1000*1000){
+								alert('The file size is too large to view. (around '+getmaxlimit(resp.title)+' MB limit)');
+								return;
+							}
+							var s='';
+							var len = b.byteLength;
+							for (var i = 0; i < len; i++) {
+								s+=String.fromCharCode(b[i]);
+							}
+							//var s=String.fromCharCode.apply(null, b);
+							proc_parse(s, resp.title);
+						}else{
+							var s="Error (status) " + this.status + "("+this.statusText+") occurred while receiving the file.";
+							error(s);
+						}
+					};
+					xhr.onerror = function(e){      
+						end();
+						var s="Error " + e.target.status + " occurred while receiving the file.";
+						error(s);
+					};
+					xhr.send();
+				}catch(err){
+					end();
+					alert(err+'\n\nor This browser does not support. Please upgrade your browser.');
+				}
+
+			}else{
+				end();
+				if(resp.error && resp.error.message){
+					alert(resp.error.message);
+				}else{
+					alert('Error!! Can not find a download URL.');
+				}
+			}
+		  }
+		});
+	});
+}
+function gd_open_picker(){
+	if(!gd_issupported){
+		alert("This browser does not support.");
+		return;
+	}
+	if(!gd_loaded || !gd_pickerloaded){
+		if(!gd_load_timer) gd_loadscript(gd_open_picker);
+		else alert('Not loaded library. Please try again in a few minutes.');
+		return;
+	}
+	gd_login(function(result){
+		if(!result) return;
+		gd_createpicker();
+	},true);
+}
+function gd_getparam(s,name){
+	name=name+"=";
+	name=name.toLowerCase();
+	var p1=s.toLowerCase().indexOf(name);
+	if (p1<0) return "";
+	s=s.substr(p1+name.length);
+	var p2=s.toLowerCase().indexOf("&");
+	if (p2>=0) {
+		return s.substr(0,p2);
+	} else {
+		return s;
+	}
+}
+function gd_open_state(force){
+	var s=gd_state;
+	if(s){
+		if(!gd_issupported){
+			gd_state='';
+			alert("This browser does not support.");
+			return;
+		}
+		s=decodeURIComponent(s);
+		try{
+			var a=JSON.parse(s);
+			var fileId;
+			if(a.ids) fileId=a.ids[0];
+			if(!fileId && a.exportIds) fileId=a.exportIds[0];
+			if(fileId){
+				gd_login(function(result){
+					if(gd_open2 && !force)return;
+					gd_open2=true;
+					if(!result) return;
+					//_getid('gd_btn_reopen').style.display='';
+					gd_state='';
+					gd_loadfile(fileId);
+				});				
+			}
+		}catch(err){
+		}
+	}
+}
+var gd_open2;
+function gd_open_state2(){
+	setTimeout(function(){
+		if(!gd_open2)gd_open_state();
+	}, 1000);
+}
+
+function gd_clientload(){
+	gd_loaded=true;
+	if (window.addEventListener){
+		window.addEventListener("resize", gd_btn_login2, false);
+	}else if (window.attachEvent){
+		window.attachEvent("onresize", gd_btn_login2);
+	}
+	gd_open_state();
+}
+
+function gd_loadscript(callback){
+	function inject(s){
+		var o = document.createElement('scri' + 'pt');
+		o.setAttribute('src', s);
+		o.setAttribute('type', 'text/javascript');
+		document.body.appendChild(o);
+	}
+	if(gd_load_timer)return;
+	if(gd_loaded && gd_pickerloaded)return;
+	gd_load_timer=setInterval(function(){
+		if(gd_loaded && gd_pickerloaded){
+			clearInterval(gd_load_timer);
+			if(callback) callback();
+		}
+	},100);
+	inject('https://apis.google.com/js/client.js?onload=gd_clientload');
+	inject('https://apis.google.com/js/api.js?onload=gd_loadpicker');	
+}
+function gd_reopen(){
+	if(gd_state2){
+		var m="";
+		var s='?';
+		if(m) s+='m='+m+'&';
+		s+='state='+encodeURIComponent(gd_state2);
+		location.href=s;
+	}
+}
+var gd_userId,gd_email;
+function gd_weburl(){
+	var s;
+	if(gd_email) s='https://drive.google.com/?authuser='+gd_email;
+	else s='https://drive.google.com/';
+	return s;
+}
+function gd_info(){
+	if(gd_email)return;
+	gapi.client.load('drive', 'v2', function(){
+		var request = gapi.client.drive.about.get();
+		request.execute(function(resp) {
+			if(resp && resp.user){
+				if(gd_email)return;
+				gd_email=resp.user.emailAddress;
+				if(gd_email){
+					var a=_getid('btn_open');
+					var b=_getid('gd_btn_reopen');
+					if(a)a.title=a.title+' ('+gd_email+')';
+					if(b)b.title=b.title+' ('+gd_email+')';
+				}				
+			}
+		});
+	});
+}
+function gd_init(){
+	gd_state2=gd_state;
+	if(!window.XMLHttpRequest){//!window.FileReader || !window.URL ||
+	}else{
+		gd_issupported=true;
+		if(gd_state){
+			try{
+				var a=JSON.parse(gd_state);
+				gd_userId=a.userId;
+				if(a.ids || a.exportIds){
+					_getid("downlink").innerHTML="<table><tr><td><div id='gd_progress'>Ready...</div></table>";
+					gd_loadscript();
+				}
+			}catch(err){}			
+			if(window.addEventListener) window.addEventListener("load", gd_open_state2, false);
+			else if (window.attachEvent) window.attachEvent("onload", gd_open_state2);
+		}
+		gd_loadscript();
+	}
+}
+init();
+gd_init();
+</script>
+
+</body>
+</html>
